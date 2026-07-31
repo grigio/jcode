@@ -1,0 +1,37 @@
+name: Nix Build
+
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Build jcode via flake.nix
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install Nix
+        uses: DeterminateSystems/nix-installer-action@v9
+        with:
+          extra-conf: |
+            experimental-features = nix-command flakes
+
+      - name: Set up Nix cache
+        uses: DeterminateSystems/magic-nix-cache-action@v2
+
+      - name: Build jcode
+        run: nix build .#jcode --print-build-logs
+
+      - name: Verify binary
+        run: |
+          ./result/bin/jcode --version
+          test -x ./result/bin/jcode
+
+      - name: Upload binary artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: jcode-linux-x86_64
+          path: result/bin/jcode
+          if-no-files-found: error
