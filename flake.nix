@@ -118,6 +118,9 @@
 
           # Tell pkg-config where to find OpenSSL
           OPENSSL_NO_VENDOR = "1";
+
+          # Reproducible builds: fail if Cargo.lock is out of date
+          cargoExtraArgs = "--locked";
         };
 
         # Build only dependencies first (this layer is cached separately by crane)
@@ -129,7 +132,13 @@
           // {
             inherit cargoArtifacts;
             # Build only the main binary; skip test_api and jcode-harness binaries
-            cargoExtraArgs = "--bin jcode";
+            cargoExtraArgs = "--locked --bin jcode";
+            meta = with pkgs.lib; {
+              description = cargoToml.package.description;
+              homepage = "https://github.com/1jehuang/jcode";
+              license = licenses.mit;
+              mainProgram = "jcode";
+            };
           }
         );
 
@@ -141,6 +150,9 @@
           inherit jcode;
         };
 
+        # `nix fmt` formats flake.nix with nixpkgs-fmt
+        formatter = pkgs.nixpkgs-fmt;
+
         # --- Development shell ---
         devShells.default = pkgs.mkShell {
           # Pull in all the same deps as the package build
@@ -150,10 +162,18 @@
             rustToolchain
             cargo-watch # `cargo watch -x check` for fast feedback
             cargo-edit # `cargo add` / `cargo rm`
+            nixpkgs-fmt # `nix fmt` on the flake itself
+            jq # CI / log parsing
+            ripgrep # code search
+            fd # fast file finder
           ];
 
           # Convenience: tell rust-analyzer where the stdlib source lives
           RUST_SRC_PATH = "${rustToolchain}/lib/rustlib/src/rust/library";
+
+          shellHook = ''
+            echo "jcode dev shell — run 'scripts/check_guardrails.sh' before pushing"
+          '';
         };
 
         # --- Checks (run with `nix flake check`) ---
@@ -171,6 +191,17 @@
 
           # Format check
           jcode-fmt = craneLib.cargoFmt { inherit src; };
+
+          # Fast test loop, mirrors scripts/test_fast.sh: the minimal feature
+          # profile (no ONNX/Bedrock/PDF stack) keeps this check cheap and
+          # within the ~7 GB CI memory budget.
+          jcode-test = craneLib.cargoTest (
+            commonArgs
+            // {
+              inherit cargoArtifacts;
+              cargoExtraArgs = "--locked --no-default-features --lib --bin jcode";
+            }
+          );
         };
       }
     );
