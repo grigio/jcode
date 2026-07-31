@@ -12,17 +12,17 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      # Use the official installer script directly instead of a JS action:
+      # DeterminateSystems/nix-installer-action@v9 dies with "Invalid URL"
+      # under the GitHub runner's Node 24.
       - name: Install Nix
-        uses: DeterminateSystems/nix-installer-action@v9
-        with:
-          extra-conf: |
-            experimental-features = nix-command flakes
-
-      - name: Set up Nix cache
-        uses: DeterminateSystems/magic-nix-cache-action@v2
+        run: |
+          curl -L https://nixos.org/nix/install -o /tmp/nix-install.sh
+          sh /tmp/nix-install.sh --no-daemon --no-modify-profile
+          echo "$HOME/.nix-profile/bin" >> "$GITHUB_PATH"
 
       - name: Build jcode
-        run: nix build .#jcode --print-build-logs
+        run: nix build .#jcode --print-build-logs --extra-experimental-features 'nix-command flakes'
 
       - name: Verify binary
         run: |
