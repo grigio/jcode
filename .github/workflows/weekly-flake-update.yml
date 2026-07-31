@@ -1,0 +1,75 @@
+name: Weekly flake update + release
+
+on:
+  schedule:
+    # Every Monday 03:00 UTC
+    - cron: '0 3 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  weekly:
+    name: Update flake.lock and publish weekly release
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      # Official installer script: the JS nix-installer-action breaks under the
+      # runner's Node 24 (see jcode-nix.md).
+      - name: Install Nix
+        run: |
+          curl -L https://nixos.org/nix/install -o /tmp/nix-install.sh
+          sh /tmp/nix-install.sh --no-daemon --no-modify-profile
+          echo "$HOME/.nix-profile/bin" >> "$GITHUB_PATH"
+
+      - name: Update flake inputs
+        run: nix flake update --extra-experimental-features 'nix-command flakes'
+
+      - name: Build jcode with updated inputs
+        run: nix build .#jcode --print-build-logs --extra-experimental-features 'nix-command flakes'
+
+      - name: Verify and stage binary
+        run: |
+          ./result/bin/jcode --version
+          test -x ./result/bin/jcode
+          mkdir -p dist
+          cp result/bin/jcode dist/jcode-linux-x86_64
+
+      - name: Open flake.lock update PR
+        id: pr
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if git diff --quiet flake.lock; then
+            echo "flake.lock unchanged, skipping PR"
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          BRANCH="ci/flake-update-$(date +%Y.%m.%d)"
+          BASE="$(gh repo view --json defaultBranchRef -q .defaultBranchRef.name)"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -b "$BRANCH"
+          git add flake.lock
+          git commit -m "chore(nix): weekly flake.lock update"
+          git push origin "$BRANCH"
+          gh pr create --base "$BASE" --head "$BRANCH" \
+            --title "chore(nix): weekly flake.lock update" \
+            --body "Automated weekly \`nix flake update\` refresh of nixpkgs, crane, and rust-overlay inputs."
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Publish weekly release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          TAG="weekly-$(date +%Y.%m.%d)"
+          gh release create "$TAG" dist/jcode-linux-x86_64 \
+            --title "Weekly jcode build ($TAG)" \
+            --notes "Automated weekly build from the latest flake inputs." \
+            --clobber
