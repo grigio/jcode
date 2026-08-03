@@ -2,15 +2,28 @@ name: Nix Build
 
 on:
   push:
+    branches: [main, master]
+    tags: ['v*']
+    paths:
+      - 'flake.nix'
+      - 'flake.lock'
+      - '.github/workflows/nix-build.yml'
+  pull_request:
+    paths:
+      - 'flake.nix'
+      - 'flake.lock'
+      - '.github/workflows/nix-build.yml'
   workflow_dispatch:
+
+concurrency:
+  group: nix-build-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
   build:
     name: Build jcode via flake.nix
     runs-on: ubuntu-latest
     timeout-minutes: 180
-    permissions:
-      contents: write
     steps:
       - uses: actions/checkout@v4
 
@@ -34,27 +47,12 @@ jobs:
       - name: Stage binary
         run: |
           mkdir -p dist
-          cp result/bin/jcode dist/jcode-linux-x86_64
+          cp result/bin/jcode dist/jcode-nix-linux-x86_64
 
       # upload-artifact@v7 runs on Node 24 (no Node 20 deprecation warning).
       - name: Upload binary artifact
         uses: actions/upload-artifact@v7
         with:
-          name: jcode-linux-x86_64
-          path: dist/jcode-linux-x86_64
+          name: jcode-nix-linux-x86_64
+          path: dist/jcode-nix-linux-x86_64
           if-no-files-found: error
-
-      - name: Attach binary to GitHub Release
-        if: startsWith(github.ref, 'refs/tags/')
-        env:
-          GH_TOKEN: ${{ github.token }}
-        run: |
-          VERSION="${GITHUB_REF_NAME#v}"
-          ASSET="dist/jcode-linux-x86_64"
-          if gh release view "$GITHUB_REF_NAME" >/dev/null 2>&1; then
-            gh release upload "$GITHUB_REF_NAME" "$ASSET" --clobber
-          else
-            gh release create "$GITHUB_REF_NAME" "$ASSET" \
-              --title "jcode ${VERSION}" \
-              --generate-notes
-          fi

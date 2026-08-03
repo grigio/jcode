@@ -6,13 +6,17 @@ on:
     - cron: '0 3 * * 1'
   workflow_dispatch:
 
+concurrency:
+  group: weekly-flake-${{ github.ref }}
+  cancel-in-progress: true
+
 permissions:
   contents: write
   pull-requests: write
 
 jobs:
   weekly:
-    name: Update flake.lock and publish weekly release
+    name: Build and publish weekly Nix release
     runs-on: ubuntu-latest
     timeout-minutes: 180
     steps:
@@ -28,10 +32,10 @@ jobs:
           sh /tmp/nix-install.sh --no-daemon --no-modify-profile
           echo "$HOME/.nix-profile/bin" >> "$GITHUB_PATH"
 
-      - name: Update flake inputs
-        run: nix flake update --extra-experimental-features 'nix-command flakes'
-
-      - name: Build jcode with updated inputs
+      # Build from the committed flake.lock FIRST so the weekly release is
+      # reproducible and never blocked by a bad nixpkgs-unstable/crane/rust
+      # bump that week. Input refreshes land separately via the PR below.
+      - name: Build jcode (locked inputs)
         run: nix build .#jcode --print-build-logs --extra-experimental-features 'nix-command flakes'
 
       - name: Verify and stage binary
@@ -39,7 +43,31 @@ jobs:
           ./result/bin/jcode --version
           test -x ./result/bin/jcode
           mkdir -p dist
-          cp result/bin/jcode dist/jcode-linux-x86_64
+          cp result/bin/jcode dist/jcode-nix-linux-x86_64
+
+      # Idempotent publish: a same-day workflow_dispatch rerun uploads over the
+      # existing asset instead of failing. `--latest=false --prerelease` keeps
+      # real versioned releases as "Latest" on the repo page.
+      - name: Publish weekly release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          TAG="weekly-$(date +%Y.%m.%d)"
+          ASSET="dist/jcode-nix-linux-x86_64"
+          if gh release view "$TAG" >/dev/null 2>&1; then
+            gh release upload "$TAG" "$ASSET" --clobber
+          else
+            gh release create "$TAG" "$ASSET" \
+              --title "Weekly jcode build ($TAG)" \
+              --notes "Automated weekly Nix build from the jcode flake." \
+              --latest=false \
+              --prerelease
+          fi
+
+      # Input refresh is best-effort and must not block the release above.
+      - name: Update flake inputs
+        continue-on-error: true
+        run: nix flake update --extra-experimental-features 'nix-command flakes'
 
       - name: Open flake.lock update PR
         id: pr
@@ -63,13 +91,3 @@ jobs:
             --title "chore(nix): weekly flake.lock update" \
             --body "Automated weekly \`nix flake update\` refresh of nixpkgs, crane, and rust-overlay inputs."
           echo "changed=true" >> "$GITHUB_OUTPUT"
-
-      - name: Publish weekly release
-        env:
-          GH_TOKEN: ${{ github.token }}
-        run: |
-          TAG="weekly-$(date +%Y.%m.%d)"
-          gh release create "$TAG" dist/jcode-linux-x86_64 \
-            --title "Weekly jcode build ($TAG)" \
-            --notes "Automated weekly build from the latest flake inputs." \
-            --clobber
