@@ -36,6 +36,11 @@ jobs:
           sh /tmp/nix-install.sh --no-daemon --no-modify-profile
           echo "$HOME/.nix-profile/bin" >> "$GITHUB_PATH"
 
+      # Best-effort Nix store cache: a cache outage must never fail the build.
+      - name: Enable Nix binary cache
+        uses: DeterminateSystems/magic-nix-cache-action@main
+        continue-on-error: true
+
       - name: Build jcode
         run: nix build .#jcode --print-build-logs --extra-experimental-features 'nix-command flakes'
 

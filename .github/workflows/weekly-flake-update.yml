@@ -5,6 +5,11 @@ on:
     # Every Monday 03:00 UTC
     - cron: '0 3 * * 1'
   workflow_dispatch:
+    inputs:
+      upstream_repo:
+        description: 'Upstream repo to sync and build'
+        required: false
+        default: '1jehuang/jcode'
 
 concurrency:
   group: weekly-flake-${{ github.ref }}
@@ -32,6 +37,28 @@ jobs:
           sh /tmp/nix-install.sh --no-daemon --no-modify-profile
           echo "$HOME/.nix-profile/bin" >> "$GITHUB_PATH"
 
+      # Best-effort Nix store cache: a cache outage must never block the
+      # weekly release.
+      - name: Enable Nix binary cache
+        uses: DeterminateSystems/magic-nix-cache-action@main
+        continue-on-error: true
+
+      # The weekly release tracks the latest 1jehuang/jcode code, not this
+      # repo's default branch: build upstream master with this repo's flake
+      # applied on top. `build` is a scratch branch; nothing here is pushed.
+      - name: Sync upstream and apply flake
+        env:
+          UPSTREAM: ${{ inputs.upstream_repo || '1jehuang/jcode' }}
+        run: |
+          set -euo pipefail
+          git remote add upstream "https://github.com/${UPSTREAM}.git"
+          git fetch upstream master --depth 1
+          git checkout -b build FETCH_HEAD
+          git checkout "${GITHUB_REF_NAME}" -- flake.nix flake.lock
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore(nix): apply jcode flake onto upstream master"
+
       # Build from the committed flake.lock FIRST so the weekly release is
       # reproducible and never blocked by a bad nixpkgs-unstable/crane/rust
       # bump that week. Input refreshes land separately via the PR below.
@@ -51,6 +78,7 @@ jobs:
       - name: Publish weekly release
         env:
           GH_TOKEN: ${{ github.token }}
+          UPSTREAM: ${{ inputs.upstream_repo || '1jehuang/jcode' }}
         run: |
           TAG="weekly-$(date +%Y.%m.%d)"
           ASSET="dist/jcode-nix-linux-x86_64"
@@ -59,15 +87,19 @@ jobs:
           else
             gh release create "$TAG" "$ASSET" \
               --title "Weekly jcode build ($TAG)" \
-              --notes "Automated weekly Nix build from the jcode flake." \
+              --notes "Automated weekly Nix build of ${UPSTREAM} synced from upstream." \
               --latest=false \
               --prerelease
           fi
 
       # Input refresh is best-effort and must not block the release above.
+      # Return to this repo's default branch (which owns the flake), bump the
+      # lock there, and open a normal flake.lock PR.
       - name: Update flake inputs
         continue-on-error: true
-        run: nix flake update --extra-experimental-features 'nix-command flakes'
+        run: |
+          git checkout "${GITHUB_REF_NAME}"
+          nix flake update --extra-experimental-features 'nix-command flakes'
 
       - name: Open flake.lock update PR
         id: pr
