@@ -66,11 +66,14 @@ jobs:
           echo "Latest upstream tag: ${TAG}"
 
       # Idempotent gate: only build the tag once. A release named nix-<tag>
-      # means it was already built and published.
+      # in THIS repo (grigio/jcode) means it was already built and published.
+      # -R pins every gh call to this repo; GITHUB_TOKEN only has write access
+      # here, never to the upstream repo being synced.
       - name: Skip if already built
         id: check
         env:
           GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
         run: |
           TAG="${{ steps.tag.outputs.tag }}"
           RELEASE="nix-${TAG}"
@@ -111,10 +114,13 @@ jobs:
           cp result/bin/jcode dist/jcode-nix-linux-x86_64
 
       # Idempotent: same-day rerun with force uploads over the existing asset.
+      # GH_REPO pins gh to this repo so a release is never created against the
+      # upstream 1jehuang/jcode (where GITHUB_TOKEN gets HTTP 403).
       - name: Publish release
         if: steps.check.outputs.skip == 'false' || inputs.force == 'true'
         env:
           GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
           UPSTREAM: ${{ inputs.upstream_repo || '1jehuang/jcode' }}
         run: |
           TAG="${{ steps.tag.outputs.tag }}"
