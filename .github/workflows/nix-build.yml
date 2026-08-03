@@ -1,0 +1,63 @@
+name: Nix Build
+
+on:
+  push:
+    branches: [main, master]
+    tags: ['v*']
+    paths:
+      - 'flake.nix'
+      - 'flake.lock'
+      - '.github/workflows/nix-build.yml'
+  pull_request:
+    paths:
+      - 'flake.nix'
+      - 'flake.lock'
+      - '.github/workflows/nix-build.yml'
+  workflow_dispatch:
+
+concurrency:
+  group: nix-build-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    name: Build jcode via flake.nix
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+      - uses: actions/checkout@v4
+
+      # Use the official installer script directly instead of a JS action:
+      # DeterminateSystems/nix-installer-action@v9 dies with "Invalid URL"
+      # under the GitHub runner's Node 24.
+      - name: Install Nix
+        run: |
+          curl -L https://nixos.org/nix/install -o /tmp/nix-install.sh
+          sh /tmp/nix-install.sh --no-daemon --no-modify-profile
+          echo "$HOME/.nix-profile/bin" >> "$GITHUB_PATH"
+
+      # Best-effort Nix store cache: a cache outage must never fail the build.
+      - name: Enable Nix binary cache
+        uses: DeterminateSystems/magic-nix-cache-action@main
+        continue-on-error: true
+
+      - name: Build jcode
+        run: nix build .#jcode --print-build-logs --extra-experimental-features 'nix-command flakes'
+
+      - name: Verify binary
+        run: |
+          ./result/bin/jcode --version
+          test -x ./result/bin/jcode
+
+      - name: Stage binary
+        run: |
+          mkdir -p dist
+          cp result/bin/jcode dist/jcode-nix-linux-x86_64
+
+      # upload-artifact@v7 runs on Node 24 (no Node 20 deprecation warning).
+      - name: Upload binary artifact
+        uses: actions/upload-artifact@v7
+        with:
+          name: jcode-nix-linux-x86_64
+          path: dist/jcode-nix-linux-x86_64
+          if-no-files-found: error
