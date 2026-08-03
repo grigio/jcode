@@ -1,0 +1,130 @@
+name: Nix tag build + release
+
+on:
+  schedule:
+    # Daily 04:00 UTC
+    - cron: '0 4 * * *'
+  workflow_dispatch:
+    inputs:
+      upstream_repo:
+        description: 'Upstream repo whose latest tag to build'
+        required: false
+        default: '1jehuang/jcode'
+      force:
+        description: 'Rebuild even if this tag was already published (true/false)'
+        required: false
+        default: 'false'
+
+concurrency:
+  group: nix-tag-release-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  build-latest-tag:
+    name: Build latest upstream tag via Nix
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      # Official installer script: the JS nix-installer-action breaks under the
+      # runner's Node 24 (see jcode-nix.md).
+      - name: Install Nix
+        run: |
+          curl -L https://nixos.org/nix/install -o /tmp/nix-install.sh
+          sh /tmp/nix-install.sh --no-daemon --no-modify-profile
+          echo "$HOME/.nix-profile/bin" >> "$GITHUB_PATH"
+
+      # Best-effort Nix store cache: a cache outage must never fail the build.
+      - name: Enable Nix binary cache
+        uses: DeterminateSystems/magic-nix-cache-action@main
+        continue-on-error: true
+
+      # Resolve the highest vX.Y.Z tag upstream. `--refs` skips the peeled
+      # ^{} entries and the regex drops non-version tags (weekly-*, etc.).
+      - name: Resolve latest upstream tag
+        id: tag
+        env:
+          UPSTREAM: ${{ inputs.upstream_repo || '1jehuang/jcode' }}
+        run: |
+          set -euo pipefail
+          TAG="$(git ls-remote --tags --refs "https://github.com/${UPSTREAM}.git" \
+            | awk -F/ '{print $NF}' \
+            | grep -E '^v[0-9]+\.[0-9]+\.[0-9]+$' \
+            | sort -V \
+            | tail -1)"
+          if [[ -z "$TAG" ]]; then
+            echo "No version tags found in ${UPSTREAM}" >&2
+            exit 1
+          fi
+          echo "tag=${TAG}" >> "$GITHUB_OUTPUT"
+          echo "Latest upstream tag: ${TAG}"
+
+      # Idempotent gate: only build the tag once. A release named nix-<tag>
+      # means it was already built and published.
+      - name: Skip if already built
+        id: check
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          TAG="${{ steps.tag.outputs.tag }}"
+          RELEASE="nix-${TAG}"
+          if gh release view "$RELEASE" >/dev/null 2>&1; then
+            echo "Release ${RELEASE} already exists; skipping build"
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "Release ${RELEASE} not found; building"
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      # Build tree = upstream tag + this repo's flake on top. Nothing pushed.
+      - name: Checkout tag and apply flake
+        if: steps.check.outputs.skip == 'false' || inputs.force == 'true'
+        env:
+          UPSTREAM: ${{ inputs.upstream_repo || '1jehuang/jcode' }}
+        run: |
+          set -euo pipefail
+          TAG="${{ steps.tag.outputs.tag }}"
+          git remote add upstream "https://github.com/${UPSTREAM}.git"
+          git fetch --depth 1 upstream "refs/tags/${TAG}:refs/tags/${TAG}"
+          git checkout -b build "${TAG}"
+          git checkout "${GITHUB_REF_NAME}" -- flake.nix flake.lock
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore(nix): apply jcode flake onto ${TAG}"
+
+      - name: Build jcode
+        if: steps.check.outputs.skip == 'false' || inputs.force == 'true'
+        run: nix build .#jcode --print-build-logs --extra-experimental-features 'nix-command flakes'
+
+      - name: Verify and stage binary
+        if: steps.check.outputs.skip == 'false' || inputs.force == 'true'
+        run: |
+          ./result/bin/jcode --version
+          test -x ./result/bin/jcode
+          mkdir -p dist
+          cp result/bin/jcode dist/jcode-nix-linux-x86_64
+
+      # Idempotent: same-day rerun with force uploads over the existing asset.
+      - name: Publish release
+        if: steps.check.outputs.skip == 'false' || inputs.force == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          UPSTREAM: ${{ inputs.upstream_repo || '1jehuang/jcode' }}
+        run: |
+          TAG="${{ steps.tag.outputs.tag }}"
+          RELEASE="nix-${TAG}"
+          ASSET="dist/jcode-nix-linux-x86_64"
+          if gh release view "$RELEASE" >/dev/null 2>&1; then
+            gh release upload "$RELEASE" "$ASSET" --clobber
+          else
+            gh release create "$RELEASE" "$ASSET" \
+              --title "Nix build of ${TAG} (from ${UPSTREAM})" \
+              --notes "Automated Nix build of upstream tag ${TAG}." \
+              --latest=false
+          fi
