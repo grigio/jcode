@@ -112,10 +112,14 @@ jobs:
       - name: Verify and stage binary
         if: steps.check.outputs.skip == 'false' || inputs.force == 'true'
         run: |
-          ./result/bin/jcode --version
+          set -euo pipefail
+          # Smoke test the built binary, then fail closed if its version does
+          # not match the tag we resolved. Capture output in a variable (no
+          # pipes, no SIGPIPE edge cases) and print it for the run log.
+          VERSION_OUTPUT="$(./result/bin/jcode --no-update --no-selfdev version 2>&1)"
+          printf '%s\n' "$VERSION_OUTPUT"
+          echo "$VERSION_OUTPUT" | grep -qF "${{ steps.tag.outputs.tag }}"
           test -x ./result/bin/jcode
-          # Fail closed: the built binary must match the tag we resolved.
-          ./result/bin/jcode --version | grep -qF "${{ steps.tag.outputs.tag }}"
           mkdir -p dist
           # Publish a stripped, gzip-compressed copy: symbol tables are ~40 MB
           # and are never needed at runtime. The flake's own `nix build` output
@@ -125,8 +129,9 @@ jobs:
           cp result/bin/jcode dist/jcode-nix-linux-x86_64.bin
           strip dist/jcode-nix-linux-x86_64.bin
           # Smoke-test the stripped binary before shipping it.
-          ./dist/jcode-nix-linux-x86_64.bin --version
-          ./dist/jcode-nix-linux-x86_64.bin --version | grep -qF "${{ steps.tag.outputs.tag }}"
+          STRIPPED_VERSION="$(./dist/jcode-nix-linux-x86_64.bin --no-update --no-selfdev version 2>&1)"
+          printf '%s\n' "$STRIPPED_VERSION"
+          echo "$STRIPPED_VERSION" | grep -qF "${{ steps.tag.outputs.tag }}"
           tar czf dist/jcode-nix-linux-x86_64.tar.gz -C dist jcode-nix-linux-x86_64.bin
           # Generate and verify the checksum from inside dist/ so SHA256SUMS
           # lists bare filenames (matches the official release convention).
