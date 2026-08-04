@@ -1,5 +1,0 @@
-[Unit]
-Description=Stop instance when idle
-[Service]
-Type=oneshot
-ExecStart=/usr/local/bin/idle-autostop.sh
