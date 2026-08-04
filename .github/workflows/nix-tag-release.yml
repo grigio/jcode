@@ -31,6 +31,9 @@ jobs:
       # Optional: signing key for the GitHub Pages binary cache. When unset,
       # the cache steps are skipped and only the release tarball is published.
       NIX_CACHE_PRIVATE_KEY: ${{ secrets.NIX_CACHE_PRIVATE_KEY }}
+      # Enable nix-command/flakes for every nix invocation in this job (the
+      # build step also passes them explicitly; this covers store/copy too).
+      NIX_CONFIG: experimental-features = nix-command flakes
     steps:
       - uses: actions/checkout@v4
         with:
