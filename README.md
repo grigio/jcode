@@ -28,6 +28,9 @@ compiling.
 
 ## Install (flake)
 
+Step-by-step install guide (binary cache setup, project/NixOS usage, upgrade
+and self-update gotcha): [docs/install-nix.md](docs/install-nix.md).
+
 Run once without installing:
 
 ```bash
