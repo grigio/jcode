@@ -40,6 +40,65 @@ curl -fsSL https://jcode.sh/install | bash
 irm https://jcode.sh/install.ps1 | iex
 ```
 
+### Nix / NixOS
+
+This repo ships a Nix flake that follows upstream jcode. The flake builds the
+current `master` source (which tracks upstream); released versions are also
+published as compressed tarballs (see below). To run once without installing:
+
+```bash
+nix run github:grigio/jcode
+```
+
+Install it into your profile (first install compiles from source):
+
+```bash
+nix profile install github:grigio/jcode
+```
+
+Or build it and run the binary directly:
+
+```bash
+nix build github:grigio/jcode
+./result/bin/jcode
+```
+
+On NixOS, add the flake as an input and enable it system-wide:
+
+```nix
+{
+  inputs = {
+    nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
+    jcode.url = "github:grigio/jcode";
+  };
+
+  outputs = { nixpkgs, ... }@inputs: {
+    nixosConfigurations.my-machine = nixpkgs.lib.nixosSystem {
+      specialArgs = { inherit inputs; };
+      modules = [
+        ({ pkgs, ... }: {
+          environment.systemPackages = [ inputs.jcode.packages.${pkgs.system}.default ];
+        })
+      ];
+    };
+  };
+}
+```
+
+Each upstream release also publishes a stripped, gzip-compressed binary under
+the matching `nix-vX.Y.Z` release tag (extracts to
+`jcode-nix-linux-x86_64.bin`):
+
+```bash
+curl -fsSL "https://github.com/grigio/jcode/releases/download/nix-<version>/jcode-nix-linux-x86_64.tar.gz" | tar xz
+```
+
+> **Note:** the tarball is built in Nix CI, so its dynamic loader is pinned to
+> the CI's store paths and it only runs on machines that already have the same
+> Nix closure. Installing via the flake (`nix profile install github:grigio/jcode`)
+> is the reliable path; the tarball is for inspection and Nix environments that
+> share the closure.
+
 Need Homebrew, source builds, provider setup, or want an agent to set it up for you?
 [Jump to detailed installation](#detailed-installation).
 
