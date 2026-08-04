@@ -27,6 +27,10 @@ jobs:
     name: Build latest upstream tag via Nix
     runs-on: ubuntu-latest
     timeout-minutes: 180
+    env:
+      # Optional: signing key for the GitHub Pages binary cache. When unset,
+      # the cache steps are skipped and only the release tarball is published.
+      NIX_CACHE_PRIVATE_KEY: ${{ secrets.NIX_CACHE_PRIVATE_KEY }}
     steps:
       - uses: actions/checkout@v4
         with:
@@ -158,3 +162,37 @@ jobs:
           " \
               --latest=false
           fi
+
+      # Publish a signed Nix binary cache on GitHub Pages so
+      # `nix profile install github:grigio/jcode` substitutes the prebuilt
+      # closure instead of compiling. Skipped until the NIX_CACHE_PRIVATE_KEY
+      # secret is configured (see README "Nix / NixOS" -> "Prebuilt binary
+      # cache").
+      - name: Sign and package Nix binary cache
+        if: (steps.check.outputs.skip == 'false' || inputs.force == 'true') && env.NIX_CACHE_PRIVATE_KEY != ''
+        run: |
+          set -euo pipefail
+          KEY_FILE="$(mktemp)"
+          trap 'rm -f "$KEY_FILE"' EXIT
+          printf '%s\n' "$NIX_CACHE_PRIVATE_KEY" > "$KEY_FILE"
+          STORE_PATH="$(readlink -f ./result)"
+          # Sign every path in the closure so Nix trusts the cache.
+          nix store sign --key-file "$KEY_FILE" --recursive "$STORE_PATH"
+          # Copy the signed closure into a local file:// binary cache. Nix
+          # writes <hash>.narinfo, nar/<hash>.nar.xz and nix-cache-info
+          # automatically, which is exactly the layout GitHub Pages serves.
+          nix copy --to "file://$PWD/cache" "$STORE_PATH"
+          du -sh cache
+
+      - name: Deploy Nix binary cache to GitHub Pages
+        if: (steps.check.outputs.skip == 'false' || inputs.force == 'true') && env.NIX_CACHE_PRIVATE_KEY != ''
+        # The release tarball is the primary artifact; a Pages misconfiguration
+        # (e.g. Pages not enabled yet) must not fail the release.
+        continue-on-error: true
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ github.token }}
+          publish_dir: cache
+          publish_branch: gh-pages
+          force_orphan: true
+          enable_jekyll: false
