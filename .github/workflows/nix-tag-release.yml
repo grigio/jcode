@@ -127,6 +127,9 @@ jobs:
           # environments that share the CI store closure; everyone else should
           # install the flake (see README).
           cp result/bin/jcode dist/jcode-nix-linux-x86_64.bin
+          # cp preserves the store's read-only 0555 mode; make the copy
+          # writable so strip can rewrite it in place.
+          chmod u+w dist/jcode-nix-linux-x86_64.bin
           strip dist/jcode-nix-linux-x86_64.bin
           # Smoke-test the stripped binary before shipping it.
           STRIPPED_VERSION="$(./dist/jcode-nix-linux-x86_64.bin --no-update --no-selfdev version 2>&1)"
