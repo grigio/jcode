@@ -103,7 +103,7 @@ jobs:
           git remote add upstream "https://github.com/${UPSTREAM}.git"
           git fetch --depth 1 upstream "refs/tags/${TAG}:refs/tags/${TAG}"
           git checkout -b build "${TAG}"
-          git checkout "${GITHUB_REF_NAME}" -- flake.nix flake.lock
+          git checkout "${GITHUB_REF_NAME}" -- flake.nix flake.lock nix-pages/index.html
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git commit -m "chore(nix): apply jcode flake onto ${TAG}"
@@ -193,6 +193,10 @@ jobs:
           # writes <hash>.narinfo, nar/<hash>.nar.xz and nix-cache-info
           # automatically, which is exactly the layout GitHub Pages serves.
           nix copy --to "file://$PWD/cache" "$STORE_PATH"
+          # Minimal Nix/NixOS landing page for the Pages site. index.html is
+          # ignored by the Nix binary cache protocol, so it can live next to
+          # the cache files at the site root.
+          cp nix-pages/index.html cache/index.html
           du -sh cache
 
       - name: Deploy Nix binary cache to GitHub Pages
