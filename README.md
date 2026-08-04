@@ -1,5 +1,7 @@
 # jcode · Nix binary cache
 
+[![jcode version](https://img.shields.io/badge/jcode-v0.67.1-blue)](https://github.com/1jehuang/jcode/releases)
+
 This repository is an **automatic Nix binary cache** for
 [jcode](https://github.com/1jehuang/jcode), the blazing-fast TUI coding agent
 with multi-model and swarm coordination. It does not vendor the jcode source: a
@@ -11,6 +13,9 @@ compiling.
 
 - `flake.nix` pins the latest upstream release through the `jcode-src` input;
   `flake.lock` locks the exact commit.
+- The version badge at the top of this README is refreshed by the same CI run
+  that pins a new upstream tag, so it always shows the jcode release this
+  cache serves.
 - `.github/workflows/nix-tag-release.yml` runs daily (and on demand): it
   resolves the newest `vX.Y.Z` tag upstream, re-pins the flake, builds
   `.#jcode` (plus its crane `cargoArtifacts` dependency layer), and publishes:

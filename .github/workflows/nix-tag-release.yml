@@ -279,11 +279,13 @@ jobs:
 
       # Commit the refreshed flake pin (flake.nix url + flake.lock rev) back to
       # the default branch so downstream `github:grigio/jcode` inputs resolve to
-      # the tag whose closure is now in the binary cache. Without this, the
-      # flake input and the cache would drift again and installs would compile.
-      # This workflow only runs on schedule/manual dispatch, so the push cannot
-      # re-trigger it. The idempotency gate above keeps the release/cache in
-      # sync: the pin commit is made only after the closure is published.
+      # the tag whose closure is now in the binary cache. The README version
+      # badge is refreshed to the same tag in this commit, so it always shows
+      # the jcode release this cache serves. Without this, the flake input and
+      # the cache would drift again and installs would compile. This workflow
+      # only runs on schedule/manual dispatch, so the push cannot re-trigger
+      # it. The idempotency gate above keeps the release/cache in sync: the pin
+      # commit is made only after the closure is published.
       - name: Commit flake pin to default branch
         if: steps.check.outputs.skip == 'false' || inputs.force == 'true'
         env:
@@ -291,14 +293,16 @@ jobs:
         run: |
           set -euo pipefail
           DEFAULT_BRANCH="${{ github.event.repository.default_branch }}"
-          if git diff --quiet -- flake.nix flake.lock; then
-            echo "flake.nix / flake.lock already point at the built tag; nothing to commit"
+          # Refresh the README version badge to the tag that was just built.
+          sed -i "s|badge/jcode-[^-]*-blue|badge/jcode-${{ steps.tag.outputs.tag }}-blue|" README.md
+          if git diff --quiet -- flake.nix flake.lock README.md; then
+            echo "flake.nix / flake.lock / README.md already point at the built tag; nothing to commit"
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add flake.nix flake.lock
-          git commit -m "chore(nix): pin flake source to ${{ steps.tag.outputs.tag }}"
+          git add flake.nix flake.lock README.md
+          git commit -m "chore(nix): pin flake source to ${{ steps.tag.outputs.tag }} and refresh README badge"
           # Rebase onto the latest default branch before pushing so a concurrent
           # commit to the repo does not turn this into a non-fast-forward push.
           git fetch origin "${DEFAULT_BRANCH}"
