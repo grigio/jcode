@@ -110,8 +110,25 @@ jobs:
         run: |
           ./result/bin/jcode --version
           test -x ./result/bin/jcode
+          # Fail closed: the built binary must match the tag we resolved.
+          ./result/bin/jcode --version | grep -qF "${{ steps.tag.outputs.tag }}"
           mkdir -p dist
-          cp result/bin/jcode dist/jcode-nix-linux-x86_64
+          # Publish a stripped, gzip-compressed copy: symbol tables are ~40 MB
+          # and are never needed at runtime. The flake's own `nix build` output
+          # stays untouched. The tarball is mainly for inspection and for Nix
+          # environments that share the CI store closure; everyone else should
+          # install the flake (see README).
+          cp result/bin/jcode dist/jcode-nix-linux-x86_64.bin
+          strip dist/jcode-nix-linux-x86_64.bin
+          # Smoke-test the stripped binary before shipping it.
+          ./dist/jcode-nix-linux-x86_64.bin --version
+          ./dist/jcode-nix-linux-x86_64.bin --version | grep -qF "${{ steps.tag.outputs.tag }}"
+          tar czf dist/jcode-nix-linux-x86_64.tar.gz -C dist jcode-nix-linux-x86_64.bin
+          # Generate and verify the checksum from inside dist/ so SHA256SUMS
+          # lists bare filenames (matches the official release convention).
+          (cd dist && sha256sum jcode-nix-linux-x86_64.tar.gz > SHA256SUMS)
+          (cd dist && sha256sum -c SHA256SUMS)
+          ls -lh dist/
 
       # Idempotent: same-day rerun with force uploads over the existing asset.
       # GH_REPO pins gh to this repo so a release is never created against the
@@ -125,12 +142,19 @@ jobs:
         run: |
           TAG="${{ steps.tag.outputs.tag }}"
           RELEASE="nix-${TAG}"
-          ASSET="dist/jcode-nix-linux-x86_64"
+          ASSET="dist/jcode-nix-linux-x86_64.tar.gz"
           if gh release view "$RELEASE" >/dev/null 2>&1; then
-            gh release upload "$RELEASE" "$ASSET" --clobber
+            gh release upload "$RELEASE" "$ASSET" dist/SHA256SUMS --clobber
           else
-            gh release create "$RELEASE" "$ASSET" \
+            gh release create "$RELEASE" "$ASSET" dist/SHA256SUMS \
               --title "Nix build of ${TAG} (from ${UPSTREAM})" \
-              --notes "Automated Nix build of upstream tag ${TAG}." \
+              --notes "Automated Nix build of upstream tag ${TAG}.
+
+          - jcode-nix-linux-x86_64.tar.gz: stripped, gzip-compressed binary
+          - SHA256SUMS: sha256 checksum for the tarball
+
+          Install on Nix/NixOS with the flake (recommended):
+          nix profile install github:grigio/jcode
+          " \
               --latest=false
           fi
