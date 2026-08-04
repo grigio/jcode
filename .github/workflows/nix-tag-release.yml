@@ -72,41 +72,60 @@ jobs:
           echo "tag=${TAG}" >> "$GITHUB_OUTPUT"
           echo "Latest upstream tag: ${TAG}"
 
-      # Idempotent gate: only build the tag once. A release named nix-<tag>
-      # in THIS repo (grigio/jcode) means it was already built and published.
-      # -R pins every gh call to this repo; GITHUB_TOKEN only has write access
-      # here, never to the upstream repo being synced.
-      - name: Skip if already built
-        id: check
-        env:
-          GH_TOKEN: ${{ github.token }}
-          GH_REPO: ${{ github.repository }}
-        run: |
-          TAG="${{ steps.tag.outputs.tag }}"
-          RELEASE="nix-${TAG}"
-          if gh release view "$RELEASE" >/dev/null 2>&1; then
-            echo "Release ${RELEASE} already exists; skipping build"
-            echo "skip=true" >> "$GITHUB_OUTPUT"
-          else
-            echo "Release ${RELEASE} not found; building"
-            echo "skip=false" >> "$GITHUB_OUTPUT"
-          fi
-
-      # Build tree = upstream tag + this repo's flake on top. Nothing pushed.
-      - name: Checkout tag and apply flake
-        if: steps.check.outputs.skip == 'false' || inputs.force == 'true'
+      # Point the flake's jcode-src input at the tag we are about to build.
+      # This matters: the flake builds a pinned input (not the fork's own
+      # checkout), so the store path published to the binary cache below is
+      # exactly what downstream `nix profile install github:grigio/jcode`
+      # evaluates. When the pin is committed back to the default branch at the
+      # end of this job, other Nix projects resolve to this prebuilt closure
+      # instead of compiling from source. Runs unconditionally: re-locking is
+      # cheap, and the gate below needs the freshly pinned rev to decide
+      # whether the cache already covers this flake state.
+      - name: Pin flake source to upstream tag
         env:
           UPSTREAM: ${{ inputs.upstream_repo || '1jehuang/jcode' }}
         run: |
           set -euo pipefail
           TAG="${{ steps.tag.outputs.tag }}"
-          git remote add upstream "https://github.com/${UPSTREAM}.git"
-          git fetch --depth 1 upstream "refs/tags/${TAG}:refs/tags/${TAG}"
-          git checkout -b build "${TAG}"
-          git checkout "${GITHUB_REF_NAME}" -- flake.nix flake.lock nix-pages/index.html
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -m "chore(nix): apply jcode flake onto ${TAG}"
+          # Rewrite only the jcode-src input's url to github:<owner>/<repo>/<tag>.
+          # Other inputs (nixpkgs, crane, ...) are left untouched.
+          sed -i "/^[[:space:]]*jcode-src = {/,/^[[:space:]]*};/ s|url = \"github:[^\"]*\"|url = \"github:${UPSTREAM}/${TAG}\"|" flake.nix
+          grep -A2 "jcode-src = {" flake.nix
+          # Lock the input to the tag's commit. Only jcode-src changes in
+          # flake.lock; the nixpkgs/crane/rust-overlay pins stay as they are.
+          nix flake update jcode-src --extra-experimental-features 'nix-command flakes'
+
+      # Idempotent gate: skip when this flake state is already built AND
+      # published. A release named nix-<tag> in THIS repo (grigio/jcode) means
+      # the tag was built before; the gh-pages cache records the jcode-src rev
+      # that produced it (jcode-src-rev, written by the cache step below). When
+      # the pin changes (new upstream tag, or flake rework like this one), the
+      # revs differ and we rebuild + republish, so the cache can never drift
+      # from the flake input. GH_REPO pins gh to this repo; GITHUB_TOKEN only
+      # has write access here, never to the upstream repo being synced.
+      - name: Skip if already built and cached
+        id: check
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: |
+          set -euo pipefail
+          TAG="${{ steps.tag.outputs.tag }}"
+          RELEASE="nix-${TAG}"
+          PINNED_REV="$(jq -r '.nodes["jcode-src"].locked.rev' flake.lock)"
+          CACHED_REV="$(curl -fsSL "https://raw.githubusercontent.com/${GITHUB_REPOSITORY}/gh-pages/jcode-src-rev" || true)"
+          if gh release view "$RELEASE" >/dev/null 2>&1; then
+            RELEASE_EXISTS=yes
+          else
+            RELEASE_EXISTS=no
+          fi
+          if [[ "$RELEASE_EXISTS" == "yes" ]] && [[ "$PINNED_REV" == "$CACHED_REV" ]]; then
+            echo "Release ${RELEASE} exists and cache covers ${PINNED_REV}; skipping build"
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "Building ${TAG} (release exists: ${RELEASE_EXISTS}, pinned=${PINNED_REV}, cached=${CACHED_REV:-none})"
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+          fi
 
       - name: Build jcode
         if: steps.check.outputs.skip == 'false' || inputs.force == 'true'
@@ -193,6 +212,10 @@ jobs:
           # writes <hash>.narinfo, nar/<hash>.nar.xz and nix-cache-info
           # automatically, which is exactly the layout GitHub Pages serves.
           nix copy --to "file://$PWD/cache" "$STORE_PATH"
+          # Record the jcode-src rev this closure was built from. The
+          # "Skip if already built and cached" gate compares its pinned rev
+          # against this file to decide whether a rebuild is needed.
+          jq -r '.nodes["jcode-src"].locked.rev' flake.lock > cache/jcode-src-rev
           # Minimal Nix/NixOS landing page for the Pages site. index.html is
           # ignored by the Nix binary cache protocol, so it can live next to
           # the cache files at the site root.
@@ -211,3 +234,32 @@ jobs:
           publish_branch: gh-pages
           force_orphan: true
           enable_jekyll: false
+
+      # Commit the refreshed flake pin (flake.nix url + flake.lock rev) back to
+      # the default branch so downstream `github:grigio/jcode` inputs resolve to
+      # the tag whose closure is now in the binary cache. Without this, the
+      # flake input and the cache would drift again and installs would compile.
+      # This workflow only runs on schedule/manual dispatch, so the push cannot
+      # re-trigger it. The idempotency gate above keeps the release/cache in
+      # sync: the pin commit is made only after the closure is published.
+      - name: Commit flake pin to default branch
+        if: steps.check.outputs.skip == 'false' || inputs.force == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          DEFAULT_BRANCH="${{ github.event.repository.default_branch }}"
+          if git diff --quiet -- flake.nix flake.lock; then
+            echo "flake.nix / flake.lock already point at the built tag; nothing to commit"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add flake.nix flake.lock
+          git commit -m "chore(nix): pin flake source to ${{ steps.tag.outputs.tag }}"
+          # Rebase onto the latest default branch before pushing so a concurrent
+          # commit to the repo does not turn this into a non-fast-forward push.
+          git fetch origin "${DEFAULT_BRANCH}"
+          git rebase "origin/${DEFAULT_BRANCH}"
+          git push "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" "HEAD:${DEFAULT_BRANCH}"
+          echo "Pushed flake pin for ${{ steps.tag.outputs.tag }} to ${DEFAULT_BRANCH}"

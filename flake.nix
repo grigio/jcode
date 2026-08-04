@@ -12,6 +12,17 @@
       url = "github:oxalica/rust-overlay";
       inputs.nixpkgs.follows = "nixpkgs";
     };
+
+    # Upstream jcode source that this flake packages. The ref is rewritten by
+    # .github/workflows/nix-tag-release.yml to the latest upstream release tag
+    # and flake.lock pins the exact commit. Building from a pinned input instead
+    # of ./ means the store path the release CI publishes to the binary cache is
+    # exactly what downstream `nix profile install github:grigio/jcode`
+    # evaluates, so it substitutes from the cache instead of compiling.
+    jcode-src = {
+      url = "github:1jehuang/jcode/v0.67.1";
+      flake = false;
+    };
   };
 
   outputs =
@@ -21,6 +32,7 @@
       flake-utils,
       crane,
       rust-overlay,
+      jcode-src,
     }:
     flake-utils.lib.eachDefaultSystem (
       system:
@@ -42,18 +54,19 @@
 
         craneLib = (crane.mkLib pkgs).overrideToolchain rustToolchain;
 
-        # Filter source to only what Cargo needs plus compile-time prompt/test fixtures.
-        # craneLib.filterCargoSources keeps .rs/.toml/Cargo.lock/.cargo/config and all
-        # directories; we additionally keep the non-rs assets embedded via include_str!.
+        # Filter the pinned upstream source to only what Cargo needs plus
+        # compile-time prompt/test fixtures. craneLib.filterCargoSources keeps
+        # .rs/.toml/Cargo.lock/.cargo/config and all directories; we additionally
+        # keep the non-rs assets embedded via include_str!.
         src = pkgs.lib.cleanSourceWith {
-          src = ./.;
+          src = jcode-src;
           filter =
             path: type:
             let
               base = baseNameOf path;
-              relPath = pkgs.lib.removePrefix "${builtins.toString ./.}/" (builtins.toString path);
+              relPath = pkgs.lib.removePrefix "${jcode-src}/" (builtins.toString path);
             in
-            # Never pull the git repo or local build artifacts into the Nix store
+            # Never pull a git repo or local build artifacts into the Nix store
             !(type == "directory" && (base == ".git" || base == "target"))
             && (
               (craneLib.filterCargoSources path type)
@@ -66,8 +79,8 @@
             );
         };
 
-        # Read version from Cargo.toml for use in build metadata
-        cargoToml = builtins.fromTOML (builtins.readFile ./Cargo.toml);
+        # Read version from the pinned upstream Cargo.toml for build metadata
+        cargoToml = builtins.fromTOML (builtins.readFile "${jcode-src}/Cargo.toml");
 
         # Native build inputs (available at compile time)
         nativeBuildInputs =
