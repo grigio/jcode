@@ -13,7 +13,7 @@ compiling.
   `flake.lock` locks the exact commit.
 - `.github/workflows/nix-tag-release.yml` runs daily (and on demand): it
   resolves the newest `vX.Y.Z` tag upstream, re-pins the flake, builds
-  `.#jcode`, and publishes:
+  `.#jcode` (plus its crane `cargoArtifacts` dependency layer), and publishes:
   - a signed Nix binary cache on GitHub Pages (`gh-pages` branch, served at
     https://grigio.github.io/jcode), and
   - a release tarball under the `nix-vX.Y.Z` release.
@@ -79,6 +79,17 @@ extra-substituters = https://grigio.github.io/jcode
 extra-trusted-public-keys = grigio-jcode:WdqguwKdwOilH+ITvLO98qZy9x5HQ8Cl0xltHtSsUvQ=
 EOF
 ```
+
+The cache publishes both the `jcode` binary and its crane `cargoArtifacts`
+dependency layer (the `jcode-deps-<version>` store path). That layer is a
+build input of `jcode`, so a cache that only had the binary would still force
+Nix to compile every crate dependency from source; publishing it makes
+installs a pure download with zero compilation.
+
+The dependency layer is hundreds of MB compressed, so its nar files are hosted
+as GitHub Release assets (under the matching `nix-vX.Y.Z` release) rather than
+on the Pages site; the narinfos on the Pages site point at those URLs, so Nix
+substitutes them transparently.
 
 On NixOS, use the equivalent `nix.settings` options:
 

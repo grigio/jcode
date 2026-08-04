@@ -98,11 +98,13 @@ jobs:
       # Idempotent gate: skip when this flake state is already built AND
       # published. A release named nix-<tag> in THIS repo (grigio/jcode) means
       # the tag was built before; the gh-pages cache records the jcode-src rev
-      # that produced it (jcode-src-rev, written by the cache step below). When
-      # the pin changes (new upstream tag, or flake rework like this one), the
-      # revs differ and we rebuild + republish, so the cache can never drift
-      # from the flake input. GH_REPO pins gh to this repo; GITHUB_TOKEN only
-      # has write access here, never to the upstream repo being synced.
+      # that produced it (jcode-src-rev, written by the cache step below) plus
+      # a hash of the flake state itself (flake-hash). When either changes
+      # (new upstream tag, or flake rework like adding a dependency layer),
+      # the cached values differ and we rebuild + republish, so the cache can
+      # never drift from the flake input. GH_REPO pins gh to this repo;
+      # GITHUB_TOKEN only has write access here, never to the upstream repo
+      # being synced.
       - name: Skip if already built and cached
         id: check
         env:
@@ -114,16 +116,21 @@ jobs:
           RELEASE="nix-${TAG}"
           PINNED_REV="$(jq -r '.nodes["jcode-src"].locked.rev' flake.lock)"
           CACHED_REV="$(curl -fsSL "https://raw.githubusercontent.com/${GITHUB_REPOSITORY}/gh-pages/jcode-src-rev" || true)"
+          # Hash the flake state (flake.nix + flake.lock) exactly as it will be
+          # built. The pin step above runs first, so this reflects the post-pin
+          # content: a new upstream tag and a flake rework both change the hash.
+          FLAKE_HASH="$(sha256sum flake.nix flake.lock | awk '{print $1}' | sha256sum | awk '{print $1}')"
+          CACHED_FLAKE_HASH="$(curl -fsSL "https://raw.githubusercontent.com/${GITHUB_REPOSITORY}/gh-pages/flake-hash" || true)"
           if gh release view "$RELEASE" >/dev/null 2>&1; then
             RELEASE_EXISTS=yes
           else
             RELEASE_EXISTS=no
           fi
-          if [[ "$RELEASE_EXISTS" == "yes" ]] && [[ "$PINNED_REV" == "$CACHED_REV" ]]; then
-            echo "Release ${RELEASE} exists and cache covers ${PINNED_REV}; skipping build"
+          if [[ "$RELEASE_EXISTS" == "yes" ]] && [[ "$PINNED_REV" == "$CACHED_REV" ]] && [[ "$FLAKE_HASH" == "$CACHED_FLAKE_HASH" ]]; then
+            echo "Release ${RELEASE} exists and cache covers ${PINNED_REV} (flake ${FLAKE_HASH}); skipping build"
             echo "skip=true" >> "$GITHUB_OUTPUT"
           else
-            echo "Building ${TAG} (release exists: ${RELEASE_EXISTS}, pinned=${PINNED_REV}, cached=${CACHED_REV:-none})"
+            echo "Building ${TAG} (release exists: ${RELEASE_EXISTS}, pinned=${PINNED_REV}, cached_src=${CACHED_REV:-none}, flake=${FLAKE_HASH}, cached_flake=${CACHED_FLAKE_HASH:-none})"
             echo "skip=false" >> "$GITHUB_OUTPUT"
           fi
 
@@ -197,25 +204,60 @@ jobs:
       # `nix profile install github:grigio/jcode` substitutes the prebuilt
       # closure instead of compiling. Skipped until the NIX_CACHE_PRIVATE_KEY
       # secret is configured (see README "Nix / NixOS" -> "Prebuilt binary
-      # cache").
+      # cache"). Besides jcode itself, the cache MUST contain the crane
+      # deps-only layer (cargoArtifacts): it is a build input of jcode, so a
+      # consumer substituting jcode from the cache still needs this path
+      # present, and without it Nix compiles every crate dependency from
+      # source first.
       - name: Sign and package Nix binary cache
         if: (steps.check.outputs.skip == 'false' || inputs.force == 'true') && env.NIX_CACHE_PRIVATE_KEY != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
         run: |
           set -euo pipefail
           KEY_FILE="$(mktemp)"
           trap 'rm -f "$KEY_FILE"' EXIT
           printf '%s\n' "$NIX_CACHE_PRIVATE_KEY" > "$KEY_FILE"
-          STORE_PATH="$(readlink -f ./result)"
-          # Sign every path in the closure so Nix trusts the cache.
-          nix store sign --key-file "$KEY_FILE" --recursive "$STORE_PATH"
-          # Copy the signed closure into a local file:// binary cache. Nix
+          JCODE_PATH="$(readlink -f ./result)"
+          # Materialize the crane deps-only layer under its own output link so
+          # ./result still points at the jcode binary. It is already realized
+          # as jcode's build dependency, so this is a no-op store-wise.
+          nix build .#cargoArtifacts --out-link result-deps --extra-experimental-features 'nix-command flakes'
+          DEPS_PATH="$(readlink -f ./result-deps)"
+          echo "Publishing jcode=${JCODE_PATH} deps=${DEPS_PATH}"
+          # Sign every path in both closures so Nix trusts the cache.
+          nix store sign --key-file "$KEY_FILE" --recursive "$JCODE_PATH" "$DEPS_PATH"
+          # Copy the signed closures into a local file:// binary cache. Nix
           # writes <hash>.narinfo, nar/<hash>.nar.xz and nix-cache-info
           # automatically, which is exactly the layout GitHub Pages serves.
-          nix copy --to "file://$PWD/cache" "$STORE_PATH"
-          # Record the jcode-src rev this closure was built from. The
-          # "Skip if already built and cached" gate compares its pinned rev
-          # against this file to decide whether a rebuild is needed.
+          nix copy --to "file://$PWD/cache" "$JCODE_PATH" "$DEPS_PATH"
+          # The deps-only layer compresses to hundreds of MB (979 crates
+          # including tract-onnx), over the ~100 MB per-file limit GitHub
+          # enforces on the gh-pages git push. Route any nar above the
+          # threshold through a GitHub Release asset instead (assets allow up
+          # to 2 GB) and point its narinfo at that URL, then drop the local
+          # copy so the Pages push stays small. Nix follows the absolute URL
+          # in the narinfo when substituting, so the cache still works.
+          RELEASE="nix-${{ steps.tag.outputs.tag }}"
+          for NAR in "$PWD"/cache/nar/*.nar.xz; do
+            SIZE="$(stat -c %s "$NAR")"
+            if (( SIZE > 94371840 )); then
+              NAME="$(basename "$NAR")"
+              echo "Uploading large nar ${NAME} (${SIZE} bytes) to release ${RELEASE}"
+              gh release upload "$RELEASE" "$NAR" --clobber
+              URL="https://github.com/${GITHUB_REPOSITORY}/releases/download/${RELEASE}/${NAME}"
+              sed -i "s|^URL: nar/${NAME}$|URL: ${URL}|" "$PWD"/cache/*.narinfo
+              grep -l "URL: ${URL}" "$PWD"/cache/*.narinfo | sed 's/^/rewrote /'
+              rm "$NAR"
+            fi
+          done
+          # Record the jcode-src rev and the flake state this closure was built
+          # from. The "Skip if already built and cached" gate compares its
+          # pinned rev and flake hash against these files to decide whether a
+          # rebuild is needed.
           jq -r '.nodes["jcode-src"].locked.rev' flake.lock > cache/jcode-src-rev
+          sha256sum flake.nix flake.lock | awk '{print $1}' | sha256sum | awk '{print $1}' > cache/flake-hash
           # Minimal Nix/NixOS landing page for the Pages site. index.html is
           # ignored by the Nix binary cache protocol, so it can live next to
           # the cache files at the site root.

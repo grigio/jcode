@@ -161,6 +161,14 @@
         packages = {
           default = jcode;
           inherit jcode;
+
+          # The crane deps-only layer (store name jcode-deps-<version>).
+          # Exposed so the release CI can build it under its own output link
+          # and publish it to the binary cache. Consumers must substitute this
+          # path too: it is a build input of jcode, so even though jcode
+          # itself comes from the cache, Nix would otherwise compile every
+          # crate dependency from source before it can use the cached binary.
+          cargoArtifacts = cargoArtifacts;
         };
 
         # `nix fmt` formats flake.nix with nixpkgs-fmt

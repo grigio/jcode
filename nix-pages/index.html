@@ -34,7 +34,9 @@ nix profile install github:grigio/jcode</code></pre>
   <p>This site serves the signed Nix binary cache for the flake. The flake pins
   the latest upstream release tag and the release CI re-fills this cache after
   every build, so <code>nix profile install github:grigio/jcode</code> downloads
-  instead of compiling. Configure it once:</p>
+  instead of compiling. The cache includes the crane dependency layer
+  (<code>jcode-deps</code>), so nothing is compiled from source. Configure it
+  once:</p>
   <pre><code>mkdir -p ~/.config/nix
 cat &gt;&gt; ~/.config/nix/nix.conf &lt;&lt;'EOF'
 extra-substituters = https://grigio.github.io/jcode
