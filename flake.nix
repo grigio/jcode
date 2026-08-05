@@ -20,7 +20,7 @@
     # exactly what downstream `nix profile install github:grigio/jcode`
     # evaluates, so it substitutes from the cache instead of compiling.
     jcode-src = {
-      url = "github:1jehuang/jcode/v0.67.1";
+      url = "github:1jehuang/jcode/v0.68.0";
       flake = false;
     };
   };
