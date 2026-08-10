@@ -20,7 +20,7 @@
     # exactly what downstream `nix profile install github:grigio/jcode`
     # evaluates, so it substitutes from the cache instead of compiling.
     jcode-src = {
-      url = "github:1jehuang/jcode/v0.72.0";
+      url = "github:1jehuang/jcode/v0.75.0";
       flake = false;
     };
   };
@@ -76,6 +76,17 @@
               || pkgs.lib.hasPrefix "crates/jcode-app-core/src/tool/testdata/" relPath
               # integration-test fixtures
               || pkgs.lib.hasPrefix "tests/fixtures/" relPath
+              # include_str!() documentation corpus embedded by jcode-app-core/build.rs:
+              # the repo-root README.md plus the top-level docs/*.md files. build.rs
+              # reads the docs dir non-recursively, so only flat .md files are compiled in.
+              || relPath == "README.md"
+              # include_bytes!() macOS app icon used by jcode-setup-hints under
+              # cfg(any(test, target_os = "macos")) (so Linux test builds have it too).
+              || pkgs.lib.hasPrefix "assets/app-icons/" relPath
+              || (
+                pkgs.lib.hasPrefix "docs/" relPath
+                && pkgs.lib.match "docs/[^/]+\\.md" relPath != null
+              )
             );
         };
 
