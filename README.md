@@ -1,6 +1,6 @@
 # jcode · Nix binary cache
 
-[![jcode version](https://img.shields.io/badge/jcode-v0.75.5-blue)](https://github.com/1jehuang/jcode/releases)
+[![jcode version](https://img.shields.io/badge/jcode-v0.76.0-blue)](https://github.com/1jehuang/jcode/releases)
 
 This repository is an **automatic Nix binary cache** for
 [jcode](https://github.com/1jehuang/jcode), the blazing-fast TUI coding agent
