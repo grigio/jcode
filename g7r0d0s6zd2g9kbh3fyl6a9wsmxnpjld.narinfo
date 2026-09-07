@@ -1,0 +1,9 @@
+StorePath: /nix/store/g7r0d0s6zd2g9kbh3fyl6a9wsmxnpjld-cargo-package-objc2-quartz-core-0.3.2
+URL: nar/0v4d2rlq374vr0w5iqklydqa92jdir0q0l5gw435sfy8g20yiv8m.nar.xz
+Compression: xz
+FileHash: sha256:0v4d2rlq374vr0w5iqklydqa92jdir0q0l5gw435sfy8g20yiv8m
+FileSize: 24488
+NarHash: sha256:163dchcwlihdq7kpyk5ymrnzm4vyd3a6z5bzc24n36czydm3xbnq
+NarSize: 275096
+References: 
+Sig: grigio-jcode:j/nWY7O0qqvDRYrFXrofBc4C2Qm2dVofuuGQscZhnW7BEjpK45bgcpL5U9xRrhERmMEWZIDUFH1jIj+jrllGDw==

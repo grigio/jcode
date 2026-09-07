@@ -1,0 +1,9 @@
+StorePath: /nix/store/hibwh5w6cs0s2392vwjwzgc00xlm5h4h-cargo-package-tar-0.4.45
+URL: nar/1xr1m43qmky5nyfj8ynr9pw2v875glb028q6lhvnk9g7128gn9c5.nar.xz
+Compression: xz
+FileHash: sha256:1xr1m43qmky5nyfj8ynr9pw2v875glb028q6lhvnk9g7128gn9c5
+FileSize: 56796
+NarHash: sha256:1pz782ld03cikddxxkikxjf8sd5icd8h49db410iq0l899wv9zg2
+NarSize: 318120
+References: 
+Sig: grigio-jcode:YOieO1MrG1Du+XCGsrQFf1InUCahKSWI+6UByFAbLZ5oxpGR/x381QfjjDc1B+s7/hRpiDOV8OTv0L5YWuvABw==

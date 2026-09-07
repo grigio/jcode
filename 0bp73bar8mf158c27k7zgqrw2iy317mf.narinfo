@@ -1,0 +1,9 @@
+StorePath: /nix/store/0bp73bar8mf158c27k7zgqrw2iy317mf-cargo-package-libm-0.2.15
+URL: nar/0nfpb39078dy427r6hs1qf3iphzqzd51zydasyw4fxy6k6gaaw5w.nar.xz
+Compression: xz
+FileHash: sha256:0nfpb39078dy427r6hs1qf3iphzqzd51zydasyw4fxy6k6gaaw5w
+FileSize: 121088
+NarHash: sha256:09jrmvk0lxn5yz88clgcwikqm6nm71na4cdgdrc52152lwfwyfb4
+NarSize: 670688
+References: 
+Sig: grigio-jcode:KEf7BghcRDEQoThgqi0s+wV0rHJtHN2WXfKa1W31YdX+ZBBUgJ/zfNvtnnQaVyNy6bdH9CgoJbAGizGP9mprCA==

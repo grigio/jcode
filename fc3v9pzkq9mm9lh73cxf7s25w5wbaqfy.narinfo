@@ -1,0 +1,9 @@
+StorePath: /nix/store/fc3v9pzkq9mm9lh73cxf7s25w5wbaqfy-cargo-package-ipnet-2.11.0
+URL: nar/04wwvvnpa7kfwji2bmvrsqb01dmz7kgbi3rdirpnh0p6ddr7rv25.nar.xz
+Compression: xz
+FileHash: sha256:04wwvvnpa7kfwji2bmvrsqb01dmz7kgbi3rdirpnh0p6ddr7rv25
+FileSize: 25420
+NarHash: sha256:1csi0h3q065j06r7c8g0n69y1fgz4mk86dbrx0wv9qmx79qafmmd
+NarSize: 163264
+References: 
+Sig: grigio-jcode:DTO0UYQVaGk3jB4WzMAXf4jYjyeQdklKCMLDIaFGlVOS+SnovszJZMLzeffWegBUQmaUuj5tTK8ByDpjvQKIAw==

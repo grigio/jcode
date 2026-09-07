@@ -1,0 +1,9 @@
+StorePath: /nix/store/gldn4fbcav5yjq1sscyd1xvhjzh7a1d6-cargo-package-lazy_static-1.5.0
+URL: nar/1v6bkb8dpblxvskags9a2961wfam8dr82d4r89lgfl92njva7jws.nar.xz
+Compression: xz
+FileHash: sha256:1v6bkb8dpblxvskags9a2961wfam8dr82d4r89lgfl92njva7jws
+FileSize: 12740
+NarHash: sha256:04mikfbgclh1abqipnllvfckxg2mvm9irnak6fibc9pviykyslg5
+NarSize: 48800
+References: 
+Sig: grigio-jcode:WLOcXyNshOWGJrLJs9hWWm1OwnAqs/q8JEpS9pWrILLFvYx6aDakPVFkE5s0WDExwWrQMkmrW5a7GzK3F4AACg==

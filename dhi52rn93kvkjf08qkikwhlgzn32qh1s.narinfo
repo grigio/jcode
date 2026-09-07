@@ -1,0 +1,9 @@
+StorePath: /nix/store/dhi52rn93kvkjf08qkikwhlgzn32qh1s-libselinux-3.10
+URL: nar/1whjivji8db7ni4zzxa6zqnv971wrvs86a4m3pqjb6hazfs5k41m.nar.xz
+Compression: xz
+FileHash: sha256:1whjivji8db7ni4zzxa6zqnv971wrvs86a4m3pqjb6hazfs5k41m
+FileSize: 119512
+NarHash: sha256:1bkvd4rppg5bzb63z43dhklb1v82wqxq1azq58i7c1zi0v0z6h6c
+NarSize: 708368
+References: l8si8gnvvq93yzms1jsgh5aixyf9rl5x-glibc-2.42-67 zva95q4jh61f9i0cflab5d16wlck9ch5-pcre2-10.47
+Sig: grigio-jcode:R7JrA/+Tjmmn5KP1uSwxgDmiVzeUacwYtVANlUznfO0m7oRwCXWLvkj8wdNvTWHIcTFmCeP0KjRX62OTxJhuDw==

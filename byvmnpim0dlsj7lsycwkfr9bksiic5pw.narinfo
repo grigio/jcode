@@ -1,0 +1,9 @@
+StorePath: /nix/store/byvmnpim0dlsj7lsycwkfr9bksiic5pw-cargo-package-libsqlite3-sys-0.30.1
+URL: nar/0ih4mxj7ai2in28idhl71ascnv3nas3karnmcs5z1q4fhmp1b3ph.nar.xz
+Compression: xz
+FileHash: sha256:0ih4mxj7ai2in28idhl71ascnv3nas3karnmcs5z1q4fhmp1b3ph
+FileSize: 3440152
+NarHash: sha256:0g2hjrklmqnrrlya9cg4yqf8xj7rblwi1z4pqi7smbqqh36yaf59
+NarSize: 20685144
+References: 
+Sig: grigio-jcode:/yWCoM2fN1i3jHqd1wTA785u/AtKm+m+NgYl+ybCIeZUw0KWhFaqp59FmGw6RKbEYwL7VRSznvfQpzuRuHxzDA==

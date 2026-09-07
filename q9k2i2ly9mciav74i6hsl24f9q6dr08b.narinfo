@@ -1,0 +1,9 @@
+StorePath: /nix/store/q9k2i2ly9mciav74i6hsl24f9q6dr08b-cargo-package-pdf-extract-0.12.0
+URL: nar/189ibsb57fggvlqjr55jm40dznvaphv9ra8ly1jqs6j62l10ypjc.nar.xz
+Compression: xz
+FileHash: sha256:189ibsb57fggvlqjr55jm40dznvaphv9ra8ly1jqs6j62l10ypjc
+FileSize: 78056
+NarHash: sha256:033ypyjmgakls3g6fbjjhhdflrfr2jm0ia9kvpx47h0vs2ybphbx
+NarSize: 475992
+References: 
+Sig: grigio-jcode:kQmIiUxrLU0Eu3DProwpf1C8NSmiSpgsGHy+BdE5l1Ynkk2OwwRxj7ocDnfQJBu/5OnPWAFL1dEI9MH76uDIAw==

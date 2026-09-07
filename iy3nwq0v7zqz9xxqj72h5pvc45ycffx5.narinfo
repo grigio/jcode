@@ -1,0 +1,9 @@
+StorePath: /nix/store/iy3nwq0v7zqz9xxqj72h5pvc45ycffx5-cargo-package-wasi-0.11.1+wasi-snapshot-preview1
+URL: nar/12bggd5l6mnyad7giz8nyrzjx992cmd8da2l5ymrvk7smpb79zmp.nar.xz
+Compression: xz
+FileHash: sha256:12bggd5l6mnyad7giz8nyrzjx992cmd8da2l5ymrvk7smpb79zmp
+FileSize: 25308
+NarHash: sha256:1d1n69n63wfk41bkkb8frf5fayy8id4vh92szi9zyq5pligxw3qy
+NarSize: 135496
+References: 
+Sig: grigio-jcode:p1tN5wljI2ZDD7+s8UOc8ut6JLI4Owww7MJJwLYxC1Ar9WwkaslcOVXtXcpfSZNyMYuEtxSNx9/4Qu1ZHTJsCA==

@@ -1,0 +1,9 @@
+StorePath: /nix/store/y2x45i5clgkm8yjjv306bfqcppi54nyl-cargo-package-async-lock-3.4.2
+URL: nar/1g34cml4040fj358939x18c4wrsrgj7b03m0y1mnzz4kpjw7q8zq.nar.xz
+Compression: xz
+FileHash: sha256:1g34cml4040fj358939x18c4wrsrgj7b03m0y1mnzz4kpjw7q8zq
+FileSize: 33360
+NarHash: sha256:1qz5kyn6nhn2w4i2k4j22nnj0gn1kiscklxsn8f6rv2gzxn3iw4p
+NarSize: 221240
+References: 
+Sig: grigio-jcode:rBov8dOP3ek9CpxxPtIJR19MSznrYFkNofzdHfk8J32GfcrMTDlBaZ14rAGdP95gwOARxv6wvRfExO7ya2wKAA==

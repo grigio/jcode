@@ -1,0 +1,9 @@
+StorePath: /nix/store/8qdn725zmyyfcszar75glazfkqn2rz1z-cargo-package-base16ct-0.2.0
+URL: nar/1z5z16mi3kqjw5wgj311c8z0992rhw8mlv9s1kaygp5dq2m60dij.nar.xz
+Compression: xz
+FileHash: sha256:1z5z16mi3kqjw5wgj311c8z0992rhw8mlv9s1kaygp5dq2m60dij
+FileSize: 9584
+NarHash: sha256:1a3frns3y8q2vj7hrh9sylprad83b60zhw57pl1liqk3mwdxjnsc
+NarSize: 38640
+References: 
+Sig: grigio-jcode:o0gYt3kaF84CeVL9Or9wd6fxWH5+8Q1BGKM8y8RgNrEGi/ruUQW555kSO9+d0t+YRku37/RQwT97XZMv6iDDBA==

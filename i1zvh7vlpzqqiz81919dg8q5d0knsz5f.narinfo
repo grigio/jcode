@@ -1,0 +1,9 @@
+StorePath: /nix/store/i1zvh7vlpzqqiz81919dg8q5d0knsz5f-cargo-package-quinn-0.11.9
+URL: nar/1ypyw4vvv8p8szi80k3db6g623bar2zqshq2ys7v5ds679w2yf51.nar.xz
+Compression: xz
+FileHash: sha256:1ypyw4vvv8p8szi80k3db6g623bar2zqshq2ys7v5ds679w2yf51
+FileSize: 69372
+NarHash: sha256:1gdvs40krk511r0yj5snlim3pcn22ylb3fh5nypl82n6kq7q8x6g
+NarSize: 337128
+References: 
+Sig: grigio-jcode:11FAatdCnEdrp6VZC4K+MCaETXxemSHZNM4n8XmBZbVgr++KUABlDO7wqTeXy9V3HdI+jS8YICAkNMQsj1TwDw==

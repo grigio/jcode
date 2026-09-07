@@ -1,0 +1,9 @@
+StorePath: /nix/store/6hpqd6n2k93mq2mqhrp6zwxb4hs3f7w6-cargo-package-ryu-1.0.22
+URL: nar/1wlp303x7rhp2yabl8jqm6wvq6mha5ga5w6cc1j21rq11fjnlxqj.nar.xz
+Compression: xz
+FileHash: sha256:1wlp303x7rhp2yabl8jqm6wvq6mha5ga5w6cc1j21rq11fjnlxqj
+FileSize: 40712
+NarHash: sha256:1pa66frgmdnqwi5iaj16ylwn9nf9055l3fm6kvfbxlbyaj252zrc
+NarSize: 186712
+References: 
+Sig: grigio-jcode:0jD+JfXKATpT/pvijCX+Lv0ZWreHc3BC5PzdF9oeXuCIWYB1EN+ZoKmXu6ajbyMs5LfrbHFTBqaUjeqXCGSXAA==

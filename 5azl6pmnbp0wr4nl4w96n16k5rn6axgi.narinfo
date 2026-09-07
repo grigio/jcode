@@ -1,0 +1,9 @@
+StorePath: /nix/store/5azl6pmnbp0wr4nl4w96n16k5rn6axgi-cargo-package-zeroize-1.8.2
+URL: nar/0bhn8vryw1xvalgys2gc68mrh5196zcik69dm24xbsbx0bwj2ddj.nar.xz
+Compression: xz
+FileHash: sha256:0bhn8vryw1xvalgys2gc68mrh5196zcik69dm24xbsbx0bwj2ddj
+FileSize: 19204
+NarHash: sha256:1fryvjvdpfz2c45r41j55805kf77ykccj2cj11vipnpfgmva5acv
+NarSize: 73216
+References: 
+Sig: grigio-jcode:RDpEGJpkU6YDrQjwqFTS4UpLX3yWwnJyQXpAS8aaUdsL3NRQ079sDhwocvvczjGqRrghBlsH2e03ly1vRhBuBg==

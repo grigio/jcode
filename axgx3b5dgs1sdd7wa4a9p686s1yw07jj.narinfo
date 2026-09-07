@@ -1,0 +1,9 @@
+StorePath: /nix/store/axgx3b5dgs1sdd7wa4a9p686s1yw07jj-cargo-package-memmap2-0.9.11
+URL: nar/1zza9yb5alrx91sh9qvs3y2y34z1rn2ajf2rxn6wifa1nz8lqdpr.nar.xz
+Compression: xz
+FileHash: sha256:1zza9yb5alrx91sh9qvs3y2y34z1rn2ajf2rxn6wifa1nz8lqdpr
+FileSize: 31072
+NarHash: sha256:04k75j6x7w5zpj6afk960hn4343d63b3m46nz0vgxvk2l98bgbhd
+NarSize: 170376
+References: 
+Sig: grigio-jcode:6b9HlG8Xj/g6VyWxBOWjQkJYvRVVSvO/F5VNzbEeEKR3wl6H+47wlfnkhO5ZC//p/DxZgBYRSUjgzGTl4wV+Dg==

@@ -1,0 +1,9 @@
+StorePath: /nix/store/y31x7sn2kyyv3b43xkbdp2sp5jssbgyf-cargo-package-anymap3-1.0.1
+URL: nar/0k645532s2kgp0b254z17sw4sgl8gpvh6p2v30rc5291j2cplm3w.nar.xz
+Compression: xz
+FileHash: sha256:0k645532s2kgp0b254z17sw4sgl8gpvh6p2v30rc5291j2cplm3w
+FileSize: 12868
+NarHash: sha256:0iyk4fbg4xvwskckp24fnlm5brgzy0f1lpm0fcvqagqlq85sc1yw
+NarSize: 49280
+References: 
+Sig: grigio-jcode:jNVboJ/2ugBu7Dmp61OUX3bNxeKOy66ZgOLAM3Tw5p/OoIV+tHHlMvZxjvmWRMgmSFVgZWtIHKaokhc+OjqsDg==

@@ -1,0 +1,9 @@
+StorePath: /nix/store/1czsk1hrdfbi6rcqz7dwbcadzzb93j8j-cargo-package-strum-0.27.2
+URL: nar/1ryz1z6cilq31pfydkd0ly4dljdjfbqrm4an330l61ayx2axhn74.nar.xz
+Compression: xz
+FileHash: sha256:1ryz1z6cilq31pfydkd0ly4dljdjfbqrm4an330l61ayx2axhn74
+FileSize: 7984
+NarHash: sha256:06fc30m9h33qh1sr9dvjdy8kl93nmfx5gsx7ziv7i7z51rjsi41a
+NarSize: 25928
+References: 
+Sig: grigio-jcode:wAhYdqKd98NpfuSnU+Qg5i6+u66wTqFtP3mdfa8Isou1hkEz5ExCzxZHKHLiEoNsTfLWFvgF99YqIEF0A+0dDQ==

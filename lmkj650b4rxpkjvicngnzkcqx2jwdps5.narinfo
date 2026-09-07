@@ -1,0 +1,9 @@
+StorePath: /nix/store/lmkj650b4rxpkjvicngnzkcqx2jwdps5-cargo-package-error-code-3.3.2
+URL: nar/0i7kpdjj2dsfgzs7wda8ij5xgzbwkjkxdw72z92hjvdx4dpsjcny.nar.xz
+Compression: xz
+FileHash: sha256:0i7kpdjj2dsfgzs7wda8ij5xgzbwkjkxdw72z92hjvdx4dpsjcny
+FileSize: 8072
+NarHash: sha256:1f5fv8vcrz47syn4qiwmdkjy0h45kay9i1z9psja18vkqcf97g4d
+NarSize: 32216
+References: 
+Sig: grigio-jcode:N6J348YXbZR6BSID0tETT2o/bwv6f4dUMrG7mczG6nUOCNZHk+AoTFQ2ATE4ox8/9z4wmT9wiSVYf4u1RPB4Bg==

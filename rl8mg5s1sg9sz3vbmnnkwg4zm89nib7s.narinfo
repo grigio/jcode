@@ -1,0 +1,9 @@
+StorePath: /nix/store/rl8mg5s1sg9sz3vbmnnkwg4zm89nib7s-cargo-package-try-lock-0.2.5
+URL: nar/0kc2fg3g6gcd60vzw631ipsnrj0jy75qridxycsrwqc17gv953vb.nar.xz
+Compression: xz
+FileHash: sha256:0kc2fg3g6gcd60vzw631ipsnrj0jy75qridxycsrwqc17gv953vb
+FileSize: 4228
+NarHash: sha256:0bn3r3z0nic2c21j71fg4l6idpxaykjk6a7n3g1sy9ysqz8c0hbz
+NarSize: 14648
+References: 
+Sig: grigio-jcode:JboCL2c4OFTAJsXcqQOZg72yEmoZmF8JHtkleoh4Z4Hd8426WLZDV7El04voBKIzSiByrZzrPUkElUwGU0smAQ==

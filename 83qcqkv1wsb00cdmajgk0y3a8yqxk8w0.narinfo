@@ -1,0 +1,9 @@
+StorePath: /nix/store/83qcqkv1wsb00cdmajgk0y3a8yqxk8w0-cargo-package-security-framework-3.6.0
+URL: nar/07q8c066qdr4k9pj83ykmn67qv2276i75da3crsc62pbvd9wdxn8.nar.xz
+Compression: xz
+FileHash: sha256:07q8c066qdr4k9pj83ykmn67qv2276i75da3crsc62pbvd9wdxn8
+FileSize: 73972
+NarHash: sha256:1n0r0ma76vvyaxcr5f30myw7x1s10jzjp8xq3n2h08ipcymlswc3
+NarSize: 441888
+References: 
+Sig: grigio-jcode:NtbkqUhJvwGG/y5YapFNRtVZLgYEYc1ozBZUgmexOGB4oIR2NI2v6XdZMlazWbt8AIxAYNXcJ5CnOzjh25WDDA==

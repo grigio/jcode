@@ -1,0 +1,9 @@
+StorePath: /nix/store/5dir0byc96f3z3vmm0392dr12rl0sq2r-cargo-package-anstream-1.0.0
+URL: nar/0j2q72yw766rin6xd1k9fv43gwdfivpia0l4kl2w02ikcz6iy263.nar.xz
+Compression: xz
+FileHash: sha256:0j2q72yw766rin6xd1k9fv43gwdfivpia0l4kl2w02ikcz6iy263
+FileSize: 25380
+NarHash: sha256:0lpwhzzcr0a0fanqh679w19vzm86kpya06pkzbarxawvnpkd62aq
+NarSize: 127760
+References: 
+Sig: grigio-jcode:Cn3048aEwSxzVeSRuLg4gTz1xxbwfQvRuGvs8cZmThFkfUVEq208Ah0YQxk1hkSmwNAkRug18Sv7dNTpTbUgBg==

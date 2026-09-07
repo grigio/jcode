@@ -1,0 +1,9 @@
+StorePath: /nix/store/m19mpkgy6pyw7d8kw7xpc8rd4avzw2q3-cargo-package-gethostname-1.1.0
+URL: nar/0qciqgzb8phrwvhcl2p7yx4yvpb52i6m9zda5sx7zp192vz4xh4n.nar.xz
+Compression: xz
+FileHash: sha256:0qciqgzb8phrwvhcl2p7yx4yvpb52i6m9zda5sx7zp192vz4xh4n
+FileSize: 9100
+NarHash: sha256:1n4088qcf8lii102gi217m32spp8a6imfvp7rnan0jz9mrg56v5i
+NarSize: 31424
+References: 
+Sig: grigio-jcode:4+7M9C7ItzKTmwutTqyRxcx/G6hQcV+XBcFcXb87SvoVvPDIJ7xIPcnSB1nV9cU0qowT9XQhpe87XYVXkfDvCg==

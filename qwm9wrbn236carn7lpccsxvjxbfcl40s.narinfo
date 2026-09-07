@@ -1,0 +1,9 @@
+StorePath: /nix/store/qwm9wrbn236carn7lpccsxvjxbfcl40s-cargo-package-lopdf-0.42.0
+URL: nar/0gkqg8s44s35z7v7jfrmmdyzl5fwswscb6rfhhvi58w2hm2rzlxb.nar.xz
+Compression: xz
+FileHash: sha256:0gkqg8s44s35z7v7jfrmmdyzl5fwswscb6rfhhvi58w2hm2rzlxb
+FileSize: 155764
+NarHash: sha256:1lxvsdb080j5zbsj5z36pxb9ffid4pc1p2s7llfhiq8xlj5dyl4z
+NarSize: 996760
+References: 
+Sig: grigio-jcode:/B6wze7k66Hhy53KJUC7L8ylrMkvV9uftBR4WwKlwFG/jAbHfb34Ynphe8LBrd/Vru/Nbn+f5DhdOrU9fZ1ACQ==

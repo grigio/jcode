@@ -1,0 +1,9 @@
+StorePath: /nix/store/7mlsrgim6b8khgfl4bnmjb298alibb7k-cargo-package-jobserver-0.1.34
+URL: nar/1ggd6kxc27807jzqkzgcp4isz268z41fpf674b2x8jnvx9ggv5m0.nar.xz
+Compression: xz
+FileHash: sha256:1ggd6kxc27807jzqkzgcp4isz268z41fpf674b2x8jnvx9ggv5m0
+FileSize: 26296
+NarHash: sha256:1q3d6ps3yr5rlq9g5h2md1j5yg8kk19kvl1gskwaykv76mxn3iaq
+NarSize: 110944
+References: 
+Sig: grigio-jcode:T7ctV5odUqayZhXDdCt3U71MINpqKOs3+fQ5F6yK3b9v3Zppwdql/fatnsg5hka3irsjiJ77p03Oq9x0FGvxDw==

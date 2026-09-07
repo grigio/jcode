@@ -1,0 +1,9 @@
+StorePath: /nix/store/xmw9invwcb51mvsga5p6dn48n1xpf1nr-cargo-package-simdutf8-0.1.5
+URL: nar/17wg69kdyx6ax8yjk8zjqc54mdz5vzkd15wl9ikp20n920452yqx.nar.xz
+Compression: xz
+FileHash: sha256:17wg69kdyx6ax8yjk8zjqc54mdz5vzkd15wl9ikp20n920452yqx
+FileSize: 23300
+NarHash: sha256:1zjbmgayzi5snyfrxnkdhjq3rs2dq6nwdzslfdf83vimp6iz6r57
+NarSize: 136432
+References: 
+Sig: grigio-jcode:WjOzPzKFh2QJ3PG5bPT4yKhWFGOeHIivQ0TCAnfc/qe+5MW+3fqqkyva+PDRHiUGBlX9i6qQKVjp4Be89VTGAg==

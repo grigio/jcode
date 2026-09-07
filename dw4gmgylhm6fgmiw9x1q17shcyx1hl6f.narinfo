@@ -1,0 +1,9 @@
+StorePath: /nix/store/dw4gmgylhm6fgmiw9x1q17shcyx1hl6f-cargo-package-azure_core-1.0.0
+URL: nar/0p58lspyd4x9s7c7haq31xr9z9z5jnclv161nbjacz9dn33k678r.nar.xz
+Compression: xz
+FileHash: sha256:0p58lspyd4x9s7c7haq31xr9z9z5jnclv161nbjacz9dn33k678r
+FileSize: 84036
+NarHash: sha256:0lblhafpr0q1v4cjk3384srnz7ycq8wgb6kvvyqkydfaza30417v
+NarSize: 557472
+References: 
+Sig: grigio-jcode:XfTIPFdVCFQ8ZGXBorbYmzy4pwknAdi7sNjeGfEJPiHUyJAWoIA0WzhkMkafi0eWMoEHXTgNcuhAgg6b0zr2Bw==

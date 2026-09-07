@@ -1,0 +1,9 @@
+StorePath: /nix/store/xdai9s9fd2z47s8wl1pjili7p3wy4i71-cargo-package-fs_extra-1.3.0
+URL: nar/0v10pvi2671aa91nmfgam7slw3akb65c40k6qbiginbw7904y0x5.nar.xz
+Compression: xz
+FileHash: sha256:0v10pvi2671aa91nmfgam7slw3akb65c40k6qbiginbw7904y0x5
+FileSize: 22660
+NarHash: sha256:1vqyj4cj0an45gj17vxv096i5x69wrw4kxbv76w5xi1p36fp2kd3
+NarSize: 439272
+References: 
+Sig: grigio-jcode:o9OMgRrxLu+sjyxVy6xah1lVMdXBfliFydP9KbUf7yH+c+AJMKar1y7TTKTT0a+euxg3Xlmx0+5SAPptPLUUCA==

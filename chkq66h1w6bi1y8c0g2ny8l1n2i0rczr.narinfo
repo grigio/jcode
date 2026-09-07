@@ -1,0 +1,9 @@
+StorePath: /nix/store/chkq66h1w6bi1y8c0g2ny8l1n2i0rczr-cargo-package-windows-implement-0.58.0
+URL: nar/0wi5z4yip7qynrjvrg2qjyqlmlcahqs2v9vzwx71r37fiwr8wjxb.nar.xz
+Compression: xz
+FileHash: sha256:0wi5z4yip7qynrjvrg2qjyqlmlcahqs2v9vzwx71r37fiwr8wjxb
+FileSize: 9972
+NarHash: sha256:1mqcaa1lza9xvzrsb7y0098q7gd1qqh8nzj7wrfsdb5z422mx376
+NarSize: 38936
+References: 
+Sig: grigio-jcode:5z/tMkg6+AHPl4S1I6UPGQtkLRLnTeWmC1Kb7J6hChLxzdmQIwXWGkR9cErSLme0Twf3xeBY6SLTgGvr3CdsBg==

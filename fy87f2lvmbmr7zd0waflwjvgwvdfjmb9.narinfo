@@ -1,0 +1,9 @@
+StorePath: /nix/store/fy87f2lvmbmr7zd0waflwjvgwvdfjmb9-cargo-package-web-sys-0.3.99
+URL: nar/1cb1blsps9y3yi1hv7nfi3jlg91ia1w3631qjkanwvqyghdm00ds.nar.xz
+Compression: xz
+FileHash: sha256:1cb1blsps9y3yi1hv7nfi3jlg91ia1w3631qjkanwvqyghdm00ds
+FileSize: 493756
+NarHash: sha256:1jpbl1f53rsy63ga36iiz83xgmsi0yz3qm3nsd35gvxql31qxk7q
+NarSize: 11439880
+References: 
+Sig: grigio-jcode:qW0RYPLuii7klBlGdh2E8YLLlax7nrYVphND9Z4hUDQKZumzYl4NTJ/0JFbg+LcZQcxx9hpRlBvWJNYZIcMQAg==

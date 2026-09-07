@@ -1,0 +1,9 @@
+StorePath: /nix/store/v3pkrz4b9r42lawlfa3ffn61d8innmsk-cargo-package-mail-parser-0.9.4
+URL: nar/00a18546cfqpqw4pksdxl89kjyr0g0759fhldx0mlnzzg1l157nv.nar.xz
+Compression: xz
+FileHash: sha256:00a18546cfqpqw4pksdxl89kjyr0g0759fhldx0mlnzzg1l157nv
+FileSize: 172236
+NarHash: sha256:1rwa76yhaz416cwq4sc0m8h29j6axlnmdri0yc5zadsvm5in4zgb
+NarSize: 4680256
+References: 
+Sig: grigio-jcode:jpxKFKvcLp3YXlmMkwu0jMs1uOx5J1kxRAkhIDPhbRtxf4f2X3UfptAZozP0X+CrCz4z9Z7ZAK/OKa4Q27c5Cw==

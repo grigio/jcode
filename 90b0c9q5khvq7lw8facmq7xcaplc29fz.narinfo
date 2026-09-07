@@ -1,0 +1,9 @@
+StorePath: /nix/store/90b0c9q5khvq7lw8facmq7xcaplc29fz-cargo-package-wezterm-bidi-0.2.3
+URL: nar/0w00grx61ji4cbd653y5ll40iy53i1rx9fmpvl3n32l5k2g21dhl.nar.xz
+Compression: xz
+FileHash: sha256:0w00grx61ji4cbd653y5ll40iy53i1rx9fmpvl3n32l5k2g21dhl
+FileSize: 58408
+NarHash: sha256:14gwg5psr55zqy836idvgxjjszqrl049x3ff6rksgkc3m46znf70
+NarSize: 370696
+References: 
+Sig: grigio-jcode:7Bjt/X60dLvRRTQYWBovLnH7rhy1crgBSav60thtx+gTHuZLP+7nxUIW7I5OKMlXyH3xjGq7SWAAWjoJNBfeCA==

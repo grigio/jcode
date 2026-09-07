@@ -1,0 +1,9 @@
+StorePath: /nix/store/xf3zyyv68m0hs3y3k2q37x8dy5vvv0rm-cargo-package-bitvec-1.0.1
+URL: nar/02mm8vx65520vg698jh5b5ks1002i7rshbngklfb84d7dkfb0kv9.nar.xz
+Compression: xz
+FileHash: sha256:02mm8vx65520vg698jh5b5ks1002i7rshbngklfb84d7dkfb0kv9
+FileSize: 170988
+NarHash: sha256:104ivhxbg4pfmwr245wn85prm6fvsk8cfdsdiihh0w4k7b1p5y25
+NarSize: 1075280
+References: 
+Sig: grigio-jcode:W5vaVVWQRSGmngy9pMocZENOkNenxPyMVSe6a1fFN2TI3yYjrp+oHDo44QoosSijNrF1BvR6GQxmkAq1vvJYCw==

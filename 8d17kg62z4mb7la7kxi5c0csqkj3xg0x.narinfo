@@ -1,0 +1,9 @@
+StorePath: /nix/store/8d17kg62z4mb7la7kxi5c0csqkj3xg0x-cargo-package-onig-6.5.1
+URL: nar/0njqbim6mlbqhb1crs26znafim74vslqg98bq8ilc1y2phj3i0a0.nar.xz
+Compression: xz
+FileHash: sha256:0njqbim6mlbqhb1crs26znafim74vslqg98bq8ilc1y2phj3i0a0
+FileSize: 27828
+NarHash: sha256:1kr5hb6hs12zwd2fvyfk20nk1gjazgy8hra29aa2vqwsdnyz6y43
+NarSize: 142808
+References: 
+Sig: grigio-jcode:euDpP0vjY4kdLMjmpkI3cEksTbHcDcok4HVFUf5+8WFblw79wlMH6a0FzEGGccPu36aSIrMv5M9mpld7n2qCCw==

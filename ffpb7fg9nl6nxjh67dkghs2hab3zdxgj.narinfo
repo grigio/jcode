@@ -1,0 +1,9 @@
+StorePath: /nix/store/ffpb7fg9nl6nxjh67dkghs2hab3zdxgj-cargo-package-image-webp-0.2.4
+URL: nar/0ml70zkf0smjhk0y38cgbvfci8kdmdc8rn0q7h55kmpwybz9rpfv.nar.xz
+Compression: xz
+FileHash: sha256:0ml70zkf0smjhk0y38cgbvfci8kdmdc8rn0q7h55kmpwybz9rpfv
+FileSize: 57332
+NarHash: sha256:0jyj8r1spi63cr5di854lrqlcmxz70admyxwkv954z1pvpp5f6nr
+NarSize: 326384
+References: 
+Sig: grigio-jcode:zEOao471aFM/eIUCFTaLmCM+yEdkSZjz0RULxpiIR6xXCJZtaXsiTVBktZ58ZO74Acb2AcPw3U5aYkRzAKMICA==

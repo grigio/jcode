@@ -1,0 +1,9 @@
+StorePath: /nix/store/1mldbgka2pcqpympq1xllfpaz9gby2b1-cargo-package-pin-project-1.1.11
+URL: nar/0r8xq2mb0d1sfwmqfck9gyx7brjsjz26sxy1340jr36hi2a7dqbi.nar.xz
+Compression: xz
+FileHash: sha256:0r8xq2mb0d1sfwmqfck9gyx7brjsjz26sxy1340jr36hi2a7dqbi
+FileSize: 42544
+NarHash: sha256:01ggf2qcyxz7j9fyr9l5f7rd0x8iv96d1m13gxpx7i7bjjwy1lzr
+NarSize: 499176
+References: 
+Sig: grigio-jcode:9tkE63zhGOMpCCZUmFhh2Ce4CvQ5kyFIE6YDyq/OyLAMTaywgubBFIwMpRpPkThNbetwQG49ehvyjHuQwICTCg==

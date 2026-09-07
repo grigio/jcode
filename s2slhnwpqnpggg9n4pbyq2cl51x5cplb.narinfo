@@ -1,0 +1,9 @@
+StorePath: /nix/store/s2slhnwpqnpggg9n4pbyq2cl51x5cplb-cargo-package-castaway-0.2.4
+URL: nar/00ilba9zr1797309810isd9nbpz1dx12d503d17vfz33k3sxf19p.nar.xz
+Compression: xz
+FileHash: sha256:00ilba9zr1797309810isd9nbpz1dx12d503d17vfz33k3sxf19p
+FileSize: 11624
+NarHash: sha256:02gfnv77jwvfxn10ijxivwvkavmkwii5v1d2l1h7mcmahqbppg7k
+NarSize: 47368
+References: 
+Sig: grigio-jcode:/LUjzN3WYo3hwefbCWFA/F892TRb9aSZw+2/xuv/WET1IU66JKYSvW/NV9t/Z/7OxU4KG50lIuG/KJjDdhpQAw==

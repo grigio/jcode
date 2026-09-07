@@ -1,0 +1,9 @@
+StorePath: /nix/store/9wn79bw5mxqx9yiaqbgkir98mzmphp7r-cargo-package-lru-0.16.3
+URL: nar/1h7nvh7jggx6gdbmcklwafm4v3zqqk447x76in064cmnqbi2hn7b.nar.xz
+Compression: xz
+FileHash: sha256:1h7nvh7jggx6gdbmcklwafm4v3zqqk447x76in064cmnqbi2hn7b
+FileSize: 14892
+NarHash: sha256:0q859damhr4pyw0qsnjxqalh09dsrspi222s7wgjhxgw3wb2xj8k
+NarSize: 109536
+References: 
+Sig: grigio-jcode:PFpooN8+crhLNJSBMWH4tuP2Br48RXqgenZy+H49pQNDRSX8iYIjjEXqaET85i/RLTeNLeFERm3hH4jeBu2/AA==

@@ -1,0 +1,9 @@
+StorePath: /nix/store/vky41na3cpiaai4f4rshdg54z8ix7hay-cargo-package-dary_heap-0.3.8
+URL: nar/1mhpwa6iqbdn73d7lw21n01vcn9p0yl0l6p57y3klk35sclfn5vr.nar.xz
+Compression: xz
+FileHash: sha256:1mhpwa6iqbdn73d7lw21n01vcn9p0yl0l6p57y3klk35sclfn5vr
+FileSize: 24112
+NarHash: sha256:04xyhjdzmv89qh4hqvlr1xjiay2h65908z34gsaphl4yclm0cyax
+NarSize: 102224
+References: 
+Sig: grigio-jcode:oyrcMli8u1UFA26peoyrYrG5rb8hn16icaESySceCwU3VNyFxNaE5l7JtDiDXCZ3vjENQb2/y6BhJf2aXNHhBA==

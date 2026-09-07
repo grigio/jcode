@@ -1,0 +1,9 @@
+StorePath: /nix/store/m6j02b6c4x27gfsqm26idh0kmfn6zw8l-cargo-package-linux-raw-sys-0.11.0
+URL: nar/18qavna1bib6rprbvc58fks8vr4ys1ciplnkk3ng4w0j6gi1r876.nar.xz
+Compression: xz
+FileHash: sha256:18qavna1bib6rprbvc58fks8vr4ys1ciplnkk3ng4w0j6gi1r876
+FileSize: 159368
+NarHash: sha256:0jcr0ryc85404adyilvmv7jzq6v0hsz7vbyv2br5p62l19sbpcz5
+NarSize: 14929616
+References: 
+Sig: grigio-jcode:XgqeWyrJgRImbf6hqqU530BZDKk4J6LEJa3ktLnRjiUo42QRmMa8rfZn0/8JOq0M843a/sqfEn9O83MjFVikDw==

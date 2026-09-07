@@ -1,0 +1,9 @@
+StorePath: /nix/store/c7d14ppq9xnahq6dadf8gggbfz8zqmm4-cargo-git-https-github.com-1jehuang-agentgrep.git-b01b804008ab0662fa14e6b60b10bff61716e6f1
+URL: nar/1p8bc06q07syhvr16c0xqkdy10dpmvpgg5w0yrxi629mqs7znzpm.nar.xz
+Compression: xz
+FileHash: sha256:1p8bc06q07syhvr16c0xqkdy10dpmvpgg5w0yrxi629mqs7znzpm
+FileSize: 12490128
+NarHash: sha256:15q77931avzm7mba36v98gyq112457xsylm5blkdfwdvn7wh2z4r
+NarSize: 13032568
+References: 
+Sig: grigio-jcode:GbgXRVswLZXaUFfz4OBSVYTkOI5s64e2i/1clSiFbtYqmNMsIx28SJjTTjqmPrzStyskMvIVT5XKxxTYaKcVCA==

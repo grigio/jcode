@@ -1,0 +1,9 @@
+StorePath: /nix/store/fa18kjs4da6q5glg5d7k9zdhpdwhv3b0-cargo-package-static_assertions-1.1.0
+URL: nar/1ll2kn6c3js1as8f6zfh7bvc2vq1mvgcl9awz178qv3lp9287lnz.nar.xz
+Compression: xz
+FileHash: sha256:1ll2kn6c3js1as8f6zfh7bvc2vq1mvgcl9awz178qv3lp9287lnz
+FileSize: 16528
+NarHash: sha256:0x1hygba6vljzx1ajqlrhf9b4ay41bd4spiawfj3rbq1i9w4p2n9
+NarSize: 68512
+References: 
+Sig: grigio-jcode:OGK7eCpwRbYcmgQONWEohZse7LvMuqWFsLNpa2YURrRodUGbpk4VF+U9zA2C44pyGoecS/AOj97tYnqD5PfODw==

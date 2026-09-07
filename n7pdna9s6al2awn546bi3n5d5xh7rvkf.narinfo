@@ -1,0 +1,9 @@
+StorePath: /nix/store/n7pdna9s6al2awn546bi3n5d5xh7rvkf-cargo-package-adobe-cmap-parser-0.4.1
+URL: nar/1j652wzw3glzv5kwy8xcb2kcmjgffcxg16viavzdllq05p3d7mrp.nar.xz
+Compression: xz
+FileHash: sha256:1j652wzw3glzv5kwy8xcb2kcmjgffcxg16viavzdllq05p3d7mrp
+FileSize: 3828
+NarHash: sha256:1rbbrk8j25szbshx9ncg74j58li9ndgyvivh1gwl58b4jp918vip
+NarSize: 16280
+References: 
+Sig: grigio-jcode:3OrzX1ESunKgRGWUEy2Sfbzk53JJBR0qTx43KpG9WzR8JKZZh9CX+1P5zDtOo+NFixuxGK86UCLdm8bmEjjUDw==

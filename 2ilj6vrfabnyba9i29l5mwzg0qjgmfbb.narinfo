@@ -1,0 +1,9 @@
+StorePath: /nix/store/2ilj6vrfabnyba9i29l5mwzg0qjgmfbb-cargo-1.97.1-x86_64-unknown-linux-gnu
+URL: nar/16agym4li0z89blz02ml748x7l7r8s9fzy138vjhi76qrhf5k245.nar.xz
+Compression: xz
+FileHash: sha256:16agym4li0z89blz02ml748x7l7r8s9fzy138vjhi76qrhf5k245
+FileSize: 11382104
+NarHash: sha256:1ygxsbg5mkd418ldmxcm8gwv15cs6ih80an38m6jvcyz2qbg9yvg
+NarSize: 43114008
+References: kw26hfd5b653cn2lm6yfh0q7y18d6d9l-gcc-15.3.0-libgcc l8si8gnvvq93yzms1jsgh5aixyf9rl5x-glibc-2.42-67
+Sig: grigio-jcode:JeUbASvW3f7n7wzOQ6lJH4TayNwX3X7Yq82ixdwlujbDIeBCNpLjzVikrUyUmavS11A20MN5NuIv38NnN+jGCQ==

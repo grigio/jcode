@@ -1,0 +1,9 @@
+StorePath: /nix/store/rzhf8z2f41c35dna0ifpn02alsy2xr49-cargo-package-untrusted-0.9.0
+URL: nar/0yaflcmy6iqyh1483p1rpn9rpvm28y2a97yszwzn7kwx64c9333b.nar.xz
+Compression: xz
+FileHash: sha256:0yaflcmy6iqyh1483p1rpn9rpvm28y2a97yszwzn7kwx64c9333b
+FileSize: 13452
+NarHash: sha256:1kmi0dgnch3iw68q66m6qv8a8ng9yxhr7jv3yxspzaghjkws3wkz
+NarSize: 48560
+References: 
+Sig: grigio-jcode:LTkrFcfKG1J3wjslMW/R+svgPNCXSkoFRLNAQUhaHfL1jEtY29noIOWruIQ4hYMIrBXTVkm6Pc6E4LhXBkYlDg==

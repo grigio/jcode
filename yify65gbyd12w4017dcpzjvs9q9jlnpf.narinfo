@@ -1,0 +1,9 @@
+StorePath: /nix/store/yify65gbyd12w4017dcpzjvs9q9jlnpf-cargo-package-ring-0.17.14
+URL: nar/036paq3jdc0zph914r63dd9dhq1ikdn20s4fgw58hhfifs3lpbya.nar.xz
+Compression: xz
+FileHash: sha256:036paq3jdc0zph914r63dd9dhq1ikdn20s4fgw58hhfifs3lpbya
+FileSize: 937688
+NarHash: sha256:0g8rbfwr70wp6my0l59r23hinm3bmc6m0mwwg89d028059ifdp9i
+NarSize: 7845624
+References: 
+Sig: grigio-jcode:LlMQ9g/gxdn4gGghZTbyizwvIbtsEnoQwzZ0Hr8gnn/bBHw/X6Ll7kL9yg+3GMBq1f0j6aVwAi/glTg373WjDw==

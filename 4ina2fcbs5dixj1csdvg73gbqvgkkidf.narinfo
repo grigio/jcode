@@ -1,0 +1,9 @@
+StorePath: /nix/store/4ina2fcbs5dixj1csdvg73gbqvgkkidf-cargo-package-quick-error-2.0.1
+URL: nar/09rvmq5rd5y7h3sr6bw84ndhxaf49pmncdhjaw5gd6n4pqg7a2s3.nar.xz
+Compression: xz
+FileHash: sha256:09rvmq5rd5y7h3sr6bw84ndhxaf49pmncdhjaw5gd6n4pqg7a2s3
+FileSize: 13208
+NarHash: sha256:0dacznrv6x5jz225jrgs77phspblhkjvz3rnahsa9zr0ppagjj2r
+NarSize: 66632
+References: 
+Sig: grigio-jcode:IEWanNYE8xignYDQtZJ7fFspA6suejBFE0bHGKjjVY97UnV2EObjlYwNBgojEv32+G5o8BcUvGaEm2GOV4VZAQ==

@@ -1,0 +1,9 @@
+StorePath: /nix/store/hyypjsf1h4rn7rm2cp8xvzy3xsvqbzgc-cargo-package-futures-sink-0.3.31
+URL: nar/0hm8i2fwswfvnmiga4rsh2n5vf1ig3kp33k9g8i799v23g683xhx.nar.xz
+Compression: xz
+FileHash: sha256:0hm8i2fwswfvnmiga4rsh2n5vf1ig3kp33k9g8i799v23g683xhx
+FileSize: 7572
+NarHash: sha256:1krr313g25g3w3qpf9n8b7w1vgc0py15n2482nx0lns4bi09ianf
+NarSize: 25448
+References: 
+Sig: grigio-jcode:Y9ug2fRp+awSx9KSJc94BCdpntsT2yQir8xgr/djax/cvd6H3WY0eZ25awIKW34Ghiek0fVA/DaAs1rZ8LnUDw==

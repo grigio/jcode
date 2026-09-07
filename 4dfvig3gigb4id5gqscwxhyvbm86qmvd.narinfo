@@ -1,0 +1,9 @@
+StorePath: /nix/store/4dfvig3gigb4id5gqscwxhyvbm86qmvd-cargo-package-similar-2.7.0
+URL: nar/1izgn67saa2zbzcrjqfns60r6cd83zg9zd3120jxznqq29hph5n1.nar.xz
+Compression: xz
+FileHash: sha256:1izgn67saa2zbzcrjqfns60r6cd83zg9zd3120jxznqq29hph5n1
+FileSize: 44140
+NarHash: sha256:1xi7fs662qb05655x63az22r62d9q9ynzsh55dlabkrjka7r566z
+NarSize: 263144
+References: 
+Sig: grigio-jcode:4mXRU4nJLx+kDGlI/xxg7aV8YcPdx3CA1yKgQvdZ5tj9lQaxGQtVP3BFLO2S0Ym785/cGELLwrP9V1ardmQSDA==

@@ -1,0 +1,9 @@
+StorePath: /nix/store/im7fjf5p5csc5g7h11fj1awh8h5z22wf-cargo-package-filedescriptor-0.8.3
+URL: nar/03x6pqj1niv0my5676xvh8vg4dr846a0d0lqf8kcppdf7sdgdnz0.nar.xz
+Compression: xz
+FileHash: sha256:03x6pqj1niv0my5676xvh8vg4dr846a0d0lqf8kcppdf7sdgdnz0
+FileSize: 11676
+NarHash: sha256:1j91hx91dxq6870cbsd4w109sz6vqd4bs1wkyrqrvdwimb0j29lm
+NarSize: 59616
+References: 
+Sig: grigio-jcode:bPt5+Hkx/Sw5poe+/c3qnPxt6khw092y8LPuP2FSJ58kaomIZuUUa58m/EVjmDaj4HhUb1jH8C/R8cFKhdbIAg==

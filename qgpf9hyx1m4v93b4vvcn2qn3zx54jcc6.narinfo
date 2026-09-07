@@ -1,0 +1,9 @@
+StorePath: /nix/store/qgpf9hyx1m4v93b4vvcn2qn3zx54jcc6-cargo-package-time-core-0.1.8
+URL: nar/069y3mkml6hmhnv1dxpyvabcr2mb3sqvhc01mc4a5fqzy7wgdd2x.nar.xz
+Compression: xz
+FileHash: sha256:069y3mkml6hmhnv1dxpyvabcr2mb3sqvhc01mc4a5fqzy7wgdd2x
+FileSize: 8944
+NarHash: sha256:0672g5fpi5rvkr5fv8wrhaf8q1x8vbqa7sqdiaf6nqwdff97vgja
+NarSize: 32544
+References: 
+Sig: grigio-jcode:KuCGTTj99euQTcjibJz48DjiZSTH/aVBopfIL+GRWv6OVjeM/xrs6dB2IWFq+60qJG6MzRhy+GY3Y+Mekxp0Aw==

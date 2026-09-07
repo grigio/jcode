@@ -1,0 +1,9 @@
+StorePath: /nix/store/msdz2xgb8gy5gjg70q380vamaf58fg13-cargo-package-zerocopy-derive-0.8.33
+URL: nar/07sz66zmxn5k5vj8c7mbwf6n5ad8kqgp4anx7hr4jb7f24lz880d.nar.xz
+Compression: xz
+FileHash: sha256:07sz66zmxn5k5vj8c7mbwf6n5ad8kqgp4anx7hr4jb7f24lz880d
+FileSize: 63400
+NarHash: sha256:1s5gwhr3s16i035zy4v3v3s0z2vwyzf07vhbawddvrzrkmd104pg
+NarSize: 818008
+References: 
+Sig: grigio-jcode:qrnhdfIx4u3zFBnlmh8FwACcW13Y5GMZFruRv+yyWn+DI24stMxb70TQ5YbeK3cKKtDA9/bqO/onTuoOrbibDQ==

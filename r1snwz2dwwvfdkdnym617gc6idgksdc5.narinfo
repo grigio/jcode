@@ -1,0 +1,9 @@
+StorePath: /nix/store/r1snwz2dwwvfdkdnym617gc6idgksdc5-cargo-package-pico-args-0.5.0
+URL: nar/1zqp0chk7v4yw7146q91141chg97abbj21xl8w92p0fwydvqgx59.nar.xz
+Compression: xz
+FileHash: sha256:1zqp0chk7v4yw7146q91141chg97abbj21xl8w92p0fwydvqgx59
+FileSize: 10800
+NarHash: sha256:09msyn7g06b3mda0jk5697cfcj1s8lygsixwlf5m6abb79vpp2ia
+NarSize: 58744
+References: 
+Sig: grigio-jcode:Sqywm6rAV/xBKqgeVYz8ixnsgERJeKTgYMleLKg3X2cdGBR0/nRVpy7oBhaKFXzbM7MGmfcRoLDStLny+by7Aw==

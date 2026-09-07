@@ -1,0 +1,9 @@
+StorePath: /nix/store/fnwjfp11vzgihf8yav36kalx3iwx62r5-cargo-package-slab-0.4.11
+URL: nar/0m4mqd6g18vdbbq06ywk68mv466gg0zsqxnpcd34pvvgahjwxl3v.nar.xz
+Compression: xz
+FileHash: sha256:0m4mqd6g18vdbbq06ywk68mv466gg0zsqxnpcd34pvvgahjwxl3v
+FileSize: 16900
+NarHash: sha256:17c5ilkc22slj6v8yy2w3zd4hld7yxgv0w8zsk1l2822wv06w3z9
+NarSize: 82152
+References: 
+Sig: grigio-jcode:QcV9u99TN06y17w3gKl8pOuGpCeRQUZabE6UTys6MuZY1vaY/YWTrAlSvHDdDZBt04K2nLBWub9z/jQlHxM8CQ==

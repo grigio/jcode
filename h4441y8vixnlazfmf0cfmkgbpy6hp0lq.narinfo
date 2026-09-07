@@ -1,0 +1,9 @@
+StorePath: /nix/store/h4441y8vixnlazfmf0cfmkgbpy6hp0lq-cargo-package-dispatch2-0.3.0
+URL: nar/0abnr5srp7wf06phk0k2mzzxj7vysip6bfgjdlgk08mh2cn8rl6b.nar.xz
+Compression: xz
+FileHash: sha256:0abnr5srp7wf06phk0k2mzzxj7vysip6bfgjdlgk08mh2cn8rl6b
+FileSize: 45320
+NarHash: sha256:072m1qh0chvg6q5ilwhbdnahk5nwnq1n6cwp71wci47b29c4kln6
+NarSize: 294272
+References: 
+Sig: grigio-jcode:aumB+MxKkBY08xQhnx6cmzT3+MqgiTwWQcMgdwYjy8q1T69+QSCpuJFHa9qdI896sgstTbUxB6VVVflzOGfNAw==

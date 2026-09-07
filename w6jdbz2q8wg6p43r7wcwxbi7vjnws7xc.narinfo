@@ -1,0 +1,9 @@
+StorePath: /nix/store/w6jdbz2q8wg6p43r7wcwxbi7vjnws7xc-cargo-package-bitflags-1.3.2
+URL: nar/1a4wdrx0x7vyhm9nqy2ldk68y15whn3mxqhzminp4sg0m523lpml.nar.xz
+Compression: xz
+FileHash: sha256:1a4wdrx0x7vyhm9nqy2ldk68y15whn3mxqhzminp4sg0m523lpml
+FileSize: 20524
+NarHash: sha256:152v3wpd6y29vn5gy1d2k47vzbwqyjkjn18ds79kcyczkk73pypz
+NarSize: 106256
+References: 
+Sig: grigio-jcode:ISVvCau9VG/vHElsTJO8MzugIqmYCLf9YmqzdxInSczS4JP8QwMQLOq0zZG4abhvy9Zx/7LNYcOs0l20+2APBg==

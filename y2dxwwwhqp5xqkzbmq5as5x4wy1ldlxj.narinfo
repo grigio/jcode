@@ -1,0 +1,9 @@
+StorePath: /nix/store/y2dxwwwhqp5xqkzbmq5as5x4wy1ldlxj-cargo-package-encoding_rs-0.8.35
+URL: nar/07ikylw80qx4iz1nm7khxgzaig2vqp12mv5862hs7rhiv0cx2qvf.nar.xz
+Compression: xz
+FileHash: sha256:07ikylw80qx4iz1nm7khxgzaig2vqp12mv5862hs7rhiv0cx2qvf
+FileSize: 434044
+NarHash: sha256:0yy2hacafivfx00vwdazb1wzv8fzwq8arpyhdbllrlzyys8km2y7
+NarSize: 5093488
+References: 
+Sig: grigio-jcode:+KclpM64NCq3KwnXRY6lxXUo/7QDstUze9bQm/M/13exnEDwLA8eZxuWUzhLJiIHs7JkVw0jT/jEHmBKnZxfCA==

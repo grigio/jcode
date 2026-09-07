@@ -1,0 +1,9 @@
+StorePath: /nix/store/9q284bcg9jr5hd5537i7v9n2ngqm1dq8-binutils-wrapper-2.46
+URL: nar/19cy3h9hpy3lsli912bzyz8x6qvqiyl30f5ky7sfvz9zhg1sym6w.nar.xz
+Compression: xz
+FileHash: sha256:19cy3h9hpy3lsli912bzyz8x6qvqiyl30f5ky7sfvz9zhg1sym6w
+FileSize: 8264
+NarHash: sha256:1zc15jfs7glra417i1kxfqjs5727i3w29sfjybpq6yz3sfyhggv6
+NarSize: 56672
+References: 9q284bcg9jr5hd5537i7v9n2ngqm1dq8-binutils-wrapper-2.46 b01rwyg0ii5v8r50yrikcs5af64x0v0q-binutils-2.46 c9mv5v53f7vy3wd00ah0f77k509mzmn7-bash-5.3p15 l8si8gnvvq93yzms1jsgh5aixyf9rl5x-glibc-2.42-67 m2v7vwf2fvgylww97i34kc34z2yxv4h1-glibc-2.42-67-dev mp8s10fwm685azvvv1qq7zyf7iajjlj8-coreutils-9.11 vq96535799nsn8cgs2khhpm8blc02kpb-expand-response-params wnkmdd3nm0af5lxgwq1h4v52y6mdl4vj-glibc-2.42-67-bin
+Sig: grigio-jcode:6P2ADQPhgMmzUA7v0AUuvKeQPqZcYnV8LpNfLCwdRj60bwJSIdwNNccykT5bKZW1oRv7hkWgQrWfuQeN4YKcBg==

@@ -1,0 +1,9 @@
+StorePath: /nix/store/cqxhgd7sa38z2k9qyyxb3w9145v5cn9w-cargo-package-quinn-proto-0.11.15
+URL: nar/0hdki20cc7384szwj9bqicbajjd5lk1jlgkzgzljy775y22rfqyj.nar.xz
+Compression: xz
+FileHash: sha256:0hdki20cc7384szwj9bqicbajjd5lk1jlgkzgzljy775y22rfqyj
+FileSize: 191484
+NarHash: sha256:1ifg6hdhy07xc7gvncx0bbkrjqhzfrg2w992fwc07vx9xq02p90x
+NarSize: 1109648
+References: 
+Sig: grigio-jcode:INQWwpl1mTKP4PaYexc6UK7kzYK9I3x+z4xrtC59D6zSEtyj8K6bwejRL+gcAF7/Ab135dw8dkNqQJNoec7rDQ==

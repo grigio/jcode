@@ -1,0 +1,9 @@
+StorePath: /nix/store/hnjwmwixscq6k9a1n466b4f0qvz5gmms-cargo-package-anstyle-parse-1.0.0
+URL: nar/1a2rp878xrijgfbas20gdmxmv2nvqbsqrcsa39r3qqf0yv2dxh2c.nar.xz
+Compression: xz
+FileHash: sha256:1a2rp878xrijgfbas20gdmxmv2nvqbsqrcsa39r3qqf0yv2dxh2c
+FileSize: 19648
+NarHash: sha256:1am4iarmxs8yvjz87phcbghv7yjj84jxhm5m8y74vxqwz8q72yqa
+NarSize: 108240
+References: 
+Sig: grigio-jcode:iU49hP8mu3F7HNrgQHmihtUeVzB9Nire3DCtI0jClPTDWL68mPEK1NW+letN2L4EzUAv+9IY5/1tiEHC+P6oCA==

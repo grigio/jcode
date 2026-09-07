@@ -1,0 +1,9 @@
+StorePath: /nix/store/c1d6125yyr9v46lwl6chigs9aq5018ch-cargo-package-tokio-macros-2.6.0
+URL: nar/09f79l3b63nnd6f3hcg6gvsacdabf66yzik6r4cm1h1yxqbz4xfk.nar.xz
+Compression: xz
+FileHash: sha256:09f79l3b63nnd6f3hcg6gvsacdabf66yzik6r4cm1h1yxqbz4xfk
+FileSize: 14912
+NarHash: sha256:0082w681b3q9h4ydy108s1rk4r1bsrrd8bdgxf5y7mm15z56qbrn
+NarSize: 68080
+References: 
+Sig: grigio-jcode:D4IHslLLMO/6QFFGD+6zxxTezxN+LmN1OTo+9PrqbsTtmeFIJxUyGtfFfk4YN+kFqmPJr4GqOQz6DDAI3/vxCA==

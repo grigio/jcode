@@ -1,0 +1,9 @@
+StorePath: /nix/store/89h7b2c5qxxnal8djc5568h2j1fs3s3d-cargo-package-dyn-clone-1.0.20
+URL: nar/1qzvqcyjbsmjk1p2pjqq0x3dllnrl4cjpczyin2g6yplg6wan2s9.nar.xz
+Compression: xz
+FileHash: sha256:1qzvqcyjbsmjk1p2pjqq0x3dllnrl4cjpczyin2g6yplg6wan2s9
+FileSize: 11972
+NarHash: sha256:1cx5zawq9ajn31ypm7k3j5pqzrymgvyz8h2svvg1sji779qs0ylj
+NarSize: 49536
+References: 
+Sig: grigio-jcode:pVO5s6nZKiqhmjSqY+j+pBUYSHazsRDJHIqwSGgKNTSH07lJWzeMtM3kUHcPLPFQvp73Hh20wD/4Jq9cbNlNBQ==

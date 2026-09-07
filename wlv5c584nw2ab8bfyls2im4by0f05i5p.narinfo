@@ -1,0 +1,9 @@
+StorePath: /nix/store/wlv5c584nw2ab8bfyls2im4by0f05i5p-cargo-package-tinystr-0.8.2
+URL: nar/16il4g86cjfn130qjbjkxmk538a5229jmsisjqv81s1q9xj2gfkq.nar.xz
+Compression: xz
+FileHash: sha256:16il4g86cjfn130qjbjkxmk538a5229jmsisjqv81s1q9xj2gfkq
+FileSize: 20024
+NarHash: sha256:16mna3ia3xpn12si72vhdbfqv2xys0y8138mskr6i1fpj79dglqm
+NarSize: 116736
+References: 
+Sig: grigio-jcode:Kl+PfQnIR73MJw98/jcqqfY7p+9ndn3FwX/QMh4v97+bjHeV/5v+QHRJS3Z3eIga45qWb/MZOfSYKFs4qpbjCA==

@@ -1,0 +1,9 @@
+StorePath: /nix/store/iy11w2qxslpp1rm6d7p2xxgkvrfyrpmc-cargo-package-want-0.3.1
+URL: nar/13nq24smnni43jflqg1bmn919j7kf1kh8h73w0iv5paarw2wvgzn.nar.xz
+Compression: xz
+FileHash: sha256:13nq24smnni43jflqg1bmn919j7kf1kh8h73w0iv5paarw2wvgzn
+FileSize: 6188
+NarHash: sha256:076ip92vy1fm6h1414pazv65lba1vf690pn6aii6iijy98m2czky
+NarSize: 22736
+References: 
+Sig: grigio-jcode:MIa5qo9UKmMA3dvZ1kW8dIlAPYHRFfP6jvf5Bn02JxPc9n5VjfEQ3FqkbH5sF5SKfymasUpu6goTiT2WXmooCw==

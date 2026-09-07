@@ -1,0 +1,9 @@
+StorePath: /nix/store/kr24grzi2ggzaalyf74n9h46f8digqky-cargo-package-rand-0.9.3
+URL: nar/03p089vpysvydxsk7jxxdslvvdq35x4v68c2r5f1qr0j8qkhwv9l.nar.xz
+Compression: xz
+FileHash: sha256:03p089vpysvydxsk7jxxdslvvdq35x4v68c2r5f1qr0j8qkhwv9l
+FileSize: 82920
+NarHash: sha256:02pin2f3b0bgqakcpipslfhqg16x22r0hbjcdkykasa1qdiajika
+NarSize: 419000
+References: 
+Sig: grigio-jcode:t9/YJgYrwe3U8OzD4dM/2eQTkkihf9oeu/289+mgxpVLzPGMpnHPzLlBnMsVGBaIXpa9UsTtzYT/Kys2/UvsAA==

@@ -1,0 +1,9 @@
+StorePath: /nix/store/agnc1nak6z041nq0q364mmd0x6bwc4kx-cargo-package-objc2-user-notifications-0.3.2
+URL: nar/0y45d6dd1gghba8dgdd7fdlvmk1rzqjjh2cjx4dc5isz8b13nk2a.nar.xz
+Compression: xz
+FileHash: sha256:0y45d6dd1gghba8dgdd7fdlvmk1rzqjjh2cjx4dc5isz8b13nk2a
+FileSize: 11000
+NarHash: sha256:055g63l91cfmcpxplpkr9yiv9nb0ba66ggcb1jfqkxhfg8f7mlds
+NarSize: 102352
+References: 
+Sig: grigio-jcode:chPOEkIsDIhrI9cpiImYFmFDeewrD3G11zsdQ/ovZM/UOoZ6WxUK92Qc9tF3V2R4ICzvKlvMmybAq9EZLpKbDA==

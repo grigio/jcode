@@ -1,0 +1,9 @@
+StorePath: /nix/store/6qgbk7bjikf7s65bcsqrq3lmk74j1ybh-cargo-package-aws-sdk-ssooidc-1.105.0
+URL: nar/0ad3zsp3dj7d631p1za8pzm8dc4wm3q70nijrvz6ll7mflykzxcq.nar.xz
+Compression: xz
+FileHash: sha256:0ad3zsp3dj7d631p1za8pzm8dc4wm3q70nijrvz6ll7mflykzxcq
+FileSize: 75284
+NarHash: sha256:15fv1wj4a5948irnm6kh675zsa7ifvqjv0n33viayrjvvhvi24kz
+NarSize: 870784
+References: 
+Sig: grigio-jcode:z5fhK3ysufSlyJZIV0pPJaXY7N25OZTDskKsMDwzC4aa7O48lK4M7E8cIE0TT1hnUYaPzIZcB2k1W+WlTCFGAA==

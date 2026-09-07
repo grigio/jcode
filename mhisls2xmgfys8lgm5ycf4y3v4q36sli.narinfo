@@ -1,0 +1,9 @@
+StorePath: /nix/store/mhisls2xmgfys8lgm5ycf4y3v4q36sli-cargo-package-unicode-ccc-0.4.0
+URL: nar/1d4rczgr0lij8vsglwzfv7gsj9zaq2jpljp6wcbfp2ahcmvv3fga.nar.xz
+Compression: xz
+FileHash: sha256:1d4rczgr0lij8vsglwzfv7gsj9zaq2jpljp6wcbfp2ahcmvv3fga
+FileSize: 7900
+NarHash: sha256:1cdd86n0yavxk72r4xzjzlcr2fx0g2a4632f8rg5arbpkvyspmn0
+NarSize: 31992
+References: 
+Sig: grigio-jcode:6igYFCL6BrEPzW+eTwWojTjuumUrviIAILL/wOJ7YH8uHgh4HzxLpfh3OGkFubNLGFfO0DqN7gXEx8uHBGCOAg==

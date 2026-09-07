@@ -1,0 +1,9 @@
+StorePath: /nix/store/03m7hqk1ncd4rf8c94a164akajywpdx3-cargo-package-pest_generator-2.8.5
+URL: nar/0znxx653w9s6rmsls4hnyzwaknbxhlajh0agqddcsd8k79sh4l8g.nar.xz
+Compression: xz
+FileHash: sha256:0znxx653w9s6rmsls4hnyzwaknbxhlajh0agqddcsd8k79sh4l8g
+FileSize: 16560
+NarHash: sha256:14lvxvmd60b3wi7g53z6nxzv9bi92cx5x8jpr3nyq37wba0q4cjs
+NarSize: 86800
+References: 
+Sig: grigio-jcode:vDf4Z54995mHPiOYz3oAKYcdq6SZX/yLLwEnuMyqxRY+4UVIYDwtYpkbPrbOFJ/A1uEBcIdPqDa1LfRHRMs+DA==

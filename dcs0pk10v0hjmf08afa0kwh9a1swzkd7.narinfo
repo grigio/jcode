@@ -1,0 +1,9 @@
+StorePath: /nix/store/dcs0pk10v0hjmf08afa0kwh9a1swzkd7-cargo-package-anyhow-1.0.100
+URL: nar/033fmdia6x4gww28rqbwz6piyp68fw2kc9db6y7cr6v4vi8mcms3.nar.xz
+Compression: xz
+FileHash: sha256:033fmdia6x4gww28rqbwz6piyp68fw2kc9db6y7cr6v4vi8mcms3
+FileSize: 44920
+NarHash: sha256:1qhfbnc06b0v0c1fkp1y5xy7w65hzakf64a6imgv494cq3j3kr4a
+NarSize: 279304
+References: 
+Sig: grigio-jcode:6yUPbp1FutEbchtYsuaP1Y1wd5/bDc6FtJjIyGwhEkJq1GUhYmq6wXxfFSblEIq7zKN8yfNN03sfQLwH4k8ZCw==

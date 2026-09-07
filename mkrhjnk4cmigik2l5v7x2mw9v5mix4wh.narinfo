@@ -1,0 +1,9 @@
+StorePath: /nix/store/mkrhjnk4cmigik2l5v7x2mw9v5mix4wh-cargo-package-rustls-platform-verifier-0.7.0
+URL: nar/10g4g03cyz530lf2qdkqnrd32s5bgsa8nljkpxcbxn733wmrprix.nar.xz
+Compression: xz
+FileHash: sha256:10g4g03cyz530lf2qdkqnrd32s5bgsa8nljkpxcbxn733wmrprix
+FileSize: 50496
+NarHash: sha256:16akh6krz2jj6dcwwgwlax7xjahm293lz6il7a6639q8yb4dgla6
+NarSize: 201824
+References: 
+Sig: grigio-jcode:jVV9P+MTtYSgwQm8FmQmGl6m4B0nMK/3HC4yfMPAtG3mYA/svq3lMBX8YRmJKnuHy5m0wEPR+ePdEbS8fRaqAA==

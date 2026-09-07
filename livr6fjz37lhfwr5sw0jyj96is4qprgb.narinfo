@@ -1,0 +1,9 @@
+StorePath: /nix/store/livr6fjz37lhfwr5sw0jyj96is4qprgb-cargo-package-ref-cast-impl-1.0.25
+URL: nar/0wdpfaw2c6dwqwn68xnwjccxm7xrl2ac10zyhjyg5psxiin8yzwc.nar.xz
+Compression: xz
+FileHash: sha256:0wdpfaw2c6dwqwn68xnwjccxm7xrl2ac10zyhjyg5psxiin8yzwc
+FileSize: 9572
+NarHash: sha256:0hzfwzdh2bfanpqlmmqbgdhb3zdwzdpbbb27zld8mqaw2vxi7wh2
+NarSize: 34232
+References: 
+Sig: grigio-jcode:vzq7/NzhzPl0Iht+MQjFQpEo6DAdJP+x8wHV3m5GPXLNjYoXF2X65vE5kJSint37AQWH+fyB9DZVudc1WZZfAw==

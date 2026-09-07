@@ -1,0 +1,9 @@
+StorePath: /nix/store/m48hwd0wply82d2y276js8h2rhg3fcbr-cargo-package-serde_yaml-0.9.34+deprecated
+URL: nar/0pc4l7df0wv86km6q9waw7rbhnrknxz16m49ms314v897ddhjizh.nar.xz
+Compression: xz
+FileHash: sha256:0pc4l7df0wv86km6q9waw7rbhnrknxz16m49ms314v897ddhjizh
+FileSize: 52804
+NarHash: sha256:08nig6wgybq34l65aa4gixmlfgcyqw4xapvpk3av2c0pxiqxbk0q
+NarSize: 410232
+References: 
+Sig: grigio-jcode:bGxI3tdVG6S9Vd1NUAfnw2CWaBZr5kAuvDyp9iK6ezEl1A3n12f80nvIZlLm01mAVkTeyCAexDgVKX6Fm1ZdDA==

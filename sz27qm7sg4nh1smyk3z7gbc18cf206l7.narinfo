@@ -1,0 +1,9 @@
+StorePath: /nix/store/sz27qm7sg4nh1smyk3z7gbc18cf206l7-cargo-package-tract-pulse-0.23.4
+URL: nar/0nb6xxn2z160rhihbp2725qss49dj06zdxvllvlri6f1l4hz1p4r.nar.xz
+Compression: xz
+FileHash: sha256:0nb6xxn2z160rhihbp2725qss49dj06zdxvllvlri6f1l4hz1p4r
+FileSize: 57872
+NarHash: sha256:0cqgzvzzzijgam2cia7vc5hja4piffpqr2k0090ah349cdz716bs
+NarSize: 275712
+References: 
+Sig: grigio-jcode:C+7hnR5um9E+ZRKmBYbu/ohcPC5gv0bQe5tEW3hbMXBwqpKmTx4swbR4ux5Obhheomvhj7npdzPFuq5n0i2oBA==

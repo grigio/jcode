@@ -1,0 +1,9 @@
+StorePath: /nix/store/yf9c8rxzzjaqqczfyskx76gvh2kmc571-cargo-package-mio-1.1.1
+URL: nar/1r86q9rmy2y0l2lss69f6w0wqxxpm2r7cxymniiblg1v5zgx4gz8.nar.xz
+Compression: xz
+FileHash: sha256:1r86q9rmy2y0l2lss69f6w0wqxxpm2r7cxymniiblg1v5zgx4gz8
+FileSize: 82696
+NarHash: sha256:091v8nz8r7mzs1fqbnkhbfh6i4rwvhic4r579l8qz53xlq2fn0a5
+NarSize: 491008
+References: 
+Sig: grigio-jcode:8ohpxRf/Dn8twNqohWSIhwLChGqrNs6Ym4sJO5FsfTg/JSYwqY+bEqBuSFtzKGj7haLujbIvNmpL/c61YmDWCg==

@@ -1,0 +1,9 @@
+StorePath: /nix/store/11n6incd30a15xdcrafh8r9wj4hbgx03-cargo-package-zune-jpeg-0.5.11
+URL: nar/1h7mlfbldwqah3i8j4hsadpizbfszf113xj94irr5n6r6bsa62d5.nar.xz
+Compression: xz
+FileHash: sha256:1h7mlfbldwqah3i8j4hsadpizbfszf113xj94irr5n6r6bsa62d5
+FileSize: 69924
+NarHash: sha256:0dly1gmka1vgfydzbm5p4miggmjxyx9j69vzhsk6i4w4fckclgr0
+NarSize: 368336
+References: 
+Sig: grigio-jcode:S3q8VENUl6DRcLBAhhCHQQPbs61Ko71FDa4i6ecRugM/jatsWODZOTmN4uldm0PUXC/0cNY7Tua3nMK7gR0tBw==

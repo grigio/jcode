@@ -1,0 +1,9 @@
+StorePath: /nix/store/kljqqn8cppr851blv2v6szqcp2d3vr8b-cargo-package-walkdir-2.5.0
+URL: nar/0pslgnmdsxmlcyls23b3s6wvlcsgi3l0gxyvrsdxhjzf54bgpsff.nar.xz
+Compression: xz
+FileHash: sha256:0pslgnmdsxmlcyls23b3s6wvlcsgi3l0gxyvrsdxhjzf54bgpsff
+FileSize: 21524
+NarHash: sha256:1vnq25j87kjccw6apj4ckfd2hl3wvmxf8vldpqjqf3bf7nii8y82
+NarSize: 117632
+References: 
+Sig: grigio-jcode:XOPvxKbre3SUm3R3oTIepeiDMhIAzzFdFI64MX4HwwQsj4/q/LSGVRr651uOhSlOFZqC3BLrrxk1JpkRH+dtDg==

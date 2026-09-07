@@ -1,0 +1,9 @@
+StorePath: /nix/store/vip5wv5dl0m8cgz1dnv4aqmffqlnpkv0-cargo-package-hex-0.4.3
+URL: nar/0xq34j75mkgyzj7491q8j45q0f7r7ijs57r2ckid1zsjgm5jcnym.nar.xz
+Compression: xz
+FileHash: sha256:0xq34j75mkgyzj7491q8j45q0f7r7ijs57r2ckid1zsjgm5jcnym
+FileSize: 12360
+NarHash: sha256:0i23nd04gjqrwqfzpn87dcj9wgwz0hm0rx30nc7fp032iqd5hlhc
+NarSize: 46992
+References: 
+Sig: grigio-jcode:YvS5U2PoFlfUIs17imh6Edy2wG7aRYLeL4k1QNnaISLphn78kz8e1sf3GcJuWDoZRv9jFF6Y/SryOEUNjqDUBw==

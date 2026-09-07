@@ -1,0 +1,9 @@
+StorePath: /nix/store/44wvh1zw52f477gz2x9dnv441b8r00ap-cargo-package-combine-4.6.7
+URL: nar/1i23hvim78lqrl0n357xbk5457qwpxb5bcaxbr8306ln51pdhzl5.nar.xz
+Compression: xz
+FileHash: sha256:1i23hvim78lqrl0n357xbk5457qwpxb5bcaxbr8306ln51pdhzl5
+FileSize: 108776
+NarHash: sha256:098zgmamk32s1kn0vqy6hdqgsz0mr8xc7i5wlydwlfhpq0pyhids
+NarSize: 732016
+References: 
+Sig: grigio-jcode:fmEjqEaVGwkleV8Iw/csNqgi+XFCp/4PkItoveb9dB9DRbjsqiIcqd1Af4oNHH2l0z5QyzwTOldX6zOjs9L/AQ==

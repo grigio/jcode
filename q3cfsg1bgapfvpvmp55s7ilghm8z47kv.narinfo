@@ -1,0 +1,9 @@
+StorePath: /nix/store/q3cfsg1bgapfvpvmp55s7ilghm8z47kv-cargo-package-fontdb-0.23.0
+URL: nar/1k04r7ka4qhdzj9833mja18px5px3zywpb0ph6pqgg3mrm4ls44k.nar.xz
+Compression: xz
+FileHash: sha256:1k04r7ka4qhdzj9833mja18px5px3zywpb0ph6pqgg3mrm4ls44k
+FileSize: 89240
+NarHash: sha256:05bl15ixdprq7a6cwl01x9y2kn67crsv4mqm6040ld1dbp5cv1jv
+NarSize: 247560
+References: 
+Sig: grigio-jcode:Kvhwa8rc7tQ3VAqIidfei/u7zevSydxJcnsJ1TL04TKE2R3bUCvoXG6Ki3OWCZwyFuQ2TtzZWskX/uqH1oZfDQ==

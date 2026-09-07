@@ -1,0 +1,9 @@
+StorePath: /nix/store/0254f6w4vwdch89p31gkw5hv55rj83s8-cargo-package-aws-smithy-runtime-api-1.13.0
+URL: nar/1pvjcjrnskxqma2sl3hdclqfp192rxphd8nq555waj2c0k9flm1a.nar.xz
+Compression: xz
+FileHash: sha256:1pvjcjrnskxqma2sl3hdclqfp192rxphd8nq555waj2c0k9flm1a
+FileSize: 68176
+NarHash: sha256:133fw6k0sq4635q8vkqfb2qcvr5f5npknj6v69rc81nxkwx70qjv
+NarSize: 441352
+References: 
+Sig: grigio-jcode:9ZpnTeUB3uy/fZHqXpCEClem8RknUec8zgHhZfZ6vskhMoMfBtsjdAaVK9ufW3NiEldIaJZRqPJtxtq+4iDXAQ==

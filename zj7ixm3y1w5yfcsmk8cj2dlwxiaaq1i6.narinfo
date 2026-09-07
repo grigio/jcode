@@ -1,0 +1,9 @@
+StorePath: /nix/store/zj7ixm3y1w5yfcsmk8cj2dlwxiaaq1i6-cargo-package-const-oid-0.10.2
+URL: nar/09962lqn5vgsidy3lks8yg0aylh9d72ncj4j4qmgxkhmp6riq9g1.nar.xz
+Compression: xz
+FileHash: sha256:09962lqn5vgsidy3lks8yg0aylh9d72ncj4j4qmgxkhmp6riq9g1
+FileSize: 49632
+NarHash: sha256:1pmkx48fcs7g09d5zgnh2cl7ywncj80jkvcwvasac74154g1z79n
+NarSize: 377848
+References: 
+Sig: grigio-jcode:w3fay1Pu+GHSsrUCwb3ljtmVByazpG/oFnQBaEDQw8Hj73ceDR9LPMZ9UBjiHqr21Vzk7a60rVSiUjfcITUoAQ==

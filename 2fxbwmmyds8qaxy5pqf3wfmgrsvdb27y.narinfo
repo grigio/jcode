@@ -1,0 +1,9 @@
+StorePath: /nix/store/2fxbwmmyds8qaxy5pqf3wfmgrsvdb27y-clippy-preview-1.97.1-x86_64-unknown-linux-gnu
+URL: nar/1cbay5lnbvbn20qmmg4pmy9sb07nphhp808nd5rzr4a9vcz9k02m.nar.xz
+Compression: xz
+FileHash: sha256:1cbay5lnbvbn20qmmg4pmy9sb07nphhp808nd5rzr4a9vcz9k02m
+FileSize: 4969156
+NarHash: sha256:0xkrsa22z60q55cxwndgvk8nwwrcab5i61pai9p40r8a8vcy4zsx
+NarSize: 23914512
+References: 3plxk0qjyx3hx0wnswrpnrgg4d4lw96b-rustc-1.97.1-x86_64-unknown-linux-gnu kw26hfd5b653cn2lm6yfh0q7y18d6d9l-gcc-15.3.0-libgcc l8si8gnvvq93yzms1jsgh5aixyf9rl5x-glibc-2.42-67
+Sig: grigio-jcode:SlNECQaQ30/xDqoSViKc5avViBWTaueBgVABIRJD8mJ+MkmqayQuiPbIdK1Nlm6niHXXcvdz9PubG7Owf2/ZDg==

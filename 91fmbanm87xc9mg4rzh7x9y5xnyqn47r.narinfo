@@ -1,0 +1,9 @@
+StorePath: /nix/store/91fmbanm87xc9mg4rzh7x9y5xnyqn47r-cargo-package-toml_datetime-0.6.3
+URL: nar/0i05kmzbgz0r7z9sls2c4567myzqd6gf0n85v3g3b4ip4wxgywlm.nar.xz
+Compression: xz
+FileHash: sha256:0i05kmzbgz0r7z9sls2c4567myzqd6gf0n85v3g3b4ip4wxgywlm
+FileSize: 10128
+NarHash: sha256:0n1j4hpyqz9mh6n802y0vyyrddz5nh78j7vjkwwam8m3ka0gp92x
+NarSize: 37200
+References: 
+Sig: grigio-jcode:K4FrnrlXm2VPa8oZrT8hkIszPk7PwHqaHYEDsjHLDWhNOwdXk/aZ3QdaejdI9nYaCTiuLU5rfZdp9q6duObuCg==

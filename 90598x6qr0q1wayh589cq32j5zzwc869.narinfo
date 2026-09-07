@@ -1,0 +1,9 @@
+StorePath: /nix/store/90598x6qr0q1wayh589cq32j5zzwc869-cargo-package-windows-targets-0.48.5
+URL: nar/0vars4h31akm5br94lsliiipwgz35wz9zc7bqgh9qip2nsw39jw7.nar.xz
+Compression: xz
+FileHash: sha256:0vars4h31akm5br94lsliiipwgz35wz9zc7bqgh9qip2nsw39jw7
+FileSize: 6572
+NarHash: sha256:12lpb1rc4ws6vc01sb09q4mjvgk721hqmgjdajca99p2zm31vzi6
+NarSize: 22224
+References: 
+Sig: grigio-jcode:RuvbJ+ov0oKObuNE8QPU6VOLnfjA+lWJjk62/KNIemBOiQiEafq/8aKeuBlnhpi4KNqH/CQzsQv01Cq4Z4oWDw==

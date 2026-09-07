@@ -1,0 +1,9 @@
+StorePath: /nix/store/8acb5haw26zj2i06y5iqwfznz9vr1z6d-cargo-package-num-conv-0.2.0
+URL: nar/0cg8x076vjsgyr55mb4nqmy8pgd297qdm71ycmbakibkm4ga592v.nar.xz
+Compression: xz
+FileHash: sha256:0cg8x076vjsgyr55mb4nqmy8pgd297qdm71ycmbakibkm4ga592v
+FileSize: 6636
+NarHash: sha256:0v8x7d7lmc1gfx2ccfrayi5fcn290mlpqrhf7vjlvxgp5d91pydy
+NarSize: 22928
+References: 
+Sig: grigio-jcode:On/raV/yDHlD/0oQF5MD8Bo33eDKXhvAIZhHdQXAeBOkguEqEG0AJxYSEOdPsukuNCsLh8KOye4uFEcj9OWrCg==

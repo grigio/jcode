@@ -1,0 +1,9 @@
+StorePath: /nix/store/b9pgc5mk6a86vz2frjrqrbfqiklp44bc-cargo-package-percent-encoding-2.3.2
+URL: nar/1hrarx9l014xsp1w7aq3fj8mkklf1rjzmqc5azl3wrjl42r3ms9y.nar.xz
+Compression: xz
+FileHash: sha256:1hrarx9l014xsp1w7aq3fj8mkklf1rjzmqc5azl3wrjl42r3ms9y
+FileSize: 10408
+NarHash: sha256:1iwxy5kwg5dx4nyprlxm2j9bl829h7zlvmp8xlvg7vhbkpf4s3wy
+NarSize: 37656
+References: 
+Sig: grigio-jcode:svs1KIFiMNM7hUR+Dq/jzSOeC4clZmqOzzf4fgpaF4Ubh1sJ0zxZ3Fcr2HqXu9qIG9JK6fp5HyYfmFLdPdOWAQ==

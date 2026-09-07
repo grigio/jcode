@@ -1,0 +1,9 @@
+StorePath: /nix/store/5147kg4jirp2v175pgzf353mk987girv-cargo-package-sha2-0.11.0
+URL: nar/0jhaf9i4wfiqkaa475spkj8v3f2z0lh8l17rlfm46r4r15illn48.nar.xz
+Compression: xz
+FileHash: sha256:0jhaf9i4wfiqkaa475spkj8v3f2z0lh8l17rlfm46r4r15illn48
+FileSize: 24884
+NarHash: sha256:10g191ngbzw5xmbqlxsjc0crfnrirhwpkkqh5z7rmgzyqj5l6jph
+NarSize: 155400
+References: 
+Sig: grigio-jcode:kr5dvLR1JchD9x4mDxNxKXyVBkrGUcVtxX/r4osHG3SpkIVRqYDs5CYSKoBYzQJmr8AbCodIXCVy/5/SunG1Cg==

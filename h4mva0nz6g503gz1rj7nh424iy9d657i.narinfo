@@ -1,0 +1,9 @@
+StorePath: /nix/store/h4mva0nz6g503gz1rj7nh424iy9d657i-cargo-package-derive-new-0.7.0
+URL: nar/0mlfjg2n439yggd346lnxw05fxrbyr8s6l2iih5x3qphk7a30y8i.nar.xz
+Compression: xz
+FileHash: sha256:0mlfjg2n439yggd346lnxw05fxrbyr8s6l2iih5x3qphk7a30y8i
+FileSize: 8440
+NarHash: sha256:0p8ain1g5xnkjsb9sy8al1cmawwj1yyz9yqsqp44a8x408r6v6vi
+NarSize: 36408
+References: 
+Sig: grigio-jcode:ivFqIJZiYUk0pUXzAhVVuWbD6mPFYA4S/+4NwFQPImkxxmV7mU4LErND7Wl+LpLguBi/xhoyo1EphiFkK+NMDA==

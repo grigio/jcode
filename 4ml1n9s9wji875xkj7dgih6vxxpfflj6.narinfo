@@ -1,0 +1,9 @@
+StorePath: /nix/store/4ml1n9s9wji875xkj7dgih6vxxpfflj6-cargo-package-sync_wrapper-1.0.2
+URL: nar/0afgsnqsqncx48yx0y1q7lrzavg21mnfgiggdksx4j23x6qw5421.nar.xz
+Compression: xz
+FileHash: sha256:0afgsnqsqncx48yx0y1q7lrzavg21mnfgiggdksx4j23x6qw5421
+FileSize: 6688
+NarHash: sha256:0fdwgw9csaz7vilpggj6idz6zd9m53wss7g3l85q9sddlv6r8pyx
+NarSize: 22720
+References: 
+Sig: grigio-jcode:SG3Wpsbtq90IypiIt/Dp3JD23Xc8PtYZp7JKBUVJkt6wkF/dpj+2BnXi8bcXMCmz8UvluMbulJI6YCfU9ipOBw==

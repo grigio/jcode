@@ -1,0 +1,9 @@
+StorePath: /nix/store/83mb1997xz55vwf6dzf9cb44dzapra7q-cargo-package-signature-2.2.0
+URL: nar/0yic14jh8g4d1qswa6a0x0fppk316hs5k838rb47mckrzsvkzxbh.nar.xz
+Compression: xz
+FileHash: sha256:0yic14jh8g4d1qswa6a0x0fppk316hs5k838rb47mckrzsvkzxbh
+FileSize: 14380
+NarHash: sha256:001wfqd8x852xnjmbmkrwv8vb051pj2k9ljlwirvjfd8nbgahcb5
+NarSize: 53648
+References: 
+Sig: grigio-jcode:JxD9LUq4lxhL/S0ujKmEElPWovtY1zREa5x9ZqOaZf8c+Ikkuv4mfYIR5LFip1PR1gNktgShxget+GTWO7pfAA==

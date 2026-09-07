@@ -1,0 +1,9 @@
+StorePath: /nix/store/jv0gxl7kpirzn35pd34hdkccqi0wv4rc-cargo-package-powerfmt-0.2.0
+URL: nar/1pfqz1ay7h7z2s5fv4nqnkja3ib5rbsfxg8czz2yifrc1zin9qx3.nar.xz
+Compression: xz
+FileHash: sha256:1pfqz1ay7h7z2s5fv4nqnkja3ib5rbsfxg8czz2yifrc1zin9qx3
+FileSize: 14180
+NarHash: sha256:0j9a1a8fmrgnf8srml0l2rqw0shf559g8798ywpndi6hc91axxk7
+NarSize: 59984
+References: 
+Sig: grigio-jcode:HMQVNFuJK05K1f3DKuBTBXsgf+3jiu0bCr1Ghk8mHGcBK/+Xm+g11OrfP8PrTpS+t2HZ+DWRbxNQnlC6r4P2Dg==

@@ -1,0 +1,9 @@
+StorePath: /nix/store/kpzh27kl27x1f5x2rc18klygamfwwgd3-cargo-package-clap_builder-4.6.0
+URL: nar/1i4dgi4jvx0svjs6qvgq0p5mak8dqp509hyxh6b49h29zn7rj96i.nar.xz
+Compression: xz
+FileHash: sha256:1i4dgi4jvx0svjs6qvgq0p5mak8dqp509hyxh6b49h29zn7rj96i
+FileSize: 134500
+NarHash: sha256:1fbckxaf924pb3f09c6n2ajbphw3fnyw38jy63q655217bj6fr3p
+NarSize: 990392
+References: 
+Sig: grigio-jcode:+WvfQY+KdbTHMp9CQn5E9w+32pp778xr0zY/m+KW5/19wDeLb8bYlaXIIdynd6hCrcL78k7g5fA6rnuiqnOOBQ==

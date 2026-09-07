@@ -1,0 +1,9 @@
+StorePath: /nix/store/pni2jbxpf3jpkchqf8p3v0rdyansw80m-cargo-package-iri-string-0.7.10
+URL: nar/19zyz0b4siqa4a77rcmw2ljza4slc7lx1cg524y1csmr0wy709s8.nar.xz
+Compression: xz
+FileHash: sha256:19zyz0b4siqa4a77rcmw2ljza4slc7lx1cg524y1csmr0wy709s8
+FileSize: 111312
+NarHash: sha256:02343s2a29jsxw8m6vxvwj5bxdhz3xqbzhs4jw5l2cgs8xd5qmg8
+NarSize: 848880
+References: 
+Sig: grigio-jcode:qNrdzvXwxYNUDoakB4Q+7KFlhxThtGdZNy0iqiD1RFRhTwtG7W3rBGwEkzdAx5rysTnwdUcwKVJGyBwHs1ybCg==

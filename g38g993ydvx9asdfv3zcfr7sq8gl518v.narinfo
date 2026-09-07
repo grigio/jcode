@@ -1,0 +1,9 @@
+StorePath: /nix/store/g38g993ydvx9asdfv3zcfr7sq8gl518v-cargo-package-schemars_derive-1.2.2
+URL: nar/07z0qx6pi1a0jwi0q65phb7yzx9g3ahcwaf8wp0g2dgs7wi7pzly.nar.xz
+Compression: xz
+FileHash: sha256:07z0qx6pi1a0jwi0q65phb7yzx9g3ahcwaf8wp0g2dgs7wi7pzly
+FileSize: 28052
+NarHash: sha256:1cxif9ylsw3dpwzgm586fmqxq6ad4b8jac5bprjwg53j8x7hdcv9
+NarSize: 144616
+References: 
+Sig: grigio-jcode:LemYN27bKypwJTopeP//TXacjiHm27qVv7AmoBXDlFFRYYmgpDlmOyuhcTCNqRdDAlGOXo1j7FUallqp1nWDDA==

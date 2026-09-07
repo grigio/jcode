@@ -1,0 +1,9 @@
+StorePath: /nix/store/xgb5kk7zcnxdhhanvhk79cyd6h4y1inr-cargo-package-outref-0.5.2
+URL: nar/1sp1mc13n1m5wavjkj2d9kplj9f38zb1ph6v6377cfsd017g1vv9.nar.xz
+Compression: xz
+FileHash: sha256:1sp1mc13n1m5wavjkj2d9kplj9f38zb1ph6v6377cfsd017g1vv9
+FileSize: 5364
+NarHash: sha256:1il8nmvzd56lfizp79gj8kajs9yjigbwggbhk8bb2shfqq590ahy
+NarSize: 18768
+References: 
+Sig: grigio-jcode:LModB0Uo/8Ln63kj5d8tR5wVYY88lj99eBZuSU4cBwW6OmI/+/1TTTxvBVAuz+b+XfwxwcBOni98ZB1Sh/9uCA==

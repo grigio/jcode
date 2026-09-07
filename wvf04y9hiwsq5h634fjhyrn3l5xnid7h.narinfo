@@ -1,0 +1,9 @@
+StorePath: /nix/store/wvf04y9hiwsq5h634fjhyrn3l5xnid7h-cargo-package-bit-set-0.10.0
+URL: nar/0117ddnz7x3kzvjkahzbxfg8ahpa8hyqrvhz7yyr7lajfpf75zx1.nar.xz
+Compression: xz
+FileHash: sha256:0117ddnz7x3kzvjkahzbxfg8ahpa8hyqrvhz7yyr7lajfpf75zx1
+FileSize: 18592
+NarHash: sha256:0577zkqwxflzk7yx9qlq8kvb747w49421rw7mgsarr67rqkvzksj
+NarSize: 89320
+References: 
+Sig: grigio-jcode:9W6ehXFSOEzZWTTVmOCQmqPIS4HiH7k5ciIuSNPn7eLlDJExsWEMqvB+iDhU/Kd5QZvKxLUzrepB227YtlSbCA==

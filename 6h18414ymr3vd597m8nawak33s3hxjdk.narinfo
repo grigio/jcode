@@ -1,0 +1,9 @@
+StorePath: /nix/store/6h18414ymr3vd597m8nawak33s3hxjdk-cargo-package-pkg-config-0.3.32
+URL: nar/1gmj0ngwxb1y98pn702w7anlj47hcdjc02w2y0n9q5q0036j7l0d.nar.xz
+Compression: xz
+FileHash: sha256:1gmj0ngwxb1y98pn702w7anlj47hcdjc02w2y0n9q5q0036j7l0d
+FileSize: 19688
+NarHash: sha256:1gxiga65bm0cljp848h2bdq7xrdhz9i3d9w7yaawrkwmapjz5h12
+NarSize: 81384
+References: 
+Sig: grigio-jcode:VjVXRPlMAlCBuH6tZz+Xo0ZtUvjMLKTPZSd0ZCxePc7zV0lKok3Nw8w4waNBMI5HytduUHv4GtnF1oxnxydBDw==

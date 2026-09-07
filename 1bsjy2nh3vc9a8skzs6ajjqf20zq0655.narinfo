@@ -1,0 +1,9 @@
+StorePath: /nix/store/1bsjy2nh3vc9a8skzs6ajjqf20zq0655-cargo-package-terminal-colorsaurus-1.0.3
+URL: nar/012afmljar506573zg61klyy0mhlj54wk0zwxp52d56gzrwrz61c.nar.xz
+Compression: xz
+FileHash: sha256:012afmljar506573zg61klyy0mhlj54wk0zwxp52d56gzrwrz61c
+FileSize: 25800
+NarHash: sha256:0f173dmqnsccaa6jgdyl5774cb2j5imzkiljyrphvcpzfva93nqj
+NarSize: 114312
+References: 
+Sig: grigio-jcode:t7UxcJVubnzK2oIbx9yHF0vZHjuApMurGIlCuUAKyGr4Bh7cV+xiRhBGdlup780j1Hzv14RfDEKtcMCgAywiDQ==

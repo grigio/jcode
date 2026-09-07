@@ -1,0 +1,9 @@
+StorePath: /nix/store/gka1l984v3k2m50ada5jy4wl3k5k3i32-cargo-package-regex-automata-0.4.16
+URL: nar/1zdm4amkf5jnj0y1q49r6kfhn3dikf9gcw1bkzj1mndapr1f1f98.nar.xz
+Compression: xz
+FileHash: sha256:1zdm4amkf5jnj0y1q49r6kfhn3dikf9gcw1bkzj1mndapr1f1f98
+FileSize: 414532
+NarHash: sha256:112rsp2l8zjkd5dgw0p7rns1d507xf7s804c5q4gfpyvbk3f434y
+NarSize: 2753544
+References: 
+Sig: grigio-jcode:j+9p6NcB0u7dh1LidnTGP8s7koro6dFMQhcPcsbfoz9bia0uN8ceXrLKVkTTfyofsrxFaX3W3iFcf/Bo0tWQCA==

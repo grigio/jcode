@@ -1,0 +1,9 @@
+StorePath: /nix/store/21q3yngkfsd7fal07gsvk85a6vqi9p4x-cargo-package-lettre-0.11.22
+URL: nar/1imzlhzdwmss322mn25p8z9k2v7s365sdzhlsc636d13mxx4dyvr.nar.xz
+Compression: xz
+FileHash: sha256:1imzlhzdwmss322mn25p8z9k2v7s365sdzhlsc636d13mxx4dyvr
+FileSize: 125188
+NarHash: sha256:0w7z4wxsb01l1rs5npxkfm4crm1cd9njjyv6135aidk246hrf86y
+NarSize: 737472
+References: 
+Sig: grigio-jcode:M68UVtZrL04e8HaYQCMEb+WZWng/4Sq/NHu1AvZyRN/imjz2hWqlZKxoqMF+JXs9j31RAW4ai0SmvLfZePdsBA==

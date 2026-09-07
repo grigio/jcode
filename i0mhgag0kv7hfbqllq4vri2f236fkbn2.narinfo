@@ -1,0 +1,9 @@
+StorePath: /nix/store/i0mhgag0kv7hfbqllq4vri2f236fkbn2-cargo-package-unicase-2.9.0
+URL: nar/0n8lj9whqsh8q5vpsfl7cqlnbiwjd8rh9slb658c5r6wvh2xaazc.nar.xz
+Compression: xz
+FileHash: sha256:0n8lj9whqsh8q5vpsfl7cqlnbiwjd8rh9slb658c5r6wvh2xaazc
+FileSize: 15664
+NarHash: sha256:1zxcdifxrg5v4pxg84r5ssfahscildszqrbmmw52rca81b8c549l
+NarSize: 115840
+References: 
+Sig: grigio-jcode:1q3ih5EebNPOJ4G+R8HdLejKReTuYvrMMUsmyIj3NvCTO2v6ELETy4DwqZNgWhi0iBuZRpkkobiz+SKRDPSDBw==

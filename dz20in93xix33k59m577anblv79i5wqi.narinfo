@@ -1,0 +1,9 @@
+StorePath: /nix/store/dz20in93xix33k59m577anblv79i5wqi-cargo-package-smallvec-1.15.1
+URL: nar/14y2p16pbjwdw1371iyn2qpki1rsyw19248f0i2ijbpzvzclyfwq.nar.xz
+Compression: xz
+FileHash: sha256:14y2p16pbjwdw1371iyn2qpki1rsyw19248f0i2ijbpzvzclyfwq
+FileSize: 33676
+NarHash: sha256:04lapsdqn1rpfhg9gjwpzxrdslcyskzqpxs2a1rhpfrx5ff2g3jh
+NarSize: 163960
+References: 
+Sig: grigio-jcode:JiSXZeFsYUZOpxyCS3VI+I4voQib1abn5Sds/k/GXB5bqcPWvuqbodht6QAxPuuVKi1f8cLyqPXFNYpR4gqMAQ==

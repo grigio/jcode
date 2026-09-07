@@ -1,0 +1,9 @@
+StorePath: /nix/store/lhn7n42b4p9vd0mj2msq119pglwvd3lr-cargo-package-email-encoding-0.4.1
+URL: nar/08k54l1s0nx538p725wwhcrmll0nw8fizl7l3hsyj71j1d8g6km5.nar.xz
+Compression: xz
+FileHash: sha256:08k54l1s0nx538p725wwhcrmll0nw8fizl7l3hsyj71j1d8g6km5
+FileSize: 15460
+NarHash: sha256:0x1sym1lgja7i25nx84qkn0xmadsyg16flqjps4rbldn18r2lvaj
+NarSize: 75560
+References: 
+Sig: grigio-jcode:UNKFeQFC7AWrmx3F4UoPMAjeSo/eimWWwV/ZrIp3KXgCbBoH6NRz7ZcgDvMshRPVcJK9KwW5olqkNZn0lFldCg==

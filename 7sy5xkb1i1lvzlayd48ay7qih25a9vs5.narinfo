@@ -1,0 +1,9 @@
+StorePath: /nix/store/7sy5xkb1i1lvzlayd48ay7qih25a9vs5-cargo-package-winapi-x86_64-pc-windows-gnu-0.4.0
+URL: nar/17b0a7h32k654zavkf7fwvf184xafikyqskl1lys5sgwqbk90bra.nar.xz
+Compression: xz
+FileHash: sha256:17b0a7h32k654zavkf7fwvf184xafikyqskl1lys5sgwqbk90bra
+FileSize: 1656152
+NarHash: sha256:0aiwidcp6jv24q1v24nkcmqw9lpjcfdjp5afllzj7vq08s85yx5x
+NarSize: 53478176
+References: 
+Sig: grigio-jcode:FheGGT2VogpXJeTWrcRFDhNDBK9l3+1j89TODmbruy2A48k4u9X6SiWgIjiudJQD/yC2EwTNqhHDkt7IjptSBg==

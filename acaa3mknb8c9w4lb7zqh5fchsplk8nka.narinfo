@@ -1,0 +1,9 @@
+StorePath: /nix/store/acaa3mknb8c9w4lb7zqh5fchsplk8nka-cargo-package-aliasable-0.1.3
+URL: nar/0jdibg49jq89r33p73v4411n1wd06cmkyw8352vb7vp4lj6kgqig.nar.xz
+Compression: xz
+FileHash: sha256:0jdibg49jq89r33p73v4411n1wd06cmkyw8352vb7vp4lj6kgqig
+FileSize: 5764
+NarHash: sha256:02x33fg6yy6njwifmyk8n663x1m3np4rrrb42njcgss0ci986x9k
+NarSize: 28272
+References: 
+Sig: grigio-jcode:CvGzaHRNRoMuug5YQMaFZXBWTaqqGQZaK24SnlcEGPEt+LvbqiDmg+ouLAr8lcgyPIgbsdV+KBxKJe4rcXKTDQ==

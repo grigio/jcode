@@ -1,0 +1,9 @@
+StorePath: /nix/store/wp0cg9j7qk932991hz7zwyww3dqf1phl-cargo-package-portable-atomic-1.13.0
+URL: nar/0cbqswz8v2i4k26f2vnj52lhcli8syfaq7w0hk2pbwp28322w61a.nar.xz
+Compression: xz
+FileHash: sha256:0cbqswz8v2i4k26f2vnj52lhcli8syfaq7w0hk2pbwp28322w61a
+FileSize: 133396
+NarHash: sha256:1wa4bs3ms2bz2ldnp62xgza8jy11ps97n4sliva395f6nfkimr8y
+NarSize: 1272672
+References: 
+Sig: grigio-jcode:+YtiAKABinsn68Ltq6q5A6pADNfj0sfs/1mnxgycVPOqXbL83lKQ3Djj/K1mmMHrFZEJw18/eQ2uCsb/93c2Ag==

@@ -1,0 +1,9 @@
+StorePath: /nix/store/6djgy3hn00v87lh56r0xcv02vcvdxb10-cargo-package-serde_urlencoded-0.7.1
+URL: nar/1q0px2mclanh7yrqgpivnh4nghqm0wv9kccvqqqmkxj0bjdr4dzc.nar.xz
+Compression: xz
+FileHash: sha256:1q0px2mclanh7yrqgpivnh4nghqm0wv9kccvqqqmkxj0bjdr4dzc
+FileSize: 11860
+NarHash: sha256:04bm5ks69nr7y86jph4hxmaznjn42ib3qmi25fb69d94nw5mnfkg
+NarSize: 64800
+References: 
+Sig: grigio-jcode:xXuaxEQAhrg58Nax9sM1E/3bJA1mNYoWT3amn6F0Zu7AB1BJwi2W4zLi1bsbD1dik0Mg/D7JIMmRNQrr80iQDg==

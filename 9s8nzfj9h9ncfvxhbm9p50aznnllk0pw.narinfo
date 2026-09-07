@@ -1,0 +1,9 @@
+StorePath: /nix/store/9s8nzfj9h9ncfvxhbm9p50aznnllk0pw-cargo-package-tract-onnx-opl-0.23.4
+URL: nar/0jri5nlvw4g9pfkdbqcjdcaxx44zaj3zszlznj3ns53jimgw69mj.nar.xz
+Compression: xz
+FileHash: sha256:0jri5nlvw4g9pfkdbqcjdcaxx44zaj3zszlznj3ns53jimgw69mj
+FileSize: 27760
+NarHash: sha256:03r1bfwkl64jjj3z845r52rq34y6q588zx62c5yxq9yh592j75vy
+NarSize: 127656
+References: 
+Sig: grigio-jcode:H/aalXtq/Mm7eG7JExVF28Nvg8fwdB/K8hSvqjDphq2bkqRgUa308Cp8K4nFgRQlkpdY0mzCRHc55hHAFDewBg==

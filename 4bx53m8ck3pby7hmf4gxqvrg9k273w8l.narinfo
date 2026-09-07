@@ -1,0 +1,9 @@
+StorePath: /nix/store/4bx53m8ck3pby7hmf4gxqvrg9k273w8l-cargo-package-objc2-encode-4.1.0
+URL: nar/03w0vhky7j5fzg948c8rvym99x6d1l86m862b7j1x925dizb6110.nar.xz
+Compression: xz
+FileHash: sha256:03w0vhky7j5fzg948c8rvym99x6d1l86m862b7j1x925dizb6110
+FileSize: 19160
+NarHash: sha256:05f5ngsqjxc7shivp2cn88awwxj7pcjz5sa0yds5sklf8n83rcpv
+NarSize: 97256
+References: 
+Sig: grigio-jcode:7q5fek4nCf/c24Z1XypwYugn/UpH4TGsEmcxqDWv/oS+4d7R7vCgN+Qpv4jyvtfXKYcbcKmK21hOZWvUzjTuDA==

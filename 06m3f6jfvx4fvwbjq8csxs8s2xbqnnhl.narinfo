@@ -1,0 +1,9 @@
+StorePath: /nix/store/06m3f6jfvx4fvwbjq8csxs8s2xbqnnhl-cargo-package-itoa-1.0.17
+URL: nar/0igjw87qj076djyr4js6lv4ww67f2bpm2xy960lxqmgbm52ia6hn.nar.xz
+Compression: xz
+FileHash: sha256:0igjw87qj076djyr4js6lv4ww67f2bpm2xy960lxqmgbm52ia6hn
+FileSize: 14400
+NarHash: sha256:1jh3gzhrhb6kn8y54m41bz81ck5s0svs2120399iihwhzc94cqpx
+NarSize: 54672
+References: 
+Sig: grigio-jcode:PLl+64HHG9zAFF2aXPOXF5s0W9YjSqcWszxVFAeehbrBB/A0bRH4UWkO+Jhl39iXA1R63Nc48+LHNx3l0SvfDw==

@@ -1,0 +1,9 @@
+StorePath: /nix/store/wmq7kvsx7qg72cl1hgxmgghp8kz0d63y-cargo-package-fnv-1.0.7
+URL: nar/0njgpc1skc8qmg0jsgqxjhmyngb6sl01jdbg0d9rsdi4ir54r6i4.nar.xz
+Compression: xz
+FileHash: sha256:0njgpc1skc8qmg0jsgqxjhmyngb6sl01jdbg0d9rsdi4ir54r6i4
+FileSize: 10264
+NarHash: sha256:188q6wz5zg9m2c3j80vkq7sg5vbk0n9fd9srn969ixd8b4wixw9b
+NarSize: 37056
+References: 
+Sig: grigio-jcode:WTZuRoes7Cysm0aDW7vkz2QLy9De+EctoMERniO1TxnCbMqvcx6EFUqR9deC2miiCN9sQbv5ho/270gDdGwjBA==

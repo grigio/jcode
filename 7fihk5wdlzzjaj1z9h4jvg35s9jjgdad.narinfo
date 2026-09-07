@@ -1,0 +1,9 @@
+StorePath: /nix/store/7fihk5wdlzzjaj1z9h4jvg35s9jjgdad-util-linux-minimal-2.42.2-lib
+URL: nar/05pgnbh9a0fvr7ljcw5kc0zf8dz5miv93j42gssrc5w5svj59ldr.nar.xz
+Compression: xz
+FileHash: sha256:05pgnbh9a0fvr7ljcw5kc0zf8dz5miv93j42gssrc5w5svj59ldr
+FileSize: 537016
+NarHash: sha256:0skfign68mmg72wnir5g72vcvzln4xswzasqzki6b66mfm23lkm2
+NarSize: 2100440
+References: 7fihk5wdlzzjaj1z9h4jvg35s9jjgdad-util-linux-minimal-2.42.2-lib l8si8gnvvq93yzms1jsgh5aixyf9rl5x-glibc-2.42-67
+Sig: grigio-jcode:q8VqzepZiq2sK3faFXwmMp/O9MlAREBB3wIEqzJzOPQA/EbmeABvSlHp9luxvB1viI85x4EQ75o569pO8TqsDw==

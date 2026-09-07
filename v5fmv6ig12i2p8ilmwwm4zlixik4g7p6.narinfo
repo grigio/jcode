@@ -1,0 +1,9 @@
+StorePath: /nix/store/v5fmv6ig12i2p8ilmwwm4zlixik4g7p6-cargo-package-tiny-skia-0.12.0
+URL: nar/0xc2h9wk9lg9sa5bbp2yzsszdbyjv05qvghvh4axv1w3nyg7hymv.nar.xz
+Compression: xz
+FileHash: sha256:0xc2h9wk9lg9sa5bbp2yzsszdbyjv05qvghvh4axv1w3nyg7hymv
+FileSize: 236112
+NarHash: sha256:1bnzx850l9brqcgwqpws0x4jb5s2h9pfasm0d1vlrhmnh0w8xa4n
+NarSize: 843640
+References: 
+Sig: grigio-jcode:KIf2YSvnVy9B/X//9RBIBkSxXwJGyCVMjWw1fGGDUkyza3RazDF9M5KV511a2yt/jTAk7IghI5sQfilW2hgOBA==

@@ -1,0 +1,9 @@
+StorePath: /nix/store/gp8y354kfhviq79lpfd8c6ii1cnimyhf-cargo-package-aws-sigv4-1.5.1
+URL: nar/1zcmpqnnhp0v0cvy3rdwd47rjawk8a9vm76p5pwaha8qw9ay8zw5.nar.xz
+Compression: xz
+FileHash: sha256:1zcmpqnnhp0v0cvy3rdwd47rjawk8a9vm76p5pwaha8qw9ay8zw5
+FileSize: 66964
+NarHash: sha256:0mn350dsj8pj7v9r9gmd44n7qxfc352a9kw0n1li74zxb3f2ifcb
+NarSize: 594288
+References: 
+Sig: grigio-jcode:DXZRUZsbLIoUvEhMuSJQ9i5qfRYctiuPDAd6oDPgfg4IW8K3aSK+5Mw4YO05p9hqNhgaBAehLKWbX++Kk7NpCA==

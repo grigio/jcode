@@ -1,0 +1,9 @@
+StorePath: /nix/store/8fcbpl1yvq9nxvhbm3y8k6710d47kb3z-cargo-package-windows-registry-0.6.1
+URL: nar/16b6nsxh3rbzqin8fz0igrl241d0vy9iqqznax40rx2k4fplkfxg.nar.xz
+Compression: xz
+FileHash: sha256:16b6nsxh3rbzqin8fz0igrl241d0vy9iqqznax40rx2k4fplkfxg
+FileSize: 12276
+NarHash: sha256:0yhppzp71k6vqvc52j2n92mqyxqphdcvd7ws9k4wvpaw0x5n7x0b
+NarSize: 54672
+References: 
+Sig: grigio-jcode:W9ctE6OnqCIG9qtLvBtVdMtsidFJccSDQUX6YYfAy/WLl3zNGzPj+eETT/mTq4y8cuyn1XxvzQI/JXaVfAuTDQ==

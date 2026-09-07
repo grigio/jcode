@@ -1,0 +1,9 @@
+StorePath: /nix/store/31h5pqch4psq7nni9shy1apdnq0dgkwr-cargo-package-termios-0.3.3
+URL: nar/02w0pyqqq3bd0gffd7bi0ww10hksmsax1s9cadpjvnlaq7xk03sp.nar.xz
+Compression: xz
+FileHash: sha256:02w0pyqqq3bd0gffd7bi0ww10hksmsax1s9cadpjvnlaq7xk03sp
+FileSize: 14696
+NarHash: sha256:0c1y5iwyc9zla0cm94i3qqxkdcdih7rwx5mgn9ry43p95lm055jy
+NarSize: 96872
+References: 
+Sig: grigio-jcode:g26ojtXwcCUUtt2ZarXRvvl0PdIJQwwD0oKrOcswp+eqhlGZFGZAl1mi533PNja56fEN3YZPtHpRI3LZw52mDQ==

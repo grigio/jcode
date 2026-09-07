@@ -1,0 +1,9 @@
+StorePath: /nix/store/zzwx96fv96kighqklyg8hqc7fb2vsf2p-cargo-package-bumpalo-3.19.1
+URL: nar/0kxmcf7jgfpawh4byi6xxi9acrmd0x7rx9jpybg80pyky4cwv3pd.nar.xz
+Compression: xz
+FileHash: sha256:0kxmcf7jgfpawh4byi6xxi9acrmd0x7rx9jpybg80pyky4cwv3pd
+FileSize: 79328
+NarHash: sha256:0c9jabvlasrd849mgi95mhp0vylxm5czfzcb197v45h1z9c8mg6b
+NarSize: 421728
+References: 
+Sig: grigio-jcode:Rbj3hL088RaV4F9Lecg3Mv2BdfkW18K7NqhZMr3+k2GlHhdpy7roeLymPAJYuvq7UjLGtF8ZuWEe4wKXzLjLCg==

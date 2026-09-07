@@ -1,0 +1,9 @@
+StorePath: /nix/store/2pnadma57zm7a1fpz6j0mmypgkc300qi-cargo-package-tikv-jemalloc-sys-0.6.1+5.3.0-1-ge13ca993e8ccb9ba9847cc330696e02839f328f7
+URL: nar/0iy4ias29y5b6fibczki9b84j617b9mvpzhglcnw27ajwf6zahvx.nar.xz
+Compression: xz
+FileHash: sha256:0iy4ias29y5b6fibczki9b84j617b9mvpzhglcnw27ajwf6zahvx
+FileSize: 664764
+NarHash: sha256:02dxmsgh0nbyk0n0iflmkjmmkjlvrybhqvjs6fsxn93vrnqvl4i9
+NarSize: 4061272
+References: 
+Sig: grigio-jcode:+b2xHgoEMywHueCVo2YOC//DPzaPc/5r4mtc8tjEY6uNKNQGOpmTIr2UPoKzeUB1Xao0yLrWBdZJrjPWqWOeAA==

@@ -1,0 +1,9 @@
+StorePath: /nix/store/74vffsnrzzx7ss47wws834ybj1z84zbn-cargo-package-foreign-types-shared-0.1.1
+URL: nar/02daasb578vwm38wral4hsrpwwb2nchn74bcm22jpddsc5sqng9h.nar.xz
+Compression: xz
+FileHash: sha256:02daasb578vwm38wral4hsrpwwb2nchn74bcm22jpddsc5sqng9h
+FileSize: 5432
+NarHash: sha256:0zsgs9kj7p24ccic1hc9mlk1yp6x3z0mv27nxlsg6fy04xj37fp3
+NarSize: 16496
+References: 
+Sig: grigio-jcode:rCVN5oO8GTqKkNOKXEtjLYuEYBU7Clsyp7+25OIuipS3WKLTH7o02jBfLjlFZ43hHwRbzitT4blZ4odgtOwmAA==

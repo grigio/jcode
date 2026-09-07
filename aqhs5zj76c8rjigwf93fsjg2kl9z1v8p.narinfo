@@ -1,0 +1,9 @@
+StorePath: /nix/store/aqhs5zj76c8rjigwf93fsjg2kl9z1v8p-cargo-package-string-interner-0.20.0
+URL: nar/17xmp6fdxcrqrvnh7sihq8hyxfbcbyyyr1sncw6hyc19gn852bkd.nar.xz
+Compression: xz
+FileHash: sha256:17xmp6fdxcrqrvnh7sihq8hyxfbcbyyyr1sncw6hyc19gn852bkd
+FileSize: 28532
+NarHash: sha256:0rywkqyyl2h22ki4gs4grnmvcyvbqmwxcrc2vm9znmh9gq2g9z2r
+NarSize: 147072
+References: 
+Sig: grigio-jcode:DjuYh1szf0lA9s1BAAPj0iJ5P9bBdi+IE+Di+U55xWs3TG+qqFXRlN/z4aD/BCh3E3YM9YuJsEo3+dJ+3cz0CQ==

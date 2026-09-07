@@ -1,0 +1,9 @@
+StorePath: /nix/store/nn1x28dlnik59m8jcdihhvbzgvvsk60h-cargo-package-simd-adler32-0.3.8
+URL: nar/0g78riymlfsnmn2iv184vgaaqi1r2f2j9vx308653kbsilxjrzz1.nar.xz
+Compression: xz
+FileHash: sha256:0g78riymlfsnmn2iv184vgaaqi1r2f2j9vx308653kbsilxjrzz1
+FileSize: 14764
+NarHash: sha256:1kz8abwpnf6vb2smkx38x4f389v6v45p7ix2xv4rxhrfg4g4jz86
+NarSize: 83160
+References: 
+Sig: grigio-jcode:aXcoIDmbDC/PMptYUn6ZUdxZQpa4TYHFNb9FdcDL+8ieHYRB2u8uUG4mBmahIrgtHB+GCp4ziJFXHBQM/GLwCg==

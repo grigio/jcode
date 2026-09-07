@@ -1,0 +1,9 @@
+StorePath: /nix/store/a88979m8j7dbp3rx8mm53cx5w9nkhvzn-cargo-package-unicode-bidi-mirroring-0.4.0
+URL: nar/19wp87x45j7hqkndiyfhi1s2730pb41sxcy79abqkfjwnrnh0934.nar.xz
+Compression: xz
+FileHash: sha256:19wp87x45j7hqkndiyfhi1s2730pb41sxcy79abqkfjwnrnh0934
+FileSize: 6908
+NarHash: sha256:06l1g04ll0q1jwsrak1svy8pgnkyxr6qd83v11c1bpcz7580xpj1
+NarSize: 27688
+References: 
+Sig: grigio-jcode:kP/1aoz2WA3PQ5ynhKF+j7wMYcBU2sxH+28OO+ND90hNSlsGMOEx4rdQX+g2h4HYGLzFGeJwdvltS+EXbeuTDQ==

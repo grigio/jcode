@@ -1,0 +1,9 @@
+StorePath: /nix/store/fiq287w5z3gfy66p87drayvsrg4151sj-cargo-package-agent-client-protocol-0.10.4
+URL: nar/1risqsw8gbbrx1rvb4m5p9cybnhzqnzd96r40lcr8f80ndsf784w.nar.xz
+Compression: xz
+FileHash: sha256:1risqsw8gbbrx1rvb4m5p9cybnhzqnzd96r40lcr8f80ndsf784w
+FileSize: 29040
+NarHash: sha256:0784s9wl5fz6nakmv3gab6bw1f8w90bvay4g1lv8szniwal0qmri
+NarSize: 178512
+References: 
+Sig: grigio-jcode:zGzeBkWZBoQE7haVpvHURniu/4IKH34ds01cXPE6Uj5tDI/mAp2yANMCljageQ4PKrS56VtfMkYh2X0e568RBg==

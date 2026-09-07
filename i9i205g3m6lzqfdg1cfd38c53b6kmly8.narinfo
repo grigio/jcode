@@ -1,0 +1,9 @@
+StorePath: /nix/store/i9i205g3m6lzqfdg1cfd38c53b6kmly8-cargo-package-reqwest-0.13.4
+URL: nar/1njqyinqgg34q6cgah60w12n09jvlfcc63c4cpkyj7lrbyi1wzk6.nar.xz
+Compression: xz
+FileHash: sha256:1njqyinqgg34q6cgah60w12n09jvlfcc63c4cpkyj7lrbyi1wzk6
+FileSize: 117092
+NarHash: sha256:1icd2wjyz1k7mnai4gbdgapva67z79813idmbm579b528xfdpv6i
+NarSize: 777200
+References: 
+Sig: grigio-jcode:s39PiLhFCdT2XR2pkYvl7sINllJIAEKFBg7t4CBEimtm8mnVVKuFnbksGkUdCDBzR1YxyUWc9tB1bFdHl+XEBQ==

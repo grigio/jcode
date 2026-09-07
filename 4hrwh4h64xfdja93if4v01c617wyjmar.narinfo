@@ -1,0 +1,9 @@
+StorePath: /nix/store/4hrwh4h64xfdja93if4v01c617wyjmar-cargo-package-quoted_printable-0.5.1
+URL: nar/0gyy506r67jvbvh267f89il80jppy559a875jqjj672s6byxhhz5.nar.xz
+Compression: xz
+FileHash: sha256:0gyy506r67jvbvh267f89il80jppy559a875jqjj672s6byxhhz5
+FileSize: 7892
+NarHash: sha256:0g03mv71y5hl06sxkgr1i4sfpl9p6rs3smwfivx8kav1n6s0qj63
+NarSize: 37184
+References: 
+Sig: grigio-jcode:oE6ZIV8W6frb/OIRG+lgOD/XIouTFTgyheIAdW5Gv71U8pUOEFge09ID8NBRGqrNyTFt+WUhPBxvo9uVglCVAg==

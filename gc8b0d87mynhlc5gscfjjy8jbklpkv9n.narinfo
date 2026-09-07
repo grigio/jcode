@@ -1,0 +1,9 @@
+StorePath: /nix/store/gc8b0d87mynhlc5gscfjjy8jbklpkv9n-cargo-package-weezl-0.1.12
+URL: nar/1h7iqn4bziphrj74r7a51c8c4bj5p5gmb0njgb2b6509xl4cf8yh.nar.xz
+Compression: xz
+FileHash: sha256:1h7iqn4bziphrj74r7a51c8c4bj5p5gmb0njgb2b6509xl4cf8yh
+FileSize: 35908
+NarHash: sha256:0hkcclw7pfy5a2lx7dz0rc7f22viwcfscpzhq4gihjhzfqixh185
+NarSize: 181344
+References: 
+Sig: grigio-jcode:+3kqcVBJuFYCXOs9LFFHb3c0amb4JmIuXioUVzcdQ0hjpZF/cjg9I6LXPqYh8509FLp1CuS7jqIXsQp+jrkIDQ==

@@ -1,0 +1,9 @@
+StorePath: /nix/store/fsd0nd6gmni8hnvd7bsjpczy5f1sqm9w-cargo-package-pastey-0.2.3
+URL: nar/162n27kd0s16lb53dwid4kcnav3p6f4qlxs5wm6brmlvvdgd9ibj.nar.xz
+Compression: xz
+FileHash: sha256:162n27kd0s16lb53dwid4kcnav3p6f4qlxs5wm6brmlvvdgd9ibj
+FileSize: 18700
+NarHash: sha256:1xjvqidrw1s3g4daas4cyy0aa52f7j2z1fykhx8zxvkhqljdp33q
+NarSize: 89552
+References: 
+Sig: grigio-jcode:4gnbfPU7k6FBZmB716pjAd4RcNBksle22zmuqB4mYhmUc4XWbmpq7qcb6AqnvdrS3fgpEphVSpdw8GvDUGthBQ==

@@ -1,0 +1,9 @@
+StorePath: /nix/store/vfjncx6z2fzr3ipv87qmrrv1r22v8v71-cargo-package-referencing-0.49.3
+URL: nar/1lyx0c8qf9s9l3yq9yqsmlyib6c7jpggqd141vsaqlg6hkzqpyqv.nar.xz
+Compression: xz
+FileHash: sha256:1lyx0c8qf9s9l3yq9yqsmlyib6c7jpggqd141vsaqlg6hkzqpyqv
+FileSize: 47852
+NarHash: sha256:16gv4zfz1sav5rdf97kjidsgzy134lc7wc9hrncsvkn6yxjx9dvw
+NarSize: 330056
+References: 
+Sig: grigio-jcode:Y+HbZHA4NhsnkAJA0ORuz9eH0wDighGhJqraVAdH4odzQLHpBnLpLW6DaIAIPO/xKHRBc1Jaeo+s0I7oJfwBAQ==

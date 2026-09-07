@@ -1,0 +1,9 @@
+StorePath: /nix/store/mryn9vpzhdq4h8dyy1lw3f587kpa5d2r-cargo-package-clap_derive-4.6.1
+URL: nar/04w584in7j44v4jlhiyjnnrgnpqnb2h94ak15igl0m7gmyvg9sk4.nar.xz
+Compression: xz
+FileHash: sha256:04w584in7j44v4jlhiyjnnrgnpqnb2h94ak15igl0m7gmyvg9sk4
+FileSize: 28636
+NarHash: sha256:0rgjaca4r9500ncm6pp3wqly0j8rlrbva248dy5hcj7krk6z9zjv
+NarSize: 185688
+References: 
+Sig: grigio-jcode:z60TESvBMnTxYK7CxPt8Os1UAbN93yu7a4DxZLT5QgzqW0f7DwNqMrt/EjQfIYBcYXzP5Bdl7SL3HMTVaIDZDg==

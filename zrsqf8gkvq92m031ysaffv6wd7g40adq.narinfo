@@ -1,0 +1,9 @@
+StorePath: /nix/store/zrsqf8gkvq92m031ysaffv6wd7g40adq-cargo-package-globset-0.4.18
+URL: nar/1d10r7qbqc1pqyrp5g4av4ia39b2s01y2r71nn9ss6qligczjjns.nar.xz
+Compression: xz
+FileHash: sha256:1d10r7qbqc1pqyrp5g4av4ia39b2s01y2r71nn9ss6qligczjjns
+FileSize: 25104
+NarHash: sha256:03lg13v6bbcfc5wjag3mf0ickqc50am1j4sjxasgs8wmkaddb2n2
+NarSize: 125224
+References: 
+Sig: grigio-jcode:dzzOSLDfqX9sqPmIkuyi2VW3VNbO/Wstp5C8M9Wh5vRnoW5kWLWuHh29ceFR3yxuJHPDoCH03r+sNMoxmw9FCg==

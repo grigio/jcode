@@ -1,0 +1,9 @@
+StorePath: /nix/store/yw07mrgxzfb1nxmknpmd6g7v304sapv3-cargo-package-webpki-roots-1.0.6
+URL: nar/19kz7gyab97wvw0yqlg5ilyy4pbq8xy3k8276xizimrxqv3bz2h6.nar.xz
+Compression: xz
+FileHash: sha256:19kz7gyab97wvw0yqlg5ilyy4pbq8xy3k8276xizimrxqv3bz2h6
+FileSize: 209276
+NarHash: sha256:0qk5gqrrh44qqy51k2qf051iq3z2ni846k9rqn3jz1lh1w3vbdhq
+NarSize: 500216
+References: 
+Sig: grigio-jcode:gaLSlehNVDjEzSetqCppYUC6PVkQE/bJLQeIUxwvn5g7D3dP0dcbjSUgSLoF8bLvkC88vBygGt6ehFDE6HZ3BA==

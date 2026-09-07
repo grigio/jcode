@@ -1,0 +1,9 @@
+StorePath: /nix/store/ja0rdm5m5am7ik053d9b2h2kj34z2ij3-cargo-package-clap-4.6.1
+URL: nar/0ahcxadyflg6xxwyxzinjd9xw0566dn6jp5n5nrv6vdcb6b78fsf.nar.xz
+Compression: xz
+FileHash: sha256:0ahcxadyflg6xxwyxzinjd9xw0566dn6jp5n5nrv6vdcb6b78fsf
+FileSize: 49060
+NarHash: sha256:03rg0saickf7h8p6nqfl6zn7sgz99y896847m8jmxrvk2hkx66qj
+NarSize: 292216
+References: 
+Sig: grigio-jcode:vgYLqCX7cxrqblvKcvdHMaEMcvwA8cFSNDSsK8rGx1YRGUrnb+aFJwkWGMZNCWFin/lsbyjeY4z6UQuMZuFvDw==

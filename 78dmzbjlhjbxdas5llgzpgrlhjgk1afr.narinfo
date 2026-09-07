@@ -1,0 +1,9 @@
+StorePath: /nix/store/78dmzbjlhjbxdas5llgzpgrlhjgk1afr-cargo-package-crossterm_winapi-0.9.1
+URL: nar/1cxqjxx752ax7mm8m4if0jni6rrrc69bnq5r8kvx6rdsnjhcl2j5.nar.xz
+Compression: xz
+FileHash: sha256:1cxqjxx752ax7mm8m4if0jni6rrrc69bnq5r8kvx6rdsnjhcl2j5
+FileSize: 14600
+NarHash: sha256:0sjlm9kjclxd99940imdi52p3217lfp7zqjwmj4k255zanzsg90v
+NarSize: 67336
+References: 
+Sig: grigio-jcode:eTT692wCp9gAlXjxrfZGjS+GtAADLnxRj8ntOtLYawpMZhsZAY61MAQ1SRrIaadd2oPaZ4dnCLayFfN8UYm/CQ==

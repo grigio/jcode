@@ -1,0 +1,9 @@
+StorePath: /nix/store/66h6y4bpfk82j5w11hv4xbdirmvfa4w4-cargo-package-pest_derive-2.8.5
+URL: nar/1asnmnsbfi6z7qxwzjpc2v4208bhm7ld12drbq2f2xrlgl55clim.nar.xz
+Compression: xz
+FileHash: sha256:1asnmnsbfi6z7qxwzjpc2v4208bhm7ld12drbq2f2xrlgl55clim
+FileSize: 37868
+NarHash: sha256:0d4na0gwhrkvxy1dvmlz9nngjxz1bpv30nhkix10dcb4ivm7rnmr
+NarSize: 181232
+References: 
+Sig: grigio-jcode:BN+S5Em86cZIUU5fpUAiBFiBuvKxzitovy2lPE1gVrlK+c5mSFaPlt4Emd4UsJpv9sQ626zxegzqZqYbE95BDQ==

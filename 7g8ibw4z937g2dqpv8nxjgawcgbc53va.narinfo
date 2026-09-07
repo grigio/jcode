@@ -1,0 +1,9 @@
+StorePath: /nix/store/7g8ibw4z937g2dqpv8nxjgawcgbc53va-cargo-package-instability-0.3.11
+URL: nar/14riz2hrv8rnvkizkm42wzcrrjqm277fycji1y93z2hi4b32b4v4.nar.xz
+Compression: xz
+FileHash: sha256:14riz2hrv8rnvkizkm42wzcrrjqm277fycji1y93z2hi4b32b4v4
+FileSize: 13260
+NarHash: sha256:0j8a95lqvgph8vgi9dm57621hb6p5zpznsvg7gis0k96k3niszkk
+NarSize: 68416
+References: 
+Sig: grigio-jcode:PggZ8yrXPSnJ0XRhyzhkZKCsUzFEj2AtRUIP+2xfUSvdQmFjVROmjqwwj737oje2SfqhSJq5vWIrVmlATWG2Cg==

@@ -1,0 +1,9 @@
+StorePath: /nix/store/0k9ksr24if7zqa9p3ydianv7igrpsbig-cargo-package-form_urlencoded-1.2.2
+URL: nar/12055w22k63bhnn53al6i1knf3hjcpnrkirvrdzjkj9lg7fciyaf.nar.xz
+Compression: xz
+FileHash: sha256:12055w22k63bhnn53al6i1knf3hjcpnrkirvrdzjkj9lg7fciyaf
+FileSize: 8848
+NarHash: sha256:0s27c2kqs7d59vnlrdhgnl7mnrs4gz62dbklcv9ziyv2pishj3zl
+NarSize: 29792
+References: 
+Sig: grigio-jcode:QMjgEL7345fGO4RJAiaJBPB120KuwhevfVix4FDH4keowfr4wHwzeoiYDcjSIu5UWxkS5jU2X4tOKsWHegVjCA==

@@ -1,0 +1,9 @@
+StorePath: /nix/store/f0qkpjh4pk8l15ipiknah0vmq09f3j2w-cargo-package-crunchy-0.2.4
+URL: nar/1wfkdkiz6mqjj106ksg7n8ksnfivyja5yhk4i4xpwjb9nsw3xys7.nar.xz
+Compression: xz
+FileHash: sha256:1wfkdkiz6mqjj106ksg7n8ksnfivyja5yhk4i4xpwjb9nsw3xys7
+FileSize: 3768
+NarHash: sha256:0fxyqhz87f57nn7d7qqjgr38pslk7ngdq4gqh4cnvl4l346g2s1y
+NarSize: 14240
+References: 
+Sig: grigio-jcode:1CQtkOc8lTCZZVKb7J6BCuZwHeI0x5yuwszrVFfcPnl41Mu+feLObxKHI80G11n4ZrVOqbM33F3lpnFAUwkNDw==

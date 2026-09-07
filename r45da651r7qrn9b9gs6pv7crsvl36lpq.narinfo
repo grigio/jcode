@@ -1,0 +1,9 @@
+StorePath: /nix/store/r45da651r7qrn9b9gs6pv7crsvl36lpq-cargo-package-wasm-streams-0.5.0
+URL: nar/0f186n64w682rrvfrdpry0lcm0yqywx0f450h2cjnhnx39fhcyvk.nar.xz
+Compression: xz
+FileHash: sha256:0f186n64w682rrvfrdpry0lcm0yqywx0f450h2cjnhnx39fhcyvk
+FileSize: 30820
+NarHash: sha256:1c3g7vw0h26i2b2h465shlsp2q62cmwqqb5yw9rqy15f9vfbyg81
+NarSize: 202272
+References: 
+Sig: grigio-jcode:87qOTVaFNLooygfMSgjVEHKCfN9qeE+6q+4O2GxX+47Z9bCgiTn0cshOp9RWzLHUbuzsA02hLyQVQGaKlRe0Dg==

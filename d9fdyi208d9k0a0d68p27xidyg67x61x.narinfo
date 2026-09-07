@@ -1,0 +1,9 @@
+StorePath: /nix/store/d9fdyi208d9k0a0d68p27xidyg67x61x-cargo-package-rand_chacha-0.9.0
+URL: nar/0fqc3fx7smadh46azi8qyfkymna01c956fsrzqzvk67azr527hsa.nar.xz
+Compression: xz
+FileHash: sha256:0fqc3fx7smadh46azi8qyfkymna01c956fsrzqzvk67azr527hsa
+FileSize: 16752
+NarHash: sha256:166ixpy37a7q1s9c92aaamc3v1mslzdjcl0nkl877s1cr2snv3z6
+NarSize: 64768
+References: 
+Sig: grigio-jcode:kyffi8rGKr2J47zHiUSFTqOwl6jhYABn4ThObE/1LbwGJABsijPmj1MPOof6dG4UY8o2eMXt5HPUUBLmTSXiCg==

@@ -1,0 +1,9 @@
+StorePath: /nix/store/35jpq6l7pcdcgzfai2c7g9gfldr8xgfn-cargo-package-httparse-1.10.1
+URL: nar/06v5rfh5p9s8gv696a9ylc03afzklkazjjck7wjg2hfwxif3gayd.nar.xz
+Compression: xz
+FileHash: sha256:06v5rfh5p9s8gv696a9ylc03afzklkazjjck7wjg2hfwxif3gayd
+FileSize: 39600
+NarHash: sha256:0fz4hgz1ggyssjdsxf9b2dqj07vky5lj21xva23hdrz4cyg4k2bn
+NarSize: 309944
+References: 
+Sig: grigio-jcode:Ip+ObKO4DaS4RyMWF3ae0+pS6JZzM0vNEIC3yNioQDqi3DDRjKslSKXROORFqXFxoN1BGIxNHwcKBT6j4jKQBA==

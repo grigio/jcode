@@ -1,0 +1,9 @@
+StorePath: /nix/store/nljpwgb055b13h8yz8jz9y6h3z9z47qv-cargo-package-displaydoc-0.2.5
+URL: nar/0ds8a87x3ra11h6qifvg5b7mfbzg5za7xrrs280a63phs47nws47.nar.xz
+Compression: xz
+FileHash: sha256:0ds8a87x3ra11h6qifvg5b7mfbzg5za7xrrs280a63phs47nws47
+FileSize: 20688
+NarHash: sha256:1v60rdr0d0kn8lnsi3hzzbx9xd1h1yrdnr3dybwmkysmlc0y5r6p
+NarSize: 101168
+References: 
+Sig: grigio-jcode:Y9cYAHcTg8l92n0H6igWo9W4Yvv6o/BQbwIpuoq0jD31aWz6v1Okbs/ot39HlCNwifwPdndKxDbR2Rpn3gJ9BQ==

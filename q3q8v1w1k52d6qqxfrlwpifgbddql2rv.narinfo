@@ -1,0 +1,9 @@
+StorePath: /nix/store/q3q8v1w1k52d6qqxfrlwpifgbddql2rv-cargo-package-objc2-core-video-0.3.2
+URL: nar/18qr55pv7fkgdzj5isb9b261yslmng9cx476c4hrr5iygilf7mx5.nar.xz
+Compression: xz
+FileHash: sha256:18qr55pv7fkgdzj5isb9b261yslmng9cx476c4hrr5iygilf7mx5
+FileSize: 31792
+NarHash: sha256:0swmcwy22r2hnhhnq40ihvbgrkjz1gqf9bdq47g8if5qxh92h2lj
+NarSize: 311080
+References: 
+Sig: grigio-jcode:zvlAwGjAz/KGJBzqa2abpYkTesQOJLrl2yWSxUYRO4yVl+Oa5N4JshUSktlVYjfI6XCeAokNvQL2r62SqjESAQ==

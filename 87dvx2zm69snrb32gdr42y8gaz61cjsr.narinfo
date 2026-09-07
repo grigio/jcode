@@ -1,0 +1,9 @@
+StorePath: /nix/store/87dvx2zm69snrb32gdr42y8gaz61cjsr-cargo-package-wit-bindgen-rust-0.51.0
+URL: nar/1l8l5aj3vqgv7y61f96j9q04y4hd5psq07gb0ywm4ri7qmpj11rs.nar.xz
+Compression: xz
+FileHash: sha256:1l8l5aj3vqgv7y61f96j9q04y4hd5psq07gb0ywm4ri7qmpj11rs
+FileSize: 48236
+NarHash: sha256:09kb8q167pd296iidzp59cn3kzh0jc724xramal02xpmffh006ha
+NarSize: 272232
+References: 
+Sig: grigio-jcode:wZiipnpLZ7lkno/mUOLL5rxnDmurRG98z/bRS+svB9POW7/F50ZP3Yls9gsqXhrwATMmNPiyBLt94jKnQTdPCA==

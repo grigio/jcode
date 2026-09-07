@@ -1,0 +1,9 @@
+StorePath: /nix/store/bjv3s61qggsabg3g9ixms5s97hpkzjh4-cargo-package-signal-hook-0.3.18
+URL: nar/09rr9xlbg9rs9f6ppjbjilws81c081sfc1i22rbxzkhllds421j7.nar.xz
+Compression: xz
+FileHash: sha256:09rr9xlbg9rs9f6ppjbjilws81c081sfc1i22rbxzkhllds421j7
+FileSize: 44068
+NarHash: sha256:120r0h8svbl77dv2mpvcqw5kr1by3y0bv36xnipndf0dbjw292i7
+NarSize: 172880
+References: 
+Sig: grigio-jcode:7OT/CwBhYTwwn/YgkoHRNOO1jXQVWw6uBFQLhsMs1aFGOxFU+D7ltqp9uyFBtP6+kJJAhzx6f4LNrRXrt91UDA==

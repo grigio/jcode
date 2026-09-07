@@ -1,0 +1,9 @@
+StorePath: /nix/store/q7nmnrxfwc2dhivkjn57k1gd8r3igzjv-cargo-package-wasip2-1.0.1+wasi-0.2.4
+URL: nar/0vr7byn0byb9m2y787vs369ggv5y1rx8dkb8lns79yaczfkxzsaj.nar.xz
+Compression: xz
+FileHash: sha256:0vr7byn0byb9m2y787vs369ggv5y1rx8dkb8lns79yaczfkxzsaj
+FileSize: 76108
+NarHash: sha256:1ch25y0s4a703cisa6n7sqg307irrnqhhvzlka32zll69ad2hhxb
+NarSize: 1211224
+References: 
+Sig: grigio-jcode:0oUSlQY0R05wqPP0re/ta6G5ifgm8YiT84KEV5DjDYRH5aa+yXhEPnOY+pSsJyeGOuxNGv8KMw4VCdl+1PtXCg==

@@ -1,0 +1,9 @@
+StorePath: /nix/store/yr3py25yafg1iggfz0y965k8snbffws8-cargo-package-fixedbitset-0.4.2
+URL: nar/16iywpkan0r200llm5di5k7n2v1vy5w8lhsq3zrfvrq7vimrbmal.nar.xz
+Compression: xz
+FileHash: sha256:16iywpkan0r200llm5di5k7n2v1vy5w8lhsq3zrfvrq7vimrbmal
+FileSize: 14792
+NarHash: sha256:1qb5avkb5vnqp1223dqfivmlhy0hl7p3fhgcizyhrmxw7x8n6yxc
+NarSize: 71072
+References: 
+Sig: grigio-jcode:WOgAN6rIhUmkDa6gyvCe8eNW2sKK8MCdI6+jd7qKsbTRztZld5Mx/OhhQOCVCmRiMVmKseZpQxc00e8gldejAw==

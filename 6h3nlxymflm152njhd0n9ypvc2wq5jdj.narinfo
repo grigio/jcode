@@ -1,0 +1,9 @@
+StorePath: /nix/store/6h3nlxymflm152njhd0n9ypvc2wq5jdj-cargo-package-ignore-0.4.25
+URL: nar/1ipaqns3sh1ivw4krwd651rw5d0vvyqg5saicavqim8ffmy2s335.nar.xz
+Compression: xz
+FileHash: sha256:1ipaqns3sh1ivw4krwd651rw5d0vvyqg5saicavqim8ffmy2s335
+FileSize: 48804
+NarHash: sha256:004qj3jjc8nrm6na5s6kmii7axh72k624xv961301rzb49js7jwn
+NarSize: 263552
+References: 
+Sig: grigio-jcode:o7vJrFJd6RrmyC3qt9cXR+v28kIKGF5SmbCFfZbRmNfl5oRro0VRztjObSeQp51lcAlDRfMbGu1RvlFLR7fzAg==

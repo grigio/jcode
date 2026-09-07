@@ -1,0 +1,9 @@
+StorePath: /nix/store/hp55fhf7s0jrcmiz6fgflrj3a31c7k9b-cargo-package-cfg_aliases-0.2.1
+URL: nar/0k9zxhq7bb3miq06ly0a0w4ca6gvk97569qfj8x56l2czwbirxpd.nar.xz
+Compression: xz
+FileHash: sha256:0k9zxhq7bb3miq06ly0a0w4ca6gvk97569qfj8x56l2czwbirxpd
+FileSize: 6060
+NarHash: sha256:0gpfxybrrl5abqw48wrb3i08fbz184m5qm8dk7bcdk8vxh59fm0v
+NarSize: 24904
+References: 
+Sig: grigio-jcode:KWdCXg7XbgZi+aEH5HIm8S6DCX3WQ4iBt7HxKkIvCQ+sK/9ATBa8IiY6E6kfnfKhUo4A5dYuG9qp2ir5JOb2CA==

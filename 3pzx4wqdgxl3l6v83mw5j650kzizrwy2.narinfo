@@ -1,0 +1,9 @@
+StorePath: /nix/store/3pzx4wqdgxl3l6v83mw5j650kzizrwy2-cargo-package-imap-proto-0.16.6
+URL: nar/10i12w1xrfc7bvrys9jif8k9k90ld018y54jmmf8skc6dqf81giq.nar.xz
+Compression: xz
+FileHash: sha256:10i12w1xrfc7bvrys9jif8k9k90ld018y54jmmf8skc6dqf81giq
+FileSize: 31404
+NarHash: sha256:1qy3d7l2qblxrbzsm927cfznvmx85b2ili08wramb7xj9ksizn3a
+NarSize: 198584
+References: 
+Sig: grigio-jcode:uXmQLPqLughAZd4vT6idr7LtTTvZdfcezPHXiiTpg2Aexc7S9MI+vtdEVc2FjtVKkoA/8UVITJwM2VxJzlRDDw==

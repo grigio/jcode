@@ -1,0 +1,9 @@
+StorePath: /nix/store/bfg9id7219bcpcz2ps1w17v34sc2bvbp-cargo-package-clap_lex-1.1.0
+URL: nar/1qn9pxshk3s2w0v7443djlbwcw8mm0m5i4hp8gklhhdlvdysnnjn.nar.xz
+Compression: xz
+FileHash: sha256:1qn9pxshk3s2w0v7443djlbwcw8mm0m5i4hp8gklhhdlvdysnnjn
+FileSize: 12604
+NarHash: sha256:1fryqlzi3cl4dns3k8jq6y0qw5majqzp3c88c0xyrn1wchkh0frw
+NarSize: 47896
+References: 
+Sig: grigio-jcode:4JkdBpv9GdsEmk1FwpOPKj3bnUAIBZQKEgXHiC9ZzcVSg9clON/qTWww3C6nvCQwT7f9rffrJBCWbL7TEUmGBQ==

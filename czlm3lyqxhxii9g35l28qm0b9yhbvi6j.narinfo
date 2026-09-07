@@ -1,0 +1,9 @@
+StorePath: /nix/store/czlm3lyqxhxii9g35l28qm0b9yhbvi6j-cargo-package-qrcode-0.14.1
+URL: nar/06df7qikw0y2y16jfrbbw5sbp646v78qlqwqnjr7s18a8ma9cgxh.nar.xz
+Compression: xz
+FileHash: sha256:06df7qikw0y2y16jfrbbw5sbp646v78qlqwqnjr7s18a8ma9cgxh
+FileSize: 53940
+NarHash: sha256:0k59mx4i907nnh1n8aclcy8y6pr91nq3arw9306k62njf8y5smxb
+NarSize: 280968
+References: 
+Sig: grigio-jcode:yiftvyY+xKdL9g0i+szzF0g9fXwkkVEOnsVc4ORuDGBjw8VwQjlQY/q9qzrHRku8VXleqfLd+Ww3v0zjNzKSCw==

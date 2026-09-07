@@ -1,0 +1,9 @@
+StorePath: /nix/store/wi9v29xbrv48l9lnz70iaim7swbyq8rl-cargo-package-rayon-core-1.13.0
+URL: nar/1lbxjjwp0696g3igc32rs5him55vla7vwj264w9i3bb781032fvv.nar.xz
+Compression: xz
+FileHash: sha256:1lbxjjwp0696g3igc32rs5him55vla7vwj264w9i3bb781032fvv
+FileSize: 59588
+NarHash: sha256:0dxfy2p60q2v732zclql4950iclakw7jnwz0zmkgkjnjaa4zzq6s
+NarSize: 296296
+References: 
+Sig: grigio-jcode:a8XFPleehUpIM0KWYtefb6chnKX+xCjo3fI8Y0zhBGX7pLKW7KXCIb8VGOIPanAtuLcHm5RXrvu/aNjW0gzKAg==

@@ -1,0 +1,9 @@
+StorePath: /nix/store/yk0r17xy7hpjh4m804zmqn445gpfa7rl-cargo-package-aws-config-1.9.0
+URL: nar/0c76cnnm2cx96n245b8n8gvcwnwrk6ap0ri141p88743wgqhsqaq.nar.xz
+Compression: xz
+FileHash: sha256:0c76cnnm2cx96n245b8n8gvcwnwrk6ap0ri141p88743wgqhsqaq
+FileSize: 117504
+NarHash: sha256:1npl2gzg6p53ridq993zjdqm3rgmwwx0gwbdyzpsna00djj29m4b
+NarSize: 787952
+References: 
+Sig: grigio-jcode:4TjRXn4p5dZio3zJrbZ1e5uyhyZGbFnf2ABLFfoamgBmzSbHc7qqcnqzeblSgRxDGdP7yvFYtGuF/armfix6Bw==

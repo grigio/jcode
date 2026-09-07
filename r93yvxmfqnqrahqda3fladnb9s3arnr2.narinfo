@@ -1,0 +1,9 @@
+StorePath: /nix/store/r93yvxmfqnqrahqda3fladnb9s3arnr2-cargo-package-inventory-0.3.24
+URL: nar/0a86nx31knwr8s6k6a8xi7ylvdfwvvfyb30zgkmw1bjz77x808pl.nar.xz
+Compression: xz
+FileHash: sha256:0a86nx31knwr8s6k6a8xi7ylvdfwvvfyb30zgkmw1bjz77x808pl
+FileSize: 14796
+NarHash: sha256:0gzpk357f0b8vqahdjqr5vjdmnwknlp0911ysnsmpnq4518nvd29
+NarSize: 57176
+References: 
+Sig: grigio-jcode:NDomFWwYIKiiAeQnnLt/9M1iPY9RRZf4lyY+JUJ6lI+fTm6F4Zm0BmKgF/uHcx2V7iK0TzInY2G4HPn8zObeCQ==

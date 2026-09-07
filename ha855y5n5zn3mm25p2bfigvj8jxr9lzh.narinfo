@@ -1,0 +1,9 @@
+StorePath: /nix/store/ha855y5n5zn3mm25p2bfigvj8jxr9lzh-cargo-package-openssl-sys-0.9.117
+URL: nar/0bl852gkk1g06jyihgpjd0mj7jz2g9ysrvb6v99wvck67pgv9bb7.nar.xz
+Compression: xz
+FileHash: sha256:0bl852gkk1g06jyihgpjd0mj7jz2g9ysrvb6v99wvck67pgv9bb7
+FileSize: 62088
+NarHash: sha256:0aglk4sn0vz5fd2vwkdfl4m2wlch56l5sckzan9li5dkvjplskw1
+NarSize: 418616
+References: 
+Sig: grigio-jcode:6p7GxQzNz5VgCMtR+nwmKZKYRtP9ShSWAiBF/tzrj862vFLYDrW0a/79alSgpUUKPg0npmRq1a+RlbNZXcRXBQ==

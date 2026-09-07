@@ -1,0 +1,9 @@
+StorePath: /nix/store/r1298vwh0yf0xjz87541zi8lk0vlln8m-cargo-package-libc-0.2.180
+URL: nar/11n6m1wxmvcqbpq75f1dqfhp42r8xgns0x8zbcc2l06kaz6ixf29.nar.xz
+Compression: xz
+FileHash: sha256:11n6m1wxmvcqbpq75f1dqfhp42r8xgns0x8zbcc2l06kaz6ixf29
+FileSize: 371292
+NarHash: sha256:1lxrgchzn4c5qy32f2jjlmkhjvvlqjgi18s2vq2rnalhnq5rm550
+NarSize: 4433312
+References: 
+Sig: grigio-jcode:Rivrre6yihN2INjhx5GJyRzfdfqJJRfI5xTfvh+UzP/W0cGLUr5thEuinN0RzUEzm3bwUHuVwjB8sEvzd+dhDQ==

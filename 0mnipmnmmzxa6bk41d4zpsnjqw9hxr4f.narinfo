@@ -1,0 +1,9 @@
+StorePath: /nix/store/0mnipmnmmzxa6bk41d4zpsnjqw9hxr4f-cargo-package-leb128fmt-0.1.0
+URL: nar/16lix07n0f91qn0bqi4ch01l69jj8fgr0ay4swcy014lz4zm6c8v.nar.xz
+Compression: xz
+FileHash: sha256:16lix07n0f91qn0bqi4ch01l69jj8fgr0ay4swcy014lz4zm6c8v
+FileSize: 13048
+NarHash: sha256:1zc88dyx4k9ql7q418i9lad2d65aj187waqimcg069gnq3yxdhng
+NarSize: 76120
+References: 
+Sig: grigio-jcode:Fv9AlT069CAEN+bMAXWe2cjEmkSSvtXy9KiZNovrmTtXF2NXSZqN89Jg9kQXMBCbY+a9159qbJtsaszXdLVqCA==

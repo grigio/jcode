@@ -1,0 +1,9 @@
+StorePath: /nix/store/ffm1l4b5i2l3vbklfladapfv7d4llxd5-cargo-package-wit-bindgen-rust-macro-0.51.0
+URL: nar/0z0f67yx3p8sfbw5i3sfxv0408da36harlk2sqcjpgp88x7c8mp1.nar.xz
+Compression: xz
+FileHash: sha256:0z0f67yx3p8sfbw5i3sfxv0408da36harlk2sqcjpgp88x7c8mp1
+FileSize: 13008
+NarHash: sha256:0l6h3ip17yxqav97wfrxwffh6s0bjy647hcf8y3j3811mmllzbvd
+NarSize: 60568
+References: 
+Sig: grigio-jcode:hSZlYo2CMRt/+6l7qRbcE1RS8uk3Aiztf3dMXChbNKFtdvNczVPkId750nriFsYLOJ2do+xpu1FTpR5q5SOmDQ==

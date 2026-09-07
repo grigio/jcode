@@ -1,0 +1,9 @@
+StorePath: /nix/store/xv9mmpi0271sw18gf2vwq6nxhz2nqj40-cargo-package-wait-timeout-0.2.1
+URL: nar/0vzw76l8zkir0svf0hb0wz5prs8qs4dlad8xwrq7rdk47ccglc4s.nar.xz
+Compression: xz
+FileHash: sha256:0vzw76l8zkir0svf0hb0wz5prs8qs4dlad8xwrq7rdk47ccglc4s
+FileSize: 10744
+NarHash: sha256:0k9vhd48wv491vxdaixsfxx9d9fqvfzr46wxbv3wycba4d48c5g7
+NarSize: 36336
+References: 
+Sig: grigio-jcode:xnfzMbZ0npPEXm5ZIIuhDHut1wkwHJ4Utv8m3pGz3fDy8QRubozB4LQ3W0Jwi+pkphLOlbSk9WuXqccOBaDACg==

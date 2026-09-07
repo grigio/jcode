@@ -1,0 +1,9 @@
+StorePath: /nix/store/2gmngnvwj0qzd77jak818gf6z8092wzx-cargo-package-digest-0.10.7
+URL: nar/1shb8m9y12n7kpw0ibvaximsfskl00n38vghr3jr828ar8m84h66.nar.xz
+Compression: xz
+FileHash: sha256:1shb8m9y12n7kpw0ibvaximsfskl00n38vghr3jr828ar8m84h66
+FileSize: 17812
+NarHash: sha256:0rbj8fxpdm4fr2vnhq59k078qzj2mnwb46f6zsf0r5k8whbcqqcf
+NarSize: 92336
+References: 
+Sig: grigio-jcode:APh4bhA/WFvuQdOXZqwxoEaIG2m+lc4dkz3PZCUbwt3z+nKrKy4BvcQKEaVt3OsG2DGGcbou3liF7qbhKp42CA==

@@ -1,0 +1,9 @@
+StorePath: /nix/store/hhqsmh85vg0r7z4mhg9rfnxzgx30zxfb-cargo-package-ident_case-1.0.1
+URL: nar/1n961m8qg6ygj0635acmj21g2bblcpbgxbk0gqy4kikmp8zq3q85.nar.xz
+Compression: xz
+FileHash: sha256:1n961m8qg6ygj0635acmj21g2bblcpbgxbk0gqy4kikmp8zq3q85
+FileSize: 3360
+NarHash: sha256:1d8z3bsma77lmpfvib8ic85am024647lg4s9c52wiyb70injxywh
+NarSize: 11576
+References: 
+Sig: grigio-jcode:VETl9IKV0J5FUdS1kb+QJIw0ax3JHtPOGTtmSnc3c/vrkt75TE5c63ZyZQltQOgKH0QhYNOWzUz035cN2aN0BQ==

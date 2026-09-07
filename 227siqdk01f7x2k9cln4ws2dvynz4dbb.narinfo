@@ -1,0 +1,9 @@
+StorePath: /nix/store/227siqdk01f7x2k9cln4ws2dvynz4dbb-cargo-package-primeorder-0.13.6
+URL: nar/1p74w22gfl6p2fgsfd07rzqm5f93y5pq6wjkianlf926kazm32sg.nar.xz
+Compression: xz
+FileHash: sha256:1p74w22gfl6p2fgsfd07rzqm5f93y5pq6wjkianlf926kazm32sg
+FileSize: 18800
+NarHash: sha256:16kgkilj8cjwz0nnl7zgmv6mrrqlfliac4fg5yrhrx628d99nq44
+NarSize: 94488
+References: 
+Sig: grigio-jcode:Rpn4nB3WLhrWPaTrIflB7vcSPk5/WvnmBueeiSTwsNtUwbwIjKf4bjHKremSDgBKbdrbn6uIU1Tq3cl/poFbDQ==

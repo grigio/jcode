@@ -1,0 +1,9 @@
+StorePath: /nix/store/kvlgw5ci5c4si24pfw1v7xf66yv3a0h8-cargo-package-wasm-bindgen-shared-0.2.122
+URL: nar/0xbpwdwvyfx7hjdjcz53n1hdwnax6a54x6rnaxcaidbrhkpxc62l.nar.xz
+Compression: xz
+FileHash: sha256:0xbpwdwvyfx7hjdjcz53n1hdwnax6a54x6rnaxcaidbrhkpxc62l
+FileSize: 10560
+NarHash: sha256:1nr471mr644c4d5kbakvazlqfw0hm5mnhf9qsmqd0hqy58013nak
+NarSize: 35792
+References: 
+Sig: grigio-jcode:Ge65nds/2tIy2+qsLidBxkkfQ1eeAqJfj/7X+hCDA1a0+szaU4dccQRot91xFfgrMMk9e7lp0PO2WogqkmSsBw==

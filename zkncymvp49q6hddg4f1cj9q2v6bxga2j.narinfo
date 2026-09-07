@@ -1,0 +1,9 @@
+StorePath: /nix/store/zkncymvp49q6hddg4f1cj9q2v6bxga2j-cargo-package-num-iter-0.1.46
+URL: nar/1a8ramvb0diqdz63jvwk2wabwmz5li2213n6fk30m51rcqc7ym5w.nar.xz
+Compression: xz
+FileHash: sha256:1a8ramvb0diqdz63jvwk2wabwmz5li2213n6fk30m51rcqc7ym5w
+FileSize: 10044
+NarHash: sha256:1d8a5m540rrca4sapzkzi2h8ds8rb1jfjyx8zn14iaxrbm33v6wx
+NarSize: 43088
+References: 
+Sig: grigio-jcode:e4AO5S8ACgPc2HE7DvsvWdHqQ1PSe1jtsys1tYeeqwhvufthjokfjJVxQ8PPcEmqzoPR8do8vWEacYVO2QIgBQ==

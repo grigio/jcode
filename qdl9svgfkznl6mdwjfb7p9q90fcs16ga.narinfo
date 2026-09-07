@@ -1,0 +1,9 @@
+StorePath: /nix/store/qdl9svgfkznl6mdwjfb7p9q90fcs16ga-cargo-package-regex-1.12.2
+URL: nar/04psydfqqh2dngdyk3cca3r3yi5maqjrh7ny7nf8nrk1cyplbcyh.nar.xz
+Compression: xz
+FileHash: sha256:04psydfqqh2dngdyk3cca3r3yi5maqjrh7ny7nf8nrk1cyplbcyh
+FileSize: 118472
+NarHash: sha256:1j2dscw7dzbiv9x2jvkz984pndw7cfc9sd5p28bqzr6ymz2rqyz7
+NarSize: 807416
+References: 
+Sig: grigio-jcode:yHfil+CrdlgSZD4mVvoA/OGotcCCu5I7xENgEni/SwuKMIjZLfromifvOFNFHprnIXLgESm5iQAReLH/NGLQDw==

@@ -1,0 +1,9 @@
+StorePath: /nix/store/s5m0ljffjvravwyrhjk6knvl5vpk3ydy-cargo-package-color_quant-1.1.0
+URL: nar/1c47hq0nl1gg7mzd3jfq1fig1sahnbw6pqhbb4wq4wk6a2q5511v.nar.xz
+Compression: xz
+FileHash: sha256:1c47hq0nl1gg7mzd3jfq1fig1sahnbw6pqhbb4wq4wk6a2q5511v
+FileSize: 6248
+NarHash: sha256:07i9npw0rghp69cfd1jifr98dbvv82g82sykqvvvy10fkp98xsz3
+NarSize: 24120
+References: 
+Sig: grigio-jcode:EziiIfFDsvkoHAAEf63RwJ4j8V56cnknH22wk7g8ZC+FKvWFpv7/fE/3C4xb/FGdLOX9jfY9Uv/XlzX06WRgAA==

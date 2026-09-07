@@ -1,0 +1,9 @@
+StorePath: /nix/store/f8m9i1pvn253k57bv7zbhg9zcfljx837-cargo-package-openssl-probe-0.2.1
+URL: nar/19r4d5a025q6f86jl81vx59gl30916sah3cfdchibja4yyr4ms04.nar.xz
+Compression: xz
+FileHash: sha256:19r4d5a025q6f86jl81vx59gl30916sah3cfdchibja4yyr4ms04
+FileSize: 8616
+NarHash: sha256:05w5flkw02439vsa4a843cfblr58avl6b95r1j8iwaad99b5pyvh
+NarSize: 28720
+References: 
+Sig: grigio-jcode:VCoEetasBQjv/hNaUNmr8y4ewmJ9lyR3YNIqixtsU/TP54dbrJ5pquvMu6T65TWo4qIvsMw3UMvNPjfmkw2eBA==

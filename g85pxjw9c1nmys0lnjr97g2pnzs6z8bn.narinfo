@@ -1,0 +1,9 @@
+StorePath: /nix/store/g85pxjw9c1nmys0lnjr97g2pnzs6z8bn-cargo-package-borrow-or-share-0.2.4
+URL: nar/0jv3p98kkp1g0bdw9ldh3n0a97lr5nizxs861pilap9s6bw2ynvs.nar.xz
+Compression: xz
+FileHash: sha256:0jv3p98kkp1g0bdw9ldh3n0a97lr5nizxs861pilap9s6bw2ynvs
+FileSize: 5068
+NarHash: sha256:1hm3silcvkd7sqn40zcss6rqz4xjalh2qg19hsiyn9y6v007bana
+NarSize: 16984
+References: 
+Sig: grigio-jcode:XycfWJoQStbUx7QCNZsXlpZV6PjzWpH4MbdSTRC17P0HbSSXa2pLF4NbVTrRZqNMxzK3lMN0UB3GS4aGsBIpDA==

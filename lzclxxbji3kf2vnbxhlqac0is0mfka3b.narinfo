@@ -1,0 +1,9 @@
+StorePath: /nix/store/lzclxxbji3kf2vnbxhlqac0is0mfka3b-cargo-package-wasm-bindgen-macro-0.2.122
+URL: nar/0hjijlyrxyf2nvi5s5m8y73m46msj2l293iiplhjyv88m4zabmqh.nar.xz
+Compression: xz
+FileHash: sha256:0hjijlyrxyf2nvi5s5m8y73m46msj2l293iiplhjyv88m4zabmqh
+FileSize: 8556
+NarHash: sha256:1wiwlpid0ky3s8r15cl0iv8s22pf795d84dhrm6vfip2qhnf9g4q
+NarSize: 28208
+References: 
+Sig: grigio-jcode:oxecn8Ph/WInel2nAUsxIpXhRh4TZmeOe8qZmbK13CsoDxMn85Zewz4VLFA//gw8SzhOgq/nxHUMvhxxZRZKBQ==

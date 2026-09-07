@@ -1,0 +1,9 @@
+StorePath: /nix/store/1vjk7mmkg9x2l1dwla1avl83qb5l14c3-cargo-package-crossbeam-channel-0.5.15
+URL: nar/0kpi0xs9qicznj7z3dznzhrldfv7vqb4c08qv93vgax1x2nmw1b9.nar.xz
+Compression: xz
+FileHash: sha256:0kpi0xs9qicznj7z3dznzhrldfv7vqb4c08qv93vgax1x2nmw1b9
+FileSize: 70608
+NarHash: sha256:1gb1q5aq4jckl0rp8rgr7f5ysf8jjx6mm50m00adqh0bjkpwn11j
+NarSize: 612200
+References: 
+Sig: grigio-jcode:aEP9kvUHSr0oCPM6ByqSaVYjpFVpBI1HMslYnHlnPJYJ9SeOjQfebQ/0YNvV6XnM2B+j1v0oUFZDZzz6HsonDQ==

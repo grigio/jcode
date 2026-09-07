@@ -1,0 +1,9 @@
+StorePath: /nix/store/f1qw3sfkdjv2lj9ks2nfdq8xsv4bcc3c-cargo-package-unicode-xid-0.2.6
+URL: nar/1xbbwbymc2byap4l74zh1gc59gkb00s0942394ma91ynwl7aci1d.nar.xz
+Compression: xz
+FileHash: sha256:1xbbwbymc2byap4l74zh1gc59gkb00s0942394ma91ynwl7aci1d
+FileSize: 11548
+NarHash: sha256:13wphfcv5v55fym864i60rch5lr710gyx695fd0b2v8k3lmrmnna
+NarSize: 80296
+References: 
+Sig: grigio-jcode:R6XEtvKK/rI01kGxypAoEX8y310/WeSzOoYy+sJ7vBGq2GKaUgMHMl737f+XhDnGfmRC3OR8TvC6b8hmilySCw==

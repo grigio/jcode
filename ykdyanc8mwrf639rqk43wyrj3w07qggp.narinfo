@@ -1,0 +1,9 @@
+StorePath: /nix/store/ykdyanc8mwrf639rqk43wyrj3w07qggp-cargo-package-hybrid-array-0.4.11
+URL: nar/18y02jk2nxa4ak7l067nr8vnpb2hky3wphf8c3nzg02j1rb4g4z3.nar.xz
+Compression: xz
+FileHash: sha256:18y02jk2nxa4ak7l067nr8vnpb2hky3wphf8c3nzg02j1rb4g4z3
+FileSize: 28548
+NarHash: sha256:1ggm6akgy3l0nl1sgif95p5sz51a1d17mqcy87q3say6pr97qcf6
+NarSize: 148824
+References: 
+Sig: grigio-jcode:undfw6Pz4iTP+auAi2KAeidCsq0DAIDzfC3aAgIp+kQ62/HbO6ciKc8+x/H/xfBPQsWKHzeJZQ04o09mmI4LDw==

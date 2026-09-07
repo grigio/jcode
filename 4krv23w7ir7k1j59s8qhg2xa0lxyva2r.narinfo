@@ -1,0 +1,9 @@
+StorePath: /nix/store/4krv23w7ir7k1j59s8qhg2xa0lxyva2r-cargo-package-by_address-1.2.1
+URL: nar/0alf9pvcfrbzaqsxa5kbm0wf1727rjm5wx8yv5jl72ccrkgxqxzc.nar.xz
+Compression: xz
+FileHash: sha256:0alf9pvcfrbzaqsxa5kbm0wf1727rjm5wx8yv5jl72ccrkgxqxzc
+FileSize: 8020
+NarHash: sha256:1lq7j0hg9fqw5g8f49msrsk62mxyvrcz2lqg1jw7j1wn421lqkch
+NarSize: 27736
+References: 
+Sig: grigio-jcode:LWeHJFjs2gfppKuCFuk0rNl0wa3w4LUgUhC67URPx/USCHFqVEmVRjPfopxtrieTq/kO64GpUxtHIc/l1fKcDA==

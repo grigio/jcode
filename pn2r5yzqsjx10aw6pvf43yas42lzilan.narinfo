@@ -1,0 +1,9 @@
+StorePath: /nix/store/pn2r5yzqsjx10aw6pvf43yas42lzilan-cargo-package-either-1.15.0
+URL: nar/12dk4v268i88svhcvnixsp784bn4wi7ni8f23ksyis9f34gzyksr.nar.xz
+Compression: xz
+FileHash: sha256:12dk4v268i88svhcvnixsp784bn4wi7ni8f23ksyis9f34gzyksr
+FileSize: 18288
+NarHash: sha256:1lrga2yw2vpic7c07r6m1dzr2xnawwcxckm9bl4pmm3vaph9zf44
+NarSize: 86032
+References: 
+Sig: grigio-jcode:VLmPN4zhSzgMOEFvonTm2FfHE1HCiFbbMy4hMzPc7ovu/8HRIT3xmDe4KB4XQ3Nk5zMZjU83MfW79S7Rk5c1Bg==

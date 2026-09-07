@@ -1,0 +1,9 @@
+StorePath: /nix/store/k3fhdhbv10cxbg5a9c2gnc4w9zyik2fg-cargo-package-prost-derive-0.14.4
+URL: nar/09jd8vvbygjlr2isdhaj5697h2f2sm92hvk5h7bl9l8knb20jkbn.nar.xz
+Compression: xz
+FileHash: sha256:09jd8vvbygjlr2isdhaj5697h2f2sm92hvk5h7bl9l8knb20jkbn
+FileSize: 19188
+NarHash: sha256:0qigq44jfa8wicscfrgik6n19b6kcym2f7cwinzifhgcng1h2i28
+NarSize: 110912
+References: 
+Sig: grigio-jcode:MZNwnD3XlSjeIyEVsSvp7Tn1c7BJeyeOWVRQ+cms4miDC754cavYOaOEK3hV8CAg7E/NvFLf5ELMwOYXhWPqBw==

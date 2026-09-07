@@ -1,0 +1,9 @@
+StorePath: /nix/store/43llrz4ckz71mbzwgkfhcq27ax36xnzx-cargo-package-stringprep-0.1.5
+URL: nar/1p4nrwxygk4mplab27n1ry0x5l1da00ws3vbdcq0x92xqkpd8q55.nar.xz
+Compression: xz
+FileHash: sha256:1p4nrwxygk4mplab27n1ry0x5l1da00ws3vbdcq0x92xqkpd8q55
+FileSize: 15716
+NarHash: sha256:0vic6qxgqi5kj24xa9ig048b1lx3wb0r67p9p8sr3ccdamj47xa2
+NarSize: 108944
+References: 
+Sig: grigio-jcode:URgrNDpMnsHnKHqWKxjN5lplSPr2qpPmgiq0vKpsWRvr+E34BbA4iciX2Eq/LPCEJFlU2B82Q1XP1U0VfdNdDw==

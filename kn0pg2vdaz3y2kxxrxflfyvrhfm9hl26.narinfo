@@ -1,0 +1,9 @@
+StorePath: /nix/store/kn0pg2vdaz3y2kxxrxflfyvrhfm9hl26-cargo-package-minijinja-2.21.0
+URL: nar/13y2dlq9mw3r66fhfc7zys30c36j4h20abf1ys3qlyrayml93aak.nar.xz
+Compression: xz
+FileHash: sha256:13y2dlq9mw3r66fhfc7zys30c36j4h20abf1ys3qlyrayml93aak
+FileSize: 156820
+NarHash: sha256:0n7pb38mc2yng0k9zk5110h2xwkjr3hv70adav2zjqxwa3v7qsyf
+NarSize: 906576
+References: 
+Sig: grigio-jcode:tbGxTj0Ty+cdbD/YL2FNWOjyO7GrCqMe64IkOWuC8XszJTUiihv9w9hxvNpAMgg3524FIMgGcDQqEh1dMvtSDw==

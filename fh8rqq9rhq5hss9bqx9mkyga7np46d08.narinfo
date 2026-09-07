@@ -1,0 +1,9 @@
+StorePath: /nix/store/fh8rqq9rhq5hss9bqx9mkyga7np46d08-cargo-package-unicode-normalization-alignments-0.1.12
+URL: nar/1q44m1m7dhzakpnpw60qzm7r28kwij3kdyjawycxxydrfyllaha8.nar.xz
+Compression: xz
+FileHash: sha256:1q44m1m7dhzakpnpw60qzm7r28kwij3kdyjawycxxydrfyllaha8
+FileSize: 71908
+NarHash: sha256:0yw8gl9v0a1ccqmz78x6rzazwcvfcjld8cgg73wbxrakfawa6yxl
+NarSize: 516192
+References: 
+Sig: grigio-jcode:A0S47h6dt/oWyUTaU1Ps+DHI9TypkBzZaH841jANayhGXitiB8BMg0w10z0L9sl8gxAM4583WLEqztIw/kqtDg==

@@ -1,0 +1,9 @@
+StorePath: /nix/store/2qv0223iv1f39bzmclf05a3rp6x436dd-cargo-package-zerovec-derive-0.11.2
+URL: nar/1xwcq5zsdg02ka2vdh7a0l3wnjiwgwrargzkfv284hg3yja4khz0.nar.xz
+Compression: xz
+FileHash: sha256:1xwcq5zsdg02ka2vdh7a0l3wnjiwgwrargzkfv284hg3yja4khz0
+FileSize: 19048
+NarHash: sha256:13mbzvbvzpkmrwqr7ba0lcynnp7na3m1jzvf7bqwnqbpp480qx8p
+NarSize: 97016
+References: 
+Sig: grigio-jcode:UhHjzfSG4na3dSpkLAJWPdmEHF+AbYQmoNXLN1yyhj6X0ntbLYhS0zarquHPyPIpgHaAjf/gv29H0k8K/Y/hDA==

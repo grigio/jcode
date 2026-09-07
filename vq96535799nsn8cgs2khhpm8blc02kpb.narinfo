@@ -1,0 +1,9 @@
+StorePath: /nix/store/vq96535799nsn8cgs2khhpm8blc02kpb-expand-response-params
+URL: nar/02z20i84wsa3wd2sqg8cn7za25pnx511mgwaw3pfymkgrnpa65vs.nar.xz
+Compression: xz
+FileHash: sha256:02z20i84wsa3wd2sqg8cn7za25pnx511mgwaw3pfymkgrnpa65vs
+FileSize: 3128
+NarHash: sha256:1cks3k7drqqd1c905j5i9yn8fll61q07p01xv853mkidaabn4xvw
+NarSize: 16808
+References: l8si8gnvvq93yzms1jsgh5aixyf9rl5x-glibc-2.42-67
+Sig: grigio-jcode:o/cj0KqC1W7/1NnlsB73uBbg+GRjfGZLyZU0r6I2/WfH/3F+lcHRRKDCsdW0u2fTDtWQHxMAEap830+CMhCzDQ==

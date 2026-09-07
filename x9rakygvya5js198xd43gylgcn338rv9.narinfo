@@ -1,0 +1,9 @@
+StorePath: /nix/store/x9rakygvya5js198xd43gylgcn338rv9-cargo-package-aws-sdk-sso-1.103.0
+URL: nar/0x5fpm8rzf76isk8laydjbyz58fxb8dgfr65gsffi1gwjjhf0z8n.nar.xz
+Compression: xz
+FileHash: sha256:0x5fpm8rzf76isk8laydjbyz58fxb8dgfr65gsffi1gwjjhf0z8n
+FileSize: 64404
+NarHash: sha256:1pl2dxzkjq5m40wwza52by6cx8mh2nszmjs99rb7abq92q3zj81v
+NarSize: 588824
+References: 
+Sig: grigio-jcode:Gw5VmDeiu0nvhfzAQZ+8pDlzHJqRaBwlUeS3YzyywHMKOt2gI2Cley2Z9IeYFcanw5PYmZixQ9K8+A7DYpIUBw==

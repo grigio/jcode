@@ -1,0 +1,9 @@
+StorePath: /nix/store/q7iv5ws0r4bqkvafqpjl7594q9j9a4l7-cargo-package-fontconfig-parser-0.5.8
+URL: nar/1i0wa7z9lsimp0sxkha6piq8rksabnvx2b6kadfq1qr5w2wg9z16.nar.xz
+Compression: xz
+FileHash: sha256:1i0wa7z9lsimp0sxkha6piq8rksabnvx2b6kadfq1qr5w2wg9z16
+FileSize: 33888
+NarHash: sha256:18mch5k39sd1gap22by4ppls7cxhswgapll2caqxx6n9g0hv6a2c
+NarSize: 261912
+References: 
+Sig: grigio-jcode:Tm1MClS4FwsCXEdHCISi4FYuFdgXiIPdgg/jUYUbR9xpQpFFJ7rz0IYCU1u2aBboWEbRyhWu5+kzwLmHea+uCA==

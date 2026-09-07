@@ -1,0 +1,9 @@
+StorePath: /nix/store/vp2mc0vg6s8v2mybvw07zhsayrb2ns6m-cargo-package-derive_builder_core-0.20.2
+URL: nar/0z6mjscrf61fzna9vi4skgx5g054bc3immm0sv1yag3qjcd1r4yn.nar.xz
+Compression: xz
+FileHash: sha256:0z6mjscrf61fzna9vi4skgx5g054bc3immm0sv1yag3qjcd1r4yn
+FileSize: 27112
+NarHash: sha256:183hr6s82bcnzcjmsw14vqig4168qgvbs5sn5ni30wp6c3p8zggh
+NarSize: 149920
+References: 
+Sig: grigio-jcode:UKbTa4QzfGNxaf2DP6Ie+17TTZRf5B5YmpgKLx3qojNvs0OwKw+xFd0qQ0SBL1QqdMCnxKkSWprwBESBApcpDw==

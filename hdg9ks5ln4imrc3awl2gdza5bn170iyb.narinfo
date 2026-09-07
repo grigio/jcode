@@ -1,0 +1,9 @@
+StorePath: /nix/store/hdg9ks5ln4imrc3awl2gdza5bn170iyb-cargo-package-bufstream-0.1.4
+URL: nar/11ik3f6w60lala81l1cdllvab4yzl4nf8gapbibmgpr8nzbrkvwq.nar.xz
+Compression: xz
+FileHash: sha256:11ik3f6w60lala81l1cdllvab4yzl4nf8gapbibmgpr8nzbrkvwq
+FileSize: 8228
+NarHash: sha256:1ab7yn0b8zkpgrbigjxypjpvs4z7xcxdda2xk4c9cxkllbxkyp57
+NarSize: 25552
+References: 
+Sig: grigio-jcode:1dG5izaP4NJyP0JxOZ2jxSVvlsxk+C1/3K4wnSKujHBKbZK8gOuxHO4cglKdsmGbuLBdG+Eee7LaiepZ2XfGAA==

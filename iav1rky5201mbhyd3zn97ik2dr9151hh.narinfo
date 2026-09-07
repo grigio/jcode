@@ -1,0 +1,9 @@
+StorePath: /nix/store/iav1rky5201mbhyd3zn97ik2dr9151hh-cargo-package-hyper-1.8.1
+URL: nar/0gald9dh5vfj7ywr2nqx3r99r9xib29kqvw485azmbixdy12zi64.nar.xz
+Compression: xz
+FileHash: sha256:0gald9dh5vfj7ywr2nqx3r99r9xib29kqvw485azmbixdy12zi64
+FileSize: 121808
+NarHash: sha256:0avn7zhpszi84rwzhdj927j5084plifrh916jbrh4w8wq8szqdgw
+NarSize: 747016
+References: 
+Sig: grigio-jcode:ykkwPJ6I4MyZ6TrzFeOfdWvHNIfjoyO8miYdI0LCNO4XjOHnrGXMDFCWhVA8AtkAU4yIqEL8hhhZjr5a5T5YAQ==

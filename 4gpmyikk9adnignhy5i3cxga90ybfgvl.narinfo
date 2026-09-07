@@ -1,0 +1,9 @@
+StorePath: /nix/store/4gpmyikk9adnignhy5i3cxga90ybfgvl-cargo-package-pathdiff-0.2.3
+URL: nar/1fkp29sv57m89v0hwsnlrsz1xir55rwvrzbfd9k5w0vf4idgq8ba.nar.xz
+Compression: xz
+FileHash: sha256:1fkp29sv57m89v0hwsnlrsz1xir55rwvrzbfd9k5w0vf4idgq8ba
+FileSize: 7100
+NarHash: sha256:13l8rmh85qash7pzd2ym9fgyjr7nlb6xv916zgv4p0lhnvp6z7d6
+NarSize: 26056
+References: 
+Sig: grigio-jcode:QjbbnQx7rB27iDsOGnBAOkZvOZjzBCxv8l6/7bUwVOD1M7gsvRvmrXjB/j087P5Vtb3W7fIeR/LUITU+qNwlCA==

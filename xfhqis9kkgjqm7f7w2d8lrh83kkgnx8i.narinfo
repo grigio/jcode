@@ -1,0 +1,9 @@
+StorePath: /nix/store/xfhqis9kkgjqm7f7w2d8lrh83kkgnx8i-cargo-package-aes-0.8.4
+URL: nar/1j9wxh2rkls86p0zc6chcfrr7nd9bx2zg99w3zz0wydnf5wa95zy.nar.xz
+Compression: xz
+FileHash: sha256:1j9wxh2rkls86p0zc6chcfrr7nd9bx2zg99w3zz0wydnf5wa95zy
+FileSize: 105288
+NarHash: sha256:14lxcxskz6gywxyn03p2zwxx494b4bz2fyalfc9jsp6s3kyn1yxa
+NarSize: 349664
+References: 
+Sig: grigio-jcode:XHnC8KDR6i7vYorOyf75WpdQMvKzeKj+hRbTxUiBL1H/pvhWlF1efSdv46TgDikTxLajMF8gjMNa/kbVyFQVBQ==

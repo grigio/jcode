@@ -1,0 +1,9 @@
+StorePath: /nix/store/la9kngdsn99lrqgzdv3k0rw76sg33cay-cargo-package-foldhash-0.2.0
+URL: nar/16cf1xawway1wbgxip68c8h2ivld3w4sq4vn86w5ds6qj4yny22h.nar.xz
+Compression: xz
+FileHash: sha256:16cf1xawway1wbgxip68c8h2ivld3w4sq4vn86w5ds6qj4yny22h
+FileSize: 20656
+NarHash: sha256:1xlb9xgqsdk3b17isj98kb2hkjir8nv8zv2i2yy1jp657h0naj8c
+NarSize: 87784
+References: 
+Sig: grigio-jcode:lPKL8H6K3A3TuyaVZBasdGinV79+dqmrN9u/4g5FxNqknIEbtPIpVgVrjJ23qJb8HErSRD4MsGEZeJECKJ7kCg==

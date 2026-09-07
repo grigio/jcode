@@ -1,0 +1,9 @@
+StorePath: /nix/store/iyi2kfqmda8xdm16dj9vhl00mrr90n9h-cargo-package-vcpkg-0.2.15
+URL: nar/1nxjp39fh6ckddfgpffma9dg0rlhvyv879jk63kiqaxcgpkzavrh.nar.xz
+Compression: xz
+FileHash: sha256:1nxjp39fh6ckddfgpffma9dg0rlhvyv879jk63kiqaxcgpkzavrh
+FileSize: 135060
+NarHash: sha256:12n9j6wf17rngs4csfm2y6gfhfa949d7pxnymlwarbaznvyaz1i0
+NarSize: 2662656
+References: 
+Sig: grigio-jcode:N6tOnh3VIvBJcDM4jEtK51Srba9awd50gFekEl1Vp4C3f3vlILutyI0j2oG+CY3rrYEAqOuatZCo1l8aQK+nBQ==

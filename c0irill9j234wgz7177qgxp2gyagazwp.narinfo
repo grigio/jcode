@@ -1,0 +1,9 @@
+StorePath: /nix/store/c0irill9j234wgz7177qgxp2gyagazwp-cargo-package-rustfft-6.4.1
+URL: nar/09lwb6k3n83fqnlx671sx515s4rcid2d3grapad65yrfg9j6bmi3.nar.xz
+Compression: xz
+FileHash: sha256:09lwb6k3n83fqnlx671sx515s4rcid2d3grapad65yrfg9j6bmi3
+FileSize: 172376
+NarHash: sha256:1x2s1xxxnsyfn4as9alh29r8hil4cpl2l125mmcfyxm69y4v2f1h
+NarSize: 2919368
+References: 
+Sig: grigio-jcode:8X/R45CZZBKdauZNayTFmFoh7ISipiiRNqOsl8HJwsH14YuIypJgeU4mdDEPus7kZoeWQmacE25RBnmDCoQSAA==

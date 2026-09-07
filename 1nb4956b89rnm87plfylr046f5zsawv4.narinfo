@@ -1,0 +1,9 @@
+StorePath: /nix/store/1nb4956b89rnm87plfylr046f5zsawv4-cargo-package-minimal-lexical-0.2.1
+URL: nar/1ffdn8l96zgy3bdf7j4938c3fy3rk3z8sqcvwwk3hl5z10lw98k2.nar.xz
+Compression: xz
+FileHash: sha256:1ffdn8l96zgy3bdf7j4938c3fy3rk3z8sqcvwwk3hl5z10lw98k2
+FileSize: 77468
+NarHash: sha256:09n6d2bik5jz6g8w1gqhjmlypslha78by2i0pblplj49lmpwph1q
+NarSize: 343168
+References: 
+Sig: grigio-jcode:9EtGjsfvws81G11toeIUFe8/fLZgBalYXFj5S5s35ldkBb9Nu0CUxsjxzakZQ7AKuycieOs4TgbC26w++9pmBA==

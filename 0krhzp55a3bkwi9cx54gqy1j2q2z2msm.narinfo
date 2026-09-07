@@ -1,0 +1,9 @@
+StorePath: /nix/store/0krhzp55a3bkwi9cx54gqy1j2q2z2msm-cargo-package-yoke-derive-0.8.1
+URL: nar/18shd6pfdr8riq0s8r45s271iq5pyqzrszvyw4dsw9q81hvffh6p.nar.xz
+Compression: xz
+FileHash: sha256:18shd6pfdr8riq0s8r45s271iq5pyqzrszvyw4dsw9q81hvffh6p
+FileSize: 7248
+NarHash: sha256:1ma9rsmmd1595i7g02jza114s8gcvp8x50anr74my0qk9wcwic9q
+NarSize: 27944
+References: 
+Sig: grigio-jcode:NX8vQBSX/Nv+l4wRW6jg+Z/fuZ282ZPHBieJM7nklX2NXchyBgFN4MNsG6uZp8+3iNGl8ip4bWyEBeUHAS6ZBw==

@@ -1,0 +1,9 @@
+StorePath: /nix/store/kvd6vj2ms94swimvhd2xpmyc9fp5blk5-cargo-package-version_check-0.9.5
+URL: nar/0nr8qz5nhfsrn310z98wvvm98md8x5gq3n24h7n3vmn3ns0ka7ml.nar.xz
+Compression: xz
+FileHash: sha256:0nr8qz5nhfsrn310z98wvvm98md8x5gq3n24h7n3vmn3ns0ka7ml
+FileSize: 14240
+NarHash: sha256:1pqh6ixn115kyh176r7kggzk6r6paa352cwgz7p6ndyg6h3gsn77
+NarSize: 63576
+References: 
+Sig: grigio-jcode:YbJn/wYxaPBbGV3G1GgtjY7I7sLsBSak6b7sP1BLsfadeGOTFIb/KKRmoMqnZdxxZ1R/FOKnL36zHRCqMPuICw==

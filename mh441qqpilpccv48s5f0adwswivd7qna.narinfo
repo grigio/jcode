@@ -1,0 +1,9 @@
+StorePath: /nix/store/mh441qqpilpccv48s5f0adwswivd7qna-cargo-package-quote-1.0.45
+URL: nar/0bxsbm8x030hqpxci4ibw9rpfg6w49v9jy88wmv6jx6m6yfv0hxs.nar.xz
+Compression: xz
+FileHash: sha256:0bxsbm8x030hqpxci4ibw9rpfg6w49v9jy88wmv6jx6m6yfv0hxs
+FileSize: 27740
+NarHash: sha256:0sjrzyr7k3nsd7rwf71d3a2kmn1kli03gaq8449j5c20i241m6f5
+NarSize: 146344
+References: 
+Sig: grigio-jcode:Yu2spqGf1bvTJKZUDFoLNMScxPMuqtmuk0Bqb6cZb6qtYyyON/YrVTNiaKLKzTw2x/xFLplWATs5+8B8OeCMBQ==

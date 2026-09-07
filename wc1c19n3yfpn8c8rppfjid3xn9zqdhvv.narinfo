@@ -1,0 +1,9 @@
+StorePath: /nix/store/wc1c19n3yfpn8c8rppfjid3xn9zqdhvv-cargo-package-ratatui-termwiz-0.1.0
+URL: nar/1lcs0vh398sp3xl92n372n0klz4c4sj88vvrvb78ybg1rvrgsw1r.nar.xz
+Compression: xz
+FileHash: sha256:1lcs0vh398sp3xl92n372n0klz4c4sj88vvrvb78ybg1rvrgsw1r
+FileSize: 15188
+NarHash: sha256:0wrczp3z7myz1klga7q6cpjzhy9bdph9wjgy9illh1c715y7w6kz
+NarSize: 72544
+References: 
+Sig: grigio-jcode:uEw1k7to/8tXMJzjd5BIRFMiCGIRlLvUZW1XuA1kJC0o/xFl7eIppQtm4UrvyBlBi3/0XDqf6wU/NU15+PmcBg==

@@ -1,0 +1,9 @@
+StorePath: /nix/store/mhk6b5yrwhdaf8by2fm93r2km4zbrqd2-cargo-package-windows-link-0.2.1
+URL: nar/12zpd44q2kshc7y0cyl25x03wjp730lblajcj1l85a3vh49q2iir.nar.xz
+Compression: xz
+FileHash: sha256:12zpd44q2kshc7y0cyl25x03wjp730lblajcj1l85a3vh49q2iir
+FileSize: 5828
+NarHash: sha256:0ibq2bnx99bki123a1vs1czn97qy0f8kyb9nx4lwhxm5r67v6wjn
+NarSize: 18328
+References: 
+Sig: grigio-jcode:sY4fZ8/SlTbtQ33kcnuzVQeJk/sc3c8zT7A5gGE7oJpkRFT0KwUkCtgESkrazNI1prXiK0pAQ8QMbPVl1byDCw==

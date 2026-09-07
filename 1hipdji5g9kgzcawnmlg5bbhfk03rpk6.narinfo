@@ -1,0 +1,9 @@
+StorePath: /nix/store/1hipdji5g9kgzcawnmlg5bbhfk03rpk6-cargo-package-ttf-parser-0.25.1
+URL: nar/0mql4l93f4a6r891vr15jv3kcw1hp1v5qhk4p9vml3znng7dwrmc.nar.xz
+Compression: xz
+FileHash: sha256:0mql4l93f4a6r891vr15jv3kcw1hp1v5qhk4p9vml3znng7dwrmc
+FileSize: 147520
+NarHash: sha256:0a9yw1cqv0jf51rbs5348080f7ik2dmbwkdailz4c9ms1250c9dw
+NarSize: 1075536
+References: 
+Sig: grigio-jcode:Auyq1rAY+PjvRNZV5NWrkANvbS1viGTWLf/uQaWD5X6lRwl8p6qSk7AZt+LjQLbX1rS/slERk3JfEu0O5tE9Bg==

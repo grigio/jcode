@@ -1,0 +1,9 @@
+StorePath: /nix/store/k5zpk72fq52iwqhj7j6hamd5bqg71qi6-cargo-package-tracing-attributes-0.1.31
+URL: nar/1zl1asy22iwc18jqzip7cz0931kchc4p3hldl2mwjn3abjdpmyw2.nar.xz
+Compression: xz
+FileHash: sha256:1zl1asy22iwc18jqzip7cz0931kchc4p3hldl2mwjn3abjdpmyw2
+FileSize: 34344
+NarHash: sha256:09dlpshdvijyfpf40qfcmaaxdi9x40pm9rdjkm3pyxynq14f2pvk
+NarSize: 188952
+References: 
+Sig: grigio-jcode:GJNFS3F/LgbYWIiMRLwnWUlnONVnDVCKfVMSehtJVX7nGbhUUsusyNVCgKRmnjtQvMKezQjsuiJeTIiFYEjzAg==

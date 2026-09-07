@@ -1,0 +1,9 @@
+StorePath: /nix/store/1bd20gb364bg3z4xbr8nxqzc7klicxz5-cargo-package-system-configuration-sys-0.6.0
+URL: nar/1ybr82s4gnzcj9j4sz2i1nfsykvxcldna0ahzb5x7qsh4m4l1s2g.nar.xz
+Compression: xz
+FileHash: sha256:1ybr82s4gnzcj9j4sz2i1nfsykvxcldna0ahzb5x7qsh4m4l1s2g
+FileSize: 10272
+NarHash: sha256:10nz53bi9jqv8m988b1gzdwzr27iqh3kqqk576gk4rwisifycv6x
+NarSize: 58368
+References: 
+Sig: grigio-jcode:yA8cGJDmW2xjZE1+3qKNC4QciECuIY6EpXA8IsRlcJMiDcqp4m/SnJ1UpRoutGv4GzmIiH0Gk91ehkzlNF3dDA==

@@ -1,0 +1,9 @@
+StorePath: /nix/store/adcz0m6qq2flmshdf0zz2xwjr5zbq1gr-gcc-wrapper-15.3.0
+URL: nar/0bx04lzyh1zzr6cajvgds7jr2788a26dmv65v5f644a6xydqy092.nar.xz
+Compression: xz
+FileHash: sha256:0bx04lzyh1zzr6cajvgds7jr2788a26dmv65v5f644a6xydqy092
+FileSize: 11224
+NarHash: sha256:0zhqpxdjibkkyy1r9xb42l4zixk4as4vblfbl509nnnady00p3id
+NarSize: 71632
+References: 0iv8glcslgfcgn371lbjr5jjw5a6cqir-gcc-15.3.0-lib 9q284bcg9jr5hd5537i7v9n2ngqm1dq8-binutils-wrapper-2.46 adcz0m6qq2flmshdf0zz2xwjr5zbq1gr-gcc-wrapper-15.3.0 c9mv5v53f7vy3wd00ah0f77k509mzmn7-bash-5.3p15 cmjirs6g57ddbyjglwic2g2cjrwy3ppr-gcc-15.3.0 l8si8gnvvq93yzms1jsgh5aixyf9rl5x-glibc-2.42-67 m2v7vwf2fvgylww97i34kc34z2yxv4h1-glibc-2.42-67-dev mp8s10fwm685azvvv1qq7zyf7iajjlj8-coreutils-9.11 vq96535799nsn8cgs2khhpm8blc02kpb-expand-response-params wnkmdd3nm0af5lxgwq1h4v52y6mdl4vj-glibc-2.42-67-bin xj9dgyqrcq8hrf4mrkvbcp4pa3hgrbhy-gnugrep-3.12
+Sig: grigio-jcode:vl5NtEGtMdqZ5mKoIZjiwvshskEIc7ZPt74yjS+wIDI2jH6/AHq1QLmMfziKbs/GG0XIehOwAJRIylK4uG7JDg==

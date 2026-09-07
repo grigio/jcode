@@ -1,0 +1,9 @@
+StorePath: /nix/store/c21l3dgnaxi6ybiypb15wc3s3x40hf02-cargo-package-spm_precompiled-0.1.4
+URL: nar/1j7hg5aic314f8vhbzzgw04zvyjxjc7dfa04q8vpisszrf26rc8a.nar.xz
+Compression: xz
+FileHash: sha256:1j7hg5aic314f8vhbzzgw04zvyjxjc7dfa04q8vpisszrf26rc8a
+FileSize: 234096
+NarHash: sha256:1rm66fgbi3p0pcj8wz004d1zrpxymqvhak8gvglj0vg0jz1p4abf
+NarSize: 2214656
+References: 
+Sig: grigio-jcode:+loW07eWfgEjUEjW3qC3noLw6G3AngLIUemZ9EmDRuQwMw7OBq3Azmlcs59whox3hJXMhk1Ht3mdPNAQC8WYCg==

@@ -1,0 +1,9 @@
+StorePath: /nix/store/3l61s36j12zb6amrf4hkb45q1yyr3laf-cargo-package-schemars-1.2.2
+URL: nar/0cykcb255n2djd42yvn6iwkvqw9nqwzz03kszdzrlbblyzm0fsbp.nar.xz
+Compression: xz
+FileHash: sha256:0cykcb255n2djd42yvn6iwkvqw9nqwzz03kszdzrlbblyzm0fsbp
+FileSize: 71884
+NarHash: sha256:0qif6c1mgmx61a4k3qm1sp75n0jypfvwsc3lx8ngg7kcxlkk6lz0
+NarSize: 600776
+References: 
+Sig: grigio-jcode:rs+PUbUSoHGJoxd/pRoW8gRTHS7k57uW/7GZPg/bwCNZSH6619Vqf0He2yEuI0OYPB5lBBwQK1ntJk87IpwoDA==

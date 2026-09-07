@@ -1,0 +1,9 @@
+StorePath: /nix/store/f0hfrnvxlnw44gn1njkxnmigypvi1r36-cargo-package-pem-rfc7468-0.7.0
+URL: nar/1h2qwfw31ll33wy5pr7xcsp162mhwdb6f9a1lhkj96ji2nzrnblj.nar.xz
+Compression: xz
+FileHash: sha256:1h2qwfw31ll33wy5pr7xcsp162mhwdb6f9a1lhkj96ji2nzrnblj
+FileSize: 21684
+NarHash: sha256:0ja2mk0sh879yxa2naq415ia0k2n6994gxihkd5l4xqwwdjivbfz
+NarSize: 75592
+References: 
+Sig: grigio-jcode:Y87vS/0BmgosuJ1/MBgM8VHhplCaTj4UAyy3SAf9bfqAI9MywyE+gkVb51CnEmGO1xkpUn99NC1m3HF0qfGDDQ==

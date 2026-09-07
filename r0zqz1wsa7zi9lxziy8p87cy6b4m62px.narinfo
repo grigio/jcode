@@ -1,0 +1,9 @@
+StorePath: /nix/store/r0zqz1wsa7zi9lxziy8p87cy6b4m62px-cargo-package-csscolorparser-0.6.2
+URL: nar/1ax9c0mjsx6m8jhh0fny3r2vfa51l9xxw2rd7sqvb6f61h60b7jw.nar.xz
+Compression: xz
+FileHash: sha256:1ax9c0mjsx6m8jhh0fny3r2vfa51l9xxw2rd7sqvb6f61h60b7jw
+FileSize: 14956
+NarHash: sha256:0rg6fx7f4amab958kv58vl7kk9rrlvwpv2i6kr5bv4z9db2jhmlw
+NarSize: 72568
+References: 
+Sig: grigio-jcode:PoJljyDDo4oZkpmFqPxhZ829qU7x/sA/qseN9QBTqmqwGCBmQ/NJrj9fCrITXHvfLqOpIZGmAQtLHVZK3C8EDQ==

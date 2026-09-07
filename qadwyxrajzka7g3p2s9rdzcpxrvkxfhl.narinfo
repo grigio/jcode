@@ -1,0 +1,9 @@
+StorePath: /nix/store/qadwyxrajzka7g3p2s9rdzcpxrvkxfhl-cargo-git-https-github.com-1jehuang-mermaid-rs-renderer.git-2f993bd79a55235eb59a34d807852276ba25bea7
+URL: nar/1gcsmyrz7vn16w9xh04g9vn54xlwawqycmvhcfqcq6ypa7wm9bvs.nar.xz
+Compression: xz
+FileHash: sha256:1gcsmyrz7vn16w9xh04g9vn54xlwawqycmvhcfqcq6ypa7wm9bvs
+FileSize: 387400
+NarHash: sha256:1bybxdxc5mjm4ag57zrmg3p79jmkyhfd443g5z198gc3d697ac7l
+NarSize: 3711856
+References: 
+Sig: grigio-jcode:A85kvKmY9L5dA69VfcmyhX415sTDd8PbsWUvUoCtsQzk6eGHMTaXgKgo5ksabK6gnWvcxv7ljBg+JcwnaeK9Cg==

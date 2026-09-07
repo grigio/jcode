@@ -1,0 +1,9 @@
+StorePath: /nix/store/i677mnd7z6cxiy39pdc3l8mafbixfxv6-cargo-package-fallible-streaming-iterator-0.1.9
+URL: nar/1rzwddlg5mac9kb5svcpzl37483sz2gfldz99ylrphbqlpi4hif3.nar.xz
+Compression: xz
+FileHash: sha256:1rzwddlg5mac9kb5svcpzl37483sz2gfldz99ylrphbqlpi4hif3
+FileSize: 8688
+NarHash: sha256:1v807bjfjp136xd1hd2d80silyrhv7wxz6smcgp21sjj0bym673g
+NarSize: 38728
+References: 
+Sig: grigio-jcode:WyfVQtHagngWJHeXkpUjXa6rdDpE+fd6YYkGADSOJfRwX7Pj9bGIHYSN7UNkicoPwaEC+HsJshXcFLjTGPZoAQ==

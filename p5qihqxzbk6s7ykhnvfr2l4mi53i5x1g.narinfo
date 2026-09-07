@@ -1,0 +1,9 @@
+StorePath: /nix/store/p5qihqxzbk6s7ykhnvfr2l4mi53i5x1g-cargo-package-aws-smithy-xml-0.61.1
+URL: nar/03bifl4xc1kly3q0m3pi4l243yv3d65y7z4qqmq4ayr1qw7k9db1.nar.xz
+Compression: xz
+FileHash: sha256:03bifl4xc1kly3q0m3pi4l243yv3d65y7z4qqmq4ayr1qw7k9db1
+FileSize: 52432
+NarHash: sha256:14vmlxvibvx3yj9jf4dqkibc7l4y8dfyzhpkd1553kfy3yd6vx9a
+NarSize: 270408
+References: 
+Sig: grigio-jcode:YBFQh2tyBEzLtn2tm2QHo/etes9HpOAwYVIoD1owgyRGiEuz+WQ3yXLFfETV39lxBHgMi2z0fCD6/2GkwJaXAg==

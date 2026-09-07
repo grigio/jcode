@@ -1,0 +1,9 @@
+StorePath: /nix/store/0wlv600rfy6s0r24k2gsi94rkb63lqdi-cargo-package-float-ord-0.3.2
+URL: nar/1qg9sswqhh9v74r6nfam9jhhm3kb6sfbc5kz1bqsvl0vgxvsxhq8.nar.xz
+Compression: xz
+FileHash: sha256:1qg9sswqhh9v74r6nfam9jhhm3kb6sfbc5kz1bqsvl0vgxvsxhq8
+FileSize: 7288
+NarHash: sha256:0plavirhxnr3yivilwbpc3qhzyf2hm08bb3zffqjwsixlgwqkhvj
+NarSize: 24376
+References: 
+Sig: grigio-jcode:T8Mlmg3D+jlOUQekxkmuFJ1FHoh+o8oVYRvg0v5VeDt7OEbNNN4Ffawc9JJwD+K8YstaVRffsp2RwyUvDTveCw==

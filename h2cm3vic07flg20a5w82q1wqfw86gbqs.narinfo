@@ -1,0 +1,9 @@
+StorePath: /nix/store/h2cm3vic07flg20a5w82q1wqfw86gbqs-cargo-package-ratatui-widgets-0.3.0
+URL: nar/04zjv7pm448d28bpc141xspq4v8yw6b4s229xplqsy21z9k3zwds.nar.xz
+Compression: xz
+FileHash: sha256:04zjv7pm448d28bpc141xspq4v8yw6b4s229xplqsy21z9k3zwds
+FileSize: 153928
+NarHash: sha256:020xqgawqwnwdrn2fjh9xwkajq83g6nwaw8q5rjrb0ypv3k33kpz
+NarSize: 1191632
+References: 
+Sig: grigio-jcode:cqZrRkziT4WsYDSH3wv9x82XKb1GiaDEwEvzd2+qTuiw9hFV8MNmCE8PU6VmBPiwdxxD71KV0yEei+R589PvAQ==

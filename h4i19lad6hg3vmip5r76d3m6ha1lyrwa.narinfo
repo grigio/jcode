@@ -1,0 +1,9 @@
+StorePath: /nix/store/h4i19lad6hg3vmip5r76d3m6ha1lyrwa-cargo-package-termwiz-0.23.3
+URL: nar/1mka8r503h44271c7vvx4zi42q70aabp663mqg5f75ahi0ds9sgd.nar.xz
+Compression: xz
+FileHash: sha256:1mka8r503h44271c7vvx4zi42q70aabp663mqg5f75ahi0ds9sgd
+FileSize: 287596
+NarHash: sha256:0sdsza78q86qrfjgh1mvhdyv268q9cl81mm5lk0aklqxl8dqap77
+NarSize: 3653256
+References: 
+Sig: grigio-jcode:GOoTCurSFjX7if0mPXPGxoATym1+AKyzYZ0892vKJjo9e5EfY6mDAGKBsr/Lbx14UnfFIYRpGU4AGO1Z8Cw2AQ==

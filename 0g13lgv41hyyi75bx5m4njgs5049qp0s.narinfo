@@ -1,0 +1,9 @@
+StorePath: /nix/store/0g13lgv41hyyi75bx5m4njgs5049qp0s-cargo-package-strsim-0.11.1
+URL: nar/1sjam0qg4d3jas712bcd47yjbm0034si242n0722bmicyv61qi3v.nar.xz
+Compression: xz
+FileHash: sha256:1sjam0qg4d3jas712bcd47yjbm0034si242n0722bmicyv61qi3v
+FileSize: 13088
+NarHash: sha256:1crkdfnpx9wyz4gf92qpp8nqb1pzyim5yl6agly9fp0w7ggf8nna
+NarSize: 58360
+References: 
+Sig: grigio-jcode:DmQkpkClgB/yWeFnT3KnNu4Ec7udlRI36PMKDtyVZ91Epll/SZqWPma6k/YFqkNKvggG1aZQJZh93DeRJjqxDw==

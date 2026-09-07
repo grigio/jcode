@@ -1,0 +1,9 @@
+StorePath: /nix/store/rlxhrnk8k3rzf8ldfsa9y8dcs2a5x6ab-cargo-package-deranged-0.5.5
+URL: nar/10zag6zs1lrwrqlh1m5rjc5n8r6lhasgcvjjmzy0nnm44ckb6r35.nar.xz
+Compression: xz
+FileHash: sha256:10zag6zs1lrwrqlh1m5rjc5n8r6lhasgcvjjmzy0nnm44ckb6r35
+FileSize: 21140
+NarHash: sha256:0sgkiliv5pcp5a0nbd1l89hrmx8dh6wrfrahvy9gwbkgx0vzfcnf
+NarSize: 138296
+References: 
+Sig: grigio-jcode:J3rl8AsWfepyV1i5/CsRI3kfSt90jXbqr60B2BuI6DW2EEpR7dJpMp8Xm9fwBghdpxicenQ2M+iAwTVdv45YBg==

@@ -1,0 +1,9 @@
+StorePath: /nix/store/2jgz1dbpx0bz41b82xs4syj723zfv97f-cargo-package-errno-0.3.14
+URL: nar/0jnjgwpkam5nnc8nqdm650vn051amqp1kar32yzp7nznk0bvdvda.nar.xz
+Compression: xz
+FileHash: sha256:0jnjgwpkam5nnc8nqdm650vn051amqp1kar32yzp7nznk0bvdvda
+FileSize: 11072
+NarHash: sha256:0wirgkkn1c7rkq7x9ak9qvwxv457glgq2jhr7va401cv8v9hbgap
+NarSize: 42040
+References: 
+Sig: grigio-jcode:0VyXf+sk7MznD1k5WwflRq2WcBV1u8lAokAzDFp++Ua0BY9XgWC+CfoF0SctsxllJ7SIyruAnvm2S1ihaCyIAw==

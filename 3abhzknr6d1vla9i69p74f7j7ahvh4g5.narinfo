@@ -1,0 +1,9 @@
+StorePath: /nix/store/3abhzknr6d1vla9i69p74f7j7ahvh4g5-cargo-package-wasm-metadata-0.244.0
+URL: nar/0y42k2p94z274zlcpr1qcwx4frxl4g50h7j7gcc0k7amd7lhnlm2.nar.xz
+Compression: xz
+FileHash: sha256:0y42k2p94z274zlcpr1qcwx4frxl4g50h7j7gcc0k7amd7lhnlm2
+FileSize: 18268
+NarHash: sha256:11vlh4im8qv3vkv12hzgsk0v4wk9y9hyfxlxwml56qb6g2wn26rg
+NarSize: 125152
+References: 
+Sig: grigio-jcode:luKNAcR/DZJzDkQvIC4lxPcgct7pZXAfPPSVhVC2IVPzU7cOlPE+gMwPBWjaQXr5LIkndgK4hBHl9qADnzKrBQ==

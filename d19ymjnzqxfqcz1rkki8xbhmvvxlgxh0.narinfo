@@ -1,0 +1,9 @@
+StorePath: /nix/store/d19ymjnzqxfqcz1rkki8xbhmvvxlgxh0-cargo-package-semver-1.0.27
+URL: nar/0ms5lziw49gyf2rgbqcwigablzgq37nd1gyh2qkskhwbiradrpxa.nar.xz
+Compression: xz
+FileHash: sha256:0ms5lziw49gyf2rgbqcwigablzgq37nd1gyh2qkskhwbiradrpxa
+FileSize: 26300
+NarHash: sha256:0ahjr06l60gn0v5f52shwiz5pcxmdil0df3js73b22dzaszf91xp
+NarSize: 127376
+References: 
+Sig: grigio-jcode:3u561FmAmYUzoI5HX9RzSOGT2Dtb3Mlh6q1kn+h/dcUO21McAF+9NnaxOAt+XPWx2+kamayXwFMCAAFACmGLCQ==

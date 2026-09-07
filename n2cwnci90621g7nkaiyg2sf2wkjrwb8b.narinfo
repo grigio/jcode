@@ -1,0 +1,9 @@
+StorePath: /nix/store/n2cwnci90621g7nkaiyg2sf2wkjrwb8b-cargo-package-tract-hir-0.23.4
+URL: nar/159ajgwjmz79b8788lh5d1rs49if51qqb8256x2qkmsg6r5sjanl.nar.xz
+Compression: xz
+FileHash: sha256:159ajgwjmz79b8788lh5d1rs49if51qqb8256x2qkmsg6r5sjanl
+FileSize: 50888
+NarHash: sha256:1y40rvnfng5m41l237b6xgi8drm0lbjgdj208n650fw33ib7sjz1
+NarSize: 323544
+References: 
+Sig: grigio-jcode:n2+d56Q/w2iZUquN4rdSl77d9VHupfSMKF4DgWSs6USCB+6tQY2vyyjOPP5IHz99cpv2LBeccyXbxEQDpuZSBQ==

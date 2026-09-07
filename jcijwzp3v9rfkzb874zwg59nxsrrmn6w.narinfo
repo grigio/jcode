@@ -1,0 +1,9 @@
+StorePath: /nix/store/jcijwzp3v9rfkzb874zwg59nxsrrmn6w-cargo-package-keyboard-types-0.7.0
+URL: nar/0x2g22y72sjxfq3k4wq1wnqf3p5xpjcnvx9bzzvpv5kqzkbxh7k4.nar.xz
+Compression: xz
+FileHash: sha256:0x2g22y72sjxfq3k4wq1wnqf3p5xpjcnvx9bzzvpv5kqzkbxh7k4
+FileSize: 29188
+NarHash: sha256:04q64cab94drmnajg6inaff5y5r4gkkrfamh5pld5qqk133inyx4
+NarSize: 169496
+References: 
+Sig: grigio-jcode:hzR5Bxb6BNJ4s+WKJ4ptXu5aoeieoaDZm6nkoYJvOvTQI5bLV71cGmTauXBo6dJebDULjA49bnCmeLrUpzVhAQ==

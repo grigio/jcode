@@ -1,0 +1,9 @@
+StorePath: /nix/store/39i2437qcbqj1cy3xgxgz8glwxwwy5md-cargo-package-glob-0.3.3
+URL: nar/0pnnxir3zidg6mf8ghmxlvv0g0nxskyghb7gyprsw03clgvmav33.nar.xz
+Compression: xz
+FileHash: sha256:0pnnxir3zidg6mf8ghmxlvv0g0nxskyghb7gyprsw03clgvmav33
+FileSize: 20696
+NarHash: sha256:1ggyc7i3zv17v532zb20irjddwpxg7fsg0gxg6qmqbza2nd2zlr5
+NarSize: 96024
+References: 
+Sig: grigio-jcode:2uvWN5EEoyhRfFc97aUglRUdWgr8Vf6t3CHdGTBUNXM7GFEOLlC9ZuQ+vYfvH8ajI1Sr1GiUBI19eTHI2VOYAg==

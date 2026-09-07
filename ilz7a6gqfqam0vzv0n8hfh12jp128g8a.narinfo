@@ -1,0 +1,9 @@
+StorePath: /nix/store/ilz7a6gqfqam0vzv0n8hfh12jp128g8a-cargo-package-hyper-util-0.1.19
+URL: nar/0qm5fwb9364qks3cw7s5l0s5was8kqxaw32vj5xq1rg8mjp1ksyn.nar.xz
+Compression: xz
+FileHash: sha256:0qm5fwb9364qks3cw7s5l0s5was8kqxaw32vj5xq1rg8mjp1ksyn
+FileSize: 90652
+NarHash: sha256:0ndqj5vs7g87c220dfg44khaiqqnhfxlq2sndk9ji92f2n1y14f7
+NarSize: 547480
+References: 
+Sig: grigio-jcode:kVxWkMpyzeSSmNe/qYL6Mo+y4Kjm/chcE7i8Aur5qa8KxR9FxjagVm0C4ZTc6wugVJCW+fd7OrqmL45N9GPHDg==

@@ -1,0 +1,9 @@
+StorePath: /nix/store/cb6h8y68fv3darwpsz4yxy6v87zpwihq-cargo-package-nom-language-0.1.0
+URL: nar/1yqanskk3588syihdxyr4p791f0x36n5sxp4dzzyg3fbihl8xh4l.nar.xz
+Compression: xz
+FileHash: sha256:1yqanskk3588syihdxyr4p791f0x36n5sxp4dzzyg3fbihl8xh4l
+FileSize: 7336
+NarHash: sha256:0h7i21als9awsi5n205077jnv14dfmkgx3rqzp06rah5r4acx2yh
+NarSize: 29552
+References: 
+Sig: grigio-jcode:DH8zOsprXkgaRgH7OZ2NN6SdO0WWfseTFvZSkAIkRn0X6iMoryWTB0VMuRlXFOewGRtNzsvrjtVqBuVOTNoGAg==

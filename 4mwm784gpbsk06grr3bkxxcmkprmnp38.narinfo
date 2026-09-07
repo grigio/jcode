@@ -1,0 +1,9 @@
+StorePath: /nix/store/4mwm784gpbsk06grr3bkxxcmkprmnp38-cargo-package-cff-parser-0.2.0
+URL: nar/15za8l70l6zjnbwjvmqv4wzp60q11jxbdlqrgy2gy8h2whww932m.nar.xz
+Compression: xz
+FileHash: sha256:15za8l70l6zjnbwjvmqv4wzp60q11jxbdlqrgy2gy8h2whww932m
+FileSize: 25592
+NarHash: sha256:1kaspkj1gcjn7lgbqhvbbjrs47fy3gcf9vvmivw65g4gbbz35l2n
+NarSize: 139920
+References: 
+Sig: grigio-jcode:y+qHXgUx+D2kE9AcuOMMICJgk5ib/sDEVZD6GgBwoYiIkbIEIsfTXxyenTvrZTA/OUpUIfnmeA9QCuHB0WkPAA==

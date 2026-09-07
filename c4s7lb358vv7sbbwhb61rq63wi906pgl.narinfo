@@ -1,0 +1,9 @@
+StorePath: /nix/store/c4s7lb358vv7sbbwhb61rq63wi906pgl-cargo-package-synstructure-0.13.2
+URL: nar/1qkzkwv58znf80hzvskg5p2alz3q5qkzqj15rmdm8s9538kwmhb4.nar.xz
+Compression: xz
+FileHash: sha256:1qkzkwv58znf80hzvskg5p2alz3q5qkzqj15rmdm8s9538kwmhb4
+FileSize: 17396
+NarHash: sha256:073161db59xhpldbsqyfkc026ss7plw9xwjwr3r9gzqj0kpflhyz
+NarSize: 103528
+References: 
+Sig: grigio-jcode:O5naScmIci2R3aUkEzSVMAY5B1Thf4MRT+bKXoBh2MSBUCw2hcnkelCpIfI2NOMhXYgnc6HjW+a2KAwGsu/nCw==

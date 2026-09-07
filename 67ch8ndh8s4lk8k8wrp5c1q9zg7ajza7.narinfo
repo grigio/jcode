@@ -1,0 +1,9 @@
+StorePath: /nix/store/67ch8ndh8s4lk8k8wrp5c1q9zg7ajza7-cargo-package-cpufeatures-0.3.0
+URL: nar/1wfzsp342c7bvyfrxv4xgvcz0dkxlqd9fps98xf01h2p5wbi2miy.nar.xz
+Compression: xz
+FileHash: sha256:1wfzsp342c7bvyfrxv4xgvcz0dkxlqd9fps98xf01h2p5wbi2miy
+FileSize: 13064
+NarHash: sha256:0ap46k1p4j8hmhmymfais48jjfm6jhyiqsvrwpqlpgk89sxm39ns
+NarSize: 50288
+References: 
+Sig: grigio-jcode:N3gEwjtJpCq34e9NQiaIo77j5xkEV9NTmQ4gV0sCIuQSCGBThe6XnF4SfkGy638R7qW/tdmAgenIfO7BKPm2DA==

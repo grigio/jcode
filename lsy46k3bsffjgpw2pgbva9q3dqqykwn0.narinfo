@@ -1,0 +1,9 @@
+StorePath: /nix/store/lsy46k3bsffjgpw2pgbva9q3dqqykwn0-cargo-package-svgtypes-0.16.1
+URL: nar/14b2c8hjn2v63s50615jdgxmfxwpdxilikv8zd9k6rxlkz9j27fq.nar.xz
+Compression: xz
+FileHash: sha256:14b2c8hjn2v63s50615jdgxmfxwpdxilikv8zd9k6rxlkz9j27fq
+FileSize: 37292
+NarHash: sha256:0jb7rz97adjsfd3ryyh6l8yafbsm39hflrdg2igd1vmmashfr7a3
+NarSize: 227080
+References: 
+Sig: grigio-jcode:tajdKjI6liRxybfQ4quuLp0imdfTKO03ykm/2Z0WRAyunaIuPKm10HA47d786KMrep3NlPGx+gN2AzxyMovLBQ==

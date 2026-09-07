@@ -1,0 +1,9 @@
+StorePath: /nix/store/vg7rnn2ryy2zwq932j3cmy3kar70mbzn-cargo-package-xattr-1.6.1
+URL: nar/1h2c0xajcgfh67jm6rkjvg04l5r13lhshkcc9sx1hgklavmwf0z2.nar.xz
+Compression: xz
+FileHash: sha256:1h2c0xajcgfh67jm6rkjvg04l5r13lhshkcc9sx1hgklavmwf0z2
+FileSize: 14640
+NarHash: sha256:1mlagf3wmwz82byjvplw16v0l6n2laclsp637sn797sbcn87lvds
+NarSize: 61464
+References: 
+Sig: grigio-jcode:xvLJJsf/F6Wwbf9BTg4CwYTVSKZZaGiQAIULvwcu3m0UQGI9Krt33jm+bUMEDfydqX0qmn8h9X+d3l2Lk7GyBQ==

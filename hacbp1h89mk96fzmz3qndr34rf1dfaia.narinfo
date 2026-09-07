@@ -1,0 +1,9 @@
+StorePath: /nix/store/hacbp1h89mk96fzmz3qndr34rf1dfaia-cargo-package-icu_properties_data-2.1.2
+URL: nar/1spcrlwwia65qdbixaaww18338kf03m8mnpysg4q1r3hmqlbpcxn.nar.xz
+Compression: xz
+FileHash: sha256:1spcrlwwia65qdbixaaww18338kf03m8mnpysg4q1r3hmqlbpcxn
+FileSize: 91656
+NarHash: sha256:1f89a95zvmfx9098ig40pai7pjaz70m04cnb2b2yzb5hfz904h1n
+NarSize: 1474912
+References: 
+Sig: grigio-jcode:z7/nRihV/QwZrpKx6ZkbZCwtYVJ6iLTUHPcL22oRuJAWV1gxXHK1gbCCtwLHOtEez+fszBk1D2DPO42Ra5hWAw==

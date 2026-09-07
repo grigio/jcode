@@ -1,0 +1,9 @@
+StorePath: /nix/store/hx5dva9qvx7jpym8mzhcmi02bg2h6p7r-cargo-package-signal-hook-registry-1.4.8
+URL: nar/0ys1df6b32v6s7p09md1ln8h3slpl6axkpcsrrz2bivl2jblgvp1.nar.xz
+Compression: xz
+FileHash: sha256:0ys1df6b32v6s7p09md1ln8h3slpl6axkpcsrrz2bivl2jblgvp1
+FileSize: 19912
+NarHash: sha256:00i3j9c9jlgvms5ydgb4z0d377zmvk1b9nhhk9qqflzv60ys534w
+NarSize: 71320
+References: 
+Sig: grigio-jcode:CvDqCrUouLJF4LOi9Ze20s9QTfQlBWNTsspCDOSatQ8DwBjnH2E1ZClE2mLpCaR/zX2IezNWqA2Iezk2FDJ2Cg==

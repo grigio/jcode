@@ -1,0 +1,9 @@
+StorePath: /nix/store/0hhhgajbh6y380dyji9a4a024mlqvlmx-cargo-package-uuid-simd-0.8.0
+URL: nar/0h2gp3hdd3cw2mgl46caj567wxykjafzd3p2jq19555z7mf7kaqd.nar.xz
+Compression: xz
+FileHash: sha256:0h2gp3hdd3cw2mgl46caj567wxykjafzd3p2jq19555z7mf7kaqd
+FileSize: 6612
+NarHash: sha256:16f9qkd3xqhfydd682cwfzkz4wfiyfswydlvp2ykh4r6fq81r7cq
+NarSize: 33248
+References: 
+Sig: grigio-jcode:K0VT0OicNKfCTgQtFW3/QM23Npq6SBsfH1xWIetfDVNkIDz1pveLTySQx5UlH9r+C3DwQTWuEAnYN14z67osBg==

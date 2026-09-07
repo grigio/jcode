@@ -1,0 +1,9 @@
+StorePath: /nix/store/drv91gknzkrrmgbq74a42qljxysfaa4l-cargo-package-objc2-core-foundation-0.3.2
+URL: nar/19rckv7k9233lw35ydjqhpcq1bdy2yxl11k1gv2vvxap5gr6aqr9.nar.xz
+Compression: xz
+FileHash: sha256:19rckv7k9233lw35ydjqhpcq1bdy2yxl11k1gv2vvxap5gr6aqr9
+FileSize: 133564
+NarHash: sha256:14wmcvs0a8hkryyn3ll2j3r7nvjm0szbf4hkgg5cqg0f6bbqiv9x
+NarSize: 1535760
+References: 
+Sig: grigio-jcode:RqactlC3G+vIDDkmc92te/RF1qtCr+EWqgxA1qXPfuwyZa7eREeOkfye4jcP7K1meezSrrxdWLmCzt4fVjVqAA==

@@ -1,0 +1,9 @@
+StorePath: /nix/store/jzd7kkzcsx179fb7smn64bgg8qp7g9ax-cargo-package-allocator-api2-0.2.21
+URL: nar/0sfrw7mspj694rfgsw355cgrh991q386x8f7iab2lxs7np1c0jw9.nar.xz
+Compression: xz
+FileHash: sha256:0sfrw7mspj694rfgsw355cgrh991q386x8f7iab2lxs7np1c0jw9
+FileSize: 53964
+NarHash: sha256:0rq319rzbwahf21psp2wb5h4l02mmw0faci8z3872g9xbvkhipga
+NarSize: 299920
+References: 
+Sig: grigio-jcode:6yOpPB/Qs+gX1Wm0IOhtuYplY/CaiDz+lhBRcjWWYrnd/iEeoXJee3t+0lzSLCd4q5mFakiqYSmSH3Q7QSStAA==

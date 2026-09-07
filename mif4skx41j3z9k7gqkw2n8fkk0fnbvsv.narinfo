@@ -1,0 +1,9 @@
+StorePath: /nix/store/mif4skx41j3z9k7gqkw2n8fkk0fnbvsv-cargo-package-futures-executor-0.3.31
+URL: nar/1pfi16xj7nf1w7sgflwih7jgf9s2k98v5k0gp9d1hghrnz1nqmwg.nar.xz
+Compression: xz
+FileHash: sha256:1pfi16xj7nf1w7sgflwih7jgf9s2k98v5k0gp9d1hghrnz1nqmwg
+FileSize: 16668
+NarHash: sha256:1lmw3mc7wd42mab4zj5y5qirdasvvr9vgwp3k2nl6l7mkx7f078h
+NarSize: 69064
+References: 
+Sig: grigio-jcode:hr9LbRgPr3I3YDB2stH2dIZGttaPgaHcJwGSRakN35KE6NeVpkS+x7uqHTKJAaldoCY+LG4n2b4ea/2p+zRxDQ==

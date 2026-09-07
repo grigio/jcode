@@ -1,0 +1,9 @@
+StorePath: /nix/store/9x07cakcgsxhy6shafdvrhi9fyky1jkk-cargo-package-typespec_macros-1.0.0
+URL: nar/0x2zjzqfyj6wk5wybmdcj058ddjnrswvhiazwqbn3llz8p08c7ih.nar.xz
+Compression: xz
+FileHash: sha256:0x2zjzqfyj6wk5wybmdcj058ddjnrswvhiazwqbn3llz8p08c7ih
+FileSize: 8228
+NarHash: sha256:0884fqbj9465j1zkkffsi856mkf3pdjhpmjyidgsyag84wgw3pv9
+NarSize: 32800
+References: 
+Sig: grigio-jcode:qUYUJaodG0JyGB7vMGvJkCAyzfsNQMjS2aFF4aFY16Q0Izmk3QFzXwbgLq0+zs2Oove5q/Mz19VXfv4cFtAiCA==

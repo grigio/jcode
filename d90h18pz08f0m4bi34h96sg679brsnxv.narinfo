@@ -1,0 +1,9 @@
+StorePath: /nix/store/d90h18pz08f0m4bi34h96sg679brsnxv-cargo-package-block-padding-0.3.3
+URL: nar/1w9g4ja9gfb9z2psm1ynr450lizcfzvvccif4s9mkd65fs8hm76h.nar.xz
+Compression: xz
+FileHash: sha256:1w9g4ja9gfb9z2psm1ynr450lizcfzvvccif4s9mkd65fs8hm76h
+FileSize: 8084
+NarHash: sha256:0r4y5jc27wzdl6d4l8h56irln5a3x7lranivi3pxc0zbahdkl4q0
+NarSize: 29064
+References: 
+Sig: grigio-jcode:pWQyxC01kak5VZimeNWm4JrjNDCK/jyiFfk8xIewR6yJl0TwLakFxhnPscpSoVEtDsNuAVGwXHZqp92iMBYzAA==

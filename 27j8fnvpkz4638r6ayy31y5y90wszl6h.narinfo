@@ -1,0 +1,9 @@
+StorePath: /nix/store/27j8fnvpkz4638r6ayy31y5y90wszl6h-cargo-package-ucd-trie-0.1.7
+URL: nar/1866sjkv0149z4y9vk8kcnlcixx25zx30n7yhnxyi1by1w7891yj.nar.xz
+Compression: xz
+FileHash: sha256:1866sjkv0149z4y9vk8kcnlcixx25zx30n7yhnxyi1by1w7891yj
+FileSize: 24264
+NarHash: sha256:0ahz5mlr7fymrlr9xgk4iplmbl9yph1x0hzc11wvwqhj48jf1hj0
+NarSize: 164768
+References: 
+Sig: grigio-jcode:n6/a0lpwsESxaiTkslMlKXMN+f/verGsiCGRNqgsf1CUerD8BxTfT3ubeWf6I4OuCDX7GtBwUzEDt6Ev7pUYAA==

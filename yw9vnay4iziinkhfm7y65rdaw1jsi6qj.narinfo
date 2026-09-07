@@ -1,0 +1,9 @@
+StorePath: /nix/store/yw9vnay4iziinkhfm7y65rdaw1jsi6qj-cargo-package-native-tls-0.2.18
+URL: nar/0qi04b8gbkvv4s0maa4jh4jr7rv3xxc3pg6y9bjv7wlvrwd66hwf.nar.xz
+Compression: xz
+FileHash: sha256:0qi04b8gbkvv4s0maa4jh4jr7rv3xxc3pg6y9bjv7wlvrwd66hwf
+FileSize: 26244
+NarHash: sha256:0pfwrprnbkwsscwbfwq1kcl4mfcyq9ady4c29racvdzlgkzg83pg
+NarSize: 141952
+References: 
+Sig: grigio-jcode:p5BgQGA0Stiod5gDLRzv9sGV0YmLyZZQw9SRVfQynehrS1+2pPKUkrpcsmiDYnVhn+P6tC0exGLRVD2XpwsgAg==

@@ -1,0 +1,9 @@
+StorePath: /nix/store/16viqrxb31fjgirm5chkmdmzcgxqrklk-cargo-package-darling_macro-0.23.0
+URL: nar/01wx0gyc5yd7l6cbq5spzfrf3g3b9wcb395w07gg92rd8zp5fkpz.nar.xz
+Compression: xz
+FileHash: sha256:01wx0gyc5yd7l6cbq5spzfrf3g3b9wcb395w07gg92rd8zp5fkpz
+FileSize: 2456
+NarHash: sha256:0k7p8yp8s1f426ldp2klqcwk3q7i57qv4d7qrbfdp5l2v7ygz8cj
+NarSize: 7608
+References: 
+Sig: grigio-jcode:hIzbSMxC7J9pbAWZ3JKvebr42pUtkAZ74QG0xE3TukR83aNrKL9wzQ3e3sNwajhUKJcYMBsG/vZsNhiDBJVrCA==

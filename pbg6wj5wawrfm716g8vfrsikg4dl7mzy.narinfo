@@ -1,0 +1,9 @@
+StorePath: /nix/store/pbg6wj5wawrfm716g8vfrsikg4dl7mzy-cargo-package-arc-swap-1.9.2
+URL: nar/13xai70vfry36drqsprwkzs9vfc2cgh3zalxnlv2aqvxafnaaj7p.nar.xz
+Compression: xz
+FileHash: sha256:13xai70vfry36drqsprwkzs9vfc2cgh3zalxnlv2aqvxafnaaj7p
+FileSize: 68380
+NarHash: sha256:1bqy31fnan2mnfii4wya90ic3dr1fqw7ls1vqzzp602adp3vrk0v
+NarSize: 313184
+References: 
+Sig: grigio-jcode:qREMMbZsRq82xaUcdjJYBfq3P/uirpVA0TtxwA8Hg88dgZlQoQZqJ2wrXwAYds6tPt/mtIcg/vhJl9yjomdAAg==

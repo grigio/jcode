@@ -1,0 +1,9 @@
+StorePath: /nix/store/rhaxd0j2by1i7q7avn6m2fjajxdwdp2v-cargo-package-zerofrom-derive-0.1.6
+URL: nar/0zfa9dzn1xypnr1kklvwhv2lbs66y1zdnm03f0cxvnh22v5lfalj.nar.xz
+Compression: xz
+FileHash: sha256:0zfa9dzn1xypnr1kklvwhv2lbs66y1zdnm03f0cxvnh22v5lfalj
+FileSize: 7916
+NarHash: sha256:00jqnpasgi6knjaak042p2j93w5l7acpqsjhksdbvjlk1spvq5vw
+NarSize: 28072
+References: 
+Sig: grigio-jcode:VYQPZvmgeGx+X9HTrhpXQNSLygBUbolu092OOjx4qiQxNVV64/LuUuC7RppJoNOyoZI9BSMTwwd3eJTlIoheCw==

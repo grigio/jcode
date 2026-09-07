@@ -1,0 +1,9 @@
+StorePath: /nix/store/gkpjbjcyl2dva7crgisb483zyq5ldw2w-cargo-package-fast-srgb8-1.0.0
+URL: nar/11iyqmwkj98j7ljda7ddpl9f31l3yi79d5h7xr1prj93hv2a49hl.nar.xz
+Compression: xz
+FileHash: sha256:11iyqmwkj98j7ljda7ddpl9f31l3yi79d5h7xr1prj93hv2a49hl
+FileSize: 15660
+NarHash: sha256:0yxy1ld8pgsrahi8p1i8r2dqxd8aihlsqz38k9vbhjfxw5m1cxkf
+NarSize: 51456
+References: 
+Sig: grigio-jcode:TOtov2EMiSqBQkVKa8hwU5g4WhDdOP9R2zp1zWeasdpunOJYS2n44Hw3x5NreZg7kpUn8ifPpM1Kn6ESEgj7Aw==

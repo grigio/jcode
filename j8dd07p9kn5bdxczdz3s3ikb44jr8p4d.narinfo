@@ -1,0 +1,9 @@
+StorePath: /nix/store/j8dd07p9kn5bdxczdz3s3ikb44jr8p4d-cargo-package-ctutils-0.4.2
+URL: nar/15vsj0rvymj7vmqa40cbpgr83r3jm46my1hmgc393s9ardcmq65b.nar.xz
+Compression: xz
+FileHash: sha256:15vsj0rvymj7vmqa40cbpgr83r3jm46my1hmgc393s9ardcmq65b
+FileSize: 28356
+NarHash: sha256:038rd0qcmsbfazy4afnv62bnh0mvvdlrjlzb9q8y7a2gfz58j0mi
+NarSize: 151488
+References: 
+Sig: grigio-jcode:OM9ibIXWItqnvWhFZt3/8eE2rFasmqgRwkt8neTG1NNGa4SGWIG5V3ewy7Zzwencaki7ijGkzFXnhPPC1VZuDQ==

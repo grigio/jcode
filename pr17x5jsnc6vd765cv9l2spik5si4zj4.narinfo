@@ -1,0 +1,9 @@
+StorePath: /nix/store/pr17x5jsnc6vd765cv9l2spik5si4zj4-cargo-package-fdeflate-0.3.7
+URL: nar/02pfw0z2a4jxfq0hlj9q76n34z1jk7mijhxw77n0lk82a6rb431q.nar.xz
+Compression: xz
+FileHash: sha256:02pfw0z2a4jxfq0hlj9q76n34z1jk7mijhxw77n0lk82a6rb431q
+FileSize: 23608
+NarHash: sha256:1s58sh4gbr3w1azpfl6biigkcylr43mnk6syk6p49722i17bvrnw
+NarSize: 112552
+References: 
+Sig: grigio-jcode:QnC1mfdCWo49oAHJjg3zgOl0Pa35IgC2ekWL4AvmluGV/XKpczpK3zUpsWjq1cx4r33VuTpmuAKVgQmzgfWWAw==

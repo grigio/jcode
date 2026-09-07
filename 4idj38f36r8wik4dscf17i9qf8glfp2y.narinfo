@@ -1,0 +1,9 @@
+StorePath: /nix/store/4idj38f36r8wik4dscf17i9qf8glfp2y-cargo-package-xkeysym-0.2.1
+URL: nar/1wy5fl11101bihvjnjxy1fvw7q1n73whd9ipn6vxap10bwkkhcw0.nar.xz
+Compression: xz
+FileHash: sha256:1wy5fl11101bihvjnjxy1fvw7q1n73whd9ipn6vxap10bwkkhcw0
+FileSize: 68464
+NarHash: sha256:0n45ghiwmim2cb49k6g5ick4w9jlx6pbcz6v0wprq8flb2d354d2
+NarSize: 761912
+References: 
+Sig: grigio-jcode:m/V7mE4gz9gSDdszIxim4amIaVF8Hk8y18PxVodToyKxNRVRfv0AM73Lm+KWoueJ69j2jfTonKPtm/MRlcjmCw==

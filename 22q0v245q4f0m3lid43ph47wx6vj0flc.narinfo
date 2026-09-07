@@ -1,0 +1,9 @@
+StorePath: /nix/store/22q0v245q4f0m3lid43ph47wx6vj0flc-cargo-package-schannel-0.1.28
+URL: nar/0qrwlifqk64fhgafblpsvcqk3zc5sv5ibm5qbpi3wvm2rm034p5l.nar.xz
+Compression: xz
+FileHash: sha256:0qrwlifqk64fhgafblpsvcqk3zc5sv5ibm5qbpi3wvm2rm034p5l
+FileSize: 36708
+NarHash: sha256:1jpif73n2n5yngb1v5i3xc6wm6x3a9k4fdiv2iiw0q3x3cnbmi9c
+NarSize: 186672
+References: 
+Sig: grigio-jcode:dKAELIfN/8D2tKLFNuojDY6un5/ygO2Ox3A6uNWVH/OgL6vlk5mIuStydHniDkthlyVUM/Fn8d0x1qlGbjicAQ==

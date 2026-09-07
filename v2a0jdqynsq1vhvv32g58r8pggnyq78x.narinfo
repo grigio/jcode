@@ -1,0 +1,9 @@
+StorePath: /nix/store/v2a0jdqynsq1vhvv32g58r8pggnyq78x-cargo-package-arboard-3.6.1
+URL: nar/095r700hak4asxh09zfz2d9xmfmcrmnvndwpwq85hkd2azmrdr9x.nar.xz
+Compression: xz
+FileHash: sha256:095r700hak4asxh09zfz2d9xmfmcrmnvndwpwq85hkd2azmrdr9x
+FileSize: 47140
+NarHash: sha256:1ghhplcp87lqh0scdhapqxnllfhxqvgqjb6xmhdqg92qrqhxibyy
+NarSize: 192856
+References: 
+Sig: grigio-jcode:WzTeGSdmN4FkxkbJauEX7j7rJ3sDvRZcnyYv7BwpFu1kFSTPfjQNctTmCbQ7e07A8STJOZ9N2wA7H9N669KwDQ==

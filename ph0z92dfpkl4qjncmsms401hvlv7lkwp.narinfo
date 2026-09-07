@@ -1,0 +1,9 @@
+StorePath: /nix/store/ph0z92dfpkl4qjncmsms401hvlv7lkwp-cargo-package-adler2-2.0.1
+URL: nar/11pimrd81avyih81m9wy4b3gsj6rk000n9dmf18kxhxjc2flkgip.nar.xz
+Compression: xz
+FileHash: sha256:11pimrd81avyih81m9wy4b3gsj6rk000n9dmf18kxhxjc2flkgip
+FileSize: 12488
+NarHash: sha256:08badkf71xplwzik74xkmbljbwqbdl4y9bg254knva68dvd0mwhs
+NarSize: 42088
+References: 
+Sig: grigio-jcode:Lfk1WYqVrI1OtladySXyChzOiKXbKrrQ3b93BRKvFmELE1JGx3Hq6CToShi3ktNnSe288G/2iR5TyP/MGcw0BA==

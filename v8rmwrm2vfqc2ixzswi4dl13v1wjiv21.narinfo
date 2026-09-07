@@ -1,0 +1,9 @@
+StorePath: /nix/store/v8rmwrm2vfqc2ixzswi4dl13v1wjiv21-cargo-package-cbc-0.1.2
+URL: nar/1m13xkd7w9i388a717x2y4dzn627jqimm3ryyacxwyarmph9iijn.nar.xz
+Compression: xz
+FileHash: sha256:1m13xkd7w9i388a717x2y4dzn627jqimm3ryyacxwyarmph9iijn
+FileSize: 21816
+NarHash: sha256:00a5mz0f7phcxr92bfpifwa4xg72d65b43m7r3ky0yvyp7wvh82a
+NarSize: 48184
+References: 
+Sig: grigio-jcode:xE8uYgFIB3Jn5joxeWvGiJzllUCy9KanrxFU3HWwh0luqksUgkJfrVA6haogyctiyzsW0JQAibJzyLPBwM5TDw==

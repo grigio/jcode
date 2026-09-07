@@ -1,0 +1,9 @@
+StorePath: /nix/store/7sck9wvqvdxkqbpnr8zf1pqnkpdfcpkn-cargo-package-tokio-tungstenite-0.24.0
+URL: nar/1j87lf5ka1lc9g83a5pdv6s4dja5ngk5qshkl2mqwy4k2s01xps1.nar.xz
+Compression: xz
+FileHash: sha256:1j87lf5ka1lc9g83a5pdv6s4dja5ngk5qshkl2mqwy4k2s01xps1
+FileSize: 25472
+NarHash: sha256:17250kgy9p1ipkv9c0g28fmj39y9a4dc1byralhf7hiqahwffh9j
+NarSize: 118168
+References: 
+Sig: grigio-jcode:pUVQWgO1o70J3BQP3hFlwCNiWBCZtrMsVu1+/Ym9ZwAhF9l6a1uX3S+W2NqzbLnTBrGMWOaSTgSidikEB1C/Cg==

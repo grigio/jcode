@@ -1,0 +1,9 @@
+StorePath: /nix/store/32bjp88jgzxjgsfxrcyml89z454k380v-cargo-package-tinyvec-1.10.0
+URL: nar/0mqqmnbc47qzkcxmz4lsyp01ymg8a9rf1mikdznyzqqhd4b3k2mn.nar.xz
+Compression: xz
+FileHash: sha256:0mqqmnbc47qzkcxmz4lsyp01ymg8a9rf1mikdznyzqqhd4b3k2mn
+FileSize: 39924
+NarHash: sha256:0v5q2zxw0az72g2gkyyd6lqd63xz5qj72i9jfnqmvi6w684r1mlr
+NarSize: 239560
+References: 
+Sig: grigio-jcode:ESLY0zCwiJiQ0HpkyB3zyBplBK9OPmERabzM55b5XbraGato7pRP0OGR6JhSWPs6ekQoSrc0GTySAXQAOCy/Bw==

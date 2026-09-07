@@ -1,0 +1,9 @@
+StorePath: /nix/store/giwl15kqdxrfpzqrnnmy4qp1ap74cq01-cargo-package-euclid-0.22.14
+URL: nar/0zwxdiqhli4mzh6f23l0rnc59bgfrh5dd7gf3im5ilssqpvz7qmx.nar.xz
+Compression: xz
+FileHash: sha256:0zwxdiqhli4mzh6f23l0rnc59bgfrh5dd7gf3im5ilssqpvz7qmx
+FileSize: 60796
+NarHash: sha256:10xp08yqvr0pfjia65ijfsz4xpdc3vyjhw6lypsin05dgs3z4705
+NarSize: 567096
+References: 
+Sig: grigio-jcode:ijq9AxQuF9gKLeCoKnJusbIXB7EyhcOfjm7lPRQgat0nd2stwQ4jaFvUNRRW3ko0KjcMuA9OLkx819+FWgVMAg==

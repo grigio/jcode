@@ -1,0 +1,9 @@
+StorePath: /nix/store/kfxjwcvqj0dlvidg7ccpv7fmifshq8wz-cargo-package-webpki-root-certs-1.0.7
+URL: nar/0ligkvxc028j1v6aq371ic5yirvl71ff7j0b0b4sdzzcxxfmrmzd.nar.xz
+Compression: xz
+FileHash: sha256:0ligkvxc028j1v6aq371ic5yirvl71ff7j0b0b4sdzzcxxfmrmzd
+FileSize: 122356
+NarHash: sha256:1xlzxg4nhxzz0p7184gf88cn6zbpxci7fs5j2cajfivsvl3c4zbc
+NarSize: 546320
+References: 
+Sig: grigio-jcode:O5TMQqWUB4L0T4eDlnyzdjzqTInjY4HWhBkBomNhutF5C/QBJaRg0r8UowgYhFqbgPWVB636yJ66nCaRkbLoCw==

@@ -1,0 +1,9 @@
+StorePath: /nix/store/2kr1j4ggy5pbkskjbnvi596v15ih7163-cargo-package-matrixmultiply-0.3.10
+URL: nar/0s1z0zz36vy6qp7y4falj42yfx9g4bbr1pndx07zrapyk04qn175.nar.xz
+Compression: xz
+FileHash: sha256:0s1z0zz36vy6qp7y4falj42yfx9g4bbr1pndx07zrapyk04qn175
+FileSize: 44332
+NarHash: sha256:1ggnrcdlp1r3yv2zasnvg9qqclc057abd3xv8fif6f4wxd8fji5m
+NarSize: 258896
+References: 
+Sig: grigio-jcode:8xUEAeaQyyToUS0laBRoqD8CSleB9rZ72siwVY3uv5GaS5qNjw3vsSiQgsZpYxvS3a/krc0vXWhK2Ha75KcYCg==

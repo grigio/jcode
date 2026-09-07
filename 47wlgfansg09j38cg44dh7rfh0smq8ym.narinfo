@@ -1,0 +1,9 @@
+StorePath: /nix/store/47wlgfansg09j38cg44dh7rfh0smq8ym-libunistring-1.4.2
+URL: nar/0k6f4lq38l7vcgs9n6djngvkdppsbyb45ilgypmgj4rmkgnv13fd.nar.xz
+Compression: xz
+FileHash: sha256:0k6f4lq38l7vcgs9n6djngvkdppsbyb45ilgypmgj4rmkgnv13fd
+FileSize: 463820
+NarHash: sha256:0xjjx9xv925fad64pcvpr0dvjbaqdlixnjffykm82yy167v463bg
+NarSize: 2078944
+References: 47wlgfansg09j38cg44dh7rfh0smq8ym-libunistring-1.4.2
+Sig: grigio-jcode:PU3zqh8fSLSrNsVSDg/RNnGWYK6k/ChcujOnSmEa+sqhWNIB+UdTxHzmJ6aZO8CpmygeaqUkX6gEeAIISZlLCg==

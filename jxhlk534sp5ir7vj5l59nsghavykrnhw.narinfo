@@ -1,0 +1,9 @@
+StorePath: /nix/store/jxhlk534sp5ir7vj5l59nsghavykrnhw-cargo-package-hyper-rustls-0.27.7
+URL: nar/0kb0b04wi5jqc7g2vpzh4cdpipmrfcgf72zkkx5wm273dkrs71pf.nar.xz
+Compression: xz
+FileHash: sha256:0kb0b04wi5jqc7g2vpzh4cdpipmrfcgf72zkkx5wm273dkrs71pf
+FileSize: 31296
+NarHash: sha256:1ny2ycj6aiki68hf8bnz4pmlm7yvmdzcc7ifjgdy6x7l2d7hh266
+NarSize: 125560
+References: 
+Sig: grigio-jcode:hf17iVV+TUjFh9UR6XtoGzUj/FXVmC53F7MGNijxPZo+4nExyVvm7hqQEC7fhOEDY/PIoKxoNvoDZzsEva9XAg==

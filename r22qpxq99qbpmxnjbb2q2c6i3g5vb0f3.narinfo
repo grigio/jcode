@@ -1,0 +1,9 @@
+StorePath: /nix/store/r22qpxq99qbpmxnjbb2q2c6i3g5vb0f3-rust-docs-1.97.1-x86_64-unknown-linux-gnu
+URL: nar/0xif0k8pjrqvijxb2ss0kfkikca70ljh5ashlfv6x6ihwp2700x1.nar.xz
+Compression: xz
+FileHash: sha256:0xif0k8pjrqvijxb2ss0kfkikca70ljh5ashlfv6x6ihwp2700x1
+FileSize: 32951972
+NarHash: sha256:0kj4w0vf3b4m45yzwx4v707ipdwkk6bfs057xvdv3xqkjns382a6
+NarSize: 727012192
+References: 
+Sig: grigio-jcode:ewBj9noNwgZ5X+tPqpxoW154hgwyyBSHnqIj6Ro8jA+BHVS1KHHKeQMsSba491UKu6fy7FjAbk/K/hZSJrMlDw==

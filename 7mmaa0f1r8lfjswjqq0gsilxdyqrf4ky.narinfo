@@ -1,0 +1,9 @@
+StorePath: /nix/store/7mmaa0f1r8lfjswjqq0gsilxdyqrf4ky-cargo-package-num-bigint-0.4.8
+URL: nar/0q6fz70nbvnvxblawj54488ncjw6phq8zdyaxk1ps6m6nmgrcpj4.nar.xz
+Compression: xz
+FileHash: sha256:0q6fz70nbvnvxblawj54488ncjw6phq8zdyaxk1ps6m6nmgrcpj4
+FileSize: 83920
+NarHash: sha256:0xfpiznwq43h32xk6a25ll3hwda6y9qrsrvxwwkfj93l6ri0wvy4
+NarSize: 533816
+References: 
+Sig: grigio-jcode:D5xSWUJnf0mP6nFVlukrpz/izOub+B5K27+SrDEFvzG76fni+t0IHTFB4s3fsh2tN5z0kF60pLNcE4qHJvnZDw==

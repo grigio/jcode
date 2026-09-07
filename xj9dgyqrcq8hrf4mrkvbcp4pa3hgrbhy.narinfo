@@ -1,0 +1,9 @@
+StorePath: /nix/store/xj9dgyqrcq8hrf4mrkvbcp4pa3hgrbhy-gnugrep-3.12
+URL: nar/114169k1ix6gijzi16q9zfffmjfkr2hz97pinaghx11159bk33pk.nar.xz
+Compression: xz
+FileHash: sha256:114169k1ix6gijzi16q9zfffmjfkr2hz97pinaghx11159bk33pk
+FileSize: 193360
+NarHash: sha256:1bmbhlmmi15zvwfv71hnpd2cv5xvzn1bfzz878rnay7y9yfww678
+NarSize: 954984
+References: l8si8gnvvq93yzms1jsgh5aixyf9rl5x-glibc-2.42-67 xj9dgyqrcq8hrf4mrkvbcp4pa3hgrbhy-gnugrep-3.12 zva95q4jh61f9i0cflab5d16wlck9ch5-pcre2-10.47
+Sig: grigio-jcode:n26yP04udif0QaGYwJtKhI5Ds5I9+bFJO+1ztcrYVONWpl1sMfrzH3kueTP6Y2Zc8pqE3/u1jbtgbTJeIUz2Dw==

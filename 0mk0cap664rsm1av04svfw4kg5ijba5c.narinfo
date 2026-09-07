@@ -1,0 +1,9 @@
+StorePath: /nix/store/0mk0cap664rsm1av04svfw4kg5ijba5c-cargo-package-find-msvc-tools-0.1.7
+URL: nar/0w3hcv2xvqzl99lyziw6wj2h79b9rw293ip0di0gpsfzl8jqkrcd.nar.xz
+Compression: xz
+FileHash: sha256:0w3hcv2xvqzl99lyziw6wj2h79b9rw293ip0di0gpsfzl8jqkrcd
+FileSize: 27540
+NarHash: sha256:09llp4ll9rqjwxxli9d0rla8hhj1gdbxgv8sspjl5y6iwmzcr7w9
+NarSize: 118720
+References: 
+Sig: grigio-jcode:FNr32ASVdy5+CemgcbXrkLOWKf7AM/yLcbricXE6nfaxjOG0piMjcxQU5MwFQI931VV9QMXaZ9paeF1XNmEMAA==

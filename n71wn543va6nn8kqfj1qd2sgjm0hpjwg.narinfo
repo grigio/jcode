@@ -1,0 +1,9 @@
+StorePath: /nix/store/n71wn543va6nn8kqfj1qd2sgjm0hpjwg-cargo-package-mdwright-latex-0.1.3
+URL: nar/1asf028g2w30cj5mimrvnfkhs4jjr23g09j7ijnhw2idkaykm8ds.nar.xz
+Compression: xz
+FileHash: sha256:1asf028g2w30cj5mimrvnfkhs4jjr23g09j7ijnhw2idkaykm8ds
+FileSize: 47068
+NarHash: sha256:06n6nkcy6mzmm3ffzf8vygf9b56x24lhrh8y4iv471xwar180h2b
+NarSize: 303968
+References: 
+Sig: grigio-jcode:qWtjT0xfYvX7hriMhd27Xo6p9Z0iePs8Q/GD5331eVmlIp8hI2/mV3RZaX9Xr4Tj2Ta0m3gOpc34BlvJS0f5AQ==

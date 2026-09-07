@@ -1,0 +1,9 @@
+StorePath: /nix/store/izzvkyjfwsfwsg7ccjdjhzxc12gi7v65-linux-headers-7.0
+URL: nar/1dm70wkmb9ij4y8sn7ayxmypf92hbl22a98y695qhkzvf2cqc8h6.nar.xz
+Compression: xz
+FileHash: sha256:1dm70wkmb9ij4y8sn7ayxmypf92hbl22a98y695qhkzvf2cqc8h6
+FileSize: 1453980
+NarHash: sha256:13wagwx3v49i5sc4i8d6s26hjvj6rq9is2j49pjkxgsg4c9v3583
+NarSize: 7465848
+References: 
+Sig: grigio-jcode:Ci5S9OLarOXXM0RzHhFgJaTGNCdGP634AxTW4xN3i+tp2+KfxvGe6ja/fJSexJAT6jjlKJPU8tOh04sZ1jwXDQ==

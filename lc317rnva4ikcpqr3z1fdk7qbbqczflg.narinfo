@@ -1,0 +1,9 @@
+StorePath: /nix/store/lc317rnva4ikcpqr3z1fdk7qbbqczflg-cargo-package-getopts-0.2.24
+URL: nar/1kf86r4yhi3krhblp3zzqb3cfbamy0r1s7qj7q7ax8zq9ykd8shz.nar.xz
+Compression: xz
+FileHash: sha256:1kf86r4yhi3krhblp3zzqb3cfbamy0r1s7qj7q7ax8zq9ykd8shz
+FileSize: 19580
+NarHash: sha256:04n137qj3lwdhrm34fpc4dmm2k371kc7w1gqqfax2v659pw59da5
+NarSize: 102736
+References: 
+Sig: grigio-jcode:LbxPiQhwLdI7hD17ClHt5h7seDhyinRf4fXXQfgCayMnRfHcpT2389J0PwSLtCcVxL72npJt5zP2E1HIn1y6AA==

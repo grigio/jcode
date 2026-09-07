@@ -1,0 +1,9 @@
+StorePath: /nix/store/jhjsmdxj93fkymxhwbirypyjjnnrswb1-cargo-package-r-efi-5.3.0
+URL: nar/0izavf0zrzycza89pqrii9871ixahmrh0q2jyrqsc7rkwgcfpiyc.nar.xz
+Compression: xz
+FileHash: sha256:0izavf0zrzycza89pqrii9871ixahmrh0q2jyrqsc7rkwgcfpiyc
+FileSize: 52952
+NarHash: sha256:1cc8x76n8i4k76fv5874v4rqfk6nwf7z5vghlc0whddgh4qh9nl8
+NarSize: 303720
+References: 
+Sig: grigio-jcode:QsGL6+BotPefND8drXb7Jsw1Sn+EYV4rcoJV3rlJYXtwpPfIACvMSApY0gQaVkhvrjOsLLz70j05EgscfAL2BQ==

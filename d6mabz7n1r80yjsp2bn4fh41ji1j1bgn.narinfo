@@ -1,0 +1,9 @@
+StorePath: /nix/store/d6mabz7n1r80yjsp2bn4fh41ji1j1bgn-cargo-package-wasmparser-0.244.0
+URL: nar/1qymyya3dr9lc7g4krb94v3ilq88kpna3y8lqhnpvvnabny2db73.nar.xz
+Compression: xz
+FileHash: sha256:1qymyya3dr9lc7g4krb94v3ilq88kpna3y8lqhnpvvnabny2db73
+FileSize: 201880
+NarHash: sha256:037952y1yim6snsz2wfkqfjmcx898ykx9hn9w76n9aq33n62sr02
+NarSize: 1502864
+References: 
+Sig: grigio-jcode:JV+Uzhwy9LgXkCGhgGUJydoEONvOonfdnufs3OpD75SZW3JjeLDAkNJHzm7twER97M5+QcUuOuUo5JfomctdAw==

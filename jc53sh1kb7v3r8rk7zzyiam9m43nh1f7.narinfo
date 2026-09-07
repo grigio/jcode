@@ -1,0 +1,9 @@
+StorePath: /nix/store/jc53sh1kb7v3r8rk7zzyiam9m43nh1f7-cargo-package-core_maths-0.1.1
+URL: nar/1wn1rr7rxs56w2qdvvypfkg3kisncy018n3nssi24ixs6dwki9gx.nar.xz
+Compression: xz
+FileHash: sha256:1wn1rr7rxs56w2qdvvypfkg3kisncy018n3nssi24ixs6dwki9gx
+FileSize: 6200
+NarHash: sha256:0kw2yqacvpwn1cnccvmls9d1850zlkkyyplfrphv9v8wapg0wgqw
+NarSize: 35768
+References: 
+Sig: grigio-jcode:L9mGwkK+cnIFN9nOGbPQxbfOk5B3zA95lPDFDgt3PIWYZa0wrNTUWvtjf8Mx4rv3oWxv9sFfmKZGolYllFbPAA==

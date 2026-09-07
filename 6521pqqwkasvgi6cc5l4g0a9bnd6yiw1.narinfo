@@ -1,0 +1,9 @@
+StorePath: /nix/store/6521pqqwkasvgi6cc5l4g0a9bnd6yiw1-cargo-package-arrayvec-0.7.6
+URL: nar/1d84j1p01rnfhsl3nq9m14hqjjgfjdjc7ik42gl86hd8p60x1n0w.nar.xz
+Compression: xz
+FileHash: sha256:1d84j1p01rnfhsl3nq9m14hqjjgfjdjc7ik42gl86hd8p60x1n0w
+FileSize: 27588
+NarHash: sha256:1rs1f30361kjvzrma0fgccfgv20k5icb9350zmjwz96b75xdbils
+NarSize: 131776
+References: 
+Sig: grigio-jcode:KT9RTY7arnB+4ZRUskHOb1qzUzg2kNZBxSqES00qie0nbt+NN86oVyerPOSiw4VVDHKWOPUI2hTL9K9H0YmqBA==

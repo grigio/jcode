@@ -1,0 +1,9 @@
+StorePath: /nix/store/i3ryi2l7xmxiwkn6qdi6sy17xin91qn7-cargo-package-ppv-lite86-0.2.21
+URL: nar/1186wrhdajj30awdrhgsdb1d858ijvkb3bnxp130p3zi7hy2a052.nar.xz
+Compression: xz
+FileHash: sha256:1186wrhdajj30awdrhgsdb1d858ijvkb3bnxp130p3zi7hy2a052
+FileSize: 18868
+NarHash: sha256:0ps2rrrsr948k209mx9znk34gr7pzmqm33mh1zakd3r9qaa6g568
+NarSize: 135680
+References: 
+Sig: grigio-jcode:e/wVr9fVw47z60MhIySct+sm3Ngo/myeHAnW4iNplcGJ1h0QVQ3pYXxUafn2Bm6UqJubjIwMl1s0DhCNNLEGCA==

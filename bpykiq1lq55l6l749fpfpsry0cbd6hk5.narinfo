@@ -1,0 +1,9 @@
+StorePath: /nix/store/bpykiq1lq55l6l749fpfpsry0cbd6hk5-cargo-package-hashbrown-0.14.5
+URL: nar/10pmrbcn0nfgnamcss2mz9x4nswd1c1rr27kg42ks915lsaghax9.nar.xz
+Compression: xz
+FileHash: sha256:10pmrbcn0nfgnamcss2mz9x4nswd1c1rr27kg42ks915lsaghax9
+FileSize: 103396
+NarHash: sha256:1dx4imbxc2ggfcdgd6dx1rhfqh0syjfnbd3kbvyhcnnz1ad4qn3j
+NarSize: 842032
+References: 
+Sig: grigio-jcode:svYsD3ani9mxxb9bWlhjyhTWbzUNld5R+38C45109CZi7j1t24WknqIzeQ5gNj8sRIyoyqVn1qPNggSAb55KBw==

@@ -1,0 +1,9 @@
+StorePath: /nix/store/bbqclgnn4pwd96gi9qsy5mhqc48x2x01-cargo-package-rustix-0.38.44
+URL: nar/17j50dld6bsyxibcsxbg133vcw1by874h3lng2pncc49xciixdqm.nar.xz
+Compression: xz
+FileHash: sha256:17j50dld6bsyxibcsxbg133vcw1by874h3lng2pncc49xciixdqm
+FileSize: 263600
+NarHash: sha256:1xrkrzkz24jx342yvz8x54yjnlgplkr8wykx4vdhi9mrz79piza5
+NarSize: 2199928
+References: 
+Sig: grigio-jcode:fmFOcUSGCepAmwyd7yOZqlfMFBEApuGNKbcxsBNBh/hUK8JFakQDXiEjsnwaGNCB3pscdffTZ/VaeHo9XA5SAA==

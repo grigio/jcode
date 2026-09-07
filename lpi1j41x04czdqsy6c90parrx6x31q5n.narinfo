@@ -1,0 +1,9 @@
+StorePath: /nix/store/lpi1j41x04czdqsy6c90parrx6x31q5n-cargo-package-block2-0.6.2
+URL: nar/1c6n6695qfj48crcaakyiykxjpi4c9jq00j7css2pkh1p0zfgkby.nar.xz
+Compression: xz
+FileHash: sha256:1c6n6695qfj48crcaakyiykxjpi4c9jq00j7css2pkh1p0zfgkby
+FileSize: 30376
+NarHash: sha256:16zmpxi6v3zvy9ay01b0ahn5w58ysxqrdhs38aql5gx9k8cc0dpy
+NarSize: 133216
+References: 
+Sig: grigio-jcode:shfDd3D4r82QICTHb0Vlh9Dlq84Lif3tUfzHtoy7kC12F2QappS1yO6hTZCpnVpUjlrxzoTG9LTkUEVknShSAQ==

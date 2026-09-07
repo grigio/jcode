@@ -1,0 +1,9 @@
+StorePath: /nix/store/crnyq5s3xf9pq87ik8z4dbpxp8a6c1w4-rust-std-1.97.1-x86_64-unknown-linux-gnu
+URL: nar/0nfsdjz1a4rqq7035rphsxlzxz631gzzh553k99rymxkmd4xr0wr.nar.xz
+Compression: xz
+FileHash: sha256:0nfsdjz1a4rqq7035rphsxlzxz631gzzh553k99rymxkmd4xr0wr
+FileSize: 31593724
+NarHash: sha256:01vwvm944d5337qvwc1jpknmvlacfj86kgic8gbvlgkzbfmb7rvl
+NarSize: 169179760
+References: kw26hfd5b653cn2lm6yfh0q7y18d6d9l-gcc-15.3.0-libgcc
+Sig: grigio-jcode:b/nX6qu7HTmy0cQcO57HAaSiZnk4grT8VsqlP9JxeYtLlx53ujWvWKIwi0AbmdN4+BZh1E4fIRxiwFITQGkXCQ==

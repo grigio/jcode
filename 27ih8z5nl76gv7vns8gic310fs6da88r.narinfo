@@ -1,0 +1,9 @@
+StorePath: /nix/store/27ih8z5nl76gv7vns8gic310fs6da88r-cargo-package-wezterm-dynamic-0.2.1
+URL: nar/0bmgqzika820p64qj5in9sdp952hvnk8zgqrff4awwxcjkxd5z3x.nar.xz
+Compression: xz
+FileHash: sha256:0bmgqzika820p64qj5in9sdp952hvnk8zgqrff4awwxcjkxd5z3x
+FileSize: 10632
+NarHash: sha256:1kqxk72w6gswymc4rkgljz8j3dx0iivn73sjaf0qk5z8j1zxp8j2
+NarSize: 57928
+References: 
+Sig: grigio-jcode:Xg5UPXG5xLvCHG8Sq3UBjrPXmZRJG+R3Wep8rFkoDwfV1Hp8q1los8gIXebNZW9+Kh7gCpff+ifUUlryo0v9AQ==

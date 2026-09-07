@@ -1,0 +1,9 @@
+StorePath: /nix/store/d4azp6sx6c7qk0f6liys0nid58hfmv8d-cargo-package-maplit-1.0.2
+URL: nar/1l5gnj1sbv03dq9pzqa0vnd7z5yyf9kdndn9hhlzvkdcqmhigwlc.nar.xz
+Compression: xz
+FileHash: sha256:1l5gnj1sbv03dq9pzqa0vnd7z5yyf9kdndn9hhlzvkdcqmhigwlc
+FileSize: 8344
+NarHash: sha256:1144w603s7qb2v7h4x8xl217dqrgjv2fb20cvmjxbp29f68a1id4
+NarSize: 29184
+References: 
+Sig: grigio-jcode:jhsN53X7AWkCyOkh8Jw+JmabdsZl4XKlCwJVtQ2BTtcRtaFkqSYC1wfoQnXl1J3DQAFGKwHa3tZpVpTCVMMcAg==

@@ -1,0 +1,9 @@
+StorePath: /nix/store/m4xrnv7c1wkd12sz54jsmvj7zq8vdqsn-cargo-package-num-integer-0.1.46
+URL: nar/0mwga75v3cz1ljyvmi5bcq7jmw9s3w5imj3skwrahrchcjfi31ca.nar.xz
+Compression: xz
+FileHash: sha256:0mwga75v3cz1ljyvmi5bcq7jmw9s3w5imj3skwrahrchcjfi31ca
+FileSize: 19656
+NarHash: sha256:1h58y0j86zdlivz1z51f6fvjnwf7bzmrwshiml7bsvr2d76i3lbv
+NarSize: 113864
+References: 
+Sig: grigio-jcode:Vlec0uCRwrPTbDW+6Ar1Z9tKbjlHdbdYB77uONzz9PSVpp2kAAnuFn+9Wrz5urAle890H8NONGq0cL+seGEoCQ==

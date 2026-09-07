@@ -1,0 +1,9 @@
+StorePath: /nix/store/f9zn3l7xw843az6g1s466ji4fh9wdk9a-cargo-package-shlex-1.3.0
+URL: nar/0b6czz1imsc4fk9r2qdkj5zlj439ardkwalzjjv2lqlndva9qr0g.nar.xz
+Compression: xz
+FileHash: sha256:0b6czz1imsc4fk9r2qdkj5zlj439ardkwalzjjv2lqlndva9qr0g
+FileSize: 17448
+NarHash: sha256:0ysswkxy3h4l3b9cncbddyxbz6p421kwp7v9776xydrd5d0mbyqx
+NarSize: 61824
+References: 
+Sig: grigio-jcode:M3OnjqAqcJd2L8oTiq8+Dyeza9UoaCKQBqe/B//pCKj66AgGsqMidA2a/67qd9yzEDBtdyr31qtoOo7dy6z1DQ==

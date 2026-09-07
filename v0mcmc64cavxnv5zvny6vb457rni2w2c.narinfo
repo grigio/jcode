@@ -1,0 +1,9 @@
+StorePath: /nix/store/v0mcmc64cavxnv5zvny6vb457rni2w2c-cargo-package-ouroboros-0.18.5
+URL: nar/1qs030fgb3v4jqw3y0a1fwnb65lj734hrjzipb6m2n8rdm8ljy1q.nar.xz
+Compression: xz
+FileHash: sha256:1qs030fgb3v4jqw3y0a1fwnb65lj734hrjzipb6m2n8rdm8ljy1q
+FileSize: 11032
+NarHash: sha256:0dswr0vxcqq2wxjv2wa2mbqxqg06filyf63bi1vnwswylwlgai3y
+NarSize: 39696
+References: 
+Sig: grigio-jcode:UVAxrfNW2jGv+dOYVm3dgaW1QhObnNMAsk5WCQ7YmBHzwCYF8lFVqWx5Sg9dSIt9H6RFbK9SoAamUkQzgQAYAA==

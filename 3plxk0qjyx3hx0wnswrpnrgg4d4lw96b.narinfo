@@ -1,0 +1,9 @@
+StorePath: /nix/store/3plxk0qjyx3hx0wnswrpnrgg4d4lw96b-rustc-1.97.1-x86_64-unknown-linux-gnu
+URL: nar/1ymhgz5vy38p89klkwlqxy4by9z7ig61c2xddj3r4nn54z04hyzk.nar.xz
+Compression: xz
+FileHash: sha256:1ymhgz5vy38p89klkwlqxy4by9z7ig61c2xddj3r4nn54z04hyzk
+FileSize: 94136132
+NarHash: sha256:1lgkap4lndgwwg5vcnbqdm9dlr6z3h6dkx2wjld3k5qcpy3cc8vg
+NarSize: 414464968
+References: 3plxk0qjyx3hx0wnswrpnrgg4d4lw96b-rustc-1.97.1-x86_64-unknown-linux-gnu 78x9i5x1wpqw4kq0h39b8f35abcv156h-zlib-1.3.2 c9mv5v53f7vy3wd00ah0f77k509mzmn7-bash-5.3p15 kw26hfd5b653cn2lm6yfh0q7y18d6d9l-gcc-15.3.0-libgcc l8si8gnvvq93yzms1jsgh5aixyf9rl5x-glibc-2.42-67 mp8s10fwm685azvvv1qq7zyf7iajjlj8-coreutils-9.11 vq96535799nsn8cgs2khhpm8blc02kpb-expand-response-params
+Sig: grigio-jcode:qEIiW5s3sYmu5gAy/Oh5t1s1nrDeFaiEJWAf2qMtZ3Xx+sZMKq6q6Qs5r17cm8maQJK70cIxs5dhB16B+6RmCg==

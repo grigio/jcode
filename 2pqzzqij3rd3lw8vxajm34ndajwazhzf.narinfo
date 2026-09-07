@@ -1,0 +1,9 @@
+StorePath: /nix/store/2pqzzqij3rd3lw8vxajm34ndajwazhzf-cargo-package-jni-macros-0.22.4
+URL: nar/1q7ymqc9bqs2m0b0l19bhl6raapdjf0j6cr1hng0z1vnf34l78cf.nar.xz
+Compression: xz
+FileHash: sha256:1q7ymqc9bqs2m0b0l19bhl6raapdjf0j6cr1hng0z1vnf34l78cf
+FileSize: 52796
+NarHash: sha256:1y217kghbnrw31z4j0qiab1abxv1xs8476qanagh5gq7m1zv6rq9
+NarSize: 334704
+References: 
+Sig: grigio-jcode:Nsf11LzaSV1S+8pkqxeBa+eLJtPTtow1b77u82GgnA7ET179hH3Jaeaquk7uBZOpc1zW79+hfVq+qNrtGks+DA==

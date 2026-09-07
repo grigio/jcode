@@ -1,0 +1,9 @@
+StorePath: /nix/store/gvi8zndqvhmwbd5jz8nf1cj0viicfxgw-cargo-package-palette-0.7.6
+URL: nar/0h0175mjxy82zjmvl4sv5iifmjb16qyaj2x59bfnbfdbl1wchcvq.nar.xz
+Compression: xz
+FileHash: sha256:0h0175mjxy82zjmvl4sv5iifmjb16qyaj2x59bfnbfdbl1wchcvq
+FileSize: 168828
+NarHash: sha256:0n484m5rrbyv76jl8v342wzkmabbywyihahnarbbvmivbsmxs8hp
+NarSize: 1387240
+References: 
+Sig: grigio-jcode:kyZDE19u2k8L6Ibypp95ssf27WnNVJMtFcz6c8qStqTtQeGFAsmjooHq0lxfea9zkvJN7Iw9+hl7EBDBfRomDw==

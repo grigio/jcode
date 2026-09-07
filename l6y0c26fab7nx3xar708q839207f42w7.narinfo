@@ -1,0 +1,9 @@
+StorePath: /nix/store/l6y0c26fab7nx3xar708q839207f42w7-cargo-package-ratatui-core-0.1.0
+URL: nar/1j06prvs5rirybgy6d4q4qx7il2qylry83vqlkq4y2zdwfg0g4jg.nar.xz
+Compression: xz
+FileHash: sha256:1j06prvs5rirybgy6d4q4qx7il2qylry83vqlkq4y2zdwfg0g4jg
+FileSize: 121516
+NarHash: sha256:0h14r3yyii7glamwbzjkync68k9m26w4b8ldwhdm60qk4pbdhna5
+NarSize: 883848
+References: 
+Sig: grigio-jcode:2PLkIKIJ0iw9oG18YD+OdTYZUDKEhvFAty16K1Ob48XBjbS4VQfoQX67MRLpN9dwHAHVNTsnzOphOYjXvIDkDA==

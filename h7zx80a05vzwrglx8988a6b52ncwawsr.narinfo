@@ -1,0 +1,9 @@
+StorePath: /nix/store/h7zx80a05vzwrglx8988a6b52ncwawsr-cargo-package-litrs-1.0.0
+URL: nar/1fafi428q8qray8qv34ygd8dnq625af2zprnpp5c2vd50qnbsrvy.nar.xz
+Compression: xz
+FileHash: sha256:1fafi428q8qray8qv34ygd8dnq625af2zprnpp5c2vd50qnbsrvy
+FileSize: 37344
+NarHash: sha256:032wj8638h9nq85fk2w07w184bvqj7svaskfdrm937xzg4wi8yfa
+NarSize: 215048
+References: 
+Sig: grigio-jcode:QHqrwmcP68yf0OZqtUtvwlGycWiri5PbETamSRbi5lk38IvB9gVgC14lPema8Z2NcKOa1EXM11O5Y2u/A0fNDQ==

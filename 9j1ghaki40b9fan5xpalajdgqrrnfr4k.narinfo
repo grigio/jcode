@@ -1,0 +1,9 @@
+StorePath: /nix/store/9j1ghaki40b9fan5xpalajdgqrrnfr4k-cargo-package-slotmap-1.1.1
+URL: nar/0m9nslnzx9msl1s9rhpg2sz84d5cwpldy8p3nyhjxz8nqd1n4d3z.nar.xz
+Compression: xz
+FileHash: sha256:0m9nslnzx9msl1s9rhpg2sz84d5cwpldy8p3nyhjxz8nqd1n4d3z
+FileSize: 35092
+NarHash: sha256:0hqb15jvvjf6z5dw3fh67d7bibhs10d4d4jsm6vxj518xpcs6fdi
+NarSize: 305712
+References: 
+Sig: grigio-jcode:T6F22SSBoqQvA05D5WnkC8Hy53CEdyCf7Ku79c6Q8LQihemNxkJ9+HrkwpMdsQqDscHwmmNPJy+Xs1hx9/0DCA==

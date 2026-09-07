@@ -1,0 +1,9 @@
+StorePath: /nix/store/gibdijackwxwjwcv9j1i6v78wvqacyqg-cargo-package-crypto-common-0.2.1
+URL: nar/1kj1fgb8yml6s4rm1sj3xlncl1jd56qmm2wh0v9mfbljpvgpmiba.nar.xz
+Compression: xz
+FileHash: sha256:1kj1fgb8yml6s4rm1sj3xlncl1jd56qmm2wh0v9mfbljpvgpmiba
+FileSize: 13700
+NarHash: sha256:06waixyjhzjxli6mr3g84cbc7y5waz833qkgw0xm28hl0lpd0r6d
+NarSize: 55104
+References: 
+Sig: grigio-jcode:GwLLpvBX3QOwERO6u/bqLHLmMu43Jirw1sL3tsmcVGs7PVozlP+NONRp55C1pw7+hrX4n5sD1WTZvqwMWSG5Dw==

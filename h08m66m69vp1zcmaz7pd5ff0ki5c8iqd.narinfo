@@ -1,0 +1,9 @@
+StorePath: /nix/store/h08m66m69vp1zcmaz7pd5ff0ki5c8iqd-cargo-package-pin-utils-0.1.0
+URL: nar/0d30vd820zk4x2pvyq7x0jxn8kiaq4rkfi4p08rr14rd5aynif29.nar.xz
+Compression: xz
+FileHash: sha256:0d30vd820zk4x2pvyq7x0jxn8kiaq4rkfi4p08rr14rd5aynif29
+FileSize: 7112
+NarHash: sha256:19i64r92568w3gn04g4a1rb1myjxyc9s0gml6pdwi5xbc70yl6k6
+NarSize: 23096
+References: 
+Sig: grigio-jcode:RnNhkDhdW0nL54ThjzU+y6DhJrLz4ByFx/855wZcdb7VK7He5Rth6/YaRT3hbq3HZW+IX1/vSlMlGs9ufytIAA==

@@ -1,0 +1,9 @@
+StorePath: /nix/store/875yj3hp7h46r13rs8c4fz30c23i2rmw-cargo-package-anstyle-query-1.1.5
+URL: nar/14m36wscdjhf560qpj0zii3hhlcana1g48nz9lz15ycxiri1fxjj.nar.xz
+Compression: xz
+FileHash: sha256:14m36wscdjhf560qpj0zii3hhlcana1g48nz9lz15ycxiri1fxjj
+FileSize: 9568
+NarHash: sha256:07nbwp152mnkhlafys23l4zy75vi2c5jbmnjwscnn80ma5r6cbni
+NarSize: 32120
+References: 
+Sig: grigio-jcode:o//Z0cdtHZ84V5PuP3Uq7J6nCjT+0dc7/01yoHIrESryQ7RVffdXzNabOA+gSzvaWBcyw0tUurPnHYUgyfv4Bg==

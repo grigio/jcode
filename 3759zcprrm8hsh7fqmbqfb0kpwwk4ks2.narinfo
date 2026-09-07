@@ -1,0 +1,9 @@
+StorePath: /nix/store/3759zcprrm8hsh7fqmbqfb0kpwwk4ks2-cargo-package-compression-core-0.4.31
+URL: nar/0r0zxrndwi1vbn6s4y34h5hman1zsr3csxb0qg7k884nihisl06n.nar.xz
+Compression: xz
+FileHash: sha256:0r0zxrndwi1vbn6s4y34h5hman1zsr3csxb0qg7k884nihisl06n
+FileSize: 5456
+NarHash: sha256:1v4ic9xmyvlcknlxqrc21ci0zpyhaj121dvmvpbjgaxpscbz3qpd
+NarSize: 19248
+References: 
+Sig: grigio-jcode:5MIoeLDk5+Fssrqt6kiw2Z5ao4w3cPog46Ky7y4QOEPaklRNZra2Zfwy4zIUgbeInfo/p6FO/eL1jeW/KEJdCQ==

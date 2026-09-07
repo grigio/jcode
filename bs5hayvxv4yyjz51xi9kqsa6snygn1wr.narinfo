@@ -1,0 +1,9 @@
+StorePath: /nix/store/bs5hayvxv4yyjz51xi9kqsa6snygn1wr-cargo-package-float-cmp-0.9.0
+URL: nar/0n1zb8waxhbd4hmbflfxvs90vyb9k29c8m4lr9yrx9l7i74r84y7.nar.xz
+Compression: xz
+FileHash: sha256:0n1zb8waxhbd4hmbflfxvs90vyb9k29c8m4lr9yrx9l7i74r84y7
+FileSize: 9180
+NarHash: sha256:1hfv5pnvrrq2aygzxmwgrilv3lh38975494bclqxnxrzhv0fcnyw
+NarSize: 49584
+References: 
+Sig: grigio-jcode:RhMxSpgcEkmyWkiSXZcj7+mtC/cKK9WEPTpXA2WuqGKC7mKge6v8A8P5oOSbpCtzqhlRx/VXfDPGA8iigzKWCA==

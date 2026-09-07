@@ -1,0 +1,9 @@
+StorePath: /nix/store/cc9x4mid8r4p6g4s5naqfv4k387dyg2g-cargo-package-crossbeam-deque-0.8.6
+URL: nar/0j571q763l5gqiy7lr1w5vchp9rxaxzm5qhzcyg007r2y0s18yrx.nar.xz
+Compression: xz
+FileHash: sha256:0j571q763l5gqiy7lr1w5vchp9rxaxzm5qhzcyg007r2y0s18yrx
+FileSize: 20184
+NarHash: sha256:1f5qai6dymf762bgsx94mv9jzp36sbzrm2cc39ch9j09bgs84cca
+NarSize: 132696
+References: 
+Sig: grigio-jcode:vegckruzmU+dApyQ736+364cLdDgzREcHSkzvdkmtt8F1CNnPev3hoKVkzkAxdkin7LdH1Bzb9hIRhjGrFz+BQ==

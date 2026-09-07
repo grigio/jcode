@@ -1,0 +1,9 @@
+StorePath: /nix/store/0jybwzc7icc6qgyy17l3vbd9pms3g6nj-cargo-package-idna_adapter-1.2.1
+URL: nar/0xkydblxc3pki2zb6av0yq5y79i40slhd0f2rrz546hci4cnbqfy.nar.xz
+Compression: xz
+FileHash: sha256:0xkydblxc3pki2zb6av0yq5y79i40slhd0f2rrz546hci4cnbqfy
+FileSize: 9584
+NarHash: sha256:1dkc6mnpq149kw11nzkrvwwwwcr52h47g19ri7sy6czib2rgnhb0
+NarSize: 36960
+References: 
+Sig: grigio-jcode:ryKNwXW8817gBubxxQScykdXBUsYOAsvQX8snVy77JZLXkIm6RG1bAMwdnqond9q+41qXUv35H1mDS5pv4okCg==

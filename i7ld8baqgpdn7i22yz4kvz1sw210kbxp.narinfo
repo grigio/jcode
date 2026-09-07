@@ -1,0 +1,9 @@
+StorePath: /nix/store/i7ld8baqgpdn7i22yz4kvz1sw210kbxp-cargo-package-bytemuck_derive-1.10.2
+URL: nar/12gksgnafnrah4khj0q6980ya9qnjzwrm06pl1dyrlva5h871byn.nar.xz
+Compression: xz
+FileHash: sha256:12gksgnafnrah4khj0q6980ya9qnjzwrm06pl1dyrlva5h871byn
+FileSize: 23444
+NarHash: sha256:1v6l2z0phgs4bpp48076w47lanpfyjpn6sipsvi70a28lni0z5vz
+NarSize: 110672
+References: 
+Sig: grigio-jcode:KEh+JonyOgcGLX2YBHijc/PdI4PhA+IbxD3bFo5e6RKcNtafSEEIRlE3Jss8KKKt775LXwrl/rgTAcWJ2z3tBQ==

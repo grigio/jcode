@@ -1,0 +1,9 @@
+StorePath: /nix/store/3s2by0gy84yy006yn83b7qzqrlgibrzg-cargo-package-rustls-pki-types-1.13.2
+URL: nar/01vsrpqydcy4d8amp44cpl53wqb3i9n5pwmqiq12kyl1pp98m7a0.nar.xz
+Compression: xz
+FileHash: sha256:01vsrpqydcy4d8amp44cpl53wqb3i9n5pwmqiq12kyl1pp98m7a0
+FileSize: 29888
+NarHash: sha256:0prfg22skdjpbrzs26pvx6x8yz7dp82wsr5agr2lxf0m5jy3gnkz
+NarSize: 158264
+References: 
+Sig: grigio-jcode:Yq5fr33UYe8cprxSPhWEa//bXy6gh+9e3IlzVWZnh13EGi9bfNAuuEqi2zdpk8WPwx+uxTR61gjUeAgmV9EmBQ==

@@ -1,0 +1,9 @@
+StorePath: /nix/store/jyimq5l6g0a7fna80x9hfzpz2mchy0ar-cargo-package-proc-macro2-1.0.106
+URL: nar/1qsx5v19rfijnz02gsl95vcac0j8vkiddlj3pm76p7a6fndxg86q.nar.xz
+Compression: xz
+FileHash: sha256:1qsx5v19rfijnz02gsl95vcac0j8vkiddlj3pm76p7a6fndxg86q
+FileSize: 49312
+NarHash: sha256:1gng8v4s9g31mpj72r7mb509ds5488klf9nhkfkjhh8ghcdy13pb
+NarSize: 278512
+References: 
+Sig: grigio-jcode:uEpLZOJ2RsGfJ3ZRPLr50h2FCAgdQhMImDSdM/cnqJCvbGT0xJAWEhPaarWutjoK3kDSqPMf4HWEIJep7pDuCg==

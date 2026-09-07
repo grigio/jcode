@@ -1,0 +1,9 @@
+StorePath: /nix/store/n47rqz41v8p6nxcyypcrp3g8mzj12dhf-cargo-package-der-0.7.10
+URL: nar/17xl1p6cl7xy4ph6mqwb26yyg2pvvj6wfcmjmsnsc6vl9cxb3k6v.nar.xz
+Compression: xz
+FileHash: sha256:17xl1p6cl7xy4ph6mqwb26yyg2pvvj6wfcmjmsnsc6vl9cxb3k6v
+FileSize: 70392
+NarHash: sha256:1lzj2dj6a6dvdv7633z4m1lyism7d3b9vch1x2s1xk9cmljdj97p
+NarSize: 426824
+References: 
+Sig: grigio-jcode:xJMMQE76VK8Rx/1CRMvQ6v0VY7QjEbieoIRvdsvjIA0xY0am3ySa5gzFAK59H6RwHm8X7YOIpGxHE/NGwEsdDw==

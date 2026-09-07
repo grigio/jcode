@@ -1,0 +1,9 @@
+StorePath: /nix/store/vw32hi77s2nnrxpnan9834sgqfxg6g18-cargo-package-foreign-types-macros-0.2.3
+URL: nar/0vi7qcgpqlcv31l3qmhk5s1fjm2kgg08w1wwh9pnk0h5na6jzy75.nar.xz
+Compression: xz
+FileHash: sha256:0vi7qcgpqlcv31l3qmhk5s1fjm2kgg08w1wwh9pnk0h5na6jzy75
+FileSize: 7260
+NarHash: sha256:0ad6lgyssmw1ij3brp2ckqk3p7bh557vgaqg50y11pxh3fvcqbpf
+NarSize: 27920
+References: 
+Sig: grigio-jcode:4RktNMfCfPomAvtt6VlIlI62OdoBCmnXLgiF2qtAiUIA2eZkaVQBmbBMjaRtChLMkjhEc+nWpPFpDM3NTm8iBg==

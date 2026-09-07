@@ -1,0 +1,9 @@
+StorePath: /nix/store/03zm5zasc6ivmpjkr1xjgpdmzqfw0hig-cargo-package-id-arena-2.3.0
+URL: nar/1skn225igprbb46r21yidv517f5x9j95li6akqz3sq2rx3lwq10x.nar.xz
+Compression: xz
+FileHash: sha256:1skn225igprbb46r21yidv517f5x9j95li6akqz3sq2rx3lwq10x
+FileSize: 11940
+NarHash: sha256:1w93rx2ajy73rv9cdv4xm7qv7xadrsjcjw2ciklw44jb1j1qp881
+NarSize: 50080
+References: 
+Sig: grigio-jcode:1KLDUZM4NXHxxJ0s9pYghNlM+hujdOFMGUEEHufhXh8CQCW3lxKlu1elrzd9Gv3cQ0/248PrAU4a9aGcz6PeDQ==

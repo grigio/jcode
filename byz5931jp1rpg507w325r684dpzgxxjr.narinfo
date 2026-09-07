@@ -1,0 +1,9 @@
+StorePath: /nix/store/byz5931jp1rpg507w325r684dpzgxxjr-cargo-package-rand_core-0.6.4
+URL: nar/06n44hlh2f1pjikgakl8vb2pszya3c06q3djcns814s88nrzs2hg.nar.xz
+Compression: xz
+FileHash: sha256:06n44hlh2f1pjikgakl8vb2pszya3c06q3djcns814s88nrzs2hg
+FileSize: 20588
+NarHash: sha256:10xr04b8mrc36j2rwsg4pm2vg8ifvq1m34qqsm6xmxjy2wapzmia
+NarSize: 81912
+References: 
+Sig: grigio-jcode:1ubh2WlHCxrLB1xbVNVFD85j28hvwTk+qs5EnZfholUxqVbwhAtf1z8Ze79gg3LWfJbABKP5pwZzEBgiIpltAw==

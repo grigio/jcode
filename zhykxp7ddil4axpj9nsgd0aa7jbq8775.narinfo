@@ -1,0 +1,9 @@
+StorePath: /nix/store/zhykxp7ddil4axpj9nsgd0aa7jbq8775-cargo-package-wasm-bindgen-futures-0.4.72
+URL: nar/02g6al68m43giax0d0j07rvqrwli8mxsfq7j52v9dxaf2yy40xkq.nar.xz
+Compression: xz
+FileHash: sha256:02g6al68m43giax0d0j07rvqrwli8mxsfq7j52v9dxaf2yy40xkq
+FileSize: 7644
+NarHash: sha256:090f90rjxg0wqg1p4a9h1hz9mf7fbph5zanqqcrsf85kp1q6kdij
+NarSize: 24608
+References: 
+Sig: grigio-jcode:9Ou852gI2W91nUHuOWiDpeQQK6H4LfbF49nlbnIvqAsig3bWzPS63+8NCYtV+zYOERP6EcXL8hn/bD1pycR4AA==

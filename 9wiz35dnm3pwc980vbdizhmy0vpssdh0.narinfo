@@ -1,0 +1,9 @@
+StorePath: /nix/store/9wiz35dnm3pwc980vbdizhmy0vpssdh0-cargo-package-erased-serde-0.4.10
+URL: nar/02dy6z0vzda8sz4g1413051r2fmzxhz4a5wjl781sbxmpg2cpnsr.nar.xz
+Compression: xz
+FileHash: sha256:02dy6z0vzda8sz4g1413051r2fmzxhz4a5wjl781sbxmpg2cpnsr
+FileSize: 25416
+NarHash: sha256:0r1hvcy9zw0x61h0igxd2xg38h57ad6ik20wqxcdmb74zd08n912
+NarSize: 184152
+References: 
+Sig: grigio-jcode:+/nXbXDJFYixV69sJLdEwl6tMgvzCD6jgRj51hgpj625VWL98174lS59QAY1/OGH1gCB+Q+Lt5eO0O2Jr7WVDA==

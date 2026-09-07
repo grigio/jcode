@@ -1,0 +1,9 @@
+StorePath: /nix/store/qj5pmkxjsypn93dilw5nbx5iv186aqqy-cargo-package-objc2-0.6.4
+URL: nar/0yzpf2lxm6bg7yb4vgwpb2symz79svdkg75fvl92cqhraryjh2qa.nar.xz
+Compression: xz
+FileHash: sha256:0yzpf2lxm6bg7yb4vgwpb2symz79svdkg75fvl92cqhraryjh2qa
+FileSize: 210260
+NarHash: sha256:05gpsipjrsijlg1gkhjsicg6kxv3798s9kklikw6lxivvn192jpq
+NarSize: 1189960
+References: 
+Sig: grigio-jcode:f4S04WYDh3l4UX2SfSa1zFEoUdrhJj/73HbDbwzRxH5Tt4Mvaj+m/idcSKvvlx3T5C1cQ3YKSumZvtnAaMXNBg==

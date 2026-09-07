@@ -1,0 +1,9 @@
+StorePath: /nix/store/nscalpbgdkiby953sc9dbl28cm6mjfqa-cargo-package-phf_generator-0.11.3
+URL: nar/0w543n48lbmzldi0imf552ikr1vxv0imwr33jmab3337vjqdm6x0.nar.xz
+Compression: xz
+FileHash: sha256:0w543n48lbmzldi0imf552ikr1vxv0imwr33jmab3337vjqdm6x0
+FileSize: 13548
+NarHash: sha256:10igpa55da3jlb79030mh3vf4gzivy39xyw8h8924xfxrnjhmhl4
+NarSize: 52112
+References: 
+Sig: grigio-jcode:9AiQVQSotcExgjXyKEdTVwKLLrx5l0nDuvNLjvDvFm50r1xf8IxR10jtLMyqgrwByXAArtp9RZYJU7RnH4QeBA==

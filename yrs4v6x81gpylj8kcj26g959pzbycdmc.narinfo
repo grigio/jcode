@@ -1,0 +1,9 @@
+StorePath: /nix/store/yrs4v6x81gpylj8kcj26g959pzbycdmc-cargo-package-safe_arch-0.9.3
+URL: nar/0q058b7nizz1lk4fgj93jyrjd6fa6rirvqd3hlmh4lmvlpkf51jz.nar.xz
+Compression: xz
+FileHash: sha256:0q058b7nizz1lk4fgj93jyrjd6fa6rirvqd3hlmh4lmvlpkf51jz
+FileSize: 68232
+NarHash: sha256:0n5jcb6ixwgm8z58p3n5is84xv0b9gvlxibafnzjncnr69kmaapc
+NarSize: 730880
+References: 
+Sig: grigio-jcode:qTftkvG+6dl61NMXjc6UKL45xVjHhk1RLEOrJtxAUjP570SyYCoMsFhlK2g3gcQIuCCmctdGt/tZYWzezjw1Bg==

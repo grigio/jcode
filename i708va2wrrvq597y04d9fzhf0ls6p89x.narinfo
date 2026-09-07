@@ -1,0 +1,9 @@
+StorePath: /nix/store/i708va2wrrvq597y04d9fzhf0ls6p89x-cargo-package-subtle-2.6.1
+URL: nar/0njksksfzbca6r3y4agvwppp14a57nljvi6ic81z9mh7y5himm0x.nar.xz
+Compression: xz
+FileHash: sha256:0njksksfzbca6r3y4agvwppp14a57nljvi6ic81z9mh7y5himm0x
+FileSize: 13508
+NarHash: sha256:1m7q5vrgk04ph4ng6zbfqdjwb1ypinnww899bcy1a6my4j0s82sk
+NarSize: 60064
+References: 
+Sig: grigio-jcode:fUQfW6pul5HKZizbZk3N4bszZ7f4kFiVgH6z7YPCqgYma6NrN7hU0G/fjBz0gD+6UnOcWN2ksMYtnCK46OEOBw==

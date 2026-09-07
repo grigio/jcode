@@ -1,0 +1,9 @@
+StorePath: /nix/store/vxsdzb1pwa9rq3bci98wz0ah0maj8rg7-cargo-package-unicode-normalization-0.1.25
+URL: nar/0hvizz4k9bjsc5m7d1l5cbqs37qajnqqvrckgv56w3fa5ksbr3r1.nar.xz
+Compression: xz
+FileHash: sha256:0hvizz4k9bjsc5m7d1l5cbqs37qajnqqvrckgv56w3fa5ksbr3r1
+FileSize: 91228
+NarHash: sha256:0v8nhihzpn0kqx6ia5hfgfw2nkp4jw9khbyg4jm94cknlfw5q7gj
+NarSize: 736488
+References: 
+Sig: grigio-jcode:YgiabPUd/Rz61Qtx7687PO/rKxA1K50PoJn2113K2cQ8fmB+nP1B3ZqUL3D9mrax56IlBcly9D862jOqXJGECA==

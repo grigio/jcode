@@ -1,0 +1,9 @@
+StorePath: /nix/store/l28glqjaksg7p7668zpxk50wn0cfna8d-cargo-package-tempfile-3.24.0
+URL: nar/1ksyn6bfsvdjd60ghw418dmw63g8i7cjwvy2q08jym0mnkd787bf.nar.xz
+Compression: xz
+FileHash: sha256:1ksyn6bfsvdjd60ghw418dmw63g8i7cjwvy2q08jym0mnkd787bf
+FileSize: 35132
+NarHash: sha256:1n4dyx6bfsx3616bbgr24nyvzvp5kaiw95gyx48zd2zf5hgib5pr
+NarSize: 180592
+References: 
+Sig: grigio-jcode:0ETYL1Do1t8na5XLRyvDax9Fm3x7QLL4Ldn/P5QUe3kB7mSKCyyDOm8LlGhoefniOUO3FjmoK/b7LeMYCp8PCA==

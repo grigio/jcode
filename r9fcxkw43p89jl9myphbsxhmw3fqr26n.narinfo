@@ -1,0 +1,9 @@
+StorePath: /nix/store/r9fcxkw43p89jl9myphbsxhmw3fqr26n-cargo-package-futures-channel-0.3.31
+URL: nar/1kr3c9xgmjj6f24p4qijwxyw4w2mbmfl9g4wwy2pqa78y99x60jl.nar.xz
+Compression: xz
+FileHash: sha256:1kr3c9xgmjj6f24p4qijwxyw4w2mbmfl9g4wwy2pqa78y99x60jl
+FileSize: 28348
+NarHash: sha256:1jsng8hq6jp5f4md7p4bwplydnvbxayq9k30igd05li40r3jsac9
+NarSize: 140032
+References: 
+Sig: grigio-jcode:YXLKN/756zANcYHTBkX+7is4QNvE8GbHSJTXJjTxMEmF4pFuHmXZkhGhX8Q2zpf2gEcBge1akkLzgWToaQCNBA==

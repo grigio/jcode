@@ -1,0 +1,9 @@
+StorePath: /nix/store/3p97grmqnf94vnrijdi9njjppll3ind4-cargo-package-global-hotkey-0.7.0
+URL: nar/0841bpjqv8ms2b3qsaidhx6hz9f65nh6q1hjy1qp21pvrwpi3v77.nar.xz
+Compression: xz
+FileHash: sha256:0841bpjqv8ms2b3qsaidhx6hz9f65nh6q1hjy1qp21pvrwpi3v77
+FileSize: 59020
+NarHash: sha256:0sczafdx0idskfshys0dgpia5calsvmdfizprzkg6lnvr5l5cbvy
+NarSize: 284928
+References: 
+Sig: grigio-jcode:s7FzOB0AltJJkS1H8rxLQwtv9jhb9KA2jebZyG2VneUtCM7A3q6tiwSLClDrKniTVohD5YU4937KWdiAypgYAg==

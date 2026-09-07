@@ -1,0 +1,9 @@
+StorePath: /nix/store/5myj7ms3ha3kh73n2llsy44szp2mgjd7-cargo-package-indoc-2.0.7
+URL: nar/15vab4c1jccrqx8mndq07sjal2n7ff9b5y5jipzpnag03610k205.nar.xz
+Compression: xz
+FileHash: sha256:15vab4c1jccrqx8mndq07sjal2n7ff9b5y5jipzpnag03610k205
+FileSize: 15460
+NarHash: sha256:06p8006b2cfkbac6izkkgahbqj26k9jb1p7r0g6v4lw63yyj8nyg
+NarSize: 69360
+References: 
+Sig: grigio-jcode:hoXIshjXxBiaoxlZuZgQukmawZ9HT4Pk+E6XCnRwweZkI2Kli4N1cprLJCOw29k2DLsEGgrU5DGI8vK+9E8tAg==

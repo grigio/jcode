@@ -1,0 +1,9 @@
+StorePath: /nix/store/lv4pwaakq598is2zsnlkkd4whblq603f-cargo-package-gif-0.14.1
+URL: nar/1g7fl61a1z8dziy15lxnnnhhmm2m3y9n2l28j98l2s79r56ankr7.nar.xz
+Compression: xz
+FileHash: sha256:1g7fl61a1z8dziy15lxnnnhhmm2m3y9n2l28j98l2s79r56ankr7
+FileSize: 33432
+NarHash: sha256:0824fqbc3m3cl2aaknbxj3n2wwnv2666g5a7kxhr4w8bsa2835jw
+NarSize: 151952
+References: 
+Sig: grigio-jcode:2Sj4Zqigrrg9RJmOUFvDd+FeIuXOXW9umEnPTbeuL8G43fmsQXpk3GpIE9qTbO4vNcPQlMy9NunZ2VAF8byOCA==

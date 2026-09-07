@@ -1,0 +1,9 @@
+StorePath: /nix/store/dzwgd86wwbl6zfv5ppdnzmrcrw8ddi37-cargo-package-web-time-1.1.0
+URL: nar/1wcw1wg8hjcpnng9r2vqcn2xvwiw7gndj9r5gsfydx989a1jx7fm.nar.xz
+Compression: xz
+FileHash: sha256:1wcw1wg8hjcpnng9r2vqcn2xvwiw7gndj9r5gsfydx989a1jx7fm
+FileSize: 16392
+NarHash: sha256:0kdwxrpaf0fbm7k9kc76ixzy8q755v99fywr4lvkhzj2mjksy409
+NarSize: 69208
+References: 
+Sig: grigio-jcode:w6KoRgq0h6dv0GdvZM9q/7KZBOa6AKkuZuSLDt2c6HHfk//2zpM2gBT4JuhRhWgTggc61xpowUfaIyl2yauMCw==

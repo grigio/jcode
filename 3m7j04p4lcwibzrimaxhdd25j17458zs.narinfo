@@ -1,0 +1,9 @@
+StorePath: /nix/store/3m7j04p4lcwibzrimaxhdd25j17458zs-cargo-package-rustls-platform-verifier-android-0.1.1
+URL: nar/1k9zcajyzjrw0b8ak91s3aj636qx8773m6icg9dy7l6an5rhaliv.nar.xz
+Compression: xz
+FileHash: sha256:1k9zcajyzjrw0b8ak91s3aj636qx8773m6icg9dy7l6an5rhaliv
+FileSize: 13108
+NarHash: sha256:04mcbaglr05wkn43mj0dgihp8v6xs3k40rx916rdikx9qmgcs0b5
+NarSize: 21712
+References: 
+Sig: grigio-jcode:Dkk43qfru1VFoSrZpHSpbHNRjZ/5/euVAD0WVk/LuF/B4Wj6KhWGy/xCCkbgzwbxm3gYXneESvVHyp3/REt1AQ==

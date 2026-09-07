@@ -1,0 +1,9 @@
+StorePath: /nix/store/02c2yn0y9i6k1b2ksg0qr16rwp013c9n-rust-analyzer-preview-1.97.1-x86_64-unknown-linux-gnu
+URL: nar/1bswpbsp9q03qvl3lnmcdr5qq50m71c4pfx1jlbi0x72l8gqyyfa.nar.xz
+Compression: xz
+FileHash: sha256:1bswpbsp9q03qvl3lnmcdr5qq50m71c4pfx1jlbi0x72l8gqyyfa
+FileSize: 9846032
+NarHash: sha256:07dnj8w4l168gf927rkg4p473563l1w3ml5245pr84c2g18mjfjm
+NarSize: 45413968
+References: 3plxk0qjyx3hx0wnswrpnrgg4d4lw96b-rustc-1.97.1-x86_64-unknown-linux-gnu kw26hfd5b653cn2lm6yfh0q7y18d6d9l-gcc-15.3.0-libgcc l8si8gnvvq93yzms1jsgh5aixyf9rl5x-glibc-2.42-67
+Sig: grigio-jcode:mK5oDyV0SHmhEy05hexuUsJ/d4TIpuqrEpzAqzX2LOg1OtAwD5mfLajT+R4Hu0MyOREdmrTz1txxVIATv3nvBw==

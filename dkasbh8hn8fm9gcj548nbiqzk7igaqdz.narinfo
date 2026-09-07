@@ -1,0 +1,9 @@
+StorePath: /nix/store/dkasbh8hn8fm9gcj548nbiqzk7igaqdz-cargo-package-wezterm-input-types-0.1.0
+URL: nar/0zp9d2gasj28dw689bvfd8s2pslw6nacg2x4qslvxkm1k04mrbaj.nar.xz
+Compression: xz
+FileHash: sha256:0zp9d2gasj28dw689bvfd8s2pslw6nacg2x4qslvxkm1k04mrbaj
+FileSize: 14472
+NarHash: sha256:0bxyk30n7ii8y08hwnjd482l5v16xhysllpqw3y6579b7vrrgc4a
+NarSize: 102376
+References: 
+Sig: grigio-jcode:bq5i0tHmNtAmMCNMXlvbsOrQ6xMOUwB2dnNR1jvMuxy1WSCVXQvzlIpPxzeNjh7XXPtxcmpeuN+lWtqSB3l4Bw==

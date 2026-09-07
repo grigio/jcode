@@ -1,0 +1,9 @@
+StorePath: /nix/store/sd4wcwzqzj7mifpvylhd18d9h0qfi309-cargo-package-async-stream-impl-0.3.6
+URL: nar/0zn5jv41nbziy4c9kniv5iw36y91zg1bj9caiz54hyq2nr0ai0in.nar.xz
+Compression: xz
+FileHash: sha256:0zn5jv41nbziy4c9kniv5iw36y91zg1bj9caiz54hyq2nr0ai0in
+FileSize: 4244
+NarHash: sha256:0dbj43d2z5sc5kkqbzaz35kv4j65gig2z819pqrjwqg3fqxfasij
+NarSize: 15968
+References: 
+Sig: grigio-jcode:ifg1H6IbPtlXaE8YQdFSm87ckaDV98AxCMR6VHqcUYOdsal46Jili1g702zaHtb5WhyXolOA8dEgLeSsJVjPCQ==

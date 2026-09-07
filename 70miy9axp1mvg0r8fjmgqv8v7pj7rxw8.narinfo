@@ -1,0 +1,9 @@
+StorePath: /nix/store/70miy9axp1mvg0r8fjmgqv8v7pj7rxw8-cargo-package-icy_sixel-0.5.0
+URL: nar/17s5dpj0br5938b3zlfyzyxf9dc647ina9h7jvkmds40wdnps9da.nar.xz
+Compression: xz
+FileHash: sha256:17s5dpj0br5938b3zlfyzyxf9dc647ina9h7jvkmds40wdnps9da
+FileSize: 3600600
+NarHash: sha256:021i9p3w7r6qlz4l9jqbvkd88c1szabk6k4fq3sm4f4ws1ns9f7r
+NarSize: 6041728
+References: 
+Sig: grigio-jcode:D593h0UvixHgAtSIZAH4EQ7RFAiN4Ab0TvqUFDtx5bSWCsey7RSgojpYvXgj0D4ortN3O+KcmgAush2gStwjCw==

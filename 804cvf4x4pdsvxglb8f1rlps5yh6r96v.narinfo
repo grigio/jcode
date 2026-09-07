@@ -1,0 +1,9 @@
+StorePath: /nix/store/804cvf4x4pdsvxglb8f1rlps5yh6r96v-cargo-package-monostate-impl-0.1.18
+URL: nar/1lkgnnxhqn5927pj9gp89llqb6m2xh5wn87apapxr27hjh5gpqwk.nar.xz
+Compression: xz
+FileHash: sha256:1lkgnnxhqn5927pj9gp89llqb6m2xh5wn87apapxr27hjh5gpqwk
+FileSize: 7428
+NarHash: sha256:189q3242jkhd4k8jhaj4p7pqykpx74q4lraqh8b5vimn26mmkmp1
+NarSize: 23560
+References: 
+Sig: grigio-jcode:pkyFrRgwuWITMKUlsUSxaIqj1IEgktZsEMCInyyeoDa9K5jTPgg6fVwCHIVoCGou7rXl2mT0i/BWBGZ8QovwBQ==

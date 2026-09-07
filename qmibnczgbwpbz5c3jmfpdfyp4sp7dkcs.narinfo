@@ -1,0 +1,9 @@
+StorePath: /nix/store/qmibnczgbwpbz5c3jmfpdfyp4sp7dkcs-cargo-package-unicode-bidi-0.3.18
+URL: nar/1h39kkz0ak44zn1xdkrhwmw3pg0hlcnsfbq5jr55cxk0fpsy5kr9.nar.xz
+Compression: xz
+FileHash: sha256:1h39kkz0ak44zn1xdkrhwmw3pg0hlcnsfbq5jr55cxk0fpsy5kr9
+FileSize: 43668
+NarHash: sha256:0c3m90ggs8sff8zcgiyayk2mshaybnsn6q5jd6zvlbyc0hs0841n
+NarSize: 271328
+References: 
+Sig: grigio-jcode:KNsq82OIWgEKSahhUy7qbyQyQ2iGWdAGMDwr/V/x+V6WbtJJJpNsJ3SrqdkkCaMQCHe4nwelpxvrVKcUj9hKCQ==

@@ -1,0 +1,9 @@
+StorePath: /nix/store/ln6b5n9q7djiwgkd4j7xj7pkwpj9mg8s-cargo-package-micromap-0.3.0
+URL: nar/13if0rbchkvyzccvjahalw0dw36p6jmgb6cdy1h17pidbj72q8hs.nar.xz
+Compression: xz
+FileHash: sha256:13if0rbchkvyzccvjahalw0dw36p6jmgb6cdy1h17pidbj72q8hs
+FileSize: 47980
+NarHash: sha256:0nsd1c3100kam422vrkzhal7ifpzbhh1290j535kilvh9crndrs5
+NarSize: 301208
+References: 
+Sig: grigio-jcode:yjmCR5oNjQWGwc1pSS0xoL5InC+OAhab279ekUr4/Ach8rwoJvN0kQTjz8vPn6VAU/iX4GZkr+BrgOCTGnmUAQ==

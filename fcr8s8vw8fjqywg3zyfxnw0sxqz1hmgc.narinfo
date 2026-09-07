@@ -1,0 +1,9 @@
+StorePath: /nix/store/fcr8s8vw8fjqywg3zyfxnw0sxqz1hmgc-cargo-package-once_cell_polyfill-1.70.2
+URL: nar/0ry7jlg5x0r0yiff1bs6lwwmwi25jq37cd1frmnhc4lc01kv0rl7.nar.xz
+Compression: xz
+FileHash: sha256:0ry7jlg5x0r0yiff1bs6lwwmwi25jq37cd1frmnhc4lc01kv0rl7
+FileSize: 7036
+NarHash: sha256:1fxfhnfi27h252sl339fgirc0x1ln6llxpnjznmsdr37ywcg9y5i
+NarSize: 24432
+References: 
+Sig: grigio-jcode:JXjVUe+6D2kMxBM69EZSux+jLomOjTfrqjMR311AwLFClGJ1cquwExh/LSJ4YyNjM7A0tuY+iVal58jPY72rAg==

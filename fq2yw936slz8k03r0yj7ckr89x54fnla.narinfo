@@ -1,0 +1,9 @@
+StorePath: /nix/store/fq2yw936slz8k03r0yj7ckr89x54fnla-cargo-package-num-rational-0.4.2
+URL: nar/0vkh0lc6wycfq9q689lvvpbp1y2km51il6kjz4l3dblqfwls9d94.nar.xz
+Compression: xz
+FileHash: sha256:0vkh0lc6wycfq9q689lvvpbp1y2km51il6kjz4l3dblqfwls9d94
+FileSize: 24920
+NarHash: sha256:0njn4r9iqqcqncndy46d0j5kw3k8gl9733j3az2ky7fwh2j276aj
+NarSize: 134272
+References: 
+Sig: grigio-jcode:Z3LyLI8C7Wyx+VPmKETnqpUcu3IXoDXFXPTDJkuCm9d1TLf1qrrn4oTglghUVi3JNCvLZ9YKdTFYciCFaVFBAQ==

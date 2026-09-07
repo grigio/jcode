@@ -1,0 +1,9 @@
+StorePath: /nix/store/3lyhbl3nil05vnn505skyzs1sqygnd19-cargo-package-vsimd-0.8.0
+URL: nar/10277bb985aa4r6361a96pxkm2w3ph6skjhg0llykni9asr5rzvb.nar.xz
+Compression: xz
+FileHash: sha256:10277bb985aa4r6361a96pxkm2w3ph6skjhg0llykni9asr5rzvb
+FileSize: 18208
+NarHash: sha256:0w0sq7kkrr2hpfa34qvnal3y68hfvl31vpljfxiywpxpy7mha76j
+NarSize: 176552
+References: 
+Sig: grigio-jcode:SHX6pm1THH3nMUWfvav4Fa9edrOj9T9bvoxzq1shusbQI/hWH3vsHqYV7vC6RkvjfvKoMsBPpWKdMaSo9QqqBQ==

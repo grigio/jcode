@@ -1,0 +1,9 @@
+StorePath: /nix/store/b2sqkncl11ljpic57jz6ar0nlih3lskh-cargo-package-phf-0.11.3
+URL: nar/05hy8g0z5i3865z8qr84walv9sfaik4cn70xwzzyyy36wgc4ajjc.nar.xz
+Compression: xz
+FileHash: sha256:05hy8g0z5i3865z8qr84walv9sfaik4cn70xwzzyyy36wgc4ajjc
+FileSize: 20204
+NarHash: sha256:1kiapamc8hj0yvgv7kj9sa6f4fw3q2cilqm8hs964k80zwqwmdr7
+NarSize: 89592
+References: 
+Sig: grigio-jcode:Z3TuKvY8zFBHjxVNmppQylewQCRnomgAIo9Sj9W5vvoALj3uF5VliEDWEzIxFkiedAbbYGL+BuAUCjgn+io4Cw==

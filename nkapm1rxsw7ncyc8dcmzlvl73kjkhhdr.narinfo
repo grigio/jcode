@@ -1,0 +1,9 @@
+StorePath: /nix/store/nkapm1rxsw7ncyc8dcmzlvl73kjkhhdr-cargo-package-wit-parser-0.244.0
+URL: nar/020kqx7zf5np8p2zgi4jlanmq7hrzj8g7rhw44xy00y9h8yr2yq0.nar.xz
+Compression: xz
+FileHash: sha256:020kqx7zf5np8p2zgi4jlanmq7hrzj8g7rhw44xy00y9h8yr2yq0
+FileSize: 123964
+NarHash: sha256:1qblsi0hyc274zpgj97m4n0drfrnlxiswl7cify9rp29vw2sd6c3
+NarSize: 971624
+References: 
+Sig: grigio-jcode:FuGHp9nVDCFRo+Jtd/CAbs6EvmVvV7EAdKRYuGXCnclSyKz/1OoctNLMk1s9XrZ5Ubg6bG5C64yRjYU9k6WmBQ==

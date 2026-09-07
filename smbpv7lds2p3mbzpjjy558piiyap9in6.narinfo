@@ -1,0 +1,9 @@
+StorePath: /nix/store/smbpv7lds2p3mbzpjjy558piiyap9in6-cargo-package-strength_reduce-0.2.4
+URL: nar/1wrfj40w63q39x6k6793lrwd0d0054vwblwzqyprla0b93bj4hh7.nar.xz
+Compression: xz
+FileHash: sha256:1wrfj40w63q39x6k6793lrwd0d0054vwblwzqyprla0b93bj4hh7
+FileSize: 16216
+NarHash: sha256:0xkhvpzgv9z816mks29fpcrjcn9y21xfmmp7b6apb8ppjy01h4qb
+NarSize: 83920
+References: 
+Sig: grigio-jcode:w3yMEG6GFcw+jhbye/twA52yQs1ogZR5oqMmIpTdpB3BOyxo/rVfB/sfijEZXdZLUpfocnV/fUjW/RY91E/rBg==

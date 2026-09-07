@@ -1,0 +1,9 @@
+StorePath: /nix/store/n307b632idgxygjzbg4i5f65g8l4sxvm-cargo-package-strum_macros-0.27.2
+URL: nar/0ar40xrkq27k7awbgzl47d97ml1gspn2prdjd37194hz29fz8s82.nar.xz
+Compression: xz
+FileHash: sha256:0ar40xrkq27k7awbgzl47d97ml1gspn2prdjd37194hz29fz8s82
+FileSize: 26896
+NarHash: sha256:17s0fjnmm4iklg3lq811k9lxhvd1xfrd5bnpi2pyx1r5c25k6ndw
+NarSize: 154928
+References: 
+Sig: grigio-jcode:/liiyffNceutWGUdk28L5HW4KofRygogFeakxuL6v11C2qu+GaekUm6fYtm4xPkuiXoTG95+TsN5Xo2X6O4VAg==

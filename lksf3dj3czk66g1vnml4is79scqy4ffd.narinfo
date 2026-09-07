@@ -1,0 +1,9 @@
+StorePath: /nix/store/lksf3dj3czk66g1vnml4is79scqy4ffd-cargo-package-fraction-0.15.4
+URL: nar/0h6f0s80n9y3rylf5gzx6kjvxs0xlr5azyd7wcn916la74pg1kb5.nar.xz
+Compression: xz
+FileHash: sha256:0h6f0s80n9y3rylf5gzx6kjvxs0xlr5azyd7wcn916la74pg1kb5
+FileSize: 84292
+NarHash: sha256:1rdiz3qj1bzk7mp4irmc3f21v36j0fd6l2za5dn4pp6av2ng7yv7
+NarSize: 733104
+References: 
+Sig: grigio-jcode:QY3dNEB8foEhkbswzZ3ajHD4RgMZhedBtfiJ9vV0DPwVNbSt9ZNuamSjTwQQBLwAtOeGtfnaa6o3vvLPeJLBDw==

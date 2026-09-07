@@ -1,0 +1,9 @@
+StorePath: /nix/store/5113qanpfyqfc37f11c7hpjqbm8cjs8n-cargo-package-paste-1.0.15
+URL: nar/15pkmb1q3akycxarx3y2nxb32hw5nqp2g2jxqbpjd7gidmkg03dx.nar.xz
+Compression: xz
+FileHash: sha256:15pkmb1q3akycxarx3y2nxb32hw5nqp2g2jxqbpjd7gidmkg03dx
+FileSize: 16700
+NarHash: sha256:04xv6wda6k5px601g0gp0966jm0lgbvckijx8fppkva0w8kpbfdv
+NarSize: 80160
+References: 
+Sig: grigio-jcode:Tw5olE4N+lqGdnw8hq/hZ+gQV+HfpE1d/hRQqp4nSBKF1Y3gbzZ23Zrv9qYKk/xDehwx/8LAVRm8iXmtPRpfAA==

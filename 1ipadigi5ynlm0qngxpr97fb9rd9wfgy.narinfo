@@ -1,0 +1,9 @@
+StorePath: /nix/store/1ipadigi5ynlm0qngxpr97fb9rd9wfgy-cargo-package-downcast-rs-2.0.2
+URL: nar/0mn8pn317x7s5g9g6b73yw1qsdg2xvcg2ygna80wh3wjw3vi2d8i.nar.xz
+Compression: xz
+FileHash: sha256:0mn8pn317x7s5g9g6b73yw1qsdg2xvcg2ygna80wh3wjw3vi2d8i
+FileSize: 11756
+NarHash: sha256:0m9z3yfbz1g8kyva977chm6jfyl6yb55k4r3fxw6pz8srmxxbdyf
+NarSize: 57552
+References: 
+Sig: grigio-jcode:VTPIlHvC/fmEyynhaIyzdxaxrUM1i7Nj3mEdnx1Pn69Jd5CwWPjwKaDhPjMUik8tgnOX3VoJkTZCJA0luIETDQ==

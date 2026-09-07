@@ -1,0 +1,9 @@
+StorePath: /nix/store/p3z4nllsvpxdxfy2vkbgymklzccjx508-cargo-package-xmlwriter-0.1.0
+URL: nar/0qs3mgswfkssidwbfaa0k12vdl8q23i8sg8rk3n2a1qpqzickr26.nar.xz
+Compression: xz
+FileHash: sha256:0qs3mgswfkssidwbfaa0k12vdl8q23i8sg8rk3n2a1qpqzickr26
+FileSize: 5972
+NarHash: sha256:1zzvs3zxj57pf32sgldcmm9k15pvhgqwlj845n780jh64af6904s
+NarSize: 32192
+References: 
+Sig: grigio-jcode:cJGoSPZs2ZRZdDGvYKjEd7zel47PDULbDTXbtQp5f8sq6KBqZfe+CyGPe63h9aNvK6t7DDyicXme7+zk6vGMBg==

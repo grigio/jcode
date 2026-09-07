@@ -1,0 +1,9 @@
+StorePath: /nix/store/9c5448fb48dql9lrvc97hffn98yim07b-cargo-package-wit-component-0.244.0
+URL: nar/11m59rqd5vx5vfyz2np0mk4lpl5x4kbv7g8fabv1gh9l9034i1m2.nar.xz
+Compression: xz
+FileHash: sha256:11m59rqd5vx5vfyz2np0mk4lpl5x4kbv7g8fabv1gh9l9034i1m2
+FileSize: 185288
+NarHash: sha256:0rvm8hqnmqlbvj8iprxv4acsgzy4njxc93rn9jbmyfdccwli4664
+NarSize: 1719696
+References: 
+Sig: grigio-jcode:V7fBL1JEpSV15jCURHZIjrZ2L2Chk5oIU2lzt0Li0VpId4YXerufeylenNCegFRrudTLReGfLdyY2oGSv1LfAQ==

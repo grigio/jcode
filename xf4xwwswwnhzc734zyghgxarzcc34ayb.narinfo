@@ -1,0 +1,9 @@
+StorePath: /nix/store/xf4xwwswwnhzc734zyghgxarzcc34ayb-cargo-package-windows-strings-0.1.0
+URL: nar/10gn2vv8c24yzhnrfyj654i17br98jzvwf1y8bqvg6da3is8vnq1.nar.xz
+Compression: xz
+FileHash: sha256:10gn2vv8c24yzhnrfyj654i17br98jzvwf1y8bqvg6da3is8vnq1
+FileSize: 12828
+NarHash: sha256:1hy55y5fb8ypr1x0s15bbq0mzl2swrh2cp4k18p2rnkn3946c8im
+NarSize: 58544
+References: 
+Sig: grigio-jcode:zKqBr/grsqeH9BOoJbPLaFs7dQEpnGU0G2I6bXum5fd5QFSMfpD2MWl2CDvvrJyezXs0isCBch2ulTxCpfsADw==

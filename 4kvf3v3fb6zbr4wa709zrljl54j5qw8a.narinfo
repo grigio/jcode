@@ -1,0 +1,9 @@
+StorePath: /nix/store/4kvf3v3fb6zbr4wa709zrljl54j5qw8a-cargo-package-xterm-color-1.0.2
+URL: nar/0c8p5p81xxrzbd18zwy1583jfkpx1jsvsv313z6b7v78z564cnfp.nar.xz
+Compression: xz
+FileHash: sha256:0c8p5p81xxrzbd18zwy1583jfkpx1jsvsv313z6b7v78z564cnfp
+FileSize: 8788
+NarHash: sha256:00jdqhbd8c480a5k1kwp9scz156zjs51wwd6qd8bxcf40w0ny8b3
+NarSize: 30120
+References: 
+Sig: grigio-jcode:HX1+Pmh14Se9Vuswf6+sswWYxtxqUogKIil1fwhSbqJ4L6pu25KQjTGhT4bOh9QZ9su195zYC6px0/IIE3zgAQ==

@@ -1,0 +1,9 @@
+StorePath: /nix/store/m2vj4am02b66ifkrlrk0aficsdvfqgrk-cargo-package-unsafe-libyaml-0.2.11
+URL: nar/197rl47fb4ifgrhqmcwpncsfi7vsl3lm6qin4qqyp29wjzh473pj.nar.xz
+Compression: xz
+FileHash: sha256:197rl47fb4ifgrhqmcwpncsfi7vsl3lm6qin4qqyp29wjzh473pj
+FileSize: 49000
+NarHash: sha256:0lki8ahgiyip30qz6903wkmflr8cm7xdr9lizv9291yph9y21lpl
+NarSize: 468336
+References: 
+Sig: grigio-jcode:kYPnOpZ60Ted06Vk8zWXySmidPZdVxB/hP4GqzwsWIfL3WRoePs0rUTHCasuEIJwIOFQQPd/hNMhKqrPYJsYCg==

@@ -1,0 +1,9 @@
+StorePath: /nix/store/aic6cbp7zb5z74qp3rh07zr3zx3pda4g-cargo-package-android_system_properties-0.1.5
+URL: nar/0c9b95amxg1b7pka6kfxgzppq26qgc0yv2628i5llm1vylk1b3cg.nar.xz
+Compression: xz
+FileHash: sha256:0c9b95amxg1b7pka6kfxgzppq26qgc0yv2628i5llm1vylk1b3cg
+FileSize: 5048
+NarHash: sha256:1qvqvgbldpja5q3594m1h7inpkvfyi6k1pi8nawdn6qzaha0h0zh
+NarSize: 17160
+References: 
+Sig: grigio-jcode:tsVuZtRK5ttllRN6GpUQf6YmRwMdmZx5zlFkAugA7OcWcyzcCtho9Kym8Z15Nxpxkh7ki4oCCDJ1RF5xxb88AA==

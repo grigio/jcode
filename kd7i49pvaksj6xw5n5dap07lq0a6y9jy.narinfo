@@ -1,0 +1,9 @@
+StorePath: /nix/store/kd7i49pvaksj6xw5n5dap07lq0a6y9jy-cargo-package-ratatui-macros-0.7.0
+URL: nar/0b7xzkjmrsrgcviqas50z184vnjpz73zn5zbp8p52fcxlkc1gnj5.nar.xz
+Compression: xz
+FileHash: sha256:0b7xzkjmrsrgcviqas50z184vnjpz73zn5zbp8p52fcxlkc1gnj5
+FileSize: 14536
+NarHash: sha256:1dvzy12z1liqfdqr98ryv1dk74wzs8pk4swkmbp1a0psbqz2cbl5
+NarSize: 73512
+References: 
+Sig: grigio-jcode:lkaGtvS4+XwU1HUj8FNRwdMfmI/G9zvWsCHc1VwhS6vt851Aej4ZQev2h05oGVlLIzJ2Uka6fmcxGPdO+Mz+Bw==

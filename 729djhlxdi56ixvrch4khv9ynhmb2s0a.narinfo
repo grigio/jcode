@@ -1,0 +1,9 @@
+StorePath: /nix/store/729djhlxdi56ixvrch4khv9ynhmb2s0a-cargo-package-redox_users-0.4.6
+URL: nar/192vn9idd65s7kvj7l61l6j5j6x8d8bnvg9y4x823klcg1zjswb5.nar.xz
+Compression: xz
+FileHash: sha256:192vn9idd65s7kvj7l61l6j5j6x8d8bnvg9y4x823klcg1zjswb5
+FileSize: 14436
+NarHash: sha256:028wmlp2piqwv6blsb8bh43q90gl4dfgdpf9kczpspjimk279w07
+NarSize: 62480
+References: 
+Sig: grigio-jcode:qFoZ1Byo8csVtEwz+7UFe4KCA6OtstnQa2pmiLdpIXnTRHkiAXeP1bVVSK6uYgNYI4UlnngGdjWD2UvBNkrjAQ==

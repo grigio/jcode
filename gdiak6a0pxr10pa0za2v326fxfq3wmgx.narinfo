@@ -1,0 +1,9 @@
+StorePath: /nix/store/gdiak6a0pxr10pa0za2v326fxfq3wmgx-cargo-package-hmac-0.13.0
+URL: nar/0lnigv28wxy9x1cmlilxwb0f688y9bvkqaazhdk9s99n66nl8mc5.nar.xz
+Compression: xz
+FileHash: sha256:0lnigv28wxy9x1cmlilxwb0f688y9bvkqaazhdk9s99n66nl8mc5
+FileSize: 42768
+NarHash: sha256:03i03xah32fzqrpkydgmcjygx8qkyffj7d1091jlxr0g1i9swg0r
+NarSize: 83456
+References: 
+Sig: grigio-jcode:6m7jSUIJ1Ho4qPiU8lIdO32WeRFolmA4swR4539OcpeU7nxmHOzsFrCUJy+UcZ6UAnCoHG7j+qikEeeY2CJyBg==

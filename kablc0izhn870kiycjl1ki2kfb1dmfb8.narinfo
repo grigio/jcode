@@ -1,0 +1,9 @@
+StorePath: /nix/store/kablc0izhn870kiycjl1ki2kfb1dmfb8-cargo-package-zune-core-0.5.1
+URL: nar/0yjvkfd0bmla8y8b5180wf8pbmmjdyj8hlrc5c31j7xcf3vrgam4.nar.xz
+Compression: xz
+FileHash: sha256:0yjvkfd0bmla8y8b5180wf8pbmmjdyj8hlrc5c31j7xcf3vrgam4
+FileSize: 24892
+NarHash: sha256:194v709717k7k5pbkgk669fnfgzkrx1jfvd3wi0p63n6avcc81l4
+NarSize: 118312
+References: 
+Sig: grigio-jcode:7c0LWDbpypCZ9pF5/B6Zb/U9mOvFPasD3hoYstbm2+rjXvAu2e5xWO8p82bYjmAJsdjFbY+rI62+tcDkiZ23AQ==

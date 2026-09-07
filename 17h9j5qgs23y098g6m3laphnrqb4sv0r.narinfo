@@ -1,0 +1,9 @@
+StorePath: /nix/store/17h9j5qgs23y098g6m3laphnrqb4sv0r-cargo-package-objc2-cloud-kit-0.3.2
+URL: nar/1xl35y6xxkvy0ih7gqql83whplzfc3w551spp8j1nfjx9x095jw4.nar.xz
+Compression: xz
+FileHash: sha256:1xl35y6xxkvy0ih7gqql83whplzfc3w551spp8j1nfjx9x095jw4
+FileSize: 54620
+NarHash: sha256:196a2bfyf1s6y9n1221m66zzh0prwcxp6m1mli5ix773l5i393ij
+NarSize: 582152
+References: 
+Sig: grigio-jcode:HMDN/biF/hyjP5KMojYT66azsxKjFl6ssGNua+H5pt/ienFZv8UfNJZE5uKO238VdzXutoLNvqlL32Y4ObkaDg==

@@ -1,0 +1,9 @@
+StorePath: /nix/store/y3fcjkz2784dvs33dfn4y7qhvw596hay-cargo-package-aws-sdk-sts-1.108.0
+URL: nar/0fr2g27hw7krpsl73hknrn4z65xmh5rnjbl8qzfhhspmlscz4537.nar.xz
+Compression: xz
+FileHash: sha256:0fr2g27hw7krpsl73hknrn4z65xmh5rnjbl8qzfhhspmlscz4537
+FileSize: 99152
+NarHash: sha256:04c7fq9xdagjy947lhpbjvnmq8ckpznbakj5rhwhc3s0syw08lm4
+NarSize: 1568000
+References: 
+Sig: grigio-jcode:ybfIzz9lD+BJ2RamJLCV/XGRK4ZVjWb6QALtoD9H6BzWDWoz6aIKOeQSi/hphs4aVWXBwn7+oJAibYlQ7g0DBw==

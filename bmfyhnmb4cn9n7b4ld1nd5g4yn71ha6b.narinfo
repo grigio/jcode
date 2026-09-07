@@ -1,0 +1,9 @@
+StorePath: /nix/store/bmfyhnmb4cn9n7b4ld1nd5g4yn71ha6b-cargo-package-event-listener-5.4.1
+URL: nar/0klixvymq94jd9v2sl3dn04cq2si78zl8vxj6p9saszy48si5f5y.nar.xz
+Compression: xz
+FileHash: sha256:0klixvymq94jd9v2sl3dn04cq2si78zl8vxj6p9saszy48si5f5y
+FileSize: 37156
+NarHash: sha256:1ffwvhpcrlsi9slp1v1ji133kpixvhyyi0sp3mdz1g6ky7q3da80
+NarSize: 203520
+References: 
+Sig: grigio-jcode:F1KvjjF5OVjOGFhFeoEqIKkeDrhMd0fszmtxuhAluJZIDC4B82oY1NbKl2VJmi20B9pKy4GF77VqGkToj+AWAQ==

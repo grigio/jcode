@@ -1,0 +1,9 @@
+StorePath: /nix/store/cihcmljp74n996544zxvygmk6b6b3isj-cargo-package-scan_fmt-0.2.6
+URL: nar/19p6x9palda6k7m1qkyh7z7wzqwi6kms4yf35v5sh9gp2nbhvyvj.nar.xz
+Compression: xz
+FileHash: sha256:19p6x9palda6k7m1qkyh7z7wzqwi6kms4yf35v5sh9gp2nbhvyvj
+FileSize: 9160
+NarHash: sha256:0ndiqxmj9a31c01y8y187ssj6c9m2js5cc72m37vsywk0w2vh6d5
+NarSize: 35936
+References: 
+Sig: grigio-jcode:8Svd2JysL6YtY+alnvMK0F8IWtoSJQxf4WBNYpS31/Lr2fg/8K6ZFmopqWKWIjfMZE+m6nZIsFx9BXm17umRDg==

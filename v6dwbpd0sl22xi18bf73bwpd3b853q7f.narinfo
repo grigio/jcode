@@ -1,0 +1,9 @@
+StorePath: /nix/store/v6dwbpd0sl22xi18bf73bwpd3b853q7f-cargo-package-agent-client-protocol-schema-0.11.4
+URL: nar/1dr5k0dl8nlqd8j3rmlls0iwhmiybwxrdwz10i1rr18ilrnks0xq.nar.xz
+Compression: xz
+FileHash: sha256:1dr5k0dl8nlqd8j3rmlls0iwhmiybwxrdwz10i1rr18ilrnks0xq
+FileSize: 65816
+NarHash: sha256:0952zdirp7r7a8w4prpdd6wfvdbgr5pdbq6kxmy3jmdzbmw885lw
+NarSize: 625504
+References: 
+Sig: grigio-jcode:yaE72525CAaH53ymER5L5GzZiIbECdQ/Dc7kZqVC8K7L0sH22bTLraT2ugsDIyDHLr8ZXtflxs7iYdcudOHHDA==

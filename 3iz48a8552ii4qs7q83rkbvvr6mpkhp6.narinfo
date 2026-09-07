@@ -1,0 +1,9 @@
+StorePath: /nix/store/3iz48a8552ii4qs7q83rkbvvr6mpkhp6-cargo-package-proc-macro2-diagnostics-0.10.1
+URL: nar/06sdn2k41c9cp5as9iqvnvhskgc684ri22hx82v5pqqk4w83zq2b.nar.xz
+Compression: xz
+FileHash: sha256:06sdn2k41c9cp5as9iqvnvhskgc684ri22hx82v5pqqk4w83zq2b
+FileSize: 11364
+NarHash: sha256:0vyrccmi2yfaxli2clbxidxbkjbcwwp93fl102qhmj4ylna9zz35
+NarSize: 47680
+References: 
+Sig: grigio-jcode:yfcbVQWVfsHKhAJ/g8poBVpzLKaoImW3IPAR4WNWR8gYsDtYTViIuYY2Zfm7iV2dltvP6Hkiw9rLcSotQ4HLAQ==

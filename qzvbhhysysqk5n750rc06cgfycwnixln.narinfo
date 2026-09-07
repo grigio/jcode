@@ -1,0 +1,9 @@
+StorePath: /nix/store/qzvbhhysysqk5n750rc06cgfycwnixln-cargo-package-rfc6979-0.4.0
+URL: nar/08mrkls9sdpfifpcsmrwqrv7hv5h7p6j0mgd815gnbbwj1xgxjpz.nar.xz
+Compression: xz
+FileHash: sha256:08mrkls9sdpfifpcsmrwqrv7hv5h7p6j0mgd815gnbbwj1xgxjpz
+FileSize: 8624
+NarHash: sha256:1g7ymxw372rqfllgdqmifmd6d8h8yfx9pcxd3ajyn7gsx3g05m42
+NarSize: 27808
+References: 
+Sig: grigio-jcode:q2aJVs+G6BIHkPegoJiIb2FaPGTEuE7+eu7mw/WhFdBe0vfvHzoqEjRaIKe7rpWIlzx021t9TC+STyZzUpybAw==

@@ -1,0 +1,9 @@
+StorePath: /nix/store/78x9i5x1wpqw4kq0h39b8f35abcv156h-zlib-1.3.2
+URL: nar/0nvdjkr0bbnrhhk36jf3m7245xsk826rav3svn70wi18wv6vyi59.nar.xz
+Compression: xz
+FileHash: sha256:0nvdjkr0bbnrhhk36jf3m7245xsk826rav3svn70wi18wv6vyi59
+FileSize: 59004
+NarHash: sha256:19iapikzp4kc1ddmp2rv9m5dzfz2v127456aqqg2vk6f3hmcc4b9
+NarSize: 132608
+References: l8si8gnvvq93yzms1jsgh5aixyf9rl5x-glibc-2.42-67
+Sig: grigio-jcode:sc3J/t+3kDa3QjMI0X9ZsDu8ci8CXco44omKcYbWqamytNlvPROe99sYQckid7pwrKiaOJH4WTPWoOAit2w/BQ==

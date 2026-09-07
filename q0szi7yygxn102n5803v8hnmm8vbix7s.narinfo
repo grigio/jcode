@@ -1,0 +1,9 @@
+StorePath: /nix/store/q0szi7yygxn102n5803v8hnmm8vbix7s-cargo-package-iana-time-zone-0.1.64
+URL: nar/02i2jk6ly2lc42ha1rvi50pjblpjlayprab0fgdwgi3vp5n7i2qc.nar.xz
+Compression: xz
+FileHash: sha256:02i2jk6ly2lc42ha1rvi50pjblpjlayprab0fgdwgi3vp5n7i2qc
+FileSize: 28636
+NarHash: sha256:03d8ybipwcny9vbdkaqjl1b8wkx7g8zkrb8ykaxzl8vn037xbwf8
+NarSize: 184736
+References: 
+Sig: grigio-jcode:mqtInGyjMfS/kZyuDmllrFbTfPIGI00ZYR4HIpbPLDVEolmArr8vKdP4ad+YNNhuUPzWrhkZs9aS7brL3EGJAQ==

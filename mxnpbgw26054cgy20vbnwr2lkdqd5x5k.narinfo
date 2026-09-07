@@ -1,0 +1,9 @@
+StorePath: /nix/store/mxnpbgw26054cgy20vbnwr2lkdqd5x5k-libffi-3.7.0
+URL: nar/1ydb5maisygff6dxbck7vzmm0ln2gphhkq8m5xw7k96qjnwxjl70.nar.xz
+Compression: xz
+FileHash: sha256:1ydb5maisygff6dxbck7vzmm0ln2gphhkq8m5xw7k96qjnwxjl70
+FileSize: 29292
+NarHash: sha256:0yp8xswmxdgqqjzq5jng74fxlg3c6rm3v78kky9bxizmya9x3l9v
+NarSize: 95704
+References: l8si8gnvvq93yzms1jsgh5aixyf9rl5x-glibc-2.42-67 mxnpbgw26054cgy20vbnwr2lkdqd5x5k-libffi-3.7.0
+Sig: grigio-jcode:uISTIRBYobbZN+9zNcz3CWWjj+9rhgULx798pj2cMGA6BxOYJ8IBGeOMeKSqNNwq9AKIdv8XW9O/TsqfcbSNBA==

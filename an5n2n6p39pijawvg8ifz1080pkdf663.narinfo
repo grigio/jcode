@@ -1,0 +1,9 @@
+StorePath: /nix/store/an5n2n6p39pijawvg8ifz1080pkdf663-cargo-package-logos-codegen-0.16.1
+URL: nar/1mch98zgshf5v3b3yskg4yf8sdvd5776rqkyh20dalig7jqlbdk8.nar.xz
+Compression: xz
+FileHash: sha256:1mch98zgshf5v3b3yskg4yf8sdvd5776rqkyh20dalig7jqlbdk8
+FileSize: 42352
+NarHash: sha256:12rk5sgfbgnxd2ygvkxggi50zn0sp2jqkz0h8vclqk4q24rc3mfl
+NarSize: 314448
+References: 
+Sig: grigio-jcode:9vOEV6qS6k6ZcmjR6JQZHX5LC0rU4KYqA0A2kF+sS1cCiTHkBq3LNfir9UHeBLzZoZfppi45skrMo11z4EymBA==

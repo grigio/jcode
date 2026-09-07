@@ -1,0 +1,9 @@
+StorePath: /nix/store/qfxkzi0fklakn6dbnkydvbnbsfld7gs8-cargo-package-simplecss-0.2.2
+URL: nar/1azly3bbs7lc92z424fgkhvzxxmf4yrk1nrbmxg45b48kbsmwvky.nar.xz
+Compression: xz
+FileHash: sha256:1azly3bbs7lc92z424fgkhvzxxmf4yrk1nrbmxg45b48kbsmwvky
+FileSize: 20004
+NarHash: sha256:1jmvginqinqkzlzxr7wj786qljr4qxrxsy84jqmc9zrvsq40csns
+NarSize: 103248
+References: 
+Sig: grigio-jcode:2BEBbdc6NRuLT5IPCEMKpLsXxhiZQXwuxlPbEvkokWRF735ybtULPnNYJRXyv+11zwfQXjTiZqZn7ffQw3+cCA==

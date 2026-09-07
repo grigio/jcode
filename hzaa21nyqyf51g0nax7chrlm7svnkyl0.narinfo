@@ -1,0 +1,9 @@
+StorePath: /nix/store/hzaa21nyqyf51g0nax7chrlm7svnkyl0-cargo-package-x11rb-protocol-0.13.2
+URL: nar/0nj5pqilqln37cxbhbsyignmi3s3zz4qmkbdd15axlb5vxyxfglv.nar.xz
+Compression: xz
+FileHash: sha256:0nj5pqilqln37cxbhbsyignmi3s3zz4qmkbdd15axlb5vxyxfglv
+FileSize: 337212
+NarHash: sha256:0nb0h9rb9vbym6dgs3zaap5dfhadqnxldnlh043frsfipi2fn9zp
+NarSize: 5719272
+References: 
+Sig: grigio-jcode:JKj9MZj70R6XIUGqUYDNy6Jw7j/5PyV4nUffaIksYhY/X4ncZZmIdilrU4+AFQXg6lwh5el1hAGTKMyUUjwvDw==

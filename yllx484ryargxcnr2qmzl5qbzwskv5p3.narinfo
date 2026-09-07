@@ -1,0 +1,9 @@
+StorePath: /nix/store/yllx484ryargxcnr2qmzl5qbzwskv5p3-cargo-package-convert_case-0.10.0
+URL: nar/06hzqzjyjbmaigvbnf4ncvisjp6akyh1z0f41kbv24lpwdyfg6rx.nar.xz
+Compression: xz
+FileHash: sha256:06hzqzjyjbmaigvbnf4ncvisjp6akyh1z0f41kbv24lpwdyfg6rx
+FileSize: 21632
+NarHash: sha256:1ifcm1lzfv8bvk6fgd3wlggs5c8l37awwacda1dw1sx248kqgy98
+NarSize: 102496
+References: 
+Sig: grigio-jcode:SPnnMEDeivQoJSAHclb+TKMQ96wmg5BF/X8ha2J2oSg7If91PajiX+pAHzeC0Mm5KBC9Z7sULUr/CD0zk6cPCw==

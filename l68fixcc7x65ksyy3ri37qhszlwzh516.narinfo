@@ -1,0 +1,9 @@
+StorePath: /nix/store/l68fixcc7x65ksyy3ri37qhszlwzh516-cargo-package-rangemap-1.7.1
+URL: nar/1h20795azjvl06vhmkkn7yiabdkq6861vwwsnm3wrj3b8lg556xa.nar.xz
+Compression: xz
+FileHash: sha256:1h20795azjvl06vhmkkn7yiabdkq6861vwwsnm3wrj3b8lg556xa
+FileSize: 37728
+NarHash: sha256:1ay3s7ga5a7v4fnzssrph201blhjhb08rbq5h445d9zdx68n1m85
+NarSize: 277288
+References: 
+Sig: grigio-jcode:uN/AfPYgz+ms2YPR71DfSQUD6iskBG4G9v8T7UBModIqjDcY3efG5con7hNmT2xPrXUwEPw/Nkt3O1fG/siUDQ==

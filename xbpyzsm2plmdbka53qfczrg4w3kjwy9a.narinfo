@@ -1,0 +1,9 @@
+StorePath: /nix/store/xbpyzsm2plmdbka53qfczrg4w3kjwy9a-cargo-package-wit-bindgen-0.51.0
+URL: nar/078f5dcz0fk8acdgqwk6yi67xim53cydzjxx80pr8ryha58zbw68.nar.xz
+Compression: xz
+FileHash: sha256:078f5dcz0fk8acdgqwk6yi67xim53cydzjxx80pr8ryha58zbw68
+FileSize: 58004
+NarHash: sha256:0753m4gpdzzfl040lxc1vqs55ba6flamgvsnj5xlb09fm0k27mdk
+NarSize: 281440
+References: 
+Sig: grigio-jcode:t54o20yRgwPqH3lt+N3t1b+9+KukfVOuHfK47IhxE8yOSpas/+Kz4upztZqHdXUv5N4O+gTirWhMDMhQVr1+Dw==

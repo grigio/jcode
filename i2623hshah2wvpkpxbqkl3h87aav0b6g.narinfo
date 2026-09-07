@@ -1,0 +1,9 @@
+StorePath: /nix/store/i2623hshah2wvpkpxbqkl3h87aav0b6g-cargo-package-tokio-util-0.7.18
+URL: nar/0hhgqz8nds52yyz829k8g9hqbgpbrdmljcdm0z58aa3ajg6ab920.nar.xz
+Compression: xz
+FileHash: sha256:0hhgqz8nds52yyz829k8g9hqbgpbrdmljcdm0z58aa3ajg6ab920
+FileSize: 112156
+NarHash: sha256:0ry4sw89xkvs2pph1aphcl79bdqbhifwyhx55xmijp3hnv6j7wd8
+NarSize: 708984
+References: 
+Sig: grigio-jcode:T3d1rRNJpSsMFZjRQ+TiuL4PFF8P9um15qOWCeGjysXQPZZqOn4WHMRHFnixqWbRfMbuvvApd4vIipv31ZEJBg==

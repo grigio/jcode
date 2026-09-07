@@ -1,0 +1,9 @@
+StorePath: /nix/store/94r0v3nwpz4qhw1zcxnpvbbd263s59vb-cargo-package-bit-vec-0.9.1
+URL: nar/19zf82syi6ja6d7psng03fa8fyjbz4ab736gsxi73s4xgxnmfmff.nar.xz
+Compression: xz
+FileHash: sha256:19zf82syi6ja6d7psng03fa8fyjbz4ab736gsxi73s4xgxnmfmff
+FileSize: 26012
+NarHash: sha256:18dfsqh8lfv85g9ch75k7piag6djvvsrn4cycq6n4ccj43fy3k62
+NarSize: 149600
+References: 
+Sig: grigio-jcode:bgSlJnvUqLrzlJVm5FSEhONU0tb1ceqqEONVs9wIbi0eKpotHWnZZlESHq+xRMRAJUlekgjmW4Tbt1bnptxvCg==

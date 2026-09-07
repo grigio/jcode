@@ -1,0 +1,9 @@
+StorePath: /nix/store/k1rscfcmcqrkm2mr8g1w8l8sm50vfl06-cargo-package-scopeguard-1.2.0
+URL: nar/1ajg2nh5asxfrcr02b5zsqdg975p76m5qcs3s7ygsxpmgdmjglr2.nar.xz
+Compression: xz
+FileHash: sha256:1ajg2nh5asxfrcr02b5zsqdg975p76m5qcs3s7ygsxpmgdmjglr2
+FileSize: 10952
+NarHash: sha256:1kh2irxyjk3rl4374jxjjs6g7iw73krn0ajs2f32cp925srcanqs
+NarSize: 38760
+References: 
+Sig: grigio-jcode:RXgE+x4d9LGu7fBLLTDzVFY+WjLgrC0pV7fiIthuW8vIkEX2TEu8RONY5OhPrKsUOk+n5+hc4YILabewfvtlCg==

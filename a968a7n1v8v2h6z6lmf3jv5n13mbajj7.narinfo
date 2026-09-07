@@ -1,0 +1,9 @@
+StorePath: /nix/store/a968a7n1v8v2h6z6lmf3jv5n13mbajj7-cargo-package-sha1_smol-1.0.1
+URL: nar/0k6b67cb5l6yqad20asxz661yk24x70k0qvcb5dyzj9acmhss8gn.nar.xz
+Compression: xz
+FileHash: sha256:0k6b67cb5l6yqad20asxz661yk24x70k0qvcb5dyzj9acmhss8gn
+FileSize: 9048
+NarHash: sha256:1d413hwznrzpz8dgszjb2y39gyrgy0gk92z8p0q1l673sldp62zs
+NarSize: 37944
+References: 
+Sig: grigio-jcode:msl/Z6ktHDJSt5BsvJzUSwNaShcMY4IBg2WPx8zR9oY80rKhICUWJ226RyCWjvkPB49o27lCMNMBnJXwxAYDDw==

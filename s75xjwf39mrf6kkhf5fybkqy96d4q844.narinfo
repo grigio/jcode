@@ -1,0 +1,9 @@
+StorePath: /nix/store/s75xjwf39mrf6kkhf5fybkqy96d4q844-cargo-package-cmake-0.1.58
+URL: nar/0adl900fhm2i3jxxh290n86mhrpq2dfgnqpb1p4kchs6phpk2i2j.nar.xz
+Compression: xz
+FileHash: sha256:0adl900fhm2i3jxxh290n86mhrpq2dfgnqpb1p4kchs6phpk2i2j
+FileSize: 18860
+NarHash: sha256:06gm3wnj6zx197prwvwdy3vys54dspxbcn7s0yv7gzh8kf171qh1
+NarSize: 75152
+References: 
+Sig: grigio-jcode:2bg9klD2Tstddld75jMXIQlxy5AcP+pGW05kt4ZpSBiBpYwYSQsZICdQo0Q4/Fe+xvxs2eZtFHSTROZwMDEVBA==

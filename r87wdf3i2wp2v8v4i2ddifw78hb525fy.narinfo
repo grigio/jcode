@@ -1,0 +1,9 @@
+StorePath: /nix/store/r87wdf3i2wp2v8v4i2ddifw78hb525fy-cargo-package-tokio-stream-0.1.18
+URL: nar/0qwbr4bpjsmsbx0wfr73lvj8hss7rci367c5wl4aabl5rpbsk32k.nar.xz
+Compression: xz
+FileHash: sha256:0qwbr4bpjsmsbx0wfr73lvj8hss7rci367c5wl4aabl5rpbsk32k
+FileSize: 37228
+NarHash: sha256:1s48l68dx8knalwvs5zwixhwya7bzy23vcddi1d1kb56mkrg5xc8
+NarSize: 237240
+References: 
+Sig: grigio-jcode:iag58NJoq2bSGs8vwT6jLVmSUN5fC6haO0pS47uGX4vw+A268Q64XDJ8O2oZR+WsAdUgM5i1Cs+vEmbfZ/1tAQ==

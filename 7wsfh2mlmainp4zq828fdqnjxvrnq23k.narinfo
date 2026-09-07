@@ -1,0 +1,9 @@
+StorePath: /nix/store/7wsfh2mlmainp4zq828fdqnjxvrnq23k-cargo-package-terminfo-0.9.0
+URL: nar/046n24dl0fkbp3x64z3sk8asgh4k9vfzk7j9pp7jrvy5ngcf4wh1.nar.xz
+Compression: xz
+FileHash: sha256:046n24dl0fkbp3x64z3sk8asgh4k9vfzk7j9pp7jrvy5ngcf4wh1
+FileSize: 38152
+NarHash: sha256:1iy6bv10dvjxdk8qx9zv0a8scvwj24pxp4hpglgmlbkvkyb7avns
+NarSize: 185120
+References: 
+Sig: grigio-jcode:urbX6qaRHzUfrWu/X0lhB0hUDM5Ud9FLDTnKAVP3kK9RUdFp4gLlRUeUJs1AbPmft3K3q4qEeoGS6vO1pRZCBg==

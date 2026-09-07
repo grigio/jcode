@@ -1,0 +1,9 @@
+StorePath: /nix/store/ghviilvdl09vsa655fg22acs8n5ffrz5-cargo-package-fancy-regex-0.18.0
+URL: nar/165c44snkmqlbirv5wj6a7qlg8s535hlajw4pzx2jp63vxfpnp6v.nar.xz
+Compression: xz
+FileHash: sha256:165c44snkmqlbirv5wj6a7qlg8s535hlajw4pzx2jp63vxfpnp6v
+FileSize: 123744
+NarHash: sha256:16hcwpy1021xb21fnqmvhypc63x291q5sg7wan8fdizrrncn5rlk
+NarSize: 757984
+References: 
+Sig: grigio-jcode:ng8jJ7enSwgNm/0gBR3mJDH8MacW80BDyZ5ICPNR4VFEmhFvN+LobhKChtL4fj4JmqcK0/YWqUQmhGYQotbqCw==

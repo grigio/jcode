@@ -1,0 +1,9 @@
+StorePath: /nix/store/lp110zaadpdw00qfj4hhh3pmaf9nd1s5-cargo-package-async-stream-0.3.6
+URL: nar/1d8ap0d8alm5hdpqi1b0f2cgq762bv1ch1241w9qyrwn7pv36hj0.nar.xz
+Compression: xz
+FileHash: sha256:1d8ap0d8alm5hdpqi1b0f2cgq762bv1ch1241w9qyrwn7pv36hj0
+FileSize: 12344
+NarHash: sha256:1fza72dsmn3my1adcs3r3ljq4l69cl76xhkhiv6pr8x84vv8m4fd
+NarSize: 56720
+References: 
+Sig: grigio-jcode:AWT6EPijgZsK0kkihHEqnO6hI1dHSqTFkpPnZIcUwbXozK5cNBpsns0mHsrrwKdg27WO7iwTQkOY14aJyNApDw==

@@ -1,0 +1,9 @@
+StorePath: /nix/store/gvp5vv5a5w69kg6z94z4yx5px3x1gblq-cargo-package-safetensors-0.8.0
+URL: nar/169rxw4503gmz7ays4bin6fnlnwfsaab12kdmbxr56ajwll9lify.nar.xz
+Compression: xz
+FileHash: sha256:169rxw4503gmz7ays4bin6fnlnwfsaab12kdmbxr56ajwll9lify
+FileSize: 30488
+NarHash: sha256:1rn1314dcwd53s1idkvk8lzlvci35rgmqbj9mba097mkkndapw06
+NarSize: 142032
+References: 
+Sig: grigio-jcode:a8HGDYlfQjO/32vIcPYDBgszU1RHgNASdZjHwyWO1CvyPdQrYM11Ih2mAZJCKfZ6vwNMKVM+/fD0ujzOzSCzCQ==

@@ -1,0 +1,9 @@
+StorePath: /nix/store/r0yidpsrwcxh85a6xwp5xlk680ms0n4w-cargo-package-bstr-1.12.1
+URL: nar/1ym4wiq2ivc2mbg02rikcw2hg539vh4ypdvhbnmc8dpw735j2jqz.nar.xz
+Compression: xz
+FileHash: sha256:1ym4wiq2ivc2mbg02rikcw2hg539vh4ypdvhbnmc8dpw735j2jqz
+FileSize: 225180
+NarHash: sha256:1hs452l1xbg1zl8g58y7qq669j78m8yb4dds2l03jja9rqw9vqpk
+NarSize: 1685384
+References: 
+Sig: grigio-jcode:Hwm+NNHkTkI1G5uPeyGLpMOTH59dlSuSWJJgxnZrq58Pr/t/Z/IRW21Fb1QoIsQO+NA9XPSp9Lj3vcGMMAogDw==

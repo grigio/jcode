@@ -1,0 +1,9 @@
+StorePath: /nix/store/47sb44dhw1az84nraypqn8j8fasbs0ws-cargo-package-onig_sys-69.9.1
+URL: nar/0s5jv7sy79y7v8jgy52zd1cmjly6w8csvbv6bv780d8j4b1wkq92.nar.xz
+Compression: xz
+FileHash: sha256:0s5jv7sy79y7v8jgy52zd1cmjly6w8csvbv6bv780d8j4b1wkq92
+FileSize: 408528
+NarHash: sha256:14bzm9ms48zv5x0ifhx26izainf2rml0wrh2d0gbf27dlz54p5c7
+NarSize: 3440152
+References: 
+Sig: grigio-jcode:+TKQD6UXL44FDykQDYJUiubL+iR/5XmKwuFjgK+9wwktCXkggFsIi/2qp5brTcVJQkoADpDk+19Gf5FEobQjBQ==

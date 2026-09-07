@@ -1,0 +1,9 @@
+StorePath: /nix/store/x5fbmi7cq6h3x5b7pz3mb3nlwpiw4aw6-mpfr-4.2.2
+URL: nar/1p4ap9nifn6l2khvbmn37lix7xk7jk4ncgadvdpj17vr6jkbsyxj.nar.xz
+Compression: xz
+FileHash: sha256:1p4ap9nifn6l2khvbmn37lix7xk7jk4ncgadvdpj17vr6jkbsyxj
+FileSize: 306228
+NarHash: sha256:06lkllc3bhmyh1wc0x29lp4mfm5dbi9rjxbqz79hzm5zi8fzj70k
+NarSize: 822648
+References: 2740ksv6cpz7bflhh28xfg9ifzqdx36m-gmp-6.3.0 l8si8gnvvq93yzms1jsgh5aixyf9rl5x-glibc-2.42-67 x5fbmi7cq6h3x5b7pz3mb3nlwpiw4aw6-mpfr-4.2.2
+Sig: grigio-jcode:bfim0UuqNwRy9Y1o0N/UGnNq94ipwl/RSQGWiipBs31SE2jyIqoLDURlRIKbOEoljJL+YakWUvMzdyqx84+8Cw==

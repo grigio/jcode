@@ -1,0 +1,9 @@
+StorePath: /nix/store/cgqd2k93j2ra2ib1w3hrrir43mahwr5j-cargo-package-imap-3.0.0-alpha.15
+URL: nar/0pf84y2fj78ypw0gm4plm0rl18347rykvhxsy9agq9p0pyr5f0zi.nar.xz
+Compression: xz
+FileHash: sha256:0pf84y2fj78ypw0gm4plm0rl18347rykvhxsy9agq9p0pyr5f0zi
+FileSize: 78540
+NarHash: sha256:0y3id13dgrxhxg43pqr2f5s0dyskb2xxs1141vxsrvamdz586pl6
+NarSize: 438608
+References: 
+Sig: grigio-jcode:vmk6epV6r0Alzk+4Jyne0WqKowsa/Y1yt+lDS+B5xWfykhhE9whvnfL+T0VxllwN2HyNFPwDYZ/1hugILRRyDQ==

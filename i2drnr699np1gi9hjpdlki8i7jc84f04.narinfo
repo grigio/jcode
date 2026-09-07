@@ -1,0 +1,9 @@
+StorePath: /nix/store/i2drnr699np1gi9hjpdlki8i7jc84f04-cargo-package-portable-atomic-util-0.2.4
+URL: nar/1mi6sva61k5vvsgfms5q8w37sdr3mbvzpl2lri2aspviy41wz8gr.nar.xz
+Compression: xz
+FileHash: sha256:1mi6sva61k5vvsgfms5q8w37sdr3mbvzpl2lri2aspviy41wz8gr
+FileSize: 40208
+NarHash: sha256:0rgwiafh5vvkq0l8rbflvbvy4agijd5wjm6xfgm2zr2pg7b38mxz
+NarSize: 186112
+References: 
+Sig: grigio-jcode:a9+6/Apzdk8EgoQtGsbYLcqiw1i+XhjMmUChRykuQQdEUXn/ZeKqPAMExQJfldLNPBu2udJllSdvuMQUbQh8BA==

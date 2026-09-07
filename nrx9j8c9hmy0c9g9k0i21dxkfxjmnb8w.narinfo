@@ -1,0 +1,9 @@
+StorePath: /nix/store/nrx9j8c9hmy0c9g9k0i21dxkfxjmnb8w-cargo-package-wezterm-color-types-0.3.0
+URL: nar/08laf9a7fpih2icvjccb42sg4ww6cdq98z5mk4ngs3lmg5qshhq9.nar.xz
+Compression: xz
+FileHash: sha256:08laf9a7fpih2icvjccb42sg4ww6cdq98z5mk4ngs3lmg5qshhq9
+FileSize: 12648
+NarHash: sha256:058b48hingq1rglmpxv57gbg83kjkkfff3kwrp67vmgz5sfwaa5l
+NarSize: 52560
+References: 
+Sig: grigio-jcode:shwP1/NDMBoP/MfF3aoNRfZ3c9AkTRMUU4fsw9f0x5d6IqYi2qarBscsS5uD2h96YQu5Vp0BJzimmZ1G8sRkBA==

@@ -1,0 +1,9 @@
+StorePath: /nix/store/wrx6ncbnljqf82m03caqdf96giyjhjyr-cargo-package-zmij-1.0.12
+URL: nar/0zx8fvc45xa6i2dzd9fx8rgbp0lvk2a3x74byig173fyzxxrf5y1.nar.xz
+Compression: xz
+FileHash: sha256:0zx8fvc45xa6i2dzd9fx8rgbp0lvk2a3x74byig173fyzxxrf5y1
+FileSize: 20208
+NarHash: sha256:1kd9qlx5fn8ka7h769dryigr6f171w0kb0jnyh4i6m403llddilc
+NarSize: 80880
+References: 
+Sig: grigio-jcode:aiTqmn+q71YU3sfBLOjb5QUG3J8fqjt/eQudS9JQc8uOx8L6rYYn9rnpI/BrLW5aybsUmz2g3pSCLQ3+HqATDQ==

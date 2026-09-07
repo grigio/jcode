@@ -1,0 +1,9 @@
+StorePath: /nix/store/0h5wccs777yh723chanfbrrffsb96m01-cargo-package-vtparse-0.6.2
+URL: nar/00r9lqjbk0gl43cxis2mm49svy1hwgc01931yam9m4q7w9knmmg0.nar.xz
+Compression: xz
+FileHash: sha256:00r9lqjbk0gl43cxis2mm49svy1hwgc01931yam9m4q7w9knmmg0
+FileSize: 10652
+NarHash: sha256:11qngp3cvjv43b95glj7m6jaqf8nc0i7l57nzbbaq3jpmrcd2pjy
+NarSize: 54384
+References: 
+Sig: grigio-jcode:MvzmCHgY0rlsfxEWMO6N7pSLqMrQQYTj/8Iy+8oURe0pWY/8tWU43rgdJAZqll37ahfCTxQW7ckVi+CRZ3z3CA==

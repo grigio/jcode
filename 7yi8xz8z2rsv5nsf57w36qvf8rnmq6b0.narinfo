@@ -1,0 +1,9 @@
+StorePath: /nix/store/7yi8xz8z2rsv5nsf57w36qvf8rnmq6b0-cargo-package-tract-extra-0.23.4
+URL: nar/02cnazq070cffcwll5r498bjgz7x684w28b1nmzfqs233azid4ni.nar.xz
+Compression: xz
+FileHash: sha256:02cnazq070cffcwll5r498bjgz7x684w28b1nmzfqs233azid4ni
+FileSize: 13332
+NarHash: sha256:0cmkg8wfrmw7kc73mbwzl8i722wmhlgh2q8xxw2sg5afbx5c8gx7
+NarSize: 55936
+References: 
+Sig: grigio-jcode:xBVfwTZnMIz1QwDmZWeLAgZOaPqVd4WBM1rDbmJRoUwhEmnnbMeyZhDj1WdxJPniOeAySwA+v+24WKWz3Us1AA==

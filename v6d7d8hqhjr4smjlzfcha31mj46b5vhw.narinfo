@@ -1,0 +1,9 @@
+StorePath: /nix/store/v6d7d8hqhjr4smjlzfcha31mj46b5vhw-cargo-package-block-buffer-0.10.4
+URL: nar/1zv6b74h1lp7v0ybvalqsz50qxrj5q1m06kwznm2dgwg8n1a5vd4.nar.xz
+Compression: xz
+FileHash: sha256:1zv6b74h1lp7v0ybvalqsz50qxrj5q1m06kwznm2dgwg8n1a5vd4
+FileSize: 9952
+NarHash: sha256:1i0mb4cfszaaja6ja10aw5nzvbzg06vrswvzh7sasp1fgdx0jwyb
+NarSize: 37720
+References: 
+Sig: grigio-jcode:CclzqoUJFQy746hJjkSwP2DYeTKccv4j6TDjhVKTKyMrbHz3ujTBac2cobWbMJKBOsc+4xQ3FgEqu5x3XagQBg==

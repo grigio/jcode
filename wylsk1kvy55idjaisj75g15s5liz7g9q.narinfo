@@ -1,0 +1,9 @@
+StorePath: /nix/store/wylsk1kvy55idjaisj75g15s5liz7g9q-cargo-package-memchr-2.7.6
+URL: nar/1cb8ywlmx3in26s8lvn42ir797jpfy3s78x57f1hc0f2snvkn70c.nar.xz
+Compression: xz
+FileHash: sha256:1cb8ywlmx3in26s8lvn42ir797jpfy3s78x57f1hc0f2snvkn70c
+FileSize: 66960
+NarHash: sha256:00gcqwc4cb9fh6yv7d4y3dh4x5vlkli98g7nbjsh6z52xvlflab9
+NarSize: 597864
+References: 
+Sig: grigio-jcode:Tabh88nXLR/DwifdBP8MHcs44SCAunZZxt/HrTfbFcc/+UU/K00Ke5VNsge4R7bPwJ1tsOS74S3wL55Zl2+kCg==

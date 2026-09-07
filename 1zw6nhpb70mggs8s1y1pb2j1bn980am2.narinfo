@@ -1,0 +1,9 @@
+StorePath: /nix/store/1zw6nhpb70mggs8s1y1pb2j1bn980am2-cargo-package-pulldown-cmark-0.12.2
+URL: nar/1z2agb9g23vdvbddw8hrxbwlknjbm1n7cb34dixfgm5029zpvcjg.nar.xz
+Compression: xz
+FileHash: sha256:1z2agb9g23vdvbddw8hrxbwlknjbm1n7cb34dixfgm5029zpvcjg
+FileSize: 115152
+NarHash: sha256:1qw8sif6bxxpzs83afpnn3i0a4yls7zllzivz57dkxjyav1dyb7a
+NarSize: 842808
+References: 
+Sig: grigio-jcode:eWo7uYpncdzN9Vbh6ADye7wX1mTXf34IBaKGM8JGILiYxnUmcfRBxjXEghU5ZykaYqx49gIEmkIt/Ikq9h3zAA==

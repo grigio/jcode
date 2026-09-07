@@ -1,0 +1,9 @@
+StorePath: /nix/store/d2cc2a2ixgmz8x2laycsyb8yq9lq9mm0-cargo-package-byteorder-lite-0.1.0
+URL: nar/0977vdcb3icdis3jp5j90rbfw5dfan7yk0s9rdadg8g6c4v6zj80.nar.xz
+Compression: xz
+FileHash: sha256:0977vdcb3icdis3jp5j90rbfw5dfan7yk0s9rdadg8g6c4v6zj80
+FileSize: 13216
+NarHash: sha256:13902jgnp4q7yin8ljf3n0f2sc5wajm3496xyc7p7681y8p947g3
+NarSize: 147296
+References: 
+Sig: grigio-jcode:xYJZARkhvyb9Ll/1LCawgmXcXZWV5VqGAltIvfn8QegkEXXZsDm/FpaSUzz15r3YroXtUoYN4ZbV0IcabxyOAg==

@@ -1,0 +1,9 @@
+StorePath: /nix/store/39rsfm7gxqfzdbqihy7fxzvsbx9ys6a7-cargo-package-core-graphics-0.23.2
+URL: nar/04d5dmmcrcwijd2srb3lxd4n00jp0qw9db5jkkjjkfb7jn63mbv3.nar.xz
+Compression: xz
+FileHash: sha256:04d5dmmcrcwijd2srb3lxd4n00jp0qw9db5jkkjjkfb7jn63mbv3
+FileSize: 26576
+NarHash: sha256:1xvfqvfwr4fnvdrnlalys3x3d7rk6kgrjp4svnvalyr8ws3jl3y8
+NarSize: 150464
+References: 
+Sig: grigio-jcode:qvyIqGHCi/9pM6vV+8Gg2CHgWXC08XbrwSKgIF63PJttbcSVC9nUlyfF9iVh7OzUxj7hOoolEwJtd4u/wn68CA==

@@ -1,0 +1,9 @@
+StorePath: /nix/store/lkzispgrnyl2h63gbva4whqfhp2zmaiq-cargo-package-futures-util-0.3.31
+URL: nar/0jx33d8qaw1mzqqx196bmdcndimjj4ndhjns4m0dpk8p6n3py944.nar.xz
+Compression: xz
+FileHash: sha256:0jx33d8qaw1mzqqx196bmdcndimjj4ndhjns4m0dpk8p6n3py944
+FileSize: 117848
+NarHash: sha256:1amnzxrfp4svinkm1hdwa1acq0v4gy2vqa6ixj7bw040bknivi7z
+NarSize: 880696
+References: 
+Sig: grigio-jcode:sdvpmZx1JtAhH77nKnFB7AIz7K65Lu7wLG/QsOUjHF9PjGeDAAFBYdL1YqqUzZphh9yRdP56RWx5HO3b6zTtDA==

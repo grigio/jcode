@@ -1,0 +1,9 @@
+StorePath: /nix/store/0jpsqyf0hmvycmn2q0jc0mh4bn77qawz-cargo-package-writeable-0.6.2
+URL: nar/1vms5zd0jfkzywp9ary1yp70kwsibagc5pyi2awyx9xy4ii0ds8d.nar.xz
+Compression: xz
+FileHash: sha256:1vms5zd0jfkzywp9ary1yp70kwsibagc5pyi2awyx9xy4ii0ds8d
+FileSize: 21392
+NarHash: sha256:1ak2g1lrmbijxh7w0nj6ywh8rjp0jfbn86zz664j49casj4f6zmz
+NarSize: 109792
+References: 
+Sig: grigio-jcode:eF6ujpzYtip/ar70oNI3x85dsKmFj5muf9OulAicozjeIQRyWxT2rm/XxG9Id6lRhUby6VvzUqFpL+qjYvEGAA==

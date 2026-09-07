@@ -1,0 +1,9 @@
+StorePath: /nix/store/z7kc3phq11xp1plws7c7qcksjrb6ys4m-cargo-package-aws-smithy-eventstream-0.61.1
+URL: nar/1zj7sgqlap96pr6hkd4b7imsa26b99662ap0fjwql24c8nmm78wf.nar.xz
+Compression: xz
+FileHash: sha256:1zj7sgqlap96pr6hkd4b7imsa26b99662ap0fjwql24c8nmm78wf
+FileSize: 25348
+NarHash: sha256:04qpv4iq5994ps5a39gadj0v1ygac421q8r41adlmkx1hhhyp70g
+NarSize: 123960
+References: 
+Sig: grigio-jcode:qo2EI4BVOJqSi25bseJKDMaRyJRZuXs9BveCpZqyDw73L7akD0s/5oMG04vkJij0Zb14XJjvi9muO2nhFMn1DQ==

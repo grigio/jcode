@@ -1,0 +1,9 @@
+StorePath: /nix/store/9lkh61jmy42qgzpnmc83z1i55z5g3x4k-cargo-package-wasm-encoder-0.244.0
+URL: nar/0kmdg5bi2wjdd79bx9k17v8njd2mm3sr11lvlr77vvyppqrisgf7.nar.xz
+Compression: xz
+FileHash: sha256:0kmdg5bi2wjdd79bx9k17v8njd2mm3sr11lvlr77vvyppqrisgf7
+FileSize: 66476
+NarHash: sha256:0z0rrwdzvh4594yqkh5xsyhml7756p4nmfm149j322hv2yxx5cja
+NarSize: 594280
+References: 
+Sig: grigio-jcode:L4ISWFYlwX4+G5dZMHU3S98tO2Jm37a8qafkmA4jFfkciKmhxIWAlhk6nxQSqmVD6sP0DPBMzSfoYKrr5TVNDw==

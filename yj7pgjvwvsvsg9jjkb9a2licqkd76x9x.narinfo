@@ -1,0 +1,9 @@
+StorePath: /nix/store/yj7pgjvwvsvsg9jjkb9a2licqkd76x9x-cargo-package-dyn-hash-1.0.0
+URL: nar/163i9r4ppjc6nrqlb7yvb98r9gnfksrizggj19agf231vm05298z.nar.xz
+Compression: xz
+FileHash: sha256:163i9r4ppjc6nrqlb7yvb98r9gnfksrizggj19agf231vm05298z
+FileSize: 9588
+NarHash: sha256:1m3kq477cf82xcx1p5pv55n8x33c9x8b7axqdfb6kc6whjziy1bm
+NarSize: 36280
+References: 
+Sig: grigio-jcode:FRmMY1NHlMhbD9j8b11Op1YAtDxYfX6dZzEpqZalAUgTVTO1n0miAqPEWocMlO29soke0F0Cp5EAdqQP/HddBg==

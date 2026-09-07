@@ -1,0 +1,9 @@
+StorePath: /nix/store/q9hz0wqsqfb2l63mq6qlkzrmjs3x1hs1-cargo-package-http-1.4.0
+URL: nar/0qsxzbwf2s51qkg5a5wrdk9hbkq7qv80hsc1f9a03y5yx5v0j04d.nar.xz
+Compression: xz
+FileHash: sha256:0qsxzbwf2s51qkg5a5wrdk9hbkq7qv80hsc1f9a03y5yx5v0j04d
+FileSize: 85660
+NarHash: sha256:1zh9by6bxhvnzwqyspa8gy37j6xj3alsr4jfqgv45sg2brj36shz
+NarSize: 511672
+References: 
+Sig: grigio-jcode:C8u8ZZe0GaS31CriqJg3+cd3ImxLfaAri9kzZ7RD2E23MuGJx2Y4NQd00jzBLPC8PQIc7lkAndTPKr6MHrw2CA==

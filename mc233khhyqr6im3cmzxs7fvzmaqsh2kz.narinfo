@@ -1,0 +1,9 @@
+StorePath: /nix/store/mc233khhyqr6im3cmzxs7fvzmaqsh2kz-cargo-package-aws-lc-rs-1.16.3
+URL: nar/1x29fy0jy70jf3w9r6k78fa8qy49fvw95l7ni17h1g6i9fhj4pip.nar.xz
+Compression: xz
+FileHash: sha256:1x29fy0jy70jf3w9r6k78fa8qy49fvw95l7ni17h1g6i9fhj4pip
+FileSize: 162892
+NarHash: sha256:1wqhsnjw6gxhjd5g5sal61pjqnld208qs3ydmwz6fzi27214ylc1
+NarSize: 1132224
+References: 
+Sig: grigio-jcode:+DL3o6zeBmQj+BPBoEdXV7R/k/6bQ8KYYlAHdC1Op1SWAUxEDXOloIqNz2EC7RXzgpQ2sT11Gh219GLy2I/MBA==

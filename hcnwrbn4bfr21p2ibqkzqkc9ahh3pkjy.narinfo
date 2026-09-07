@@ -1,0 +1,9 @@
+StorePath: /nix/store/hcnwrbn4bfr21p2ibqkzqkc9ahh3pkjy-cargo-package-thiserror-1.0.69
+URL: nar/0xi7avn36r0d4lkcs9rzy3798kvnsf035ghm3w61zyk4sq3jk8z0.nar.xz
+Compression: xz
+FileHash: sha256:0xi7avn36r0d4lkcs9rzy3798kvnsf035ghm3w61zyk4sq3jk8z0
+FileSize: 19720
+NarHash: sha256:1dl8rf9q18sr79j6cqx3izshxhfx3avgxlyzb7a6cnfj8afdy7kr
+NarSize: 112024
+References: 
+Sig: grigio-jcode:gP1ZaIBIadmqXkOp7juSHYbTbHQK35IRrG1OL8kJJyBgtu8LlNHsR2udNvqhM6GqoQaMixxLGu/FubApVPYFCg==

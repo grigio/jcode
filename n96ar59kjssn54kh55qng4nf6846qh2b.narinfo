@@ -1,0 +1,9 @@
+StorePath: /nix/store/n96ar59kjssn54kh55qng4nf6846qh2b-cargo-package-futures-task-0.3.31
+URL: nar/0g5pmv66flk0l1s3kwv734z8p7zh4vidwsc3lkm9x3a6dnkp9979.nar.xz
+Compression: xz
+FileHash: sha256:0g5pmv66flk0l1s3kwv734z8p7zh4vidwsc3lkm9x3a6dnkp9979
+FileSize: 10552
+NarHash: sha256:1kgiq6f4a16ifmq32m59cjyccgyw5702agbki3bwjlargl4rdiff
+NarSize: 43264
+References: 
+Sig: grigio-jcode:/YSaQ8Cj1EZqGT0yBcDh4qi+0dLkPHAxobNplFMQnTHYgnaxmKh6niJJDhpVkDkGfuStKfs+DwjQj8Z1zuW+Aw==

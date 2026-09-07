@@ -1,0 +1,9 @@
+StorePath: /nix/store/y3z5sr16sxd50bgcn2zkn46afn8fy0na-glib-2.88.1
+URL: nar/0dkfvmfzbd0kmmf904dlrdhf6hsd6l6sfh311lzz7bq5pn3bgh16.nar.xz
+Compression: xz
+FileHash: sha256:0dkfvmfzbd0kmmf904dlrdhf6hsd6l6sfh311lzz7bq5pn3bgh16
+FileSize: 2831028
+NarHash: sha256:0qwf50mx9a81mm3yqqdalqicbrpcvsgi84n4xylxx19h3adxdjh4
+NarSize: 16082664
+References: 7fihk5wdlzzjaj1z9h4jvg35s9jjgdad-util-linux-minimal-2.42.2-lib dhi52rn93kvkjf08qkikwhlgzn32qh1s-libselinux-3.10 l8si8gnvvq93yzms1jsgh5aixyf9rl5x-glibc-2.42-67 mxnpbgw26054cgy20vbnwr2lkdqd5x5k-libffi-3.7.0 y3z5sr16sxd50bgcn2zkn46afn8fy0na-glib-2.88.1 zva95q4jh61f9i0cflab5d16wlck9ch5-pcre2-10.47
+Sig: grigio-jcode:peDIrsZIP8uVxGrvOM9H+OD61nMIr/jhhWC8L3UFR9s3uMm/wRQGlRztqSBRBXqgJ59G30AiFeHuV/8sEsKMCQ==

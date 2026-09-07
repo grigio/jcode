@@ -1,0 +1,9 @@
+StorePath: /nix/store/50yy1dnzxv1aahbpsj0zbb15wp0xarzj-cargo-package-toml-0.8.2
+URL: nar/1jv0kf5fn94y4y9i21wyl5nhlny2g8l5p7927kzfnwnyfbdl4d5y.nar.xz
+Compression: xz
+FileHash: sha256:1jv0kf5fn94y4y9i21wyl5nhlny2g8l5p7927kzfnwnyfbdl4d5y
+FileSize: 42612
+NarHash: sha256:0lsriif8px3jmw1i1v2vby0vihr8zzdlyaz20sdsqpfgdgwmf2ij
+NarSize: 276320
+References: 
+Sig: grigio-jcode:cMrOO6SF9DfcIycWeYPV7+0yHZ/bHAV3q5kXBB53LmpQTu9dbDY68YrqTioJc7x+H0LAPynCx0yQMumLVnsKCQ==

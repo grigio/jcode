@@ -1,0 +1,9 @@
+StorePath: /nix/store/mwncqfpplsz0cs3cm9w1f8m4y7p1f5ld-cargo-package-core-graphics-types-0.1.3
+URL: nar/1lmhw623649cz1mxr9s5nhk7y8wabxx6hgb3107b5s40khjibxam.nar.xz
+Compression: xz
+FileHash: sha256:1lmhw623649cz1mxr9s5nhk7y8wabxx6hgb3107b5s40khjibxam
+FileSize: 6720
+NarHash: sha256:05h6qby927ra016y19czxfkc0p3m45rb4q8c90l5s285s7mmjsjr
+NarSize: 22856
+References: 
+Sig: grigio-jcode:csAl04M1VrAoQW5MHNlPr24pwnPd9ngQ0Km1MaPJ+/XjOi+5YA/49rMgbq5URtQVkScXHqtPK50Mx7n6T7exBw==

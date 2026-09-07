@@ -1,0 +1,9 @@
+StorePath: /nix/store/44dqhj29jp5qxlba4pc4d8cpp9qnwr8r-cargo-package-signal-hook-mio-0.2.5
+URL: nar/1l2kaj0r9x01qbmzyr60p420jndic66zxgbc66w9vgkqq5313jfw.nar.xz
+Compression: xz
+FileHash: sha256:1l2kaj0r9x01qbmzyr60p420jndic66zxgbc66w9vgkqq5313jfw
+FileSize: 12748
+NarHash: sha256:0v2apf6b4aim7l4gnk4dh0vl6s23w0ab3ny6kn2xq7bzgdcx8h9y
+NarSize: 65744
+References: 
+Sig: grigio-jcode:N3sUhjt6LXiLPInAhnt8wSMdSt3BxEy2oLDw0snpeJM5EjBcsiCh0WxgjZpPGuwufgnwmN7NxzKfUo/pPgfBCQ==

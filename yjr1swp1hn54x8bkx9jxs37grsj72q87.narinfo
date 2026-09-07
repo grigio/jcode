@@ -1,0 +1,9 @@
+StorePath: /nix/store/yjr1swp1hn54x8bkx9jxs37grsj72q87-cargo-package-colorchoice-1.0.4
+URL: nar/12sah3jqfd13l4rh2nkxrls00aj4wv4lakw22j9pwsrr1yvrfy14.nar.xz
+Compression: xz
+FileHash: sha256:12sah3jqfd13l4rh2nkxrls00aj4wv4lakw22j9pwsrr1yvrfy14
+FileSize: 7784
+NarHash: sha256:0rqxv9dz87cc3xicijclczdr4bh2yzn841djbf6pm3ib9322iiz7
+NarSize: 24256
+References: 
+Sig: grigio-jcode:vaqPmYSbAZKUJ1txgHRg+iEpuPrdYhwDmDmM+9hsjsGS6X2z9SuNKWBK+B97rIZIn8b1gyrtF0JGMt7Pf5dxAg==

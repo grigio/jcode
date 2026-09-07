@@ -1,0 +1,9 @@
+StorePath: /nix/store/44p0fiharjw96psh60m4mkbmpibbym2r-cargo-package-idna-1.1.0
+URL: nar/1hb4nqnwpvlfydfzqyd5zip6hiyia7179s7fq24l54z2rzzzq683.nar.xz
+Compression: xz
+FileHash: sha256:1hb4nqnwpvlfydfzqyd5zip6hiyia7179s7fq24l54z2rzzzq683
+FileSize: 126692
+NarHash: sha256:0a2a3p5d0r88kahqjwvs74frpr2w281vhiq7df3ifnflxqs9gb5v
+NarSize: 970616
+References: 
+Sig: grigio-jcode:oFTafB0SgDyo0NlmclDGVIkp4NELMG4Gui16QHi1z8DmpBI3V+NwbPAXV2dYfL4WdUuawBzHR2cOGUW+xscmBQ==

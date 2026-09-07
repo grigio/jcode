@@ -1,0 +1,9 @@
+StorePath: /nix/store/spnpa22k2xqv7p7j4p4r504iqnsbw2wk-cargo-package-aho-corasick-1.1.4
+URL: nar/0axd1lx9cp35r8kx9qvfj74pbil4mz170nqh90dhz2yk4q5mpa5c.nar.xz
+Compression: xz
+FileHash: sha256:0axd1lx9cp35r8kx9qvfj74pbil4mz170nqh90dhz2yk4q5mpa5c
+FileSize: 138680
+NarHash: sha256:1ijr0fhzrs7n0jbnaj708h5r6s5n9iwx339sq5ygvwjv8z6gvf9a
+NarSize: 846040
+References: 
+Sig: grigio-jcode:TzFDuag0JxKZPoqnBqQ2+Hm9aDCFj6M+MY+7AWcflE33rNXc0jRp2BqBsB7fPAeHy5hajdBS1pEAtxe5+Ks/BQ==

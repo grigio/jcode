@@ -1,0 +1,9 @@
+StorePath: /nix/store/fcrz3m31vg93p2xybrqrfy6sg0xzfq6b-cargo-package-potential_utf-0.1.4
+URL: nar/04jmi7frsyc143zi5wnpqn3bh05vw8mhcgh5hh9lm84lhr3lq8y8.nar.xz
+Compression: xz
+FileHash: sha256:04jmi7frsyc143zi5wnpqn3bh05vw8mhcgh5hh9lm84lhr3lq8y8
+FileSize: 8860
+NarHash: sha256:1r7wyqw6i0y4mvpxvvi71x174v3cjchiv5jpivayi9lj5kn6yrys
+NarSize: 37104
+References: 
+Sig: grigio-jcode:tbYA21nckgn83SVrmo3LNwyT6QubnqvcOY+BuvoFVPzabRuCon+56neabfw1meI2GAbE2U3sMMB6YomkZhERAA==

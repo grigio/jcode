@@ -1,0 +1,9 @@
+StorePath: /nix/store/30ngwlq8znkb6bpqxva55rrfzikm6a14-cargo-package-dirs-sys-0.4.1
+URL: nar/122b89nqm4gs91ybi9y17vm4fki5yjmnsygigc30njxqg08pmwd8.nar.xz
+Compression: xz
+FileHash: sha256:122b89nqm4gs91ybi9y17vm4fki5yjmnsygigc30njxqg08pmwd8
+FileSize: 10144
+NarHash: sha256:1fm83hgq0chvfksn14vrqfc20qb6a8qnljcm9490zn6ipahgnrf8
+NarSize: 36160
+References: 
+Sig: grigio-jcode:03bNI4RtKCn9e4ZWturkRq7aq1j9E0HlaGoz1CXZFi37Le+ZsuFuK4MnnDbrmOXJQsiieHnJYonWNELOhkiKCA==

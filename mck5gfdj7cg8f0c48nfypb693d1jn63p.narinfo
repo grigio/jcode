@@ -1,0 +1,9 @@
+StorePath: /nix/store/mck5gfdj7cg8f0c48nfypb693d1jn63p-cargo-package-md-5-0.10.6
+URL: nar/0ly0qi8h2h6rcxpw785id0k33fq8vcc66yr5k40cmqi2xibvzk02.nar.xz
+Compression: xz
+FileHash: sha256:0ly0qi8h2h6rcxpw785id0k33fq8vcc66yr5k40cmqi2xibvzk02
+FileSize: 14232
+NarHash: sha256:02s98xfx1zfr32ba6b18i9b2zzv9l6dhy3piyv0461z8ra77cr5a
+NarSize: 44008
+References: 
+Sig: grigio-jcode:u4BVyp05vitwio3qbrwuy9bcELyyRNLWwc4H82RaNjC/rZq8kIO2y5yBZsL+pxRf6Ve8sk2hvLUt2EXEN5OUAg==

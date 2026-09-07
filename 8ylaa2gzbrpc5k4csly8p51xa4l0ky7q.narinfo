@@ -1,0 +1,9 @@
+StorePath: /nix/store/8ylaa2gzbrpc5k4csly8p51xa4l0ky7q-cargo-package-tract-data-0.23.4
+URL: nar/1m9nr04qwcrb15j0x2j20wdi7mw6sdysgla51mrngl24az4zalx9.nar.xz
+Compression: xz
+FileHash: sha256:1m9nr04qwcrb15j0x2j20wdi7mw6sdysgla51mrngl24az4zalx9
+FileSize: 59292
+NarHash: sha256:0v60bhk3k21lmc0vv02dfxb4a22lfmznbc0vzyrygbvjayd23nai
+NarSize: 333048
+References: 
+Sig: grigio-jcode:2YXA+ZXuAt4dhv1ECEPchv9taYNT7uUJVjhHFYGTIhq9qiOJkwtTnIi6Cw0LN2cZ7QpFbssfBnIsALv3WsOBDg==

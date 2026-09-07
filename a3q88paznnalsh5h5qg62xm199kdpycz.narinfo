@@ -1,0 +1,9 @@
+StorePath: /nix/store/a3q88paznnalsh5h5qg62xm199kdpycz-cargo-package-once_cell-1.21.4
+URL: nar/0bvb9q0pjsi1k5myac42xhy0s0xpjwp0gaabx9a6avd1mbkd48c3.nar.xz
+Compression: xz
+FileHash: sha256:0bvb9q0pjsi1k5myac42xhy0s0xpjwp0gaabx9a6avd1mbkd48c3
+FileSize: 30484
+NarHash: sha256:06lf4a2axajf184kywq2n0301m4fypbb5d5b6m21kdv6wr9i4zn6
+NarSize: 158200
+References: 
+Sig: grigio-jcode:XhF1D/2Zpqnm3p/ev5+MUI4bd3zzSv2uV1NIFutc66cg19YCxu/IhSAYv2RWskmq8IkNxP2jGbYyW7ZuzCWkBQ==

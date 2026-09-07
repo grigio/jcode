@@ -1,0 +1,9 @@
+StorePath: /nix/store/d3c95r8l4i1fla208zqz7vh9zcksi7yr-cargo-package-mac_address-1.1.8
+URL: nar/0rxbxj398jkpxqxnnxnb7g2y9i4ksjln72p052mgv008rafk5wih.nar.xz
+Compression: xz
+FileHash: sha256:0rxbxj398jkpxqxnnxnb7g2y9i4ksjln72p052mgv008rafk5wih
+FileSize: 11904
+NarHash: sha256:0im2w7rf0wrhw3g28i6acqccrm9s3jh98chk2jv9h2gb7xl27f6k
+NarSize: 46800
+References: 
+Sig: grigio-jcode:SdRV9g3DR1QrbTkjMTAK8CcmpttZcYbAqODWLu10pizcjIZvhILsJCBHizKxWSUQz3zPjsghrjitA5JGS41sAQ==

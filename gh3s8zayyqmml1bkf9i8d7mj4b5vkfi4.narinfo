@@ -1,0 +1,9 @@
+StorePath: /nix/store/gh3s8zayyqmml1bkf9i8d7mj4b5vkfi4-cargo-package-num-cmp-0.1.0
+URL: nar/18wr0hxnz7y00albg8k06df2s0yhj82k64qw0w41r4k7bgxjrqnb.nar.xz
+Compression: xz
+FileHash: sha256:18wr0hxnz7y00albg8k06df2s0yhj82k64qw0w41r4k7bgxjrqnb
+FileSize: 13948
+NarHash: sha256:143idsmycabkwl85iwm8jwna8kbcppgp6jxw6hx8zg11dgzhib47
+NarSize: 64384
+References: 
+Sig: grigio-jcode:Oit5Yb90BG0RBJzpfjyqKd3lAefe35L7xMB6iuG7tlBFttXWZnzZmbIoL/dzZ/LNCPEswPDNWKRLLtqSZ2WRDA==

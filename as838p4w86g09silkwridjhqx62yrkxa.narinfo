@@ -1,0 +1,9 @@
+StorePath: /nix/store/as838p4w86g09silkwridjhqx62yrkxa-cargo-package-bit-set-0.5.3
+URL: nar/1dj2djww3vxy8dggyd0fj4ngcd4fprhqf9jbr46928ggmnphym3r.nar.xz
+Compression: xz
+FileHash: sha256:1dj2djww3vxy8dggyd0fj4ngcd4fprhqf9jbr46928ggmnphym3r
+FileSize: 13460
+NarHash: sha256:0hmr0yml8rnw2nmn03bgxvb2ib84xwk1r50llvm2q5yhahkdgadq
+NarSize: 62208
+References: 
+Sig: grigio-jcode:An0hMouGpQw3NeP+375080T8QHskOWoOnuLa+4OTAYwJ4//MYAIhGUiJA2prAE4CpiNmGTE3n9qP/FJdE1aEAg==

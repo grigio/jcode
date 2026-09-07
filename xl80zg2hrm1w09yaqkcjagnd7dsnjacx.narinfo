@@ -1,0 +1,9 @@
+StorePath: /nix/store/xl80zg2hrm1w09yaqkcjagnd7dsnjacx-cargo-package-getrandom-0.4.1
+URL: nar/0n3vmdin82lz18wsq21rzd4zr9xjqk69dvrd4s8p7gijv48zqh8a.nar.xz
+Compression: xz
+FileHash: sha256:0n3vmdin82lz18wsq21rzd4zr9xjqk69dvrd4s8p7gijv48zqh8a
+FileSize: 45688
+NarHash: sha256:16h3v1fkxm2pdnd4p053skh4qkp775ls9cywhzcj2y22g9mmvcn1
+NarSize: 199336
+References: 
+Sig: grigio-jcode:NOspwN6lqOrjj0oPc4cl/R8GbOr00OuWRN7DaY/Ldqv6QYOfdMoJVoL/+zBSJfN1JvqalLJZb9kTfDBkViw0Cg==

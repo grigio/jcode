@@ -1,0 +1,9 @@
+StorePath: /nix/store/n1l16ipdn6fnphl0a509sxsi344jl4w0-cargo-package-crossterm-0.29.0
+URL: nar/1nvw3sr7hacvwkcqcimppy5mgprnp2rdmxb2zkaqdp875bbrs5gy.nar.xz
+Compression: xz
+FileHash: sha256:1nvw3sr7hacvwkcqcimppy5mgprnp2rdmxb2zkaqdp875bbrs5gy
+FileSize: 113120
+NarHash: sha256:0yx9yriy1y1ag8ijpdxdxfdb49g2b96w3aqlm9jmwqzxs35vjicn
+NarSize: 555528
+References: 
+Sig: grigio-jcode:mHGrbFVkh6TN3pc207DO0dP/bevRhBHJ0EmFUm+MwX93rdLpjdv71ry5rjBTZzu7RddKBP66d68bdxwXSqplCw==

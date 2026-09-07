@@ -1,0 +1,9 @@
+StorePath: /nix/store/9aidc6fkpcbymbqpciniv7vmjksmwlbx-cargo-package-ecb-0.1.2
+URL: nar/1cklbmlbw4s2lm775544j2sc505cp053997z4bwgk6y9na4xljsx.nar.xz
+Compression: xz
+FileHash: sha256:1cklbmlbw4s2lm775544j2sc505cp053997z4bwgk6y9na4xljsx
+FileSize: 5768
+NarHash: sha256:0adr5jih14rqaz4kbbpb11zxi6r3s98rv8i1ffhscvajpdbpr7xb
+NarSize: 22512
+References: 
+Sig: grigio-jcode:243IffBdrMvWwSo0H9EXDi3SNOv6aNY/ixmERX1LICyPQaSE+uk9vcEyOYv6r1FFbUTjzLbV94U8mB6dVYmhBA==

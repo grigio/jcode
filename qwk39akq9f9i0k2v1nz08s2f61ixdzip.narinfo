@@ -1,0 +1,9 @@
+StorePath: /nix/store/qwk39akq9f9i0k2v1nz08s2f61ixdzip-cargo-package-deltae-0.3.2
+URL: nar/09yy7ig3qhbra1p8asdj7h9qwwdmw5y1srp91amb7g7cjcw1h8j4.nar.xz
+Compression: xz
+FileHash: sha256:09yy7ig3qhbra1p8asdj7h9qwwdmw5y1srp91amb7g7cjcw1h8j4
+FileSize: 1795084
+NarHash: sha256:11d3ak2lrd31l18a3z6wdr2jzjhfxbxnk2xvwwsysjvp9y27v1vz
+NarSize: 2700800
+References: 
+Sig: grigio-jcode:KikcLgpG2Phe0PSGb5kgcJ+AFGX280zZsrrX1QEa5clxgHOwWqNe5ztEXH5poN4FD9+8njEXu+8c3xEFurAmDA==

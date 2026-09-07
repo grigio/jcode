@@ -1,0 +1,9 @@
+StorePath: /nix/store/vyic69dzbdi69b6y2mzklhzcpx0m1smj-cargo-package-stable_deref_trait-1.2.1
+URL: nar/1gmp3vnl976nfzy8ii5iq265ndhk1mbxxchynpabnz8kl40rmkx8.nar.xz
+Compression: xz
+FileHash: sha256:1gmp3vnl976nfzy8ii5iq265ndhk1mbxxchynpabnz8kl40rmkx8
+FileSize: 7756
+NarHash: sha256:19dixbg0n331lk0xc59zczd0894l45xlqifbnn1dllra2zkyk9m5
+NarSize: 26656
+References: 
+Sig: grigio-jcode:2tgC+ux7VMz1yaoANwJdzxeSWD8USspip57qnFETdPRy0htbVrkoSYOjJhtrOsKjuKZ1WVSW0XKzGJgcj6ijCw==

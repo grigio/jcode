@@ -1,0 +1,9 @@
+StorePath: /nix/store/ckf7s97y4bqqqhknyn9mpcx71apfq6fl-cargo-package-icu_normalizer-2.1.1
+URL: nar/0wr2qqvw4adh0wdqy0k0brrx6fajbfbvq6zym6jrr5gwfikx8xjn.nar.xz
+Compression: xz
+FileHash: sha256:0wr2qqvw4adh0wdqy0k0brrx6fajbfbvq6zym6jrr5gwfikx8xjn
+FileSize: 52928
+NarHash: sha256:1903c4rc1y2i9h5al8qa37glgxa7psybwh6li9r3s3lcw26dsddj
+NarSize: 377080
+References: 
+Sig: grigio-jcode:cUVujqUQhI/6sm8d8aPbKHtaJfyCFMR3m5Vld3nA+jIOa1ZDPqErDQQ6MkxU6SDU6peCLVBWZqoFfoO83KIyAA==

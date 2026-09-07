@@ -1,0 +1,9 @@
+StorePath: /nix/store/c7fbibvlnqq3yc3frs45bmxcmhhaxxpr-cargo-package-postscript-0.14.1
+URL: nar/1ixzqrlnipd561mlfdnsn8k6a2li6ah4wcyfwkaw7pmdprsy4j43.nar.xz
+Compression: xz
+FileHash: sha256:1ixzqrlnipd561mlfdnsn8k6a2li6ah4wcyfwkaw7pmdprsy4j43
+FileSize: 17852
+NarHash: sha256:0gddmn80p2cnqwsh1qb1a4gzflg1hzfj22wpgddfmvh4gbr8wz0q
+NarSize: 112920
+References: 
+Sig: grigio-jcode:OJkioST7PHLV3o7eUC0NOon7ufKHg8/jo8brYU8xeygLCaw0E3jdHl/TtlyMfmVkFojgmVKK5IfcUcQF1bSbDg==

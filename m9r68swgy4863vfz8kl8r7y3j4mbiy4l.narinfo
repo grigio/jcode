@@ -1,0 +1,9 @@
+StorePath: /nix/store/m9r68swgy4863vfz8kl8r7y3j4mbiy4l-cargo-package-derive_builder_macro-0.20.2
+URL: nar/1xpcnjqhczbscsfi3icq8xbrncdp78fmh9mpgd422vyq5cphsxd4.nar.xz
+Compression: xz
+FileHash: sha256:1xpcnjqhczbscsfi3icq8xbrncdp78fmh9mpgd422vyq5cphsxd4
+FileSize: 6064
+NarHash: sha256:1grrnx6v3wab23i3n42amw4qi9prxrvkwhxxyabymilyp34lfs2r
+NarSize: 19000
+References: 
+Sig: grigio-jcode:+qofrjOcdgr11V/AIkId0qGJAG9ASzC4ac0As6pmxriq5BjqXk9JrjeJSarUbeMJ62h8CrrEoLB/hhcmeJDiDQ==

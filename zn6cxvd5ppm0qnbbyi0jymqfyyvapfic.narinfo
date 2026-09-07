@@ -1,0 +1,9 @@
+StorePath: /nix/store/zn6cxvd5ppm0qnbbyi0jymqfyyvapfic-cargo-package-rustybuzz-0.20.1
+URL: nar/0ipqmp5zxprz0skq7qxg2zrf9ckkg6w1qzrx40bgg6dp45fkswgl.nar.xz
+Compression: xz
+FileHash: sha256:0ipqmp5zxprz0skq7qxg2zrf9ckkg6w1qzrx40bgg6dp45fkswgl
+FileSize: 202532
+NarHash: sha256:12rmvz1hidx7lxa43gcvv8r3d7gcr86f1vzvjfina6qgqrjmlfjj
+NarSize: 1408000
+References: 
+Sig: grigio-jcode:/d68ag3PY53wtZGB3kIBPvXSbr/7LZq9YTqrYLxd4PcJkbms7oCNaXj+ui/SN/Qvh/fWtHnjko0op0I9l99MDA==

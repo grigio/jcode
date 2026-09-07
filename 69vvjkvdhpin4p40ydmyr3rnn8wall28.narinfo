@@ -1,0 +1,9 @@
+StorePath: /nix/store/69vvjkvdhpin4p40ydmyr3rnn8wall28-cargo-package-pxfm-0.1.27
+URL: nar/02djkhjdp2rzdsmdw7p66wk21c7yiw9gwcg4w31c7wm9f8gr1yy6.nar.xz
+Compression: xz
+FileHash: sha256:02djkhjdp2rzdsmdw7p66wk21c7yiw9gwcg4w31c7wm9f8gr1yy6
+FileSize: 527332
+NarHash: sha256:1zz04anjygfhy370xfcrkhs4m21x49dggq8y847rxwygqv508qqa
+NarSize: 3875776
+References: 
+Sig: grigio-jcode:otvqmuqCVIb3DiX9Rgrl/2nbwRfrBB8vt62jqDsdKvbiLfIaEjI9Wrnox8GLYCUxOGfvKZjbalDYO0HCKENWDw==

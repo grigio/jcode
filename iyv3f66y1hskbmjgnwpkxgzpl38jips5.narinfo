@@ -1,0 +1,9 @@
+StorePath: /nix/store/iyv3f66y1hskbmjgnwpkxgzpl38jips5-cargo-package-dyn-eq-0.1.3
+URL: nar/0h0b36m5z9b2fg3pih72fa4hg2ascsasn53y1f45ahsx2j41g6m2.nar.xz
+Compression: xz
+FileHash: sha256:0h0b36m5z9b2fg3pih72fa4hg2ascsasn53y1f45ahsx2j41g6m2
+FileSize: 9252
+NarHash: sha256:0ykk2d4k1bx6n42z9lhf2a7qibpj0j8qqpkki0m7nl9q4gdqpvlv
+NarSize: 36672
+References: 
+Sig: grigio-jcode:3ed0u/g1qUydU2Jk2lrwHOLdFvGhxNq6kOPiRVzzRwWhHGy10m3iA2FhmmC9wxFHK4a8S6i9JgmkuQ+dVr8WBw==

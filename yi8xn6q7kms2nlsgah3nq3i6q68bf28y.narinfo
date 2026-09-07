@@ -1,0 +1,9 @@
+StorePath: /nix/store/yi8xn6q7kms2nlsgah3nq3i6q68bf28y-cargo-package-tract-nnef-0.23.4
+URL: nar/04mvjx2c6fir3caccwqjwbs11g02gb5i3z5rqsj4khvpwhflbr3i.nar.xz
+Compression: xz
+FileHash: sha256:04mvjx2c6fir3caccwqjwbs11g02gb5i3z5rqsj4khvpwhflbr3i
+FileSize: 67328
+NarHash: sha256:0x309kb1jrw6xy5sk2kamgqp96lp7r531pi1byrgqrqql616l5x8
+NarSize: 392176
+References: 
+Sig: grigio-jcode:FK8DMB60x+yJsCtJdDIDTZam7NBU5irJL1VuG6gpnQBpTDFdFhDZ8htERtFOEw1djiPWHZ0kvOzPo1gLMzwrBg==

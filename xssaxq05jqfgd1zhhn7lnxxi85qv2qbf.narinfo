@@ -1,0 +1,9 @@
+StorePath: /nix/store/xssaxq05jqfgd1zhhn7lnxxi85qv2qbf-cargo-package-logos-0.16.1
+URL: nar/1hx5slj437dw63468i5yrm3378c86zrfw8rn2pk08gfr5v5h73kz.nar.xz
+Compression: xz
+FileHash: sha256:1hx5slj437dw63468i5yrm3378c86zrfw8rn2pk08gfr5v5h73kz
+FileSize: 24804
+NarHash: sha256:11lwn1rv6y9mi21q3j1ar192xjmaygp010i2c7bgv7fn99gzcb62
+NarSize: 107664
+References: 
+Sig: grigio-jcode:Ikx5d0z6EXgzyajHFrDq2nAIuEYik1C0K7jIlI4tubRdys0EUSCHBJmSnpe0s5BbBW9GAYdQ4+Yo/PzxK/dpAQ==

@@ -1,0 +1,9 @@
+StorePath: /nix/store/rs5s796ypdaczbav256ffyg9mmsvqjyj-cargo-package-indexmap-2.13.0
+URL: nar/1hxvmpm7xz0dr6rdzxq0f3aq0lkd6j7nqvfwyhfb8balwf3mdyyb.nar.xz
+Compression: xz
+FileHash: sha256:1hxvmpm7xz0dr6rdzxq0f3aq0lkd6j7nqvfwyhfb8balwf3mdyyb
+FileSize: 73920
+NarHash: sha256:11v7gq8d1dgnz0k30sdw3q0c6gvvn7s6i5zn9cn3l1m775rqdgcl
+NarSize: 535888
+References: 
+Sig: grigio-jcode:ulWF2iUonP2P4cD0FpGiwmUQxw52JXndMuCvrt4nGB3oUfOLaYgqFDHhc2VH+fd81G4NGSJtBsDeVqaVpPIjCQ==

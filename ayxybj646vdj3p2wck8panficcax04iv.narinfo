@@ -1,0 +1,9 @@
+StorePath: /nix/store/ayxybj646vdj3p2wck8panficcax04iv-cargo-package-line-clipping-0.3.5
+URL: nar/1na9kcxcs3nnn49h1v5z1m9y7zw44iyrh69cf6bw857sp2sfw00z.nar.xz
+Compression: xz
+FileHash: sha256:1na9kcxcs3nnn49h1v5z1m9y7zw44iyrh69cf6bw857sp2sfw00z
+FileSize: 13792
+NarHash: sha256:021brsd7vkrxi436fbi687kg9bw3i52jfk13z1n9sjqxgrywmsx9
+NarSize: 56008
+References: 
+Sig: grigio-jcode:8+WEeFZpNyJ6vnuPBO8ZBPTB0ywV34cxq7B+wvv0kHYTZB7f/LqZ+wu1/VHcVM0AvTHEHSMSJwTKqWTMgTVVBg==

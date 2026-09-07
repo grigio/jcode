@@ -1,0 +1,9 @@
+StorePath: /nix/store/sxm606sbn6p6lpps1i7zfqz7399jg0yl-cargo-package-async-broadcast-0.7.2
+URL: nar/11iqkw0gnggh19qkf1yqgw27y71f5rhimwv132a1njn91j2g7rr1.nar.xz
+Compression: xz
+FileHash: sha256:11iqkw0gnggh19qkf1yqgw27y71f5rhimwv132a1njn91j2g7rr1
+FileSize: 20248
+NarHash: sha256:138xcb3y541b4p2wz667has6w2dj97g6vra314n0c42g05l3mavl
+NarSize: 114888
+References: 
+Sig: grigio-jcode:RrI+K6Rax+pyUQqQNGBEc7/WIfHbB1WIjCDovUweBNwPnX8uuTcn4PQyMF573ifTgSin1GgtQAqR+C1tjNtWCQ==

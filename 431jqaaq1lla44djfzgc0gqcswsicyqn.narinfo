@@ -1,0 +1,9 @@
+StorePath: /nix/store/431jqaaq1lla44djfzgc0gqcswsicyqn-cargo-package-concurrent-queue-2.5.0
+URL: nar/1k5lbzqqxk08pv890y37ibv3hw4brb0rbh1dbndmyc0p5ri75sxy.nar.xz
+Compression: xz
+FileHash: sha256:1k5lbzqqxk08pv890y37ibv3hw4brb0rbh1dbndmyc0p5ri75sxy
+FileSize: 20248
+NarHash: sha256:1hz7g5czadh62lsv4ma8zlsbq7jlpvxiqwl9mpg8j6c0cgr3i93s
+NarSize: 111760
+References: 
+Sig: grigio-jcode:fIIyw6LKRm3+UFv8yfWhWpwwldjNQfOQIANFq4sIGeqIHXSQ/WfkRUMrfQJXOlpM53gx1lAPUdAmZcHNS2qBAQ==

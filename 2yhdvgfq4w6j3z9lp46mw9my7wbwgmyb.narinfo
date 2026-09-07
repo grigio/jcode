@@ -1,0 +1,9 @@
+StorePath: /nix/store/2yhdvgfq4w6j3z9lp46mw9my7wbwgmyb-cargo-package-is_terminal_polyfill-1.70.2
+URL: nar/04nh3k7ax04d3q63ma9x3xym3h28qzhj1hgs9cnjs02pks3dnfjv.nar.xz
+Compression: xz
+FileHash: sha256:04nh3k7ax04d3q63ma9x3xym3h28qzhj1hgs9cnjs02pks3dnfjv
+FileSize: 7140
+NarHash: sha256:12bwhnbxg2yvszpcxmzwry7w4rmn7s1bywx9a69x0s27hssyrlcw
+NarSize: 24336
+References: 
+Sig: grigio-jcode:OuEaGg9YVmO/1EHw+c1UfQHb0vg8Tdi4gI5/20aAEG3C/R3i4iGM4NbpTs8XBst+I5PSbuQ6jtvxlnWDeAeoDQ==

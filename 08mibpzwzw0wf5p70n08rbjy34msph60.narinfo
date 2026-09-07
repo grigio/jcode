@@ -1,0 +1,9 @@
+StorePath: /nix/store/08mibpzwzw0wf5p70n08rbjy34msph60-cargo-package-tungstenite-0.24.0
+URL: nar/15gzirwsql0wpjcn4ib5dz71b2fy7071x5jj0z5p3f84kb5cn2r5.nar.xz
+Compression: xz
+FileHash: sha256:15gzirwsql0wpjcn4ib5dz71b2fy7071x5jj0z5p3f84kb5cn2r5
+FileSize: 52684
+NarHash: sha256:0p9nn9ad6h1pdq7b5qj5639p8mja6cdsj6sbx01wk6zndxfk5mml
+NarSize: 252168
+References: 
+Sig: grigio-jcode:oAzBR4NkEpWcK3oCdCSgTho1yfD+3+j2WJP5toNYUDiBhVstc3OXMvXXHimPKPykneCgPsw25LTgd3sOUBPIDQ==

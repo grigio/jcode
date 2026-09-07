@@ -1,0 +1,9 @@
+StorePath: /nix/store/cplz7k79w7ls4j1fw3vb3815bmph6xl4-cargo-package-windows_i686_msvc-0.53.1
+URL: nar/1pgy1fcx21vr5h4048pw4242k736hbcykjp87axl8h000z1l29wx.nar.xz
+Compression: xz
+FileHash: sha256:1pgy1fcx21vr5h4048pw4242k736hbcykjp87axl8h000z1l29wx
+FileSize: 555472
+NarHash: sha256:08bf7rlniihp7nscfhrm9yd7qrpg5p0x2diczcqslymihdnvqgli
+NarSize: 5586696
+References: 
+Sig: grigio-jcode:vTrJ9byEAyFValHbJL0v5yb7mJ2PjX/ZfbisGugWRxq8lC38pY6nXTQEmzPlijTnwvjuCPN5BkYPmdobSy5LAQ==

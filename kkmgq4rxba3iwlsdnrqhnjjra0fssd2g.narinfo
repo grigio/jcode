@@ -1,0 +1,9 @@
+StorePath: /nix/store/kkmgq4rxba3iwlsdnrqhnjjra0fssd2g-cargo-package-chrono-0.4.42
+URL: nar/0sn4l1ly1wvmjd5h4i8qh0hq30ppqq5rp2jdqg2j352zwjayqjwk.nar.xz
+Compression: xz
+FileHash: sha256:0sn4l1ly1wvmjd5h4i8qh0hq30ppqq5rp2jdqg2j352zwjayqjwk
+FileSize: 174456
+NarHash: sha256:18j22alvp3b9jqdb8v7b0pgb82vixv503lrx8lldb7ksgm11jbyw
+NarSize: 1365432
+References: 
+Sig: grigio-jcode:Hf6YxXKcpbZnuG5S5EA7lrW34PEIGONoJEF5vDsOUoOwLTcvmOrivGqws1b83UWSqc57HC8ArUsPt/n4ApwuDQ==

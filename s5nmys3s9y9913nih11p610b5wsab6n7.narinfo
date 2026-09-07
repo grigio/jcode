@@ -1,0 +1,9 @@
+StorePath: /nix/store/s5nmys3s9y9913nih11p610b5wsab6n7-cargo-package-quinn-udp-0.5.14
+URL: nar/0j0b6pg26pq0hd5d9v7c65d659jpdg4l3n139r2igrglmla47l3l.nar.xz
+Compression: xz
+FileHash: sha256:0j0b6pg26pq0hd5d9v7c65d659jpdg4l3n139r2igrglmla47l3l
+FileSize: 28932
+NarHash: sha256:0j809023ibzijzlyidig0b64n4fbyns7h1bl9pxmqh4cmc318ljx
+NarSize: 133536
+References: 
+Sig: grigio-jcode:jrONzQOlulisVTKDmE1mCcqBtrPygeE5xc7tWCXXcId6YnCAqTUZmof+eP3GS4Pbhj0l9bzB9dJGJv5fT9L/BQ==

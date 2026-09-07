@@ -1,0 +1,9 @@
+StorePath: /nix/store/j0cd06ajj6c4dxwfkkkjly3f4iai34lj-cargo-package-redox_syscall-0.5.18
+URL: nar/0jfmfaa7zy5y8zds8agmigk9g4wmkn9i6ns4n7v7mzgaj3nrfzq0.nar.xz
+Compression: xz
+FileHash: sha256:0jfmfaa7zy5y8zds8agmigk9g4wmkn9i6ns4n7v7mzgaj3nrfzq0
+FileSize: 26516
+NarHash: sha256:1pi10fzrdx8gfww7gwz2g2fk6gqz3zjabp3hqzdsp25l6dg3i60z
+NarSize: 163112
+References: 
+Sig: grigio-jcode:FWajok8uqlbcUEuaKKIOMY/2dHvUHNJKK9UQJTce16fLQtQ6nIV9X07vSrioyhlhdAAC0utADUlLZTzeSm8aCQ==

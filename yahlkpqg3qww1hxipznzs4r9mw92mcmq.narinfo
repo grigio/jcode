@@ -1,0 +1,9 @@
+StorePath: /nix/store/yahlkpqg3qww1hxipznzs4r9mw92mcmq-cargo-package-is-docker-0.2.0
+URL: nar/04xq0g7z0pi06xr2vvirwpp9j7wqxvmsjkdr4c10xj96vaq2ma2x.nar.xz
+Compression: xz
+FileHash: sha256:04xq0g7z0pi06xr2vvirwpp9j7wqxvmsjkdr4c10xj96vaq2ma2x
+FileSize: 2644
+NarHash: sha256:16k9jf39ipah5p637jcnh3a6kn1njz83qp7nk21c5f789vhcq11y
+NarSize: 7664
+References: 
+Sig: grigio-jcode:sRmT1kAEst5tm6B8NUODu3deenpKfFGncvhIFQOMW20iUgnbJlIJW+JePsUWNPpAQzkZ1AKaEM8hjqC155SSAQ==

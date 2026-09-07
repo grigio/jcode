@@ -1,0 +1,9 @@
+StorePath: /nix/store/dqs1nilj47fz958m3d9zpj16jh2mqq81-cargo-package-usvg-0.46.0
+URL: nar/11vsf1viwhdcijl30nlbxm9jzkkyw8an436d3bhvxq4y7iqswhqz.nar.xz
+Compression: xz
+FileHash: sha256:11vsf1viwhdcijl30nlbxm9jzkkyw8an436d3bhvxq4y7iqswhqz
+FileSize: 110700
+NarHash: sha256:01sf2bzig70bi09476k6nvf888ksisv1xmx3q4rc4p5j7wxf8axb
+NarSize: 650536
+References: 
+Sig: grigio-jcode:wz5jkVf5txGsa8tA2dv8CyzLz0X4EUWqIPTgOzF0JrI3Z3Rb0DoAxGmdZtuoPND6aGG5NPTv9SDUFneaN51WAQ==

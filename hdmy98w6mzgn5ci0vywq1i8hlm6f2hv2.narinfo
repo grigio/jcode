@@ -1,0 +1,9 @@
+StorePath: /nix/store/hdmy98w6mzgn5ci0vywq1i8hlm6f2hv2-cargo-package-half-2.7.1
+URL: nar/1va5rk04rc1dfci86gz091bsbph8pha7ykxpdg975q2z4aanqaq6.nar.xz
+Compression: xz
+FileHash: sha256:1va5rk04rc1dfci86gz091bsbph8pha7ykxpdg975q2z4aanqaq6
+FileSize: 44404
+NarHash: sha256:1m44l5sdkp77p7ig6b6i3hz2ndchfzvdky9zg6m3y6kqpj2db0vx
+NarSize: 348752
+References: 
+Sig: grigio-jcode:Nmc8DLZm6wZEdZTLX+TXkke5MG8i5V4d0C5bTJra06d+ejTMy40eDCU9oy1mqeAL4UWDhhVOXVk4F8RFSnXZAg==

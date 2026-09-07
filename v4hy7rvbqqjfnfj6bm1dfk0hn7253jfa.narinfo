@@ -1,0 +1,9 @@
+StorePath: /nix/store/v4hy7rvbqqjfnfj6bm1dfk0hn7253jfa-cargo-package-phf_codegen-0.11.3
+URL: nar/0r4zvmbv4zqg9zsa4kz9qh5wkcna1ji98za2v5dv3fppnfsdk23z.nar.xz
+Compression: xz
+FileHash: sha256:0r4zvmbv4zqg9zsa4kz9qh5wkcna1ji98za2v5dv3fppnfsdk23z
+FileSize: 12176
+NarHash: sha256:1wma4zvzlp2p5crq5ysp2zmv4hch6j1lhz226671d48kznkpsa0b
+NarSize: 47656
+References: 
+Sig: grigio-jcode:9uVp6xLCKGC5+rz5hLf0jvlj3NInh7pMR12MEjXZ21HL64GxhV0MjQ0NxatrArY6akJs5zn/Lm/fjvM+3/ceCg==

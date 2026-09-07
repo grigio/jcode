@@ -1,0 +1,9 @@
+StorePath: /nix/store/ysrirzh3zxiawj48hjhpqhhgxj9yacz6-cargo-package-js-sys-0.3.99
+URL: nar/0h3chf9a34a27hml0p29sg8f20lz0k7j0xs79ffp5yg71bimr9mf.nar.xz
+Compression: xz
+FileHash: sha256:0h3chf9a34a27hml0p29sg8f20lz0k7j0xs79ffp5yg71bimr9mf
+FileSize: 89320
+NarHash: sha256:1gk4czn87g4kxqspxykiwnrmn8g0fqx4apg9j1xrw3by6pcgsa8r
+NarSize: 857056
+References: 
+Sig: grigio-jcode:7BavjTW+O1cR2fr+0UuUftMUdJ9dBkx0rzPQKWKaOuvFQbQuv5gIulrE6Cen+bhdJYfCOvQzp5XGfGuWDIl/Ag==

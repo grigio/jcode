@@ -1,0 +1,9 @@
+StorePath: /nix/store/lsq16f35ab8xbsi4idv04dv0pnr52iq5-cargo-package-document-features-0.2.12
+URL: nar/09cqmi68psz03kwnmwg3qzvdqgbdif2cjp9373irg4dnrkj767lq.nar.xz
+Compression: xz
+FileHash: sha256:09cqmi68psz03kwnmwg3qzvdqgbdif2cjp9373irg4dnrkj767lq
+FileSize: 13732
+NarHash: sha256:1zhdwrp0lbq5l9mq3g5qg0q711grpykgx5ml6ysljkdbqvbs3qmb
+NarSize: 53944
+References: 
+Sig: grigio-jcode:5qPIa+i9oPNnQKaQbs12jdU9gLyIpBkl6HLD6SmK6nODCvp8i1r+/xoyLZtdXPduSiTPNjzOVQALlpA9iP+UAA==

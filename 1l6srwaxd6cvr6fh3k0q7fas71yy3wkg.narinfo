@@ -1,0 +1,9 @@
+StorePath: /nix/store/1l6srwaxd6cvr6fh3k0q7fas71yy3wkg-cargo-package-atomic-waker-1.1.2
+URL: nar/1iaxdl7lrrrmskkn543mp5wkh1mqy1cqf5z9p5iy741vfnprq4ci.nar.xz
+Compression: xz
+FileHash: sha256:1iaxdl7lrrrmskkn543mp5wkh1mqy1cqf5z9p5iy741vfnprq4ci
+FileSize: 11664
+NarHash: sha256:1gcmbqxj3sc136j530bksigndji4lsx8cdq6sawr0wgwgaab25dq
+NarSize: 42128
+References: 
+Sig: grigio-jcode:psG5tC1NwaP9trQA1uqwRRMP62ObrrHMQTdME11WSmqLnqn9kpMTkCRMpMrG9kxavK+6yoT9OU5OeFXK4SePAA==

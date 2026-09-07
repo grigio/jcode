@@ -1,0 +1,9 @@
+StorePath: /nix/store/g28yfnr1b7x43ibpz0zaky98i253lsia-cargo-package-compression-codecs-0.4.37
+URL: nar/0z0dwhkcjnd497aiil8g18xjg98m3l1jiqqkgndh6sd40y6kv3b5.nar.xz
+Compression: xz
+FileHash: sha256:0z0dwhkcjnd497aiil8g18xjg98m3l1jiqqkgndh6sd40y6kv3b5
+FileSize: 21416
+NarHash: sha256:0b7mxw5ms6gsywbx3qbvdf1v88vxcr55d9sawgfmyi7p7fi8hkmm
+NarSize: 139248
+References: 
+Sig: grigio-jcode:vMGBuaPWDEaMehuArKEOAS/YTefmUvAAdrUwRjf49+UBf8Y9/PVeFRMoFfdAAGKQdafZdIhScTMot4P/3G1+Dw==

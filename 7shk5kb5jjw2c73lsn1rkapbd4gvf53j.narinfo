@@ -1,0 +1,9 @@
+StorePath: /nix/store/7shk5kb5jjw2c73lsn1rkapbd4gvf53j-cargo-package-ratatui-crossterm-0.1.0
+URL: nar/19x4wv2drjil16fq4n959x1fid248fb1p8axfshiy1nlini8jwyj.nar.xz
+Compression: xz
+FileHash: sha256:19x4wv2drjil16fq4n959x1fid248fb1p8axfshiy1nlini8jwyj
+FileSize: 15232
+NarHash: sha256:0q5xzjspa5ccdpb4pvdph3gbyqpnxc0wpk9l9q0rcqninz8p6qbx
+NarSize: 71696
+References: 
+Sig: grigio-jcode:CsP05ozjwR5wpQ5KwR8uv5RVgZx+EyjaviwlOU27ZbWRQQLdZRd2vz83WxODtnEKZ4xjybZviexiaiceQIWYDg==

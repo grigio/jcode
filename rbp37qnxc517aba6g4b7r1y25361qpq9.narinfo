@@ -1,0 +1,9 @@
+StorePath: /nix/store/rbp37qnxc517aba6g4b7r1y25361qpq9-cargo-package-cmov-0.5.3
+URL: nar/0m3dgjm0k1pjqbwnpb4nxrjs4prvv5yqgsln21ispfxh155fkmca.nar.xz
+Compression: xz
+FileHash: sha256:0m3dgjm0k1pjqbwnpb4nxrjs4prvv5yqgsln21ispfxh155fkmca
+FileSize: 23252
+NarHash: sha256:0iaisj2x7mgpjkbd5bg40y8ijnmdrmibbh2yk01irj03mrj2xyla
+NarSize: 116768
+References: 
+Sig: grigio-jcode:OeoJYKzNXAU47eLNe4xqJHHiWbZPZ9PaSa4Sae6FWwMjg7tCDNtlxstjn3B9+pLIczUZrYpBU8cTl/MJv9t4BQ==

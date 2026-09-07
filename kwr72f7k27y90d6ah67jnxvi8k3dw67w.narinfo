@@ -1,0 +1,9 @@
+StorePath: /nix/store/kwr72f7k27y90d6ah67jnxvi8k3dw67w-cargo-package-syn-2.0.117
+URL: nar/1qw7njg033rfppkrgwjy4vz15jaqqdd43ccdnqqcrw4mp00ip5la.nar.xz
+Compression: xz
+FileHash: sha256:1qw7njg033rfppkrgwjy4vz15jaqqdd43ccdnqqcrw4mp00ip5la
+FileSize: 232988
+NarHash: sha256:1wkclw31y759clawvksq7k37hsxxhhcipck0hl3vm0xl4pzx2nh8
+NarSize: 2315840
+References: 
+Sig: grigio-jcode:crqjzuzIn0Zz1Vh8J0xPAGt6ZU7qqUWSROvqb+NvVfXiCOp+q8c2eE0nhCak8zLswyRNY42RfPPP/C3FzWc8Cw==

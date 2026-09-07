@@ -1,0 +1,9 @@
+StorePath: /nix/store/s52907lgcz6ykg8n1wd6shvhk6kqbr4s-cargo-package-macro_rules_attribute-proc_macro-0.2.2
+URL: nar/0ghziyara4i2083hv546ihcx3yb3v9ad7dk3d8vxyqhl8wiv6gbz.nar.xz
+Compression: xz
+FileHash: sha256:0ghziyara4i2083hv546ihcx3yb3v9ad7dk3d8vxyqhl8wiv6gbz
+FileSize: 7848
+NarHash: sha256:1rggaib0hxwd3qsw7magd36s9qsy2lzbgq0ajgzyqlx26036g37j
+NarSize: 25896
+References: 
+Sig: grigio-jcode:Nuy/bTgET6czBzIYcfncTLjjAWF9mVrhg7OyHjN1CNAhDR8GVsxBj8VNkpO+b59nhQcoLv/T2qaUFF/Ng8HmAg==

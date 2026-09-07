@@ -1,0 +1,9 @@
+StorePath: /nix/store/6ir1k684ia8mhs26mwyq4p7p10xgd4dp-cargo-package-type1-encoding-parser-0.1.1
+URL: nar/0c891vw8w7qsjzq38jll0v6fx98cgjbkljsy1syiwydh1ydbrdxb.nar.xz
+Compression: xz
+FileHash: sha256:0c891vw8w7qsjzq38jll0v6fx98cgjbkljsy1syiwydh1ydbrdxb
+FileSize: 3232
+NarHash: sha256:0gs5n406m5fzw79c68mfbnypz8kbpkly6haczkk2ymvnnibqf9k5
+NarSize: 12032
+References: 
+Sig: grigio-jcode:A9gjgXj2qWbSIdUjUE3aN3cpqnHJcx1KfTXXnqnPplG6BfgtMAYIHYHnjoXuIPorjmr7PmzRH4pw+ux4y6YiAg==

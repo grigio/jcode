@@ -1,0 +1,9 @@
+StorePath: /nix/store/ssfk7rg49d38wz4rsrzdnzff597xqm5p-cargo-package-tracing-core-0.1.36
+URL: nar/07qxd78w1jgn8jafgp29haaykpzrs80gpz4k5hbj5n8hvvjyi776.nar.xz
+Compression: xz
+FileHash: sha256:07qxd78w1jgn8jafgp29haaykpzrs80gpz4k5hbj5n8hvvjyi776
+FileSize: 52312
+NarHash: sha256:1padxidmi6wzg8ihnwsvkzajhljxa5s844p3sqg9caf131p5z288
+NarSize: 261832
+References: 
+Sig: grigio-jcode:GjhcBq0U/n4gb0B8SIsC9YXDtUvVHTg42VvIn4V02Se6ZTT7vqL7klIuM1Mi3Qb7g7X1kyMBUh56ey5P2iTvDg==

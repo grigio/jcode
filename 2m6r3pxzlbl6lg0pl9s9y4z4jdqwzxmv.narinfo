@@ -1,0 +1,9 @@
+StorePath: /nix/store/2m6r3pxzlbl6lg0pl9s9y4z4jdqwzxmv-cargo-package-thiserror-impl-2.0.19
+URL: nar/0cm8wasjiq3p4haj7cz1r89wvq7na54fn6impprjksjia469lv08.nar.xz
+Compression: xz
+FileHash: sha256:0cm8wasjiq3p4haj7cz1r89wvq7na54fn6impprjksjia469lv08
+FileSize: 19228
+NarHash: sha256:12yssasi88dfyhxqla9xiya7h863x5cdwv8pw0v70m6nh1kybpsk
+NarSize: 99984
+References: 
+Sig: grigio-jcode:j+ycxIhUB3jhvUiSGF7+psrdyxUaNmn4Uv73W7FlDaTfYof3vPdOLtbPY7A6+4bAwFL0EkdO5a3+4aJtBPbKBg==

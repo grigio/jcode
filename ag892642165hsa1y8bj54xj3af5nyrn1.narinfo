@@ -1,0 +1,10 @@
+StorePath: /nix/store/ag892642165hsa1y8bj54xj3af5nyrn1-rust-default-1.97.1
+URL: nar/0f82pbxcwjxixxm78pdidiflr0lbazrklxfak1xwvmiclggv5mc5.nar.xz
+Compression: xz
+FileHash: sha256:0f82pbxcwjxixxm78pdidiflr0lbazrklxfak1xwvmiclggv5mc5
+FileSize: 51926980
+NarHash: sha256:1ra8v6mfikq333qng4l7ad8vvn92ygym49zf6shwj6idckn2qap0
+NarSize: 227121960
+References: 02c2yn0y9i6k1b2ksg0qr16rwp013c9n-rust-analyzer-preview-1.97.1-x86_64-unknown-linux-gnu 2fxbwmmyds8qaxy5pqf3wfmgrsvdb27y-clippy-preview-1.97.1-x86_64-unknown-linux-gnu 2ilj6vrfabnyba9i29l5mwzg0qjgmfbb-cargo-1.97.1-x86_64-unknown-linux-gnu 3plxk0qjyx3hx0wnswrpnrgg4d4lw96b-rustc-1.97.1-x86_64-unknown-linux-gnu adcz0m6qq2flmshdf0zz2xwjr5zbq1gr-gcc-wrapper-15.3.0 ag892642165hsa1y8bj54xj3af5nyrn1-rust-default-1.97.1 c9mv5v53f7vy3wd00ah0f77k509mzmn7-bash-5.3p15 crnyq5s3xf9pq87ik8z4dbpxp8a6c1w4-rust-std-1.97.1-x86_64-unknown-linux-gnu kw26hfd5b653cn2lm6yfh0q7y18d6d9l-gcc-15.3.0-libgcc l8si8gnvvq93yzms1jsgh5aixyf9rl5x-glibc-2.42-67 p9d5f7q52v3y11fx750yka2fi0nb5cix-rust-src-1.97.1-x86_64-unknown-linux-gnu r22qpxq99qbpmxnjbb2q2c6i3g5vb0f3-rust-docs-1.97.1-x86_64-unknown-linux-gnu xplgg6bnv5zglgrf3djibil77nr7b7qm-libsecret-0.21.7 xqshzn3j3n6dvjkl64bhz94axklkvd63-rustfmt-preview-1.97.1-x86_64-unknown-linux-gnu
+Deriver: grr964ph8b6z1y3i8pqs931pk6xil3k7-rust-default-1.97.1.drv
+Sig: grigio-jcode:FTW37Ft/OT4zqmuPI2TPizS53+oL9/cfxWqWuxJ7RFNwxJmI+ZcMwc0diT1dzRiZcLx9HKcViIuaQ6vmMZbxDQ==

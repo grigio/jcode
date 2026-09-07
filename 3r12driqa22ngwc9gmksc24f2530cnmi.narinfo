@@ -1,0 +1,9 @@
+StorePath: /nix/store/3r12driqa22ngwc9gmksc24f2530cnmi-cargo-package-logos-derive-0.16.1
+URL: nar/1yik7rabwhgwb73rpl4x1mlf2syxmf5gb9irin5q9fxm14g04rzi.nar.xz
+Compression: xz
+FileHash: sha256:1yik7rabwhgwb73rpl4x1mlf2syxmf5gb9irin5q9fxm14g04rzi
+FileSize: 7664
+NarHash: sha256:1lx3mm4a23wp2dhfnpksd5icr86k91fl5p8mi35awqx803qf1wcf
+NarSize: 23240
+References: 
+Sig: grigio-jcode:71TlXLEKMBjs3UoBGqjtKYR1EpZHtdh8I4Ah+rwPLO9SJbjShrKHPnbAIGupzxUrFfGGV6n/8wcNDmm/pMsVAA==

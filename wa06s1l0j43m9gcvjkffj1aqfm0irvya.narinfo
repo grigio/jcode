@@ -1,0 +1,9 @@
+StorePath: /nix/store/wa06s1l0j43m9gcvjkffj1aqfm0irvya-cargo-package-azure_core_macros-1.0.0
+URL: nar/138pga1w0sv1ga3v1nbag2kj1rahgjgrk7bka5icrlaawpnab89f.nar.xz
+Compression: xz
+FileHash: sha256:138pga1w0sv1ga3v1nbag2kj1rahgjgrk7bka5icrlaawpnab89f
+FileSize: 12912
+NarHash: sha256:1nf1490dd1ndignpayh768bpv1dki6cvdnsqn4ra9aa74gg4cvgh
+NarSize: 79912
+References: 
+Sig: grigio-jcode:RMg0H5Du/z7oHoTujGrUCt5Uof2BFybporrClM7lsVqaCz9WwktJbIieN60pAGgxO1KcWEPdjD6GnV+E4mlJAg==

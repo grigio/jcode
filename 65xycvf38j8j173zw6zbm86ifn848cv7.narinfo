@@ -1,0 +1,9 @@
+StorePath: /nix/store/65xycvf38j8j173zw6zbm86ifn848cv7-cargo-package-option-ext-0.2.0
+URL: nar/0a209c18wrwaqjmgly5gwdjs01ki4mh9f64y7iqq9wac13i9a533.nar.xz
+Compression: xz
+FileHash: sha256:0a209c18wrwaqjmgly5gwdjs01ki4mh9f64y7iqq9wac13i9a533
+FileSize: 7044
+NarHash: sha256:0v0js49139j1nfa7j39q9ma36ryiplkaikdisgxy56gp53rfisiq
+NarSize: 24728
+References: 
+Sig: grigio-jcode:AbR53Eu5n0eDOn5M8+6kz6gGJOgujkuwOpzmt2LDb/1q45c+NNr4N2k55MtKJte+hYX7fkOQnwxjh3ckTYoOAw==

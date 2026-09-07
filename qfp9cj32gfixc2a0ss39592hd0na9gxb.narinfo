@@ -1,0 +1,9 @@
+StorePath: /nix/store/qfp9cj32gfixc2a0ss39592hd0na9gxb-cargo-package-zerocopy-0.8.33
+URL: nar/125j7slgh611b2xvlk58c38788405zyhfdbmv26511s1i098narl.nar.xz
+Compression: xz
+FileHash: sha256:125j7slgh611b2xvlk58c38788405zyhfdbmv26511s1i098narl
+FileSize: 187300
+NarHash: sha256:0ij56pz3l27n71xh925l2qzz654iyzb2qb34sll89s72axc4vakc
+NarSize: 1602240
+References: 
+Sig: grigio-jcode:7W0LvLHDQm1Rw6BXRwUF8SEbk8a0DDBJCnc8wedwLisw3ZjBuNkqxLVdqpG6eCQybFdnbkDat5LmYgx6la8yBg==

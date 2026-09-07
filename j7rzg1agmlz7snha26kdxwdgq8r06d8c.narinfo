@@ -1,0 +1,9 @@
+StorePath: /nix/store/j7rzg1agmlz7snha26kdxwdgq8r06d8c-cargo-package-polycool-0.4.0
+URL: nar/0rwlrmdnbmsv700pjp82v5sf1xhcg37zm3ygln3fg9dm1jg3zbd6.nar.xz
+Compression: xz
+FileHash: sha256:0rwlrmdnbmsv700pjp82v5sf1xhcg37zm3ygln3fg9dm1jg3zbd6
+FileSize: 20064
+NarHash: sha256:1f48l5gykgm0q8jc343hkw3cf52nc94shvpiwc60w8msal4wj2fa
+NarSize: 83624
+References: 
+Sig: grigio-jcode:7Fw00qLo4NITpbPeNaleKfunalcc4All0t6d1ooVaKvFr7quYvtOzLgF22ri07lZ37AtHUX/7hYJ7kQ9ztyrDA==

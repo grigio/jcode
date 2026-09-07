@@ -1,0 +1,9 @@
+StorePath: /nix/store/brym5i0axc45i9b43v324l31ggvksq5d-cargo-package-fax-0.2.6
+URL: nar/1zjnmbf4v45xkglav64wayz3nd175k6mq2g5asq0hw2j3lgdlr16.nar.xz
+Compression: xz
+FileHash: sha256:1zjnmbf4v45xkglav64wayz3nd175k6mq2g5asq0hw2j3lgdlr16
+FileSize: 11684
+NarHash: sha256:0khk94q3fxvsf2j20mpv48nhfkczm43w4r2nqcvd74l0895gy3rd
+NarSize: 54184
+References: 
+Sig: grigio-jcode:QW2GYJlwjWqY/JhmT09sEZUjV6Zd6cn8P3aN+CE7HqKd5OongxPe+i6aqm1KLDkywE28USK+5qh5GEpGVr0xAw==

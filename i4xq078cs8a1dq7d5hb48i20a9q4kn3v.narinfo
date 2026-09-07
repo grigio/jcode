@@ -1,0 +1,9 @@
+StorePath: /nix/store/i4xq078cs8a1dq7d5hb48i20a9q4kn3v-cargo-package-aws-smithy-http-client-1.2.0
+URL: nar/08da4rygf6i5y6p7lhv81xb5yj6d4g9c4q19p593rkp4khk7c806.nar.xz
+Compression: xz
+FileHash: sha256:08da4rygf6i5y6p7lhv81xb5yj6d4g9c4q19p593rkp4khk7c806
+FileSize: 72652
+NarHash: sha256:0zp96nn699svl56cc9rx70lhap21v1giizwpy3zcqvvkv5m78w2h
+NarSize: 423016
+References: 
+Sig: grigio-jcode:UqV9b27AWo9kNH4u8JEPUdtddZYKAHKCSiN3ayvc7YIl4Fj1wh/7fbrVRPyemfrgc9hL94Kroj6WbZkhe6LJCQ==

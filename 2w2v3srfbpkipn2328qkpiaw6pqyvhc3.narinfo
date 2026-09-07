@@ -1,0 +1,9 @@
+StorePath: /nix/store/2w2v3srfbpkipn2328qkpiaw6pqyvhc3-cargo-package-primal-check-0.3.4
+URL: nar/09ryj4xgk51bqk312nxnhzv2301wrlmq0vnw5x75rj2y33w6rnai.nar.xz
+Compression: xz
+FileHash: sha256:09ryj4xgk51bqk312nxnhzv2301wrlmq0vnw5x75rj2y33w6rnai
+FileSize: 8208
+NarHash: sha256:020k32kbfvxxms7mkadg68rds229ygkblihrxwciyk35zdfk05n0
+NarSize: 25760
+References: 
+Sig: grigio-jcode:xVnSvkvLwuqCtBcIgDHj/PlQOOHFYA7VVja+xb2KOipvceZFnnr0NvorPo5KgnPNz3rFPa37AMxDwYBnSas8Dg==

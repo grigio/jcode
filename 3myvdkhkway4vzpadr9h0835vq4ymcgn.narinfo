@@ -1,0 +1,9 @@
+StorePath: /nix/store/3myvdkhkway4vzpadr9h0835vq4ymcgn-cargo-package-memoffset-0.9.1
+URL: nar/1syp579xry8y12wvhc7pb7zyhwhi1s3cmxr0cs9mm16s6a89hpza.nar.xz
+Compression: xz
+FileHash: sha256:1syp579xry8y12wvhc7pb7zyhwhi1s3cmxr0cs9mm16s6a89hpza
+FileSize: 8472
+NarHash: sha256:161ka4d4aa4kl8pw38w1h7yydrzpvhhbjkhi1fw1man5zz21gmkj
+NarSize: 42776
+References: 
+Sig: grigio-jcode:LW5++hOJlhcayf1POVVDcjtAHue8qtNRW+31Nsfx3tZVDC13JAOGgAyr6i10M7gLYTpozyjIjLnHyoglR6vWDg==

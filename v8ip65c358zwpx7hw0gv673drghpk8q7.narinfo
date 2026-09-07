@@ -1,0 +1,9 @@
+StorePath: /nix/store/v8ip65c358zwpx7hw0gv673drghpk8q7-cargo-package-pest_meta-2.8.5
+URL: nar/0qdinpd7s5jbmkgfaag6z80nfwzlm3bj0pgal2d1612p0ymxh3p2.nar.xz
+Compression: xz
+FileHash: sha256:0qdinpd7s5jbmkgfaag6z80nfwzlm3bj0pgal2d1612p0ymxh3p2
+FileSize: 34780
+NarHash: sha256:0i2qalvr63k5yzc9vy7rz5vlll3xl8d933qybn4z00xs05c0rs54
+NarSize: 287456
+References: 
+Sig: grigio-jcode:/eMGKo4BoCWTjeeeCXUqdNSvCP0BBIBPDP3PZK2TrGXLqSyqs3V+zz9hXHN90qf8CKcUcmF8kj3ARXELX81kCw==

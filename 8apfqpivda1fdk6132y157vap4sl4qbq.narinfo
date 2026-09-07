@@ -1,0 +1,9 @@
+StorePath: /nix/store/8apfqpivda1fdk6132y157vap4sl4qbq-cargo-package-aws-smithy-observability-0.3.0
+URL: nar/18zm6kab9wak8l52fk23v4hrnkrhz5gmar996gm6splrymnx9qmg.nar.xz
+Compression: xz
+FileHash: sha256:18zm6kab9wak8l52fk23v4hrnkrhz5gmar996gm6splrymnx9qmg
+FileSize: 13012
+NarHash: sha256:1m3dqf9c10z3dx6hp4kba817y212gzl37fb2ir1hwdjmcw4pgjj7
+NarSize: 55272
+References: 
+Sig: grigio-jcode:xCTWapOm9SqcR5sD6Buk/Gu9wmaaf/9ZKUz26H7W+w1vu17TXpzHWategr1QQC/+j/G0J0p7Ha95CJovV8RwBA==

@@ -1,0 +1,9 @@
+StorePath: /nix/store/m3rlxwzf7709hlhqrkj694jf87iiq4qy-cargo-package-zerotrie-0.2.3
+URL: nar/0iznw2vs2dc5bg1hrnrjghbq6yp8q6c9waaxy236ifjfqx2x2ndh.nar.xz
+Compression: xz
+FileHash: sha256:0iznw2vs2dc5bg1hrnrjghbq6yp8q6c9waaxy236ifjfqx2x2ndh
+FileSize: 52452
+NarHash: sha256:0cp2fpc63i07ag8npxixva0c2xacmp0aaq0gvlzxff00fqh0jh3l
+NarSize: 358176
+References: 
+Sig: grigio-jcode:RiAqQc8+CimOUdX1nf8X5VjwORFEPE9aBPH0/e7DFiglEVi6CaNZC/XwTFlcTUd2u5e5C0D/fFZoIvjHDwyiCA==

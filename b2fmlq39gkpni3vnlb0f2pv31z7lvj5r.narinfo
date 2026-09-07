@@ -1,0 +1,9 @@
+StorePath: /nix/store/b2fmlq39gkpni3vnlb0f2pv31z7lvj5r-cargo-package-rand_xoshiro-0.7.0
+URL: nar/0y898glqgckh09v17l35x7hdgzrz337zhmwsdvw9x8skdy815mmn.nar.xz
+Compression: xz
+FileHash: sha256:0y898glqgckh09v17l35x7hdgzrz337zhmwsdvw9x8skdy815mmn
+FileSize: 15932
+NarHash: sha256:0n3jfjrwnr2y44kczfn0xw3rdij1n1p3hf35qnqq1az4p9s9352x
+NarSize: 106528
+References: 
+Sig: grigio-jcode:JkuJErzRloWZN7T9id5Boys74cP8phM57wKfRAtFGr3ZJZFe1DzevbTsKr7EAUKmXeyEqTCUQ/OhKyebmipTDQ==

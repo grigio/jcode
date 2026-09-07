@@ -1,0 +1,9 @@
+StorePath: /nix/store/c7r0yhapfxr98m2sraw5gk4jrj4w5wjs-cargo-package-tiff-0.10.3
+URL: nar/0qgmwn8a1mxckld1jgqjxhnjxhqvn03q4kw7qvi8kppjk6wkqr16.nar.xz
+Compression: xz
+FileHash: sha256:0qgmwn8a1mxckld1jgqjxhnjxhqvn03q4kw7qvi8kppjk6wkqr16
+FileSize: 1427812
+NarHash: sha256:15vgpl4yf77ri8wbxl9777hbmqcxaa87a1020hvc8hm783bbsyb1
+NarSize: 1771816
+References: 
+Sig: grigio-jcode:yIjKNaSsxN8BOQy4loCOQsRUKA9WUecs82ZyEVoGRhxU2LbtMlcjQIfnfD5DVmcOEC5CryS+GKvsZcYCgC+eCg==

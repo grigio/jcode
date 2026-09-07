@@ -1,0 +1,9 @@
+StorePath: /nix/store/cb3jmpfjhv9034kri9r8hpl93cn6wv29-cargo-package-tower-http-0.6.8
+URL: nar/1wyllpjbh4s7r1di23znrf44hw0mjr7237392i4jbwhmbhfkflyw.nar.xz
+Compression: xz
+FileHash: sha256:1wyllpjbh4s7r1di23znrf44hw0mjr7237392i4jbwhmbhfkflyw
+FileSize: 100644
+NarHash: sha256:04lmq831hmnmg5wq2j06103z72fnv9xg81yqhyagb2gfxng8rgpf
+NarSize: 782528
+References: 
+Sig: grigio-jcode:6mHXIm+h2rZJ/xjLsUUIydTnMnLyLPE0nyGgbKXh319+XcUf5tyNUAtT+znkzhrNx3A6VxUBT3EN35/wrfUQAw==

@@ -1,0 +1,9 @@
+StorePath: /nix/store/rk506cvcq9azlgxr6y271qfrj544whv8-cargo-package-ahash-0.8.12
+URL: nar/1clmalp3pxx8sdfg93r7yvhdk7ld96mgyf9jj8qlahhfgf5x0g2c.nar.xz
+Compression: xz
+FileHash: sha256:1clmalp3pxx8sdfg93r7yvhdk7ld96mgyf9jj8qlahhfgf5x0g2c
+FileSize: 37508
+NarHash: sha256:0fdyvw7x2zh7hmv5yvhpdzmskhcp10k1inj55bnlhkkqypbx7506
+NarSize: 186328
+References: 
+Sig: grigio-jcode:dHOHlRm+G/9OPgmUgawVx+yDr6MjwjASBrFT+LSWCLSrcBTDFBsHSTc1vRkzAp9hDs1egpGlwmz82Mio0gSTDA==

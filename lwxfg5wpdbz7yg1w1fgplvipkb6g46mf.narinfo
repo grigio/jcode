@@ -1,0 +1,9 @@
+StorePath: /nix/store/lwxfg5wpdbz7yg1w1fgplvipkb6g46mf-cargo-package-kasuari-0.4.12
+URL: nar/0inwqb5ggnpznxk9am61r79akpwzq1jz6nzs5v3xk1fl63c4xrkl.nar.xz
+Compression: xz
+FileHash: sha256:0inwqb5ggnpznxk9am61r79akpwzq1jz6nzs5v3xk1fl63c4xrkl
+FileSize: 28704
+NarHash: sha256:0yyjh4ir1m44qh9fy7142r6x1w3dgmgs2334416bys48qdbd6wd6
+NarSize: 147144
+References: 
+Sig: grigio-jcode:LZh4vUxU+hE+12S8QVYuCu1q2DUielaW24fev6PPQxEtfhrOfu8hhMbqlqJkh7r4N+BXfDb5XnF43WomQqMOCg==

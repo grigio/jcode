@@ -1,0 +1,9 @@
+StorePath: /nix/store/iddfns4jpz3ss9p4h35mmv5ypnpngkgl-cargo-package-toml_edit-0.20.2
+URL: nar/150fzmw89dap55m42jvjwndghf2n5ylwwi63nw10cwlfil3c0bzv.nar.xz
+Compression: xz
+FileHash: sha256:150fzmw89dap55m42jvjwndghf2n5ylwwi63nw10cwlfil3c0bzv
+FileSize: 73744
+NarHash: sha256:1jv2xjhhgdmh6xmmampbjs8abd4vb6d7p67vq2wl50y0n8vnsykb
+NarSize: 547744
+References: 
+Sig: grigio-jcode:31wFAqILY7t3IILv7gIwNojPFPG5g5wZY58x4DnqWERCVtuqnGSlWHR0ivWcER0iOQhN0c5agMW88sOU5IdcDg==

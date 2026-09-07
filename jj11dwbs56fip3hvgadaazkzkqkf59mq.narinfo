@@ -1,0 +1,9 @@
+StorePath: /nix/store/jj11dwbs56fip3hvgadaazkzkqkf59mq-cargo-package-windows_aarch64_msvc-0.52.6
+URL: nar/1gfhmjbari66r1d6jh9ifkiyl5xdxrcd7gmsv4rnllvv3xw67rzi.nar.xz
+Compression: xz
+FileHash: sha256:1gfhmjbari66r1d6jh9ifkiyl5xdxrcd7gmsv4rnllvv3xw67rzi
+FileSize: 529928
+NarHash: sha256:11zkb9w826hgjlkmqscrna91j86ww87yys3hh8dy0mickl62gy0n
+NarSize: 5227312
+References: 
+Sig: grigio-jcode:04dBfOlJvMx0vJKdHOg75KQai2Ehh+7mkp5PNGWh1YJK2tW2ObWwQH9rTMMlaPM3jJyYzwn09BWDs3nH3+1wDg==

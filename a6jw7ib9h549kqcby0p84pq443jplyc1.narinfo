@@ -1,0 +1,9 @@
+StorePath: /nix/store/a6jw7ib9h549kqcby0p84pq443jplyc1-cargo-package-crypto-common-0.1.7
+URL: nar/0w8zqxr9xi4z664wssfnb2g11ckkp73llwhg2pf3rvh51sx31rz3.nar.xz
+Compression: xz
+FileHash: sha256:0w8zqxr9xi4z664wssfnb2g11ckkp73llwhg2pf3rvh51sx31rz3
+FileSize: 8988
+NarHash: sha256:002ivbfsp3dn96bn8n5qas4whwdyj11h0c9rflxzkacr3rij68m4
+NarSize: 30904
+References: 
+Sig: grigio-jcode:GlqOgCkfeoZumpAtR9f9HKP09bncto7xwbAR1WTAvzVtamAuCym4vwVV9ShVmLns7wQ9aPOkZmfia6JiT824BA==

@@ -1,0 +1,9 @@
+StorePath: /nix/store/ibbr3k1w3qr84yxy7crivgfimimx7ira-cargo-package-bytecount-0.6.9
+URL: nar/112bk5xanswfm571qcn7lr9ik3ws975wpi254f9zzw0msq8knc3c.nar.xz
+Compression: xz
+FileHash: sha256:112bk5xanswfm571qcn7lr9ik3ws975wpi254f9zzw0msq8knc3c
+FileSize: 16740
+NarHash: sha256:0fgkx2skmzb5b40rl7zmwqskc7y8agcan94528w3v95nqn7490sh
+NarSize: 81720
+References: 
+Sig: grigio-jcode:69YZj1tkr2T8CrTADGJrqnC+4IlEQNkZU3Ik72RVvafyMJtiAQhLVHfANJA/1j2i10SX97o/dImRWp5MkTjqAg==

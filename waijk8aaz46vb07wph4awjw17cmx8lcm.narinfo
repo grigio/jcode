@@ -1,0 +1,9 @@
+StorePath: /nix/store/waijk8aaz46vb07wph4awjw17cmx8lcm-cargo-package-futures-0.3.31
+URL: nar/1k3ggnxivllz2dbrrpk3w4y84mh71xhx7n879mxhx9m0zkm3s59x.nar.xz
+Compression: xz
+FileHash: sha256:1k3ggnxivllz2dbrrpk3w4y84mh71xhx7n879mxhx9m0zkm3s59x
+FileSize: 45452
+NarHash: sha256:0q0fcrh9kqzh5mssy4058r06liplwskz0gl5x75252vfr3gbrdgl
+NarSize: 336864
+References: 
+Sig: grigio-jcode:6JoGZRPZq5KMBKDHoTP+GK2veSm60UcPFLxLW98Fo0Iys+aYIrWzuVvdFztRDrnBIT1RcQ0Qt0G27JI86NmyBA==

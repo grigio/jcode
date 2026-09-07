@@ -1,0 +1,9 @@
+StorePath: /nix/store/15p8s45phd1zk1c2hqvqqqlfygvwi8sf-cargo-package-funty-2.0.0
+URL: nar/1ps2af98kxj7f7cgy0f28g4q07irj1cmkr7d45l6bwxp4gpq45h3.nar.xz
+Compression: xz
+FileHash: sha256:1ps2af98kxj7f7cgy0f28g4q07irj1cmkr7d45l6bwxp4gpq45h3
+FileSize: 11916
+NarHash: sha256:1gm0n69cgpqdwz7swa977kwdq5sssc1vrvpiq29zl65yc4dy1avs
+NarSize: 58888
+References: 
+Sig: grigio-jcode:q712DY958vFOJpJ5sGy2xeKyKjDwQ38nfxPiUbV6z0uP8cFPLTRrTAPW4pWLALNTcKTHwUztiAEGmzfcIB9LAg==

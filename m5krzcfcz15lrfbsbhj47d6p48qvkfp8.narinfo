@@ -1,0 +1,9 @@
+StorePath: /nix/store/m5krzcfcz15lrfbsbhj47d6p48qvkfp8-cargo-package-moxcms-0.7.11
+URL: nar/02l81dqg9xm0gsra4f9ra0s5wfdxl2625a04qcdz8aa3vjk4xycf.nar.xz
+Compression: xz
+FileHash: sha256:02l81dqg9xm0gsra4f9ra0s5wfdxl2625a04qcdz8aa3vjk4xycf
+FileSize: 114136
+NarHash: sha256:1g1ksbqg2mh3bwrnb9lrpvvqy7qmzvk8iw35zjp2wccv8i3sfnip
+NarSize: 1561816
+References: 
+Sig: grigio-jcode:MbfckqDWQPiptKRPbv1iloQtLKFv9kG+MVZxI2lH8cm9WnPyQYh38PqOSwMMrt37u4o3gq5xKeburN0cj9zfCg==

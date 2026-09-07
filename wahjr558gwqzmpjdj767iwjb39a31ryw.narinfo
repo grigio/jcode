@@ -1,0 +1,9 @@
+StorePath: /nix/store/wahjr558gwqzmpjdj767iwjb39a31ryw-cargo-package-zune-core-0.4.12
+URL: nar/15v44gsrp9cn9qgwr26s69b8rhh2wzv2zbvlsnkyql71cm7ir9qz.nar.xz
+Compression: xz
+FileHash: sha256:15v44gsrp9cn9qgwr26s69b8rhh2wzv2zbvlsnkyql71cm7ir9qz
+FileSize: 15756
+NarHash: sha256:0ri14yz3b1kcgxxzgwp522f3iamai3grypi4n2knrgavnm5m24vb
+NarSize: 81080
+References: 
+Sig: grigio-jcode:Yc5WdxCNGVrvQdPTmw8CZgzhGD8j2GbHD0a8Mdg9dx3AxNYO58WepkD5TZL36v3nbhi1JJ1k7OHmafoGLKVtBQ==

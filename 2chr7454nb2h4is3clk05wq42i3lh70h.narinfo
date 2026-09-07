@@ -1,0 +1,9 @@
+StorePath: /nix/store/2chr7454nb2h4is3clk05wq42i3lh70h-cargo-package-is-wsl-0.4.0
+URL: nar/0scjw16h61ks8vqh3i5mmmc8xgr6m2s3917i5ms1v3ms3hbgyckc.nar.xz
+Compression: xz
+FileHash: sha256:0scjw16h61ks8vqh3i5mmmc8xgr6m2s3917i5ms1v3ms3hbgyckc
+FileSize: 3200
+NarHash: sha256:09jx3lxvhm2fi4sp9y575jhn4h8szgsr3cj4xv20f3ws9gymg4zs
+NarSize: 9976
+References: 
+Sig: grigio-jcode:glyF9i4hz2p3VzaFFDVVyWXro97ynT6FUq6yM3FYYZwOvuUIo8KISlWnXPmAGOgoEAOZGmbg5xzpyqHoPQntCw==

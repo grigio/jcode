@@ -1,0 +1,9 @@
+StorePath: /nix/store/qc580ag9cnvci386r8r44cbjcdhsllz8-cargo-package-rayon-cond-0.4.0
+URL: nar/1014bf0axkn9xxizx9d4ijdsax5p58k5m2qpp2dn2z8p6m99br18.nar.xz
+Compression: xz
+FileHash: sha256:1014bf0axkn9xxizx9d4ijdsax5p58k5m2qpp2dn2z8p6m99br18
+FileSize: 9932
+NarHash: sha256:1fm2mx21q94mdycz5j2xxyh9qcxs1z3dljv4fbaln27mmqrahr84
+NarSize: 44528
+References: 
+Sig: grigio-jcode:YTX6JrmHdvfwjz1MXJ/Vsw3RLqewSj7t16vaiBG2XMHBoMuRI8L74LwAy+VRff6Xdm/EyfCUcyYr+9rwnHT/BA==

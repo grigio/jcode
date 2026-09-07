@@ -1,0 +1,9 @@
+StorePath: /nix/store/fc6gmrf25cs0scclk2420chbz2idq481-cargo-package-rand_distr-0.6.0
+URL: nar/13z4s6rr7q7fm42lp3srfgj3qdbh99vnxb8djxiqd442w7nnly80.nar.xz
+Compression: xz
+FileHash: sha256:13z4s6rr7q7fm42lp3srfgj3qdbh99vnxb8djxiqd442w7nnly80
+FileSize: 66108
+NarHash: sha256:10qrjbgrgll797369kcc1z89w8cg95fnasnrxwgami3ak3j02mhp
+NarSize: 331216
+References: 
+Sig: grigio-jcode:ilWwZVuE13NPzWHmVMDm5LMuQGrxCHzyOZQ70lffpx9nl7XfEpx+jXJt/q5YGUxat+if3/Q+ypcTOH6OTWlnCQ==

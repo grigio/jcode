@@ -1,0 +1,9 @@
+StorePath: /nix/store/4bg7ncs6zvhxqln3dybmd371fnrgg2n1-cargo-package-cipher-0.4.4
+URL: nar/0wr7hzbzij1vfcgl76lv8wgkpv48vd7mpskr0pysy4isj80kasf9.nar.xz
+Compression: xz
+FileHash: sha256:0wr7hzbzij1vfcgl76lv8wgkpv48vd7mpskr0pysy4isj80kasf9
+FileSize: 17044
+NarHash: sha256:01q6sh9xnf40qxdgkw2k29rswgxx913bpklgrp9850rj6mzd3wjc
+NarSize: 95248
+References: 
+Sig: grigio-jcode:rAO1BOuZOBElM2RPu/niqMefZlLqS22+ZXsDNS8U0+r3FbvDoeFod517K9rMI//gkEexzjDhh2Wwd06fQr78Cg==

@@ -1,0 +1,9 @@
+StorePath: /nix/store/ngs87zalr4m2mqdy7ivf2jyaghb05nb2-cargo-package-rustversion-1.0.22
+URL: nar/1s9x8z4w9xnqach02yiwd4wsn8g23qs0a5gnm51bbsx4np38qjjp.nar.xz
+Compression: xz
+FileHash: sha256:1s9x8z4w9xnqach02yiwd4wsn8g23qs0a5gnm51bbsx4np38qjjp
+FileSize: 17984
+NarHash: sha256:0fy5s261dbg8nbagmjcidr3mzryh9bbi33s3q57g8776qxmfbd3a
+NarSize: 83704
+References: 
+Sig: grigio-jcode:NVQD0/gPsDf1dxHMr2dOuIRH4A4recNzruwMvWc9pJ01xv09wAw7cyRk27g/cvA6HPS1UICiqJRQqUb+m1HuCg==

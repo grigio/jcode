@@ -1,0 +1,9 @@
+StorePath: /nix/store/bjr28hpvir7jalm84aa41gvid34b2nkd-cargo-package-anstyle-wincon-3.0.11
+URL: nar/17fn971frgrx64slp4b149y2mir93mjpaigxplw0pyp3dlaf6fjg.nar.xz
+Compression: xz
+FileHash: sha256:17fn971frgrx64slp4b149y2mir93mjpaigxplw0pyp3dlaf6fjg
+FileSize: 11632
+NarHash: sha256:0vmf2p0bq71kpxky0pmbbanl50blzn72pvycf2xpg6x7whhnnbph
+NarSize: 47824
+References: 
+Sig: grigio-jcode:lEXJtqC/v/5bLNplAmwRPMGLgp/zqKx43TDWWdROhSP3Nmvlz8bVzQKh/8rb5ZKw8iZiG+NEK3pj+MSziqdCDQ==

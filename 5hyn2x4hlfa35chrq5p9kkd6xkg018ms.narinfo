@@ -1,0 +1,9 @@
+StorePath: /nix/store/5hyn2x4hlfa35chrq5p9kkd6xkg018ms-cargo-package-autocfg-1.5.0
+URL: nar/1bhfdaj9wp0rhgk9c7zmnqn27npi9rx495w72m9jp5lv81s6jv1m.nar.xz
+Compression: xz
+FileHash: sha256:1bhfdaj9wp0rhgk9c7zmnqn27npi9rx495w72m9jp5lv81s6jv1m
+FileSize: 17192
+NarHash: sha256:1zv99577qrr0hw6fnl7y89v35a30pcn7dmkbm088jl7p0r207kkr
+NarSize: 67000
+References: 
+Sig: grigio-jcode:2KYulXGXPU5PL2WCGt7BReLnn/odxYsbeIWTAm6HYMF30UaFXPEuygLZ+zmKllWycQ2uWI0MkBylWzdQ7u5SDg==

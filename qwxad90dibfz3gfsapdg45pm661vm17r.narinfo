@@ -1,0 +1,10 @@
+StorePath: /nix/store/qwxad90dibfz3gfsapdg45pm661vm17r-vendor-cargo-deps
+URL: nar/00c9rfn1bdj40jd6109d9agxxdc6pw3zd00rq61pyzmhxwlrh40x.nar.xz
+Compression: xz
+FileHash: sha256:00c9rfn1bdj40jd6109d9agxxdc6pw3zd00rq61pyzmhxwlrh40x
+FileSize: 728
+NarHash: sha256:0qjjqym98l9nf7liiwxd0jzy5plv3xqy3n5aaqdrkpd1kcnw8rx0
+NarSize: 2528
+References: hwh8s1dj16mxfk2vy93ykii9fr3lsqzl-linkLockedDeps ifj7v5zrn2ksv56syjx44sijiwbvklvw-vendor-registry j06j445f32wlpd78wqbnbqhc5qg7ra64-linkLockedDeps qwxad90dibfz3gfsapdg45pm661vm17r-vendor-cargo-deps
+Deriver: vmjiwyq1wiwxvsjpl4jxbx1253rbhh2g-vendor-cargo-deps.drv
+Sig: grigio-jcode:PHzGzxBYpoDtRp8BmikVr+ol3q4jHVs424J8dWqhPoYMVXVbFkbqbxZBcZbCUQpF7zBAajkmwuOlU2aLmk3wCw==

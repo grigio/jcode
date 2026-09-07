@@ -1,0 +1,9 @@
+StorePath: /nix/store/xjs51nlcs3x5wd8v4fahliivwp61hws4-cargo-package-crypto-bigint-0.5.5
+URL: nar/1gbjsx25nq0axcdxmjlzabf1xaz724a9bkm0q1plmrwfjclvzwm1.nar.xz
+Compression: xz
+FileHash: sha256:1gbjsx25nq0axcdxmjlzabf1xaz724a9bkm0q1plmrwfjclvzwm1
+FileSize: 62548
+NarHash: sha256:0x155bzx748fzxzksaf0ms8qb0r2kpab1l77xnmlc0gn2w9f9jrq
+NarSize: 425336
+References: 
+Sig: grigio-jcode:SWGDoNCZZVj+B/R6U5xjhv+tsxho3XwuMDQTRqOBXcy6m/TmJ2qut/W4cQZlcXOlwSLze/TSXILSHGs1jGw7AA==

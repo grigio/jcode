@@ -1,0 +1,9 @@
+StorePath: /nix/store/c6zdmqhippqp6xj2x3nkbjj0a5c6baif-cargo-package-litemap-0.8.1
+URL: nar/0qqspwqd0pck5gnrkqk03z19pk7mqffadazzmph7mmlwb7bpcq43.nar.xz
+Compression: xz
+FileHash: sha256:0qqspwqd0pck5gnrkqk03z19pk7mqffadazzmph7mmlwb7bpcq43
+FileSize: 29284
+NarHash: sha256:1fhy6s8d8j5lgqd2vwxkpkp5gmw8mqkn5vps709d8wi3590qghzn
+NarSize: 162456
+References: 
+Sig: grigio-jcode:CibkQT9eCXl6IVSKI8Z4LWORvLx14e5gpUYyRM9XC8m/95I2eUPuckMdYt1VzBhEbPkU5sAPM+/2kqNzzNcjDA==

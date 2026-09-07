@@ -1,0 +1,9 @@
+StorePath: /nix/store/yvx4whvs2kv4wf4x9ik3f8p1vjcpsvb0-cargo-package-syntect-5.3.0
+URL: nar/0lg36pfq94jhilgzga7xnrnsx2y8qskrnq26g4sc51zqlbkmhg8m.nar.xz
+Compression: xz
+FileHash: sha256:0lg36pfq94jhilgzga7xnrnsx2y8qskrnq26g4sc51zqlbkmhg8m
+FileSize: 748048
+NarHash: sha256:0d0iyyc3dk181z8z95zwvmk3dapkszsrzwpahvsczlv8qxvbkpg6
+NarSize: 1415992
+References: 
+Sig: grigio-jcode:m0ZcJURldysNQqu9fqoL5HBebHTtcPK40tPM4jCnDJs5d8wLLeB8hW/JtKTiV0SqMawMjkVwZD113iJaDvDJAQ==

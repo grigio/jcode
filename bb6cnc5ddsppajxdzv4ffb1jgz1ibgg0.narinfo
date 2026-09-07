@@ -1,0 +1,9 @@
+StorePath: /nix/store/bb6cnc5ddsppajxdzv4ffb1jgz1ibgg0-cargo-package-rawpointer-0.2.1
+URL: nar/0z26j6iyjdcwq5k0zmlbj450fr0slmbgh1cv1xhifbbz7jgg484d.nar.xz
+Compression: xz
+FileHash: sha256:0z26j6iyjdcwq5k0zmlbj450fr0slmbgh1cv1xhifbbz7jgg484d
+FileSize: 7080
+NarHash: sha256:1mq0y46py815iayk4pfiqhs2hwb4c1jbcqhgfa8v15kpwi7bvvvk
+NarSize: 23112
+References: 
+Sig: grigio-jcode:PbTYXsT7L4EVHVqQ0fyQXwwzXGSIm60eXE+Ua/733JeuOMVlj/vBo4MfEESBYliY0DFiPXXRLvoQ8EgYeyOgAw==

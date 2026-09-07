@@ -1,0 +1,9 @@
+StorePath: /nix/store/abva7392c21ivylkpdq1jk3m5vyprjpk-cargo-package-flate2-1.1.8
+URL: nar/1f9y1y0dl4r2qiqr56v85wv0f7ksg7askd0ra3s2mpz0li6q4s72.nar.xz
+Compression: xz
+FileHash: sha256:1f9y1y0dl4r2qiqr56v85wv0f7ksg7askd0ra3s2mpz0li6q4s72
+FileSize: 62848
+NarHash: sha256:1qd4dgg2mfyggc7v494qva81l407pnryyr6gd8qdwdsq75fz71y4
+NarSize: 340992
+References: 
+Sig: grigio-jcode:T9GyF+QRwh0i5kWH4ry9BM9OtUQ0C1L3KDSIvimubwLyk74CK8FxSJ+VNO9WhVSUnANMn0inEuJErXDGbOkZBw==

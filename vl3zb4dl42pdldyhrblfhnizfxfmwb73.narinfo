@@ -1,0 +1,9 @@
+StorePath: /nix/store/vl3zb4dl42pdldyhrblfhnizfxfmwb73-cargo-package-libredox-0.1.12
+URL: nar/1a03rjnqcbi9zx9vrckkbb66vqsbvk4dy0va7lw8v9b81qldrip8.nar.xz
+Compression: xz
+FileHash: sha256:1a03rjnqcbi9zx9vrckkbb66vqsbvk4dy0va7lw8v9b81qldrip8
+FileSize: 6936
+NarHash: sha256:041sbbdn4w0kxq6b9d0ngr2x5fz8gmm8zgxhv2n6bzs1xq560z9n
+NarSize: 29840
+References: 
+Sig: grigio-jcode:f0y5FKDcDARstrkZ5pCM3lhFoYn50MWe6xfHST5w+DUeY3+sF1z34oC6GEalbK81jcfslCT2F9JwQkrS+tysDg==

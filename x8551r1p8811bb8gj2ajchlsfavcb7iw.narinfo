@@ -1,0 +1,9 @@
+StorePath: /nix/store/x8551r1p8811bb8gj2ajchlsfavcb7iw-cargo-package-memo-map-0.3.3
+URL: nar/1273n1wzy84a9ia03rqfqvg1b62pm02flmaqsrighr4cfxm0hirj.nar.xz
+Compression: xz
+FileHash: sha256:1273n1wzy84a9ia03rqfqvg1b62pm02flmaqsrighr4cfxm0hirj
+FileSize: 9424
+NarHash: sha256:1hgahva41cbflhy1za9hgvbs9xczd1yy481hc63rvakcbqddgccw
+NarSize: 37024
+References: 
+Sig: grigio-jcode:mXKvyKL0/0QdPoPpPwNLTnBt+ZW9Xe5MpNdSQx4KVzCSkPuhfHeekq0e838I+n8KotEyQwHJpK6dt9JyjqgDAA==

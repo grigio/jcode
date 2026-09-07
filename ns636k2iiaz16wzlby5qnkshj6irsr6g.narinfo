@@ -1,0 +1,9 @@
+StorePath: /nix/store/ns636k2iiaz16wzlby5qnkshj6irsr6g-cargo-package-wezterm-blob-leases-0.1.1
+URL: nar/1wbv6cgnk7f6l334iva0yjlpnd95ak7f34bcsxxbm28k24nks7g4.nar.xz
+Compression: xz
+FileHash: sha256:1wbv6cgnk7f6l334iva0yjlpnd95ak7f34bcsxxbm28k24nks7g4
+FileSize: 8464
+NarHash: sha256:0vvns4qzzdvb2as3nzni6gz3wr3m4h0wmvm0wil2xaplb0mvjxzj
+NarSize: 33008
+References: 
+Sig: grigio-jcode:2U+tyefajMiwThEEyQiHMkPiBoVROI9lWSTBiddUURiFOMbzatYniV4EcpSe3w1Tjx2+n0qfSAMu2oHSMolcDw==

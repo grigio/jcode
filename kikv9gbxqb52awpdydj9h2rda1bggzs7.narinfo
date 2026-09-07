@@ -1,0 +1,9 @@
+StorePath: /nix/store/kikv9gbxqb52awpdydj9h2rda1bggzs7-cargo-package-crossbeam-utils-0.8.21
+URL: nar/138ln11c8ild3830jibz3jygw7z2d80jddkgvwlcghhg5j5hhfmp.nar.xz
+Compression: xz
+FileHash: sha256:138ln11c8ild3830jibz3jygw7z2d80jddkgvwlcghhg5j5hhfmp
+FileSize: 37080
+NarHash: sha256:15mg8s1lvrx0811nanvsci614xlh3wd252bqg9wbqkkzg2ig8xhf
+NarSize: 196720
+References: 
+Sig: grigio-jcode:w8IOjTHzbmq3nBKtaezlPK5DGBXtlz7qfTwBNisDNxPyBI44tCHtGnv8vPAOyHD2j0zq8jvkrpFOm96d/CmrDQ==

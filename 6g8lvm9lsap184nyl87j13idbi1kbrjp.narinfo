@@ -1,0 +1,9 @@
+StorePath: /nix/store/6g8lvm9lsap184nyl87j13idbi1kbrjp-cargo-package-email_address-0.2.9
+URL: nar/0jwsh97gcfybkvbrxa9mpcazqf06jfvwdaamwsaqxill8rib3xk7.nar.xz
+Compression: xz
+FileHash: sha256:0jwsh97gcfybkvbrxa9mpcazqf06jfvwdaamwsaqxill8rib3xk7
+FileSize: 19708
+NarHash: sha256:1rnkbbw5fd9l8y763f5rbkk6r98c008v379r30i4bjc13vgp1rhr
+NarSize: 91432
+References: 
+Sig: grigio-jcode:CKyRH3E1eK8mhgsxvDRaOz6FbiJrQsdfjo9GPLJpiEQyLM5Fr6lsbtlaPXiUgovcxit3JRiYnMlBUdGn1O15BQ==

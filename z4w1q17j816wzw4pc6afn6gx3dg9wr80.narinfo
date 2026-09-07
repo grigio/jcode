@@ -1,0 +1,9 @@
+StorePath: /nix/store/z4w1q17j816wzw4pc6afn6gx3dg9wr80-cargo-package-chacha20-0.10.0
+URL: nar/1xpi5yf7yms5ww99pz2svcxxhgbidyqxw086j5v4aqyvfdbh7zbk.nar.xz
+Compression: xz
+FileHash: sha256:1xpi5yf7yms5ww99pz2svcxxhgbidyqxw086j5v4aqyvfdbh7zbk
+FileSize: 33304
+NarHash: sha256:17jav7sbl9v2vr4d4vfc58ksq5vafy0xvwc4dk4ynym2q0pf37y7
+NarSize: 165128
+References: 
+Sig: grigio-jcode:uXSsCf9ZpvD7wqkaDSshkYq8ceITmxEcBkW17Fj5m3uJDUsRxKYGDdzLURZRoGcW5sCrT7olbDLcUyT+DDdPAw==

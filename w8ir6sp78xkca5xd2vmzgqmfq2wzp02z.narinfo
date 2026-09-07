@@ -1,0 +1,9 @@
+StorePath: /nix/store/w8ir6sp78xkca5xd2vmzgqmfq2wzp02z-cargo-package-miniz_oxide-0.8.9
+URL: nar/0y4w0wvp2y0f7ij3i3h2hp33sgp1dni5r5v2v8n8nz43ghw42mnl.nar.xz
+Compression: xz
+FileHash: sha256:0y4w0wvp2y0f7ij3i3h2hp33sgp1dni5r5v2v8n8nz43ghw42mnl
+FileSize: 55632
+NarHash: sha256:0q5skmigrjaa7d4nnbns9hps7x1kpfkngm9a3342f7qkbgsi6s1q
+NarSize: 288968
+References: 
+Sig: grigio-jcode:Ysvh+duWX3O+QESgu5PMw0/EL7qQLFgAYEsNANTvXvLXHLaiOYaZM/SytmgY0MXTRW+LmQ6hB7aSUtlBWSijCw==

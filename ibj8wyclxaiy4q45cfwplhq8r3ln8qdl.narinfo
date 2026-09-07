@@ -1,0 +1,9 @@
+StorePath: /nix/store/ibj8wyclxaiy4q45cfwplhq8r3ln8qdl-cargo-package-fluent-uri-0.4.1
+URL: nar/0pll20q5cqmpdk5avi2c09frh1j46z2mgycz81scsqs0yaqzqkb1.nar.xz
+Compression: xz
+FileHash: sha256:0pll20q5cqmpdk5avi2c09frh1j46z2mgycz81scsqs0yaqzqkb1
+FileSize: 41840
+NarHash: sha256:1qw348w6ghaqgb29hxpav3v8vsb0iw09cghnbmqp8kh9svb8lwxi
+NarSize: 243160
+References: 
+Sig: grigio-jcode:77KxiK0u4JzPgQrMwh9Og5V+pqz9UgY+NqZPLGfvQAjQoPYiGmNhkkiV0Iaig+GANcKp/PNgryvrtk/jae9XCg==

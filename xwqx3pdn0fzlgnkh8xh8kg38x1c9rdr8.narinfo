@@ -1,0 +1,9 @@
+StorePath: /nix/store/xwqx3pdn0fzlgnkh8xh8kg38x1c9rdr8-cargo-package-memmem-0.1.1
+URL: nar/1yilhgi2597ffn4kqh22a4dp4v4560rj0jnkp56scmb4qrmmd6ys.nar.xz
+Compression: xz
+FileHash: sha256:1yilhgi2597ffn4kqh22a4dp4v4560rj0jnkp56scmb4qrmmd6ys
+FileSize: 10052
+NarHash: sha256:1h9x94d1n9alm1jgdmfa22h6dfayxiyfgz6h1293igqrxrqlz3cb
+NarSize: 31760
+References: 
+Sig: grigio-jcode:rcWB50BaJTkQheLvfAs3j2mR56TF/IF60NkkxfY4FDYTxRlAV4+RYdUPLqZDlUb+OUBflmF1LQ9f7Y7Prbp2CQ==

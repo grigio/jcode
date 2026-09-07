@@ -1,0 +1,9 @@
+StorePath: /nix/store/xplgg6bnv5zglgrf3djibil77nr7b7qm-libsecret-0.21.7
+URL: nar/1vc1q02x8si0ypp0kvl851p1w1ba6w63x7j7a35258089jq0xafb.nar.xz
+Compression: xz
+FileHash: sha256:1vc1q02x8si0ypp0kvl851p1w1ba6w63x7j7a35258089jq0xafb
+FileSize: 152896
+NarHash: sha256:0vdqnrslccng7pfp3qqqqfagrmdj11z4jyadrqh9fqs3gjfchhpw
+NarSize: 688200
+References: l8si8gnvvq93yzms1jsgh5aixyf9rl5x-glibc-2.42-67 nck0q19j5v9j332z6l53x0j0296klja9-libgcrypt-1.12.2-lib xplgg6bnv5zglgrf3djibil77nr7b7qm-libsecret-0.21.7 y3z5sr16sxd50bgcn2zkn46afn8fy0na-glib-2.88.1
+Sig: grigio-jcode:XT64CGwyYitaNCp5iYKJoIPE9smbhq/HSu0RdebsRxiwxFCARC22ULGya1PGAFPKWB5w5/nVTgg2TWxMheXgBA==

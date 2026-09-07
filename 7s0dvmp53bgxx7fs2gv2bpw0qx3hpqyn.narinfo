@@ -1,0 +1,9 @@
+StorePath: /nix/store/7s0dvmp53bgxx7fs2gv2bpw0qx3hpqyn-cargo-package-objc2-core-graphics-0.3.2
+URL: nar/0ss997a9cq5gb5bfcx0mcqq2k86xjgcbdh4ppgwgv1l909zhkk61.nar.xz
+Compression: xz
+FileHash: sha256:0ss997a9cq5gb5bfcx0mcqq2k86xjgcbdh4ppgwgv1l909zhkk61
+FileSize: 65888
+NarHash: sha256:0z3n4nnkhz0nng0gmiaxps8hqi5aib08rcp6v06pwl060hbmhij1
+NarSize: 821304
+References: 
+Sig: grigio-jcode:3bwhpjY13jl8iIZt6yhrLsp9J0b0MLU8hmT/RMQFtAHpqsJQQ21DsxgHAstVrdoWVddyqo8ZbnxZ7nNvknHtCA==

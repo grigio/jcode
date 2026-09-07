@@ -1,0 +1,9 @@
+StorePath: /nix/store/7c5g45nwgmdn0vm92phclgk5jk2ykvb3-cargo-package-fastrand-2.3.0
+URL: nar/0hx6sl8bih5iny3hla3c2w40knxdikr8v8frhf8fiwbnbgxxvxm3.nar.xz
+Compression: xz
+FileHash: sha256:0hx6sl8bih5iny3hla3c2w40knxdikr8v8frhf8fiwbnbgxxvxm3
+FileSize: 14060
+NarHash: sha256:0dfzb3rmrbij64j5rc3ypqkqxl50kmivsvf03gpqa74wkjg8nns0
+NarSize: 56088
+References: 
+Sig: grigio-jcode:Jg8NJwbJRF3ZX+C5lYPiH6cA5++yRUiK+Z/fU0u/MapZogWmJwPZZ03Rov88WGN9aQMR3VIxnjHh3hv/jIkTBw==

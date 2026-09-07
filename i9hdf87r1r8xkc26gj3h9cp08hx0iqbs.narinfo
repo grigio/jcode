@@ -1,0 +1,9 @@
+StorePath: /nix/store/i9hdf87r1r8xkc26gj3h9cp08hx0iqbs-xgcc-15.3.0-libgcc
+URL: nar/00gkhv3ib51bsclkiqaqsdimh8r0ly26rcdjjgqim3i054vz0bkh.nar.xz
+Compression: xz
+FileHash: sha256:00gkhv3ib51bsclkiqaqsdimh8r0ly26rcdjjgqim3i054vz0bkh
+FileSize: 72608
+NarHash: sha256:1bvhsl1iqnbbgmxgp2hi0j8nj5ip5n6h6m2awanbnhwrl8fazjvh
+NarSize: 197672
+References: 
+Sig: grigio-jcode:yO3TgJfEJI4zFvrD90paNMyj9CEeeb8rozmdHllZG0G6d8P1agmEFVsXnHIDzmQZGLjPE5Zo+cZ0C3bk6xK1Ag==

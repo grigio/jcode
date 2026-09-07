@@ -1,0 +1,9 @@
+StorePath: /nix/store/zm1n4gqw1z8gxy1gcka7jz0izc0jymln-cargo-package-pkcs8-0.10.2
+URL: nar/06kixz5b5v2id862vwsyj8w7cvs4q3i5mkk85kh2wbyyccwxbr19.nar.xz
+Compression: xz
+FileHash: sha256:06kixz5b5v2id862vwsyj8w7cvs4q3i5mkk85kh2wbyyccwxbr19
+FileSize: 22996
+NarHash: sha256:13q790y6hiqlgxlq8zmm1inkpmc6f85k7qd6kzv5k6qp3wynmrrv
+NarSize: 87528
+References: 
+Sig: grigio-jcode:L8I8YaOHkToB5Q/TZfJWttDTbVj7Z2kYbGkM5Ff0Ga+hQ+Rv8BIhwjKvxbBDXLwxs9Eddcf2kMm1ANaAf9tyDg==

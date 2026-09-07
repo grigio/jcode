@@ -1,0 +1,9 @@
+StorePath: /nix/store/2kr61b0g2lasd7s53ig8fw63yk21pl63-cargo-package-transpose-0.2.3
+URL: nar/01282dfknwcbsm4dg6scmy6pnsvgm3yl7awp8z6frr4rmmzpik16.nar.xz
+Compression: xz
+FileHash: sha256:01282dfknwcbsm4dg6scmy6pnsvgm3yl7awp8z6frr4rmmzpik16
+FileSize: 10192
+NarHash: sha256:1zan30r6fxhbs876ds18g6kmcma0xv75gpp2rxfbzxib7spi16vv
+NarSize: 41472
+References: 
+Sig: grigio-jcode:ill+4vAFHWaUADk2ROlKisqy5/7gr/1wNDy9fCVIbQxfT/xQd12DR+3Tirss/h1MD2VWkipx6JbenOzjAFTHAg==

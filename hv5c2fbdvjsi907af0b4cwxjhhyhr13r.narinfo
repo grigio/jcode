@@ -1,0 +1,9 @@
+StorePath: /nix/store/hv5c2fbdvjsi907af0b4cwxjhhyhr13r-cargo-package-fax_derive-0.2.0
+URL: nar/0dl418sp3l9bvnm2gynr29g0zbic42y1idkh2i53n2rc5xb4gwvs.nar.xz
+Compression: xz
+FileHash: sha256:0dl418sp3l9bvnm2gynr29g0zbic42y1idkh2i53n2rc5xb4gwvs
+FileSize: 4368
+NarHash: sha256:1g6a2lkrbc0clc7n1w7zwhqckiayzslsymsdps3i8q9vh764ci4g
+NarSize: 15976
+References: 
+Sig: grigio-jcode:VxPlWoqnYtqIL9wgfBD05bIpgWCl3HgKD14oZA8s3eP+5durPqEiHy0ofEyOnCv8sEvSxK1sIhI765uGRF4QDA==

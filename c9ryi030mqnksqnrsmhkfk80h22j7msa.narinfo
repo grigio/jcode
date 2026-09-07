@@ -1,0 +1,9 @@
+StorePath: /nix/store/c9ryi030mqnksqnrsmhkfk80h22j7msa-libmpc-1.4.1
+URL: nar/0jlnd777qsprfy3dkdp4nbxqls37kdavz9riy4s8ybj5z7qam9kw.nar.xz
+Compression: xz
+FileHash: sha256:0jlnd777qsprfy3dkdp4nbxqls37kdavz9riy4s8ybj5z7qam9kw
+FileSize: 88564
+NarHash: sha256:0vy2rz5hina548pz7z993w90c5pj3sq95mxjlv7a7si5fisk49vn
+NarSize: 308776
+References: 2740ksv6cpz7bflhh28xfg9ifzqdx36m-gmp-6.3.0 c9ryi030mqnksqnrsmhkfk80h22j7msa-libmpc-1.4.1 l8si8gnvvq93yzms1jsgh5aixyf9rl5x-glibc-2.42-67 x5fbmi7cq6h3x5b7pz3mb3nlwpiw4aw6-mpfr-4.2.2
+Sig: grigio-jcode:5EIZZdXYCQD5qae5W5/9l3fpa5W/ewyLgeWrwJt+TbtHG+qPdPNUi6ZbzR2n2y+5vDe/sk7Axu8OPLnren2UAA==

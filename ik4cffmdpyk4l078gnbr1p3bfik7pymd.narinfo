@@ -1,0 +1,9 @@
+StorePath: /nix/store/ik4cffmdpyk4l078gnbr1p3bfik7pymd-cargo-package-aws-smithy-query-0.61.1
+URL: nar/0bj8ky0cjf56wxkxrp62valx6qvi7wfmnqd6qf1haw4pv2whvfmg.nar.xz
+Compression: xz
+FileHash: sha256:0bj8ky0cjf56wxkxrp62valx6qvi7wfmnqd6qf1haw4pv2whvfmg
+FileSize: 9164
+NarHash: sha256:0phy9g328953ba2qy206z9fjsi35pykkpy1gdigfrl6mcdsl0sah
+NarSize: 35336
+References: 
+Sig: grigio-jcode:AucVuptAXhBdT+Bv0JPAE+tGNtQzIq/t6MGSpeqoKAR+On/JwGrIHwBL/LauXwktF4uBRznLSmzw7kToancRAQ==

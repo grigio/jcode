@@ -1,0 +1,9 @@
+StorePath: /nix/store/y2f107dw7nkwzyg4mbp6fz5shmmqrrsq-cargo-package-rustls-webpki-0.103.13
+URL: nar/1cq3m0zakss8l4s8k5vyfk187ms7h0w730n9bkl8jb43zxrk4xnb.nar.xz
+Compression: xz
+FileHash: sha256:1cq3m0zakss8l4s8k5vyfk187ms7h0w730n9bkl8jb43zxrk4xnb
+FileSize: 68768
+NarHash: sha256:13806l6py6k0nwbb86ig3ifgqaan9qll6b1ypddknq3d94z1d5gs
+NarSize: 422928
+References: 
+Sig: grigio-jcode:rTGtxMkO1pgM2OE3xC8JL/pvbMrqwIhwfIxsZh4aXFo/U5xp+h0R3V0g1hsZvEvy5fcU6LGdqfUB2cbQHDgqAA==

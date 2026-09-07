@@ -1,0 +1,9 @@
+StorePath: /nix/store/fsbdv4a6arddh10h1s5zmvz05sqykd6y-cargo-package-wyz-0.5.1
+URL: nar/0nyvsafxzxs0hxyvawxdzz4l348l4b03hchk9id2rb7b5bj92hfz.nar.xz
+Compression: xz
+FileHash: sha256:0nyvsafxzxs0hxyvawxdzz4l348l4b03hchk9id2rb7b5bj92hfz
+FileSize: 17348
+NarHash: sha256:18sfb7sjaza3b3gmmf6nmhqr9qq1czcgjap1rglp0w7jbwz3hkkf
+NarSize: 64656
+References: 
+Sig: grigio-jcode:NG5uBc2Tr4/62xaDoCktYkfEKTE67Y0UGvEPS+oBQ+YWvePoeZSmwf+dPxikl4I/28J4rR8u6ukaeWIas4xgAw==

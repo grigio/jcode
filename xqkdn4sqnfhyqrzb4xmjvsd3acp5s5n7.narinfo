@@ -1,0 +1,9 @@
+StorePath: /nix/store/xqkdn4sqnfhyqrzb4xmjvsd3acp5s5n7-cargo-package-tract-transformers-0.23.4
+URL: nar/1x7kpvwnn1w2gbcf4xc2h933szc12cynnsq4kmb4iqlg9qjal0y5.nar.xz
+Compression: xz
+FileHash: sha256:1x7kpvwnn1w2gbcf4xc2h933szc12cynnsq4kmb4iqlg9qjal0y5
+FileSize: 53344
+NarHash: sha256:0x7gj6nizb189aqsfxg49ikap3mj1hn571gmdq0jm6iyv1dw9nnl
+NarSize: 279392
+References: 
+Sig: grigio-jcode:LeaUp+qGBZ+bziJ51liD0d3gPchcKnpIJivMzLvvabHmaMvCCpv64FuoSb2Euud2hs+JSPQ29a0uGzpacPoKAg==

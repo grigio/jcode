@@ -1,0 +1,9 @@
+StorePath: /nix/store/4h55rlhj8820x050zkh7jzjhms40g3ic-cargo-package-tract-linalg-0.23.4
+URL: nar/1zy7v558fh03szhfp91mh20kl8hyi13p0rzsjhvr09dbw5s05drm.nar.xz
+Compression: xz
+FileHash: sha256:1zy7v558fh03szhfp91mh20kl8hyi13p0rzsjhvr09dbw5s05drm
+FileSize: 317528
+NarHash: sha256:1c8i1z0al68x1affjc2hlzyw54myx1nh9lhl02m92z9rwsrnjr1m
+NarSize: 2382088
+References: 
+Sig: grigio-jcode:LgML465XHqLWP8j3oeW29XO6ogVQpxO8LItpjUrouUl+fuMJ7sNTXKLn7Z8FOGPrVddWzfRjgXG9VOOYQF+RDw==

@@ -1,0 +1,9 @@
+StorePath: /nix/store/08z2ciyrh92ykqizwld6mb0fivm2fh2f-cargo-package-heck-0.5.0
+URL: nar/18fyizbfg8wlij6xvbij27j29i9lp1hff287pq1zjknc526xmaag.nar.xz
+Compression: xz
+FileHash: sha256:18fyizbfg8wlij6xvbij27j29i9lp1hff287pq1zjknc526xmaag
+FileSize: 10396
+NarHash: sha256:168znq4m1zj0mhsgvg89adkzyp2s0cjjyi1rwdq31phyvqpm089d
+NarSize: 46992
+References: 
+Sig: grigio-jcode:5Sf8mGASIEZB6+6PEvsKAuy+t7y5y7KTrpPCCNvVLaSY82JB/m5/lioiZds8VDbQGftkylYZzO4rDsxmzj6ACw==

@@ -1,0 +1,9 @@
+StorePath: /nix/store/m2fak4ypd7drgknv5w273plxqznpx159-cargo-package-crc32fast-1.5.0
+URL: nar/0iczvdn2hk586yq6wknnnqj6rmq0icjh9qkn3m5b6dg456q7l12c.nar.xz
+Compression: xz
+FileHash: sha256:0iczvdn2hk586yq6wknnnqj6rmq0icjh9qkn3m5b6dg456q7l12c
+FileSize: 33732
+NarHash: sha256:0hzifla491279jdx104k1qrq12f30pmkkw07fpi1d9rfnd9s3b29
+NarSize: 109696
+References: 
+Sig: grigio-jcode:xmpcwlpGI3eyh9mmTIbu/EOGYKTO+d2NaJRdMfrNfgQPLZFIlPLrAeVR8wBgkFsIDCH7xs6uWH7Y5lkMFdnGDw==

@@ -1,0 +1,9 @@
+StorePath: /nix/store/cmjirs6g57ddbyjglwic2g2cjrwy3ppr-gcc-15.3.0
+URL: nar/130947h9igzww5mfrqqmb664zg1gg97ybilviwxia8gkhhfvpfrl.nar.xz
+Compression: xz
+FileHash: sha256:130947h9igzww5mfrqqmb664zg1gg97ybilviwxia8gkhhfvpfrl
+FileSize: 62464252
+NarHash: sha256:05jvpnl86jvr112wsj08vffvaqsa65xzb0hmc04zfd914xss3g5h
+NarSize: 277242232
+References: 0iv8glcslgfcgn371lbjr5jjw5a6cqir-gcc-15.3.0-lib 2740ksv6cpz7bflhh28xfg9ifzqdx36m-gmp-6.3.0 78x9i5x1wpqw4kq0h39b8f35abcv156h-zlib-1.3.2 8gilpf039i4kmafww1sffqc8ipgpgry8-isl-0.20 c9ryi030mqnksqnrsmhkfk80h22j7msa-libmpc-1.4.1 cmjirs6g57ddbyjglwic2g2cjrwy3ppr-gcc-15.3.0 l8si8gnvvq93yzms1jsgh5aixyf9rl5x-glibc-2.42-67 m2v7vwf2fvgylww97i34kc34z2yxv4h1-glibc-2.42-67-dev x5fbmi7cq6h3x5b7pz3mb3nlwpiw4aw6-mpfr-4.2.2
+Sig: grigio-jcode:ULa6Acvzes3NYwNgui0gDviiKhzF3PbzG5vFWXs49QkaxvtR8ly9juVlXkEqts8hujuE4/yE574nN1C5YtFEDQ==

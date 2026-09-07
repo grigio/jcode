@@ -1,0 +1,9 @@
+StorePath: /nix/store/p11vs7cgy7dn1zszg63d3vm2ywdc1ssd-cargo-package-quantette-0.5.1
+URL: nar/0h83jnr47i91rbk9nas3isj03808jdgz1dhz3wqjsy9wsc75zyid.nar.xz
+Compression: xz
+FileHash: sha256:0h83jnr47i91rbk9nas3isj03808jdgz1dhz3wqjsy9wsc75zyid
+FileSize: 63152
+NarHash: sha256:1vmxw9l00fp6zqpxcnyhx51f8rzxzjd3cnixl86ihq4w35m2n340
+NarSize: 443880
+References: 
+Sig: grigio-jcode:3K0iQVrs0fCfCUYZVB4fEVolaEU/CkdkMqAdcl1uvGFKYK4jPXjHi9y9k4+Ag/KL5FWc/VLrBk6f8X6m3rjbCA==

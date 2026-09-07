@@ -1,0 +1,9 @@
+StorePath: /nix/store/vlc8i3npxa4p1x1pq159xc21769pd3fl-cargo-package-rand-0.8.5
+URL: nar/04wylhg30fpp9khp9cyhh2wriz4fh0l391dr6cr8z2gkb8498r0i.nar.xz
+Compression: xz
+FileHash: sha256:04wylhg30fpp9khp9cyhh2wriz4fh0l391dr6cr8z2gkb8498r0i
+FileSize: 72748
+NarHash: sha256:0nppziqqgi9d9fpqzfs4s2473rp3f8lf1fnj8vgf3xh1s83clhfb
+NarSize: 358584
+References: 
+Sig: grigio-jcode:mYu7t9KXdQxZOLUzQA8PBvr53uPZc1tqgeHu3t+Qmq6RVO2RGAXpieyAn1LTzkXI6IHzVQXrubiU0tggiKHnBA==

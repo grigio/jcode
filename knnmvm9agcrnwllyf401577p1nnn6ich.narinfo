@@ -1,0 +1,9 @@
+StorePath: /nix/store/knnmvm9agcrnwllyf401577p1nnn6ich-cargo-package-core-foundation-sys-0.8.7
+URL: nar/1dm0rj3b6fjrpb2zd4bdaxxhaxazx51m7nikbhn9wmgfzc2qx6k4.nar.xz
+Compression: xz
+FileHash: sha256:1dm0rj3b6fjrpb2zd4bdaxxhaxazx51m7nikbhn9wmgfzc2qx6k4
+FileSize: 31804
+NarHash: sha256:0ds45xwl2117wqnwf621am3zjgsqlhvfp9943pbx9nvz45p3bhn8
+NarSize: 243392
+References: 
+Sig: grigio-jcode:XCSJPxVvcn78l2ZO704XLtxsV4VsPcaVjH7DnYT3Haoy3QmK0KZFXR1pVuHKKCNyTWwThXi/SavmZ/tQPnzfCw==

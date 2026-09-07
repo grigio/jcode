@@ -1,0 +1,9 @@
+StorePath: /nix/store/rpwk1fhv2qb778lpkfjcy5s229k9c2qm-cargo-package-esaxx-rs-0.1.10
+URL: nar/1vj4r3785krxcmxy161v19g94pdlbpny8r65r2frwbvws5k2b93l.nar.xz
+Compression: xz
+FileHash: sha256:1vj4r3785krxcmxy161v19g94pdlbpny8r65r2frwbvws5k2b93l
+FileSize: 146252
+NarHash: sha256:15jsssvk79pd2h41d5k3z0xci0r2mkf6jsrnlbbhb0viwwng5f0a
+NarSize: 512464
+References: 
+Sig: grigio-jcode:rT8P6ZAPONgoBjdKYieVNBars99KM3ieJJuZtjZ6BjLQWfFG4Hz2Sb/WyoTeuodTSUSMJslctkk+Ic3qiHNpDw==

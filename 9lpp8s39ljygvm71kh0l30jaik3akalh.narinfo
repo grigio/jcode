@@ -1,0 +1,9 @@
+StorePath: /nix/store/9lpp8s39ljygvm71kh0l30jaik3akalh-cargo-package-tokenizers-0.21.4
+URL: nar/1r84yzknj4v4j2z2q44z16461v4z27pladdx2q66w6n9hcgs9njy.nar.xz
+Compression: xz
+FileHash: sha256:1r84yzknj4v4j2z2q44z16461v4z27pladdx2q66w6n9hcgs9njy
+FileSize: 139372
+NarHash: sha256:0qmswlwm7ywpikwl5v917ss7x1fj3xjfac172rzpxvci4hg21yih
+NarSize: 973104
+References: 
+Sig: grigio-jcode:X7IWme2bWbbMpy7++Oa5ueDEzsnllLRHD6YUq/f2ZoxRyAfHAUBjPABZ0zw8rD5hNFXKPJmnDDs6iQiOGlzUDg==

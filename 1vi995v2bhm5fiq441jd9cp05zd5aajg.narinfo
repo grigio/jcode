@@ -1,0 +1,9 @@
+StorePath: /nix/store/1vi995v2bhm5fiq441jd9cp05zd5aajg-cargo-package-lab-0.11.0
+URL: nar/16gm380vyg4h18y179lgwrv40z2yd2kd5cvlkh502vlsz136bx5j.nar.xz
+Compression: xz
+FileHash: sha256:16gm380vyg4h18y179lgwrv40z2yd2kd5cvlkh502vlsz136bx5j
+FileSize: 13348
+NarHash: sha256:0m2pm6nk37pz2mjcsnw3763dsav9fib9g206pzb6df3640c8bkkw
+NarSize: 69264
+References: 
+Sig: grigio-jcode:Kfe8wCJtgJ/qCfWgB0uG91apPXcE/Ewz+tJkDg0SLjd3CaLWffXfQbflP0ijfD+ZB1+2AZiYaGilrE1s1POBDQ==

@@ -1,0 +1,9 @@
+StorePath: /nix/store/kz26fbsd1s4if9msp4nxijczvzlbkr85-cargo-package-ratatui-image-10.0.6
+URL: nar/0lkiksgygc9plrfa0ya2rf99v0pikjs229rylsamfz7fa1m5dfr0.nar.xz
+Compression: xz
+FileHash: sha256:0lkiksgygc9plrfa0ya2rf99v0pikjs229rylsamfz7fa1m5dfr0
+FileSize: 5969016
+NarHash: sha256:1piqg7sk0d46v8fpw6kqjd72jci908fqd108rj5ajp7q1gyp7zq7
+NarSize: 6326616
+References: 
+Sig: grigio-jcode:9vTeHKgbbk6ITg1aUnf6R9qkcWrbywKNgZz+zwA1ic988eyQ2PfWW6/QWE6Ky2+ujgRzSHhCO/TEZF+cnH0oAw==

@@ -1,0 +1,9 @@
+StorePath: /nix/store/m312rbsh4dw1c9apx2msbqb2jb6v40bh-cargo-package-radium-0.7.0
+URL: nar/0fkr5lficilrx11sjwdx513l9cbvq2i75vnakfd7p2hqcy2dhs62.nar.xz
+Compression: xz
+FileHash: sha256:0fkr5lficilrx11sjwdx513l9cbvq2i75vnakfd7p2hqcy2dhs62
+FileSize: 10056
+NarHash: sha256:1ncxpxj54lvwijwrah5l5w2j4svwnv88pd3sd42i7msyr02cy5s1
+NarSize: 52352
+References: 
+Sig: grigio-jcode:NbBGp+wqqmJu+XVvVFppGnvkNWo/OGfCuPMJ4n7PyP2ZL8Y4WIQGKQei/DRWTUv5i7jK9S4dEGoYU4FBuy0gBA==

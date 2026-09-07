@@ -1,0 +1,9 @@
+StorePath: /nix/store/hclk5rwanbcq5fcfmgm9f2103bk92kxm-cargo-package-aws-types-1.4.0
+URL: nar/1i0vh8fy4z409hs7n37xn5hj9k934rw3zc61bqj8s828xcf8jars.nar.xz
+Compression: xz
+FileHash: sha256:1i0vh8fy4z409hs7n37xn5hj9k934rw3zc61bqj8s828xcf8jars
+FileSize: 28772
+NarHash: sha256:1xpy6pvpp7s8ydj646yy5jzk7k5i2b5r2w85p7yckkpzv58a5xjl
+NarSize: 143544
+References: 
+Sig: grigio-jcode:Z6LVW7GPyWeFrZzk9B66k9lseIRlcxUL+Uke3p/2LqLWMUx7oFB9W/fBTBQiXl7WJHHavPc5D7oLpLkBa7IZBg==

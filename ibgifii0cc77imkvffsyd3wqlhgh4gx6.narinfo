@@ -1,0 +1,9 @@
+StorePath: /nix/store/ibgifii0cc77imkvffsyd3wqlhgh4gx6-cargo-package-socket2-0.6.1
+URL: nar/015z0crphr4d28r71wrrclr4x5f0h6ryj44gys1wr3x60j70lld6.nar.xz
+Compression: xz
+FileHash: sha256:015z0crphr4d28r71wrrclr4x5f0h6ryj44gys1wr3x60j70lld6
+FileSize: 46796
+NarHash: sha256:0vlrjlgkaq1slbb5bqxrhmifkv7i650nfb6wlha71dgkg2rpkj92
+NarSize: 289864
+References: 
+Sig: grigio-jcode:JYmW3YFwVJjCPjqbmuT6Q+mK65eHWzslbD1dn/q6CJ2DM8tCgZzejaum8coudCEOMPGTolxStrnzf8r97DdiBw==

@@ -1,0 +1,9 @@
+StorePath: /nix/store/7zlzb82g9apyk88w1ppsv4bw91zg7dn4-cargo-package-darling_core-0.20.11
+URL: nar/0ninx2y92cjsy7hqqzj7f2iw8d1v549422i5nkm35azvv6yhlp7i.nar.xz
+Compression: xz
+FileHash: sha256:0ninx2y92cjsy7hqqzj7f2iw8d1v549422i5nkm35azvv6yhlp7i
+FileSize: 55824
+NarHash: sha256:0gdqlkg12zhpgq1df6ai6j8z0hi828rxpxgh8s3636wf3li5aknl
+NarSize: 330872
+References: 
+Sig: grigio-jcode:u2r+Y6i+H46RHOhrQhgAQ2Ie3XFyPWya5SbdyJLN4pgnBn+DUhNkVM3jCIRZUcX5AmPnFfE6xBg3HUjejegjDg==

@@ -1,0 +1,9 @@
+StorePath: /nix/store/awqx09xasv3mcxs5hr1dcrwm3lbd0fxa-cargo-package-roxmltree-0.20.0
+URL: nar/06lbkxphzlqjq7p6l8ri2jvlnqshcn4w5wnx5pxhcc8mz3d44vhf.nar.xz
+Compression: xz
+FileHash: sha256:06lbkxphzlqjq7p6l8ri2jvlnqshcn4w5wnx5pxhcc8mz3d44vhf
+FileSize: 45288
+NarHash: sha256:065vsx5d164ij33din26dn3ck4ghvfd88zv9q7g7lxpvz0s90mrh
+NarSize: 288168
+References: 
+Sig: grigio-jcode:0FrTh1+MWD2/CxROYGmG3Fns4zJQhW/iVRc5Nus31YAJ3xqdo1gxGgVNDgNa0dK8t/gXkxLXsOyWo7ghppSUAg==

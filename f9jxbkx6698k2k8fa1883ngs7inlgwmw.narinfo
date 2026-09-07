@@ -1,0 +1,9 @@
+StorePath: /nix/store/f9jxbkx6698k2k8fa1883ngs7inlgwmw-cargo-package-spki-0.7.3
+URL: nar/1h9rh651c41j5ri4avknsx2dqx82qd09j8ac3q302c7ywxf2rkrz.nar.xz
+Compression: xz
+FileHash: sha256:1h9rh651c41j5ri4avknsx2dqx82qd09j8ac3q302c7ywxf2rkrz
+FileSize: 14904
+NarHash: sha256:1zf3vjrm3kwbqx0cjwamqww7vrjsv0va2g79byqjyf38a2ij2j3q
+NarSize: 60136
+References: 
+Sig: grigio-jcode:RFqgvv+yumrUyOOrx6QNYzQmKUyOfXpRNaAfg3LmKVbMx353oZPd2oCnE2ALGeqIYS8uR38c10dxH0rxA2jQBg==

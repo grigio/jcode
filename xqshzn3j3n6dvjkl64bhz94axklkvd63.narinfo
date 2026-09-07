@@ -1,0 +1,9 @@
+StorePath: /nix/store/xqshzn3j3n6dvjkl64bhz94axklkvd63-rustfmt-preview-1.97.1-x86_64-unknown-linux-gnu
+URL: nar/188fd2hi0mj3xdbhlb410dinj7cpqk8v668rbgw2p291s456xb2q.nar.xz
+Compression: xz
+FileHash: sha256:188fd2hi0mj3xdbhlb410dinj7cpqk8v668rbgw2p291s456xb2q
+FileSize: 2157628
+NarHash: sha256:10i10fyi62jrm5na24fnc11knlchz50m89aa3wj7nfjsq2mw2w0w
+NarSize: 9080264
+References: 3plxk0qjyx3hx0wnswrpnrgg4d4lw96b-rustc-1.97.1-x86_64-unknown-linux-gnu kw26hfd5b653cn2lm6yfh0q7y18d6d9l-gcc-15.3.0-libgcc l8si8gnvvq93yzms1jsgh5aixyf9rl5x-glibc-2.42-67
+Sig: grigio-jcode:PC3ivBPuZRWsxUUwNWuegX74uExaChhj9rZvSfh9SnXmXH7Rtm91b+itohIzK8kOUyRmnu1tnIZKbDsdCQdzBw==

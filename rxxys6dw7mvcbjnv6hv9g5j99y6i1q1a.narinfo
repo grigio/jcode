@@ -1,0 +1,9 @@
+StorePath: /nix/store/rxxys6dw7mvcbjnv6hv9g5j99y6i1q1a-cargo-package-aws-runtime-1.8.1
+URL: nar/0qh36p5ak83lnqy74gxf01xzcgcap3clfi6kah5l919zdd88fl5i.nar.xz
+Compression: xz
+FileHash: sha256:0qh36p5ak83lnqy74gxf01xzcgcap3clfi6kah5l919zdd88fl5i
+FileSize: 72648
+NarHash: sha256:1b06xisgvx3krkvp0x3h4wlhwpjncgbygv18k10fdxad8wygqqa6
+NarSize: 440232
+References: 
+Sig: grigio-jcode:/7NVFNlKWZ+876a94J0rxZAEmI3VrmYCuVI0KrWAhEr9H1hO3icgrf76SWh8pXDE2wA5FVWRBTI16ZDrcQumAQ==

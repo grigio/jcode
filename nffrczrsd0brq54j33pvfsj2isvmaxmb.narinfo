@@ -1,0 +1,9 @@
+StorePath: /nix/store/nffrczrsd0brq54j33pvfsj2isvmaxmb-cargo-package-pom-1.1.0
+URL: nar/1rvjxcf7xfyjnhylyw3vw0k59xp72mpwsvb41c9yczwy7mqsb6sh.nar.xz
+Compression: xz
+FileHash: sha256:1rvjxcf7xfyjnhylyw3vw0k59xp72mpwsvb41c9yczwy7mqsb6sh
+FileSize: 159552
+NarHash: sha256:1bxjs0rkpc3np5x4dg1pz51znjgvwlms42654yqs09sm1mis1hr4
+NarSize: 231808
+References: 
+Sig: grigio-jcode:E0tw31jDIBzvLz5h1saGavAl6CxjlNnkvIdgB3bJTvFxnAHLJBfMUNP/saAHMq6xcm02QkFzq6b+MkSJzOg4DQ==

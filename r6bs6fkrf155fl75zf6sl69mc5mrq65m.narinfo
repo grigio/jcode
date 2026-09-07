@@ -1,0 +1,9 @@
+StorePath: /nix/store/r6bs6fkrf155fl75zf6sl69mc5mrq65m-cargo-package-ecdsa-0.16.9
+URL: nar/1c3j3p2p757hnh4zm16ra1xm1g9y3hdh64qi03ncibpglrzrs1v3.nar.xz
+Compression: xz
+FileHash: sha256:1c3j3p2p757hnh4zm16ra1xm1g9y3hdh64qi03ncibpglrzrs1v3
+FileSize: 27148
+NarHash: sha256:0vca00sx0vqn2xziw5vvmjqgg2hq8z96dvpqwyajb55s8x2swhis
+NarSize: 145536
+References: 
+Sig: grigio-jcode:cAMQgXPG0Ij8z6QYF/B8VlLps4dfNYAp+o9knkqh7dQWnT54lT26T/0G9ALFwPjtRbdkh81X2q39MHyCZmnkDg==

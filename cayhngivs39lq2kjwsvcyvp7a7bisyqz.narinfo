@@ -1,0 +1,9 @@
+StorePath: /nix/store/cayhngivs39lq2kjwsvcyvp7a7bisyqz-cargo-package-tikv-jemallocator-0.6.1
+URL: nar/0wc6dlaa8gf8avsxidbinp8slmjmy6gjivwlaqzc6bnis5rjrvxl.nar.xz
+Compression: xz
+FileHash: sha256:0wc6dlaa8gf8avsxidbinp8slmjmy6gjivwlaqzc6bnis5rjrvxl
+FileSize: 12968
+NarHash: sha256:1sj41ac6q2i0v55pl3b1cfz75z601v2npvbxlqzsyzgcdifjvs82
+NarSize: 55552
+References: 
+Sig: grigio-jcode:Qrrp4zvFhXUSL0HkU57oduSmN6yw14HCpROxV0MGeYC3llETQkON7y5+R5ZwweQkKI+oabcDQF/lhyLaPCdMBg==

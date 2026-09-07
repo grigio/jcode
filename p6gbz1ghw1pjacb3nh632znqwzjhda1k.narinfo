@@ -1,0 +1,9 @@
+StorePath: /nix/store/p6gbz1ghw1pjacb3nh632znqwzjhda1k-cargo-package-elliptic-curve-0.13.8
+URL: nar/1c8fxn0csmbgfmq183bd789brjl6pszya6ckl3v9mfsf8mcydxys.nar.xz
+Compression: xz
+FileHash: sha256:1c8fxn0csmbgfmq183bd789brjl6pszya6ckl3v9mfsf8mcydxys
+FileSize: 51036
+NarHash: sha256:1vq8akay3y233375nr2cjhc5czgfslvrgfqc3rrfdrl4gm1qb0v8
+NarSize: 288040
+References: 
+Sig: grigio-jcode:BgREfucvt51mUQeOyzhn9teNkZfQEmMRfehEL0UoMBLH1iAhVgMfxwSggeXbhu0N+jadyjinMBA9Z+atXGLnCw==

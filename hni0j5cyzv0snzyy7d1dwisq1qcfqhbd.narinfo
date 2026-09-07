@@ -1,0 +1,9 @@
+StorePath: /nix/store/hni0j5cyzv0snzyy7d1dwisq1qcfqhbd-cargo-package-yansi-1.0.1
+URL: nar/0v8r79sfds5dwwlcmsw8hacx6zvi82rsdsbkrk38x4r6n62ca1pw.nar.xz
+Compression: xz
+FileHash: sha256:0v8r79sfds5dwwlcmsw8hacx6zvi82rsdsbkrk38x4r6n62ca1pw
+FileSize: 68884
+NarHash: sha256:1bz2c4sw5hv13gvlb2wdllgm2y9krly4w946b7ssvp7ayc2kcmf4
+NarSize: 172128
+References: 
+Sig: grigio-jcode:rZOXPQ/1i3GuNICYvgcqsFXEflXPVFJlY8ZZc/TutM4EXMC72OF58NnNgdTuwTub5whNr3td7/f91cdTUvZaAQ==

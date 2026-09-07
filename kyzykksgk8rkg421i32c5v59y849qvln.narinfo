@@ -1,0 +1,9 @@
+StorePath: /nix/store/kyzykksgk8rkg421i32c5v59y849qvln-cargo-package-num-traits-0.2.19
+URL: nar/0aa10bjvjvqhfv72wpl5kvxbrbkrxhz2qqi6r8494v07j71g846c.nar.xz
+Compression: xz
+FileHash: sha256:0aa10bjvjvqhfv72wpl5kvxbrbkrxhz2qqi6r8494v07j71g846c
+FileSize: 41044
+NarHash: sha256:1l08aaq9qhy02kn6aqb4hwanfsiri0n56icbim9w7079j6dkf7yv
+NarSize: 280440
+References: 
+Sig: grigio-jcode:1Bvdz4kwyw1fpCl9BbH6bJ7NW5+JF6QJJajEAq5oR5f3YEbKsStjVdN7pxjLE6reINaaC04skTwdzg6Q2gLSBA==

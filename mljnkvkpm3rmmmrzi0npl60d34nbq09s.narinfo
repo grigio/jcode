@@ -1,0 +1,9 @@
+StorePath: /nix/store/mljnkvkpm3rmmmrzi0npl60d34nbq09s-cargo-package-lru-slab-0.1.2
+URL: nar/1qj8n5hvhi5b1d1p4f3gmcqyypja5hnalabgdp245jlxrhg88nk6.nar.xz
+Compression: xz
+FileHash: sha256:1qj8n5hvhi5b1d1p4f3gmcqyypja5hnalabgdp245jlxrhg88nk6
+FileSize: 8628
+NarHash: sha256:1jd5qc775a7hrzi2frjh7ksmilb9hyn4wip1969kf2bvxdmy6ibd
+NarSize: 31416
+References: 
+Sig: grigio-jcode:Ln8gfcVhp7lTH5E+E5XiFARLCBC5H0QDbHpZIvflxUsKWdmq4kYE5g6rPVoFnB7COBXqBHmUsGS0ErbilpwxCg==

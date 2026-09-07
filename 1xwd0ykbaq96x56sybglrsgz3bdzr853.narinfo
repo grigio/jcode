@@ -1,0 +1,9 @@
+StorePath: /nix/store/1xwd0ykbaq96x56sybglrsgz3bdzr853-cargo-package-atomic-0.6.1
+URL: nar/0z1psw49bqn3bjhyvb2vpprdfam18bd0l0p7dj220yrkhf7wh31i.nar.xz
+Compression: xz
+FileHash: sha256:0z1psw49bqn3bjhyvb2vpprdfam18bd0l0p7dj220yrkhf7wh31i
+FileSize: 13948
+NarHash: sha256:0dlah39j1wyyna9lg59p5f9s20zhx8xwyir9c3bc4jggn288i1pa
+NarSize: 70104
+References: 
+Sig: grigio-jcode:z4t2bAep17Dk/27H8mWMBCiop4B4aRJwu7t/xOsndHqU6QnaE+KVywaOo46dNT5xhKn6OZC6F+FxpYxT4BlCBA==

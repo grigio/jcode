@@ -1,0 +1,9 @@
+StorePath: /nix/store/01v7s72pxsjq0j7750hpkcvkya49pbvf-cargo-package-azure_identity-1.0.0
+URL: nar/09r3pfpy7qhf4namqiwx5qrl43r1sz798f0wy8wi2w8m8xbkd3v8.nar.xz
+Compression: xz
+FileHash: sha256:09r3pfpy7qhf4namqiwx5qrl43r1sz798f0wy8wi2w8m8xbkd3v8
+FileSize: 54436
+NarHash: sha256:138mcyvv08vgmbq5ywbxp8r4nnhjg4m3j9cxciy4aw4v622pkxxl
+NarSize: 304592
+References: 
+Sig: grigio-jcode:TiAPpJUyH4FvBZSM/8cJb06CNKVca8TDQcLcN7R5CnCZ3DSIq78atbRVJES5ZY2EsfTQ03iyYjM+ObxdLab9Cw==

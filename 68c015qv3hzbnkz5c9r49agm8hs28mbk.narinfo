@@ -1,0 +1,9 @@
+StorePath: /nix/store/68c015qv3hzbnkz5c9r49agm8hs28mbk-cargo-package-async-compression-0.4.41
+URL: nar/15q2a5c0qyiz1fj455rpn2740yirvgrap7bq19bc29xcrj2vvv03.nar.xz
+Compression: xz
+FileHash: sha256:15q2a5c0qyiz1fj455rpn2740yirvgrap7bq19bc29xcrj2vvv03
+FileSize: 75968
+NarHash: sha256:0iqnsr31a7w06imlya12w7ywngghkx4fb1bl7k0lg9fki4nyf1rv
+NarSize: 431856
+References: 
+Sig: grigio-jcode:chBuG0eXxDLErJdmhwPWkmsLMcT+cFz8fAW3ExwF1NPG++ZQqR2MRUzSHPE0Gutr2TPIMTY3tQ95Z53tpYxxCw==

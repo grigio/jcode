@@ -1,0 +1,9 @@
+StorePath: /nix/store/s98yczcqkk5vw2y68v4kqzpp05sck90z-cargo-package-tap-1.0.1
+URL: nar/10k6ah4l1f1lbs51gi8fp68nlmqg9kz5zvlrcssb3f1r1hsdzdav.nar.xz
+Compression: xz
+FileHash: sha256:10k6ah4l1f1lbs51gi8fp68nlmqg9kz5zvlrcssb3f1r1hsdzdav
+FileSize: 10628
+NarHash: sha256:0jzs7zxg4zb3hys6f9nl5f6acnwra0hlfcwsyc1mzc13hh370zcv
+NarSize: 41640
+References: 
+Sig: grigio-jcode:wXEMymTiYxc+cHK9rW/gkfIomtDhSzjaxogfVJdQx8FQ+/221sUAUhzgl9q1WupMJLri4haplqryl+BXuKwNDQ==

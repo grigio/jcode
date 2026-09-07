@@ -1,0 +1,9 @@
+StorePath: /nix/store/iv9knccgg2ifny2x9cvj0qnhzd8d8r64-cargo-package-inout-0.1.4
+URL: nar/0gnqwk2p3n9miv9vqsbsmww6lrpdl5wlisjnbzy13vm2sz2m170c.nar.xz
+Compression: xz
+FileHash: sha256:0gnqwk2p3n9miv9vqsbsmww6lrpdl5wlisjnbzy13vm2sz2m170c
+FileSize: 10512
+NarHash: sha256:0pi96kzgppcfik06qfiiivzkak1g6d7if6yq93bl82srjqkiwnyb
+NarSize: 44864
+References: 
+Sig: grigio-jcode:qCU4RWPk56tifLs26hHdo0KF6Qk6TVGXYUfNv/j6oJGhUN9HsfGGlVCAjnli3zFMN9JSAUa6wnYvCfjpiIaaCA==

@@ -1,0 +1,9 @@
+StorePath: /nix/store/rwlvskq8js1dhp8lkgx6gn9jidzrlsxd-cargo-package-ndarray-0.17.2
+URL: nar/0zcykiwdakz3airsrmw8l5j2vxs384zrhivjiswd4z0kzxrsi7fs.nar.xz
+Compression: xz
+FileHash: sha256:0zcykiwdakz3airsrmw8l5j2vxs384zrhivjiswd4z0kzxrsi7fs
+FileSize: 185628
+NarHash: sha256:0478ysd3a7jf7i25mymp8dzwcm5kvcx43n6qggnb7xkwiah2jjd4
+NarSize: 1125584
+References: 
+Sig: grigio-jcode:JERf15lp64jwpYXJcvu87Zip2RBKTdA3D0l7vQUTZdNoWXkz/QZOfyifT3MVdo0k2DuWeSBUmhNsJQAfsO7tAA==

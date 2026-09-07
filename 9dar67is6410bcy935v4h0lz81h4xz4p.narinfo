@@ -1,0 +1,9 @@
+StorePath: /nix/store/9dar67is6410bcy935v4h0lz81h4xz4p-cargo-package-rayon-1.11.0
+URL: nar/0ds2k7gjmz9zfb10hqn2sxc4m2vbhb8gb1jqi70fghm4kvj4294x.nar.xz
+Compression: xz
+FileHash: sha256:0ds2k7gjmz9zfb10hqn2sxc4m2vbhb8gb1jqi70fghm4kvj4294x
+FileSize: 142772
+NarHash: sha256:0dq1wjw113nqfp8pgh2453cy4jnfvsnal6za8805cnj4wkd8jsp7
+NarSize: 938408
+References: 
+Sig: grigio-jcode:Wy2rz1bK3HxouPAwpeh7Kod+NJ7vIZccgxSj1FU/3ntTC2qwRvBS0yzP1U1UixFI7mdqbiz9phKfTv4LVQiNBA==

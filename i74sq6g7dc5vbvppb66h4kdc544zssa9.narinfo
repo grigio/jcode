@@ -1,0 +1,9 @@
+StorePath: /nix/store/i74sq6g7dc5vbvppb66h4kdc544zssa9-cargo-package-dunce-1.0.5
+URL: nar/1pkclnp3vswsn00g8b488zf93gniljfq9vs6720kqmlqkx3gr69c.nar.xz
+Compression: xz
+FileHash: sha256:1pkclnp3vswsn00g8b488zf93gniljfq9vs6720kqmlqkx3gr69c
+FileSize: 7820
+NarHash: sha256:0iiil29ig2yfqs9g6wcin01xrji6giwfpqky0pyi99fbk60wlh6h
+NarSize: 25408
+References: 
+Sig: grigio-jcode:WFETUFAFq1bQrd3b9h7ulJGutZdBCNx0FqJIOX/RNeTMKF3+KxNGCzMnATE4FwVzGD5pYmY+6wqJl8nZZj6MBw==

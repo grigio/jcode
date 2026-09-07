@@ -1,0 +1,9 @@
+StorePath: /nix/store/0cw131m5xbcdjigagm5knwsiazakd5b8-cargo-package-aws-sdk-bedrock-1.148.0
+URL: nar/1xy7waa5kb3jkfhg7vnkxv7iv0l8dpnqvgkkap45zpc8660qgfq7.nar.xz
+Compression: xz
+FileHash: sha256:1xy7waa5kb3jkfhg7vnkxv7iv0l8dpnqvgkkap45zpc8660qgfq7
+FileSize: 425124
+NarHash: sha256:16g8868sn54c7i1kwhs449mqmis7sswn4r69bc4yyagkmm1r8sp4
+NarSize: 11218576
+References: 
+Sig: grigio-jcode:o8b6RD7iqQh1Q6Bzbnn8173iQbLOcgzf5GkmE/iysKpPHh5GlpEYTpeyeZtUqwHWEqoMmJxh06uimNQd9exYCA==

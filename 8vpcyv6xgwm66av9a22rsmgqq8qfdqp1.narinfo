@@ -1,0 +1,9 @@
+StorePath: /nix/store/8vpcyv6xgwm66av9a22rsmgqq8qfdqp1-cargo-package-clipboard-win-5.4.1
+URL: nar/1qvzyripnvw2gg1pxvcbgkffraijka7m479v8dm02fw05hppfgn8.nar.xz
+Compression: xz
+FileHash: sha256:1qvzyripnvw2gg1pxvcbgkffraijka7m479v8dm02fw05hppfgn8
+FileSize: 18960
+NarHash: sha256:0jim1cdkka17ifyjhxa7w5cmcryc4pvv4pq4x3dl72pncl1zbfgz
+NarSize: 91648
+References: 
+Sig: grigio-jcode:QEORKz/qeG3DptJ84H8OT2jEedA2NaTjdEUJkY+h+HcnhM9iVveJcM4j84u2wwvS5n12Ke9HT5bHlqvYOi89Cg==
