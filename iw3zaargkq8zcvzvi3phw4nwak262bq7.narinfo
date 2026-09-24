@@ -1,0 +1,10 @@
+StorePath: /nix/store/iw3zaargkq8zcvzvi3phw4nwak262bq7-cargo-package-dasp_sample-0.11.0
+URL: nar/1nk54bl89xa6fzkvr1pz811jnh3i6n52xixf9k7qbd1r6n6ljiqs.nar.xz
+Compression: xz
+FileHash: sha256:1nk54bl89xa6fzkvr1pz811jnh3i6n52xixf9k7qbd1r6n6ljiqs
+FileSize: 10364
+NarHash: sha256:0jlbdjwifsggyc55yba8psgfaz85m10jxykfx8hc4adkgdj1q7xg
+NarSize: 66336
+References: 
+Deriver: 37w5xcrw1ym2jp9hlwp27z9qi2mm9x3y-cargo-package-dasp_sample-0.11.0.drv
+Sig: grigio-jcode:Q1w04V8WIi8dswLQ/QTUyGXTU8dbQEHF/dg9l8fZD9dDb3UJf4tlf+5HX/GhNBCG7zOhT/mqbO6zB4dumqTBBw==

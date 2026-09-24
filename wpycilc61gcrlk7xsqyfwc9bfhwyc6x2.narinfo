@@ -1,0 +1,10 @@
+StorePath: /nix/store/wpycilc61gcrlk7xsqyfwc9bfhwyc6x2-cargo-package-cpal-0.15.3
+URL: nar/14dqggc5phr3qlkjwk2jv9qnwrr8fkc53m64b7w1f7nnb8xwjkwf.nar.xz
+Compression: xz
+FileHash: sha256:14dqggc5phr3qlkjwk2jv9qnwrr8fkc53m64b7w1f7nnb8xwjkwf
+FileSize: 79656
+NarHash: sha256:0gmdqs9mhwmjgh4s7yhlnxawc18x7m8lf8n3da1fwl5gi9rn039c
+NarSize: 505672
+References: 
+Deriver: q0krgfa19jlcnp4xd6bgwbvcaffn23jp-cargo-package-cpal-0.15.3.drv
+Sig: grigio-jcode:Hd/3S7wMzlMhAxB8vf19Mugqd2L35nRjxcWvXeMSAyXqWLNh01M5dERoIWYPGq18k8WQIfpeOdT5vAizFjlyDQ==

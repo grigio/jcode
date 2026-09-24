@@ -1,0 +1,10 @@
+StorePath: /nix/store/m9swvqknr2rpdb0hlgmxy3rzswiyy5md-cargo-package-lock_api-0.4.14
+URL: nar/1g9nk76rndjl7yb6njxga0szwblkpgjshryijvjnhnrfzrsz9wpv.nar.xz
+Compression: xz
+FileHash: sha256:1g9nk76rndjl7yb6njxga0szwblkpgjshryijvjnhnrfzrsz9wpv
+FileSize: 21348
+NarHash: sha256:1mxqigzcammwxmhpv3fcgvkq12a65ag3fhclp0yik5njnr8cl51p
+NarSize: 210136
+References: 
+Deriver: 2jwn55h7p429y08bcw76svy34xvjc97q-cargo-package-lock_api-0.4.14.drv
+Sig: grigio-jcode:bz6MkVFB6jFf/26mhlLKkspm7eJMAqYOJxDno5ARHeZh/gixgozIsgGbYqPgxmJFNap0zoiLvBA/ChoBqlYgAw==

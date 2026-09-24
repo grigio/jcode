@@ -1,0 +1,10 @@
+StorePath: /nix/store/1fq5w8f8anpngina27scf1hzsjgriwbb-cargo-package-mach2-0.4.3
+URL: nar/0613s4idw1nf5yrxpa5w29adv4br252jmczb24y42pbbghrn5dyh.nar.xz
+Compression: xz
+FileHash: sha256:0613s4idw1nf5yrxpa5w29adv4br252jmczb24y42pbbghrn5dyh
+FileSize: 19260
+NarHash: sha256:1ph7a8z6rjjsl4hvycdp07p5yhxyid5qh3lia7mkafsllam62853
+NarSize: 111496
+References: 
+Deriver: s1vcwsh13da9lv9g5fmaqklhsq983xg1-cargo-package-mach2-0.4.3.drv
+Sig: grigio-jcode:eV2GzkQPlEa1yUC3XiIpBwptwm/Mk544C+ESKAq6pxOUUfpczTBDm4RvKJmqEeB0twCFUuJkBR+tCtmywyHMAA==

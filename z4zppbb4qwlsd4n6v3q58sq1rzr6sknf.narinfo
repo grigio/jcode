@@ -1,0 +1,10 @@
+StorePath: /nix/store/z4zppbb4qwlsd4n6v3q58sq1rzr6sknf-jcode-0.88.0
+URL: nar/1mqba5pcp25h035k246wx4gqr9qfmiy0k9arq3b2aa3za6j6ivpc.nar.xz
+Compression: xz
+FileHash: sha256:1mqba5pcp25h035k246wx4gqr9qfmiy0k9arq3b2aa3za6j6ivpc
+FileSize: 27723516
+NarHash: sha256:145lws8qrwlj28gyn8a58dyi0ivgryayr9z6xfivgzmyr3b7nc7w
+NarSize: 135958384
+References: 0iv8glcslgfcgn371lbjr5jjw5a6cqir-gcc-15.3.0-lib l8si8gnvvq93yzms1jsgh5aixyf9rl5x-glibc-2.42-67 wn3g9b8f6m2z4ig76lipaijxgkf0pi1m-openssl-3.6.3
+Deriver: 94vbhpglfgx5lphcsi5pr8cpa2mpk05l-jcode-0.88.0.drv
+Sig: grigio-jcode:YJzboAI/R2bvOfRH0a6PGBKatTByU3B/q/meOfk+NRm+gllVMw4fRcL4sMVA7C/si0d3Z9Udj6dwcBRtAA0GCw==

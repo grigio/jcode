@@ -1,0 +1,10 @@
+StorePath: /nix/store/r1gnyvc4w48xh3lgmzdmdqj0kdkkixnd-cargo-package-proc-macro-crate-3.5.0
+URL: nar/1cxazbbjjcm5jigd1kqsi58xdpfcbxc246gwxmr6fymci0hrbmp8.nar.xz
+Compression: xz
+FileHash: sha256:1cxazbbjjcm5jigd1kqsi58xdpfcbxc246gwxmr6fymci0hrbmp8
+FileSize: 11800
+NarHash: sha256:0dlgqnh5x04c00j92qvvly4q8i96q7brcddrz01hdf3ymh1xkp5n
+NarSize: 45392
+References: 
+Deriver: bhjarg1ckvar79s24p5yd28k1f6630df-cargo-package-proc-macro-crate-3.5.0.drv
+Sig: grigio-jcode:00rJ8KielCU7utbi9Vr+R8u1BUQ0djapfB3NvE7vUm5DNVqcosYFm8u8Cj9rEhP+fSWtL2wQOR9njx4zMxyPBw==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/4ygj5hlj4f4ial8cjrfjssi5jpw8yk3i-cargo-package-ndk-sys-0.5.0+25.2.9519653
+URL: nar/1dagbr817mq4icidqk3nbh84yjhngmr2salqnb40gwkw297k0r4h.nar.xz
+Compression: xz
+FileHash: sha256:1dagbr817mq4icidqk3nbh84yjhngmr2salqnb40gwkw297k0r4h
+FileSize: 76928
+NarHash: sha256:06n75zgjlzmzmncakhz17l3j8rbcjyr1kdy29gnzc23alfq6289c
+NarSize: 3255536
+References: 
+Deriver: kr2h7kvw5imahd1k34q2pykx6fpvhwzv-cargo-package-ndk-sys-0.5.0+25.2.9519653.drv
+Sig: grigio-jcode:RY5NcxVu1JvXEU5q8GuwjUiWF4Ava5gTIqxdLlnXCFD9C0C2nEn7tcrwwJ0RvpA0VkCqYryjg2y1ds/UgJLrDg==

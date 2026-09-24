@@ -1,0 +1,10 @@
+StorePath: /nix/store/gys0rnajs3iyjwzpx7cm16mgxavaawrn-cargo-package-terminal-trx-0.2.6
+URL: nar/095dp57z0s6w7p777mxba61r49qml1m8jz2yyig1xy0ad02vrwkd.nar.xz
+Compression: xz
+FileHash: sha256:095dp57z0s6w7p777mxba61r49qml1m8jz2yyig1xy0ad02vrwkd
+FileSize: 15080
+NarHash: sha256:0v1kcp19gyp3nxshsq81mq7mbwc9ij9vd1fs0k12abmrfdnbyxfq
+NarSize: 61176
+References: 
+Deriver: q3fbkayp45dxsgil0456pzc2kzpr7ipg-cargo-package-terminal-trx-0.2.6.drv
+Sig: grigio-jcode:PChv1/tCU1iUJ5uCDYqCUNMLj8bawK6TxFEDQldsyZ4DwgruplR9CHtUoyg60IwItGgMQ0FaATL4f+OSrnOHAw==
