@@ -1,0 +1,10 @@
+StorePath: /nix/store/phw7cgzkdvvs2p1y76pvlikdwaxbka3r-cargo-package-imagesize-0.14.0
+URL: nar/15j7k6wxw98hyhzc6fxrldnwi7892vfnlpsrpqbg995kih64xkg6.nar.xz
+Compression: xz
+FileHash: sha256:15j7k6wxw98hyhzc6fxrldnwi7892vfnlpsrpqbg995kih64xkg6
+FileSize: 19852
+NarHash: sha256:0hr1d424k5rbbnwghpkh8arkxcal49mhqzivp1kg0x1h6gh418jk
+NarSize: 91592
+References: 
+Deriver: n7vi14yw0j8xjc6afy9y5y8v69s6lh0l-cargo-package-imagesize-0.14.0.drv
+Sig: grigio-jcode:QA82pcFSnO/IWkAgULnpag1r1uusYfMAztTyr/N7dsf2J65yyCL9qmKRUOgoPFAUdz6qFBXJbobs161VtDWTBQ==

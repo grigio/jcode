@@ -1,0 +1,10 @@
+StorePath: /nix/store/51kis78xnm8g9fh5ffxm0p7lr509cfsw-cargo-package-alsa-0.9.1
+URL: nar/1s3zfw1652jc8wsi2l3yc2fgf56j7303nw39651r9pka25fz1ckl.nar.xz
+Compression: xz
+FileHash: sha256:1s3zfw1652jc8wsi2l3yc2fgf56j7303nw39651r9pka25fz1ckl
+FileSize: 60708
+NarHash: sha256:0k9mgfjm790hgyx7jad87ah7nkgyp36rzaj916kajc1v7g2fanbk
+NarSize: 447768
+References: 
+Deriver: q4dzx0n83kls7if5rpm7qjk520sj83nb-cargo-package-alsa-0.9.1.drv
+Sig: grigio-jcode:7c/Z55poespE+YyjOyWkyi3xz4EDbfpC4lnOU/FeLqpG4teS7IDvVuqe4maM5pVSZnW4RnO4YSg6yE4VL7viBg==

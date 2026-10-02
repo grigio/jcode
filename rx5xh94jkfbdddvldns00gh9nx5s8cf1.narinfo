@@ -1,0 +1,10 @@
+StorePath: /nix/store/rx5xh94jkfbdddvldns00gh9nx5s8cf1-jcode-deps-0.90.0
+URL: https://github.com/grigio/jcode/releases/download/nix-v0.90.0/0wybjkqdvq89hb1y50dbxvz3cw2as9ahlxs7x6kms78kb05jnrpn.nar.xz
+Compression: xz
+FileHash: sha256:0wybjkqdvq89hb1y50dbxvz3cw2as9ahlxs7x6kms78kb05jnrpn
+FileSize: 400203808
+NarHash: sha256:19yyp077rz948yp99invp6ddd40vc9wfx1hiyn0z5q5ra12wass6
+NarSize: 408942928
+References: 0iv8glcslgfcgn371lbjr5jjw5a6cqir-gcc-15.3.0-lib ag892642165hsa1y8bj54xj3af5nyrn1-rust-default-1.97.1 gzanp080y3pqbj7rffqc210wq117bmpf-dummyBuild.rs l8si8gnvvq93yzms1jsgh5aixyf9rl5x-glibc-2.42-67 p8fgrz2jqrhqpifz4sfdc7hchci71pd7-vendor-cargo-deps rx5xh94jkfbdddvldns00gh9nx5s8cf1-jcode-deps-0.90.0 vp8fzim6dmncnkcy8hzhkfczvvdnliaw-cargo-package-serde_json-1.0.149 yw07mrgxzfb1nxmknpmd6g7v304sapv3-cargo-package-webpki-roots-1.0.6
+Deriver: s69zbga8rxyh89m87c95n8irq187gf58-jcode-deps-0.90.0.drv
+Sig: grigio-jcode:1Ru1ed91yJdVFaXoll2f0yATxZ5EzQioOX6OLk6WBa0dLN37lK0v8xM59SdvxevA9Lx7WwB0Ju0t3Qn135ttDg==

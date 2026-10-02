@@ -1,0 +1,10 @@
+StorePath: /nix/store/xxy9rij2m2ika3wlqcvza75diqcba6dv-cargo-package-mime_guess-2.0.5
+URL: nar/0wbsjmavd1cfb539nc9fi79yxrgdpn0x0d9h2cmvdmdqnhc1fsax.nar.xz
+Compression: xz
+FileHash: sha256:0wbsjmavd1cfb539nc9fi79yxrgdpn0x0d9h2cmvdmdqnhc1fsax
+FileSize: 24024
+NarHash: sha256:1brm3wwnbvz130ly4z9ps2ma5yi9xd1i7ifam1r6ds259aayg3c7
+NarSize: 119336
+References: 
+Deriver: ikcy3gbj3ny21pjy9w4khpb60bjw70lp-cargo-package-mime_guess-2.0.5.drv
+Sig: grigio-jcode:QGgPTJNBh8t7A8KohdFvpupPQL3dQvflDz9U7B+/X18GbW4YLmjJVFhmwtVxmho5DDMt75xYUkxk7u+8jEJGAA==

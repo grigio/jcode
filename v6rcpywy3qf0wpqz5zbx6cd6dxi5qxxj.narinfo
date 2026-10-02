@@ -1,0 +1,10 @@
+StorePath: /nix/store/v6rcpywy3qf0wpqz5zbx6cd6dxi5qxxj-cargo-package-cesu8-1.1.0
+URL: nar/0x4vkbnpw3fnhm1hjh96q908d95g46pfgm14z3fqyblssplmzif9.nar.xz
+Compression: xz
+FileHash: sha256:0x4vkbnpw3fnhm1hjh96q908d95g46pfgm14z3fqyblssplmzif9
+FileSize: 9864
+NarHash: sha256:1r15lfr6rjbnavm3hpxrb588xpvw806ska0clkm34xbvp8h5m85g
+NarSize: 40112
+References: 
+Deriver: hx652syb82y50d8n4ipiy9xvk4iqr4jw-cargo-package-cesu8-1.1.0.drv
+Sig: grigio-jcode:HkI717Fgeg9EdBapc+QGMSrUB9U7oYi0PqyR7CJMZWA8e646UnmyoGvOYA1nAk6epAUBfsarV+Wu4H6p7fYrBA==

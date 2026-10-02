@@ -1,0 +1,10 @@
+StorePath: /nix/store/0z269yilcx3f7lxaxv8s9srx6wx6ham9-cargo-package-oboe-0.6.1
+URL: nar/09ifcl5zq3w263yy1mxyci706yjhwkr3rkd43xmrddaxcccq9w25.nar.xz
+Compression: xz
+FileHash: sha256:09ifcl5zq3w263yy1mxyci706yjhwkr3rkd43xmrddaxcccq9w25
+FileSize: 22184
+NarHash: sha256:15hpw6529w65ki3w5p2yypv6k4hq5gfvbi1nwlbp90xcz7fs8bmi
+NarSize: 114904
+References: 
+Deriver: 79arfxfpz4qn2z9yzspvlc3qnrnsa109-cargo-package-oboe-0.6.1.drv
+Sig: grigio-jcode:FYH7qI3th1X/yXUV6uxoec1Jz5xLDsRsCwBA/7JLZmPmsAPutOJxeLcSI6IlJm7wpgnzqaU8UxqY663J0lOPBQ==

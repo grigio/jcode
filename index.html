@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>jcode · Nix/NixOS</title>
+  <style>
+    body { font-family: system-ui, -apple-system, sans-serif; max-width: 46rem; margin: 3rem auto; padding: 0 1.2rem; line-height: 1.6; color: #1a1a1a; }
+    h1 { margin-bottom: .2rem; }
+    h2 { margin-top: 2rem; }
+    pre { background: #f6f8fa; border: 1px solid #e1e4e8; padding: .8rem 1rem; border-radius: 6px; overflow-x: auto; }
+    code { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: .92em; }
+    .note { color: #57606a; font-size: .9rem; }
+    a { color: #0969da; }
+  </style>
+</head>
+<body>
+  <h1>jcode</h1>
+  <p>Nix/NixOS builds of the <a href="https://github.com/grigio/jcode">jcode</a> coding agent.</p>
+
+  <h2>Install (flake)</h2>
+  <pre><code># Run once without installing
+nix run github:grigio/jcode
+
+# Install into your profile
+nix profile install github:grigio/jcode</code></pre>
+  <p>Full step-by-step guide (cache setup, NixOS, upgrades, self-update gotcha):
+  <a href="https://github.com/grigio/jcode/blob/master/docs/install-nix.md">docs/install-nix.md</a>.</p>
+
+  <h2>NixOS</h2>
+  <p>Add the flake as an input and put
+  <code>inputs.jcode.packages.${pkgs.system}.default</code> in
+  <code>environment.systemPackages</code>.</p>
+
+  <h2>Binary cache</h2>
+  <p>This site serves the signed Nix binary cache for the flake. The flake pins
+  the latest upstream release tag and the release CI re-fills this cache after
+  every build, so <code>nix profile install github:grigio/jcode</code> downloads
+  instead of compiling. The cache includes the crane dependency layer
+  (<code>jcode-deps</code>), so nothing is compiled from source. Configure it
+  once:</p>
+  <pre><code>mkdir -p ~/.config/nix
+cat &gt;&gt; ~/.config/nix/nix.conf &lt;&lt;'EOF'
+extra-substituters = https://grigio.github.io/jcode
+extra-trusted-public-keys = grigio-jcode:WdqguwKdwOilH+ITvLO98qZy9x5HQ8Cl0xltHtSsUvQ=
+EOF</code></pre>
+  <p class="note">On NixOS, use the equivalent <code>nix.settings.substituters</code> and
+  <code>nix.settings.trusted-public-keys</code>.</p>
+</body>
+</html>

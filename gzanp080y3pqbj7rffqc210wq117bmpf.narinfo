@@ -1,0 +1,10 @@
+StorePath: /nix/store/gzanp080y3pqbj7rffqc210wq117bmpf-dummyBuild.rs
+URL: nar/10lrzyfrnxa4hvl49g9wwsl5kxc2c713ghk0fcyriwqnyxwc3fp7.nar.xz
+Compression: xz
+FileHash: sha256:10lrzyfrnxa4hvl49g9wwsl5kxc2c713ghk0fcyriwqnyxwc3fp7
+FileSize: 360
+NarHash: sha256:0jnijc08yi4j43npmayby9ridcq79n83lzklpwqybl5nqfrx7bnv
+NarSize: 640
+References: 
+Deriver: glj5mdnza6zkmbghxwsnj9wax1paskwi-dummyBuild.rs.drv
+Sig: grigio-jcode:xHa5JW5q1S3r/WNL97t+UKF6PSl4BQOM5rw8E5XWqfqaQP4zcqnd3ZOK/SWz9A4VwmqWqRwlcmYsbN1S3OErBQ==

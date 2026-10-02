@@ -1,0 +1,10 @@
+StorePath: /nix/store/00fg3z3rbznhzx39rqvkmk8h49h0hwc4-linkLockedDeps
+URL: nar/1c876bw9157fj70ykjav3s6aq43s7wfg60w2w0jwy998p9aymfr5.nar.xz
+Compression: xz
+FileHash: sha256:1c876bw9157fj70ykjav3s6aq43s7wfg60w2w0jwy998p9aymfr5
+FileSize: 288
+NarHash: sha256:1fv09r18qm60faf36id74vql85fpz34zhb7q0idvjqq7i8hmsqjb
+NarSize: 440
+References: bixc75dr2nkwd0vb7kc3289h500sax2z-cargo-git-https-github.com-1jehuang-agentgrep.git-525fc54117962f5f75f93cbffb53b8becf7b3add
+Deriver: skg7j5v6z3hrbxabiadfawn25ifsqlx0-linkLockedDeps.drv
+Sig: grigio-jcode:A3bU5B8NaU0uyPWFluIvXS4CaGHM/SXCrm+/YreXUPQHEWS2PTZ4E0d+nbqKG4TtyCAnm5z95jjVpNnJGHXYBg==
