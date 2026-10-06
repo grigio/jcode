@@ -36,16 +36,16 @@
     "jcode-src": {
       "flake": false,
       "locked": {
-        "lastModified": 1791162035,
-        "narHash": "sha256-ECuw+1TAAwquYAMM78SQmcldUroR5sW2pNfDVEQIOYg=",
+        "lastModified": 1791258738,
+        "narHash": "sha256-YpVVd8Qy2XEgts3+Drv+VLrKyVu/RCSoAzaLtpfSmlE=",
         "owner": "1jehuang",
         "repo": "jcode",
-        "rev": "b0e48d8aa326bd32eda87461ef0796dbf28859f8",
+        "rev": "439a243bb49a78456923f4abd412ddd8d815bac1",
         "type": "github"
       },
       "original": {
         "owner": "1jehuang",
-        "ref": "v0.90.1",
+        "ref": "v0.91.0",
         "repo": "jcode",
         "type": "github"
       }
