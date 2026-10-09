@@ -1,0 +1,10 @@
+StorePath: /nix/store/gwrdi2k5caspjcqjblm90rb10mylwda4-cargo-package-coreaudio-rs-0.11.3
+URL: nar/1vrl1jm5f3yymmg66ni2czj4la17wiia4l1cxpk1y81zv2paladg.nar.xz
+Compression: xz
+FileHash: sha256:1vrl1jm5f3yymmg66ni2czj4la17wiia4l1cxpk1y81zv2paladg
+FileSize: 37076
+NarHash: sha256:15rzilj5psbg3q26mkisibzmjcm7ylsbwhm6r044g1srwc7s8dxv
+NarSize: 196464
+References: 
+Deriver: p6cgk4a8cb6lfcfp6057ys7p2y5whgc5-cargo-package-coreaudio-rs-0.11.3.drv
+Sig: grigio-jcode:fPCz9KGk3b74BdPzIk2xK32+R9PGsgHnvMxAN7SvyMxp3mlz6aF/pELS27Iyr8kn2yi3OAjKioiodKhexog7DA==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/7hmzq2l48ggiyphq2c83vqlkmzxbkmsi-cargo-package-relative-path-2.0.1
+URL: nar/086dd5lpfvr2m594c7nhk3894wpxmy36isns2i6qbljnidmi1i18.nar.xz
+Compression: xz
+FileHash: sha256:086dd5lpfvr2m594c7nhk3894wpxmy36isns2i6qbljnidmi1i18
+FileSize: 25240
+NarHash: sha256:07sfmnjmvq3x97xrbvh52335k6cknwhm4pcyxc664k4rcgb79m4n
+NarSize: 138888
+References: 
+Deriver: 7lyf3wx58388yi6f835qfd4pxxmf5hc8-cargo-package-relative-path-2.0.1.drv
+Sig: grigio-jcode:7NujBHCWIU44J0VbsDTk4TIVA3RY+4KfEAPbqk43eHdIA2e+nPhFU8aUwBsA/hZD5cDTWZrIniNBZB1XViwTAg==

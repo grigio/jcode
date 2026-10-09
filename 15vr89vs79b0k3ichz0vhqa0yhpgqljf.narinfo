@@ -1,0 +1,10 @@
+StorePath: /nix/store/15vr89vs79b0k3ichz0vhqa0yhpgqljf-cargo-package-aws-sdk-signin-1.16.0
+URL: nar/14i4f5iwkjjkkphiy07f4v6anhjnzfll0bai81jwljsjbimiq93a.nar.xz
+Compression: xz
+FileHash: sha256:14i4f5iwkjjkkphiy07f4v6anhjnzfll0bai81jwljsjbimiq93a
+FileSize: 88964
+NarHash: sha256:1m3090803k42yqgpin11wz7rk1azpgya4da7f1blpyp4nkidw6zq
+NarSize: 1150968
+References: 
+Deriver: vwz0kcf06msq6hhjr4gghvzb6h0d6f7z-cargo-package-aws-sdk-signin-1.16.0.drv
+Sig: grigio-jcode:RXn7qyl2VZIZeovEHVsocrCk9hXguwd2zZJpVf0/DjSUN1lxb6gwu+EHPPywtKvoLinIjQf6k8VbzmrTgK3oAQ==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/i1p4nfzd0kid3p50hpmzihrkc639n0m2-cargo-package-aws-lc-sys-0.45.0
+URL: nar/0wg8rzk9cz4vwwpmkr7axbkjm5kpqq3y36sbl9wf5izsy0w24wzv.nar.xz
+Compression: xz
+FileHash: sha256:0wg8rzk9cz4vwwpmkr7axbkjm5kpqq3y36sbl9wf5izsy0w24wzv
+FileSize: 4491208
+NarHash: sha256:1sgwginrdr1rcpq3qz8vjl3f5xd7pbkmv83jz09v6vvrjmgj8psd
+NarSize: 67477352
+References: 
+Deriver: 0dj02wysykyz9v0xmqxj3wirsm69p4jk-cargo-package-aws-lc-sys-0.45.0.drv
+Sig: grigio-jcode:Qm80CM86VBjScsVF35eT5GfqvsUXUmmu/KECNuEUeM0Hd/rXy+Kvtwe8gHs9AUcpf4iHP5P+HvX1i48AThhdBQ==

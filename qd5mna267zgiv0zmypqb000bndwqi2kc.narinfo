@@ -1,0 +1,10 @@
+StorePath: /nix/store/qd5mna267zgiv0zmypqb000bndwqi2kc-cargo-package-libloading-0.8.9
+URL: nar/0i333gkzlm3yk7zn7bfpq4g1rn5wfrv4dkkh561nbmxasd80v3zi.nar.xz
+Compression: xz
+FileHash: sha256:0i333gkzlm3yk7zn7bfpq4g1rn5wfrv4dkkh561nbmxasd80v3zi
+FileSize: 26688
+NarHash: sha256:1sj80121d76zgdxfq80dnhlhzr1fqna6akk2q6dahcpv1rhcimgv
+NarSize: 130312
+References: 
+Deriver: pqfcwzjsqwcz9gbdh5a6lpmdg6s42pf9-cargo-package-libloading-0.8.9.drv
+Sig: grigio-jcode:4Qh/KcaQjKtzDTtMHELtx85P99utMBEuaPmCX7RafJwQ2ix4Xg+EvEWZ7NJR7iub5X96051n6cX8j6a/FyK/CA==

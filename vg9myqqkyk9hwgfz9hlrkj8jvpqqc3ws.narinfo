@@ -1,0 +1,10 @@
+StorePath: /nix/store/vg9myqqkyk9hwgfz9hlrkj8jvpqqc3ws-cargo-package-windows-result-0.1.2
+URL: nar/06pvzj286jdkr6v0565arjvbb7l84iby6wa22j5arbdvfgcp4c6h.nar.xz
+Compression: xz
+FileHash: sha256:06pvzj286jdkr6v0565arjvbb7l84iby6wa22j5arbdvfgcp4c6h
+FileSize: 9952
+NarHash: sha256:1032zglf1bz2i0i74qnm94ka84vi2pxd9n3469higfg7fcs1n868
+NarSize: 35936
+References: 
+Deriver: ggyvlx9d1s42a2gmg3qr7f6p3qy8nnpl-cargo-package-windows-result-0.1.2.drv
+Sig: grigio-jcode:l+Yw/xcW+iGv1lpIIBkVr73/QA9N2yWDTMon5dD3B7m236JaY7o+rKHPBKFDnBErdGargpYhmWBeAHPU3d9NDw==

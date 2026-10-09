@@ -1,0 +1,10 @@
+StorePath: /nix/store/f136hj6w3ahrjy13ihajvaih1h3pkks4-cargo-package-rquickjs-sys-0.14.0
+URL: nar/1zji52895daajsxhrd0nkshshkygcb2q39p50anikcivff1kfqmw.nar.xz
+Compression: xz
+FileHash: sha256:1zji52895daajsxhrd0nkshshkygcb2q39p50anikcivff1kfqmw
+FileSize: 1459896
+NarHash: sha256:11qn4az723cn17mim1fvlxhyszalbh58h28wpawyglhms46b66rn
+NarSize: 9146592
+References: 
+Deriver: sjag8izsm9i9y64fd4xhmnrzmvvh7knv-cargo-package-rquickjs-sys-0.14.0.drv
+Sig: grigio-jcode:7zxU9iNK/UoVgivTpkKBrTQ3Mv3x3MGYNwtC77D7q77OBc9KNnPsQsjAOR1qzJ6vwloFR/VYz4x96idmU/okAA==

@@ -1,0 +1,10 @@
+StorePath: /nix/store/j06j445f32wlpd78wqbnbqhc5qg7ra64-linkLockedDeps
+URL: nar/0w49g3dmg7j42f27hj3xkya7igi3ypyxdlljyd8ialk9i1xs2jx2.nar.xz
+Compression: xz
+FileHash: sha256:0w49g3dmg7j42f27hj3xkya7igi3ypyxdlljyd8ialk9i1xs2jx2
+FileSize: 296
+NarHash: sha256:0lvdcj11a2qm85mkqb0rs10zsbds0fmh0rxsvgh9ilyj1wjp0fcz
+NarSize: 480
+References: qadwyxrajzka7g3p2s9rdzcpxrvkxfhl-cargo-git-https-github.com-1jehuang-mermaid-rs-renderer.git-2f993bd79a55235eb59a34d807852276ba25bea7
+Deriver: xnv9yd0872fdj1l7yxpv2b1n4mzakl6j-linkLockedDeps.drv
+Sig: grigio-jcode:XrbBtu8+AqOG55yUqiiIO/ESrui5/AJJDD5HbHmcNCIjSOmd45apn2N23KPqoqlYSON2J+aM5nMJ5tKp1IHKDQ==
